@@ -1,5 +1,1233 @@
 [
   {
+    "id": "aiguille-de-sugiton-arete-du-vallon",
+    "nom": "Aiguille de Sugiton – Arête du Vallon",
+    "sous_titre": "Arête aérienne de 4 longueurs sur broches scellées, au-dessus de la calanque de Sugiton – depuis Luminy ou le port de Morgiou",
+    "massif": "Calanques",
+    "secteur": "Sugiton – Aiguille de Sugiton",
+    "coordonnees": {
+      "lat": 43.21128,
+      "lon": 5.45302,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Calanques - Sugiton - Aiguille de Sugiton : Arête du Vallon",
+        "url": "https://www.camptocamp.org/routes/193880"
+      }
+    ],
+    "objectif": "Gravir l'arête très saillante de l'Aiguille de Sugiton jusqu'au sommet N, puis traverser l'arête esthétique et aérienne jusqu'au sommet S, et redescendre en rappel.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "",
+    "engagement": "I · équipement P1 · exposition E1",
+    "hauteur": "env. 120 m (dénivelé des difficultés)",
+    "nb_longueurs": "4",
+    "orientation": "N",
+    "duree": "1 jour",
+    "ambiance": "Calcaire, arête très saillante et aérienne. Rééquipée en janvier 2014 : les spits rouillés ont été retirés et remplacés par des broches scellées ; quelques pitons scellés. Rappels propres avec chaîne et anneau.",
+    "statut": "bientot",
+    "projet": null,
+    "approche": "Env. 40 min. Du parking de Luminy, rejoindre vers le S le col de Sugiton puis descendre en direction de la calanque de Sugiton (repérer l'arête et le départ de la voie depuis la route). Deux solutions (C2C) : prendre la combe juste avant les rambardes en béton de la descente, qui rejoint directement le pied de l'arête (accès signalé barré dans des retours récents, voir RETEX) ; ou descendre jusqu'à la plage et partir à droite vers la calanque de Morgiou : juste avant l'échelle métallique, prendre une trace à droite qui remonte le vallon. Depuis le port de Morgiou : GR jusqu'à la calanque de Sugiton, après l'échelle métallique remonter le vallon sur la gauche (option plus rapide pour le retour, 15 min, mais inadaptée en cas de fermeture de la route de Morgiou). L'arête est très saillante, avec une bonne terrasse au pied ; les premières broches scellées sont visibles de l'attaque.",
+    "descente": "Du sommet S, poursuivre vers le S jusqu'au rappel équipé (environ 80 m) : on croise un premier relais de deux broches sur un bloc, puis 25 m plus loin un relais sur une petite terrasse en léger contrebas de l'arête, côté E (deux spits avec maillons). Le rappel fait 50 m ; on rejoint en tirant à droite le sentier qui ramène à l'échelle métallique. Autre option : au sommet de la voie, descendre en un rappel de 47 m en face W (3 broches + 1 chaîne). Descriptions jugées peu claires par plusieurs retours (voir RETEX).",
+    "materiel": "Prévoir de quoi relier les relais. Voie équipée de broches scellées.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Départ juste au pied de l'arête (repérer les points). Franchir un premier ressaut assez raide, éviter un petit gendarme par la droite. Relais au collet juste derrière, deux spits et un maillon."
+          },
+          {
+            "n": "L2",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Démarrer à droite du fil, puis à un tout petit gendarme passer côté gauche. Relais intermédiaire facultatif (sinon attention au tirage). Relais au pied du ressaut terminal, dans une sorte de conque un peu abritée du vent : deux spits non rouillés l'un au-dessus de l'autre."
+          },
+          {
+            "n": "L3",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Reprendre à droite le fil, aérien jusqu'au sommet N. Relais intermédiaire facultatif. Nombreux relais équipés de voies récentes au sommet."
+          },
+          {
+            "n": "L4",
+            "cotation": "2",
+            "longueur": null,
+            "cheminement": "Traverser sur le fil de l'arête esthétique et aérienne (équipée) jusqu'au sommet S."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Pour le rappel de 47 m en face W depuis le sommet de la voie : ne pas descendre sur la grosse vire en dessous, mais bien viser la face W."
+    ],
+    "retex": [
+      "Accès par la combe : un retour signale que la combe avant la rambarde en béton est barrée de poteaux et fils métalliques (sortie du 07/05/2026) ; un autre que l'accès « par le haut » est désormais interdit (barrières du Parc) et que l'accès par le bas se fait par un chemin dans le vallon à droite, bien avant l'échelle de Sugiton (sortie du 02/06/2026). En novembre 2025, une cordée était encore passée par la combe, « un peu casse-gueule mais faisable » (sortie du 13/11/2025).",
+      "Approche par la plage : sentier « pas évident à trouver », une cordée a pris celui en face de l'accès à la plage, en passant par les toilettes (sortie du 03/05/2026) ; une autre l'a trouvé facilement (sortie du 07/05/2026).",
+      "Équipement : un retour signale qu'il manque un point dans la traversée de L1 (un friend passe bien) (sortie du 02/06/2026). Avis partagés : points « très espacés », friends ajoutés surtout dans L1 (sortie du 11/11/2025) ; « un peu trop espacés pour des novices » (sortie du 06/10/2025) ; « très bien protégée, pas sorti les friends » (sortie du 03/05/2026).",
+      "Cotations : jugées gentilles ou sous-cotées ; être à l'aise dans le 5a (voire 5a/b) est conseillé par deux retours (sorties des 11/11/2025 et 02/06/2026) ; L1 ressentie 4c+ (sortie du 10/05/2025) ou « un poil dure » (sortie du 31/10/2025).",
+      "Rocher : certaines prises inspirent peu confiance (sortie du 07/05/2026). Patine : « un peu patiné » en L2 et L3 (sortie du 13/11/2025), « plus patiné que dans mes souvenirs » (sortie du 06/10/2025) ; d'autres la trouvent pas ou peu polie (sorties des 03/05/2026 et 31/10/2025).",
+      "Descente : plusieurs retours jugent la descente décrite sur C2C peu claire, voire « fausse donc dangereuse » (sorties des 02/06/2026, 03/05/2026 et 10/05/2025). Solution rapportée : depuis le dernier relais de la voie (chaîne et anneau), un rappel de 35 m, décrit côté SW par un retour (sortie du 03/05/2026) et côté E par d'autres, relais « caché » 2 m en contrebas de la crête finale (sorties des 31/10/2025 et 29/05/2026, ce dernier ajoutant une marche jusqu'à la brèche puis un rappel de 10 m pour revenir dans le vallon). Une cordée a fait le rappel conforme au topo C2C, côté N (sortie du 13/02/2026) ; une autre, faute de trouver le relais chaîné côté E, est descendue en 2 rappels côté W (sortie du 10/05/2025).",
+      "Corde : avec une corde de 50 m, le relais intermédiaire de L2 a été nécessaire (sortie du 31/10/2025) ; une cordée a fait la voie en 3 longueurs avec une L2 d'environ 55 m (sortie du 13/02/2026).",
+      "Soleil : malgré l'orientation N, l'arête prend le soleil dès 7 h 50 fin mai (sortie du 29/05/2026).",
+      "Affluence : classique très fréquentée, ça a « bien bouchonné » (sortie du 31/10/2025) ; un retour conseille d'arriver tôt (7 h à Luminy) pour éviter la foule (sortie du 10/05/2025)."
+    ],
+    "horaires": "Approche : 40 min depuis Luminy (C2C) ; 50 min depuis le port de Morgiou (sortie du 13/02/2026) ; retour par Morgiou 15 min (C2C). Selon les retours : 2 h dans la voie (sortie du 02/06/2026) ; 2 h 40 ascension + rappel (sortie du 13/02/2026) ; 1 h à deux (sortie du 13/11/2025) ; 13 h – 16 h voie + rappel avec bouchons (sortie du 31/10/2025) ; 10 h 30 – 17 h voiture à voiture, pique-nique et baignade compris (sortie du 11/11/2025).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/aiguille-de-sugiton-arete-du-vallon-topo.jpg",
+        "legende": "Tracé de l'Arête du Vallon (face N de l'Aiguille de Sugiton), publié sur Camptocamp (photo regis duvernay, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 193880 (Calanques - Sugiton - Aiguille de Sugiton : Arête du Vallon), consulté le 15/10/2026",
+      "Sorties Camptocamp 1912213 (02/06/2026), 1910359 (29/05/2026), 1903693 (07/05/2026), 1904848 (06/05/2026), 1903162 (05/05/2026), 1902619 (03/05/2026), 1872666 (13/02/2026), 1835781 (13/11/2025), 1835333 (11/11/2025), 1833921 (08/11/2025), 1834498 (31/10/2025), 1832505 (31/10/2025), 1824089 (06/10/2025), 1833010 (23/09/2025), 1767856 (10/05/2025), consultées le 15/10/2026",
+      "Image Camptocamp 214494 par regis duvernay (CC-BY-SA)",
+      "Topos associés sur C2C : « Escalades dans les Calanques - Sugiton, Saint-Cyr », « Des rochers et des hommes », « Les Calanques », « 100 plus belles grandes voies de Provence »",
+      "Historique (C2C) : ouverture en 1926 par Charles Choberg et Henri Imoucha ; rééquipement en broches scellées en janvier 2014",
+      "Topo Vertical Pirate (lien noté par le propriétaire) : https://verticalpirate-escalade.com/topos-escalade/france/calanques/suggiton/aiguille-de-sugiton-arete-du-vallon/"
+    ],
+    "envie": 3
+  },
+  {
+    "id": "sainte-victoire-arete-des-trois-pointes",
+    "nom": "Sainte-Victoire, Subéroque – Arête des Trois Pointes",
+    "sous_titre": "Arête de 6 longueurs (4c, un pas de 5a évitable) à droite du couloir de Subéroque – depuis le parking du Collet de Saint-Pierre",
+    "massif": "Provence",
+    "secteur": "Sainte-Victoire – Subéroque",
+    "coordonnees": {
+      "lat": 43.52984,
+      "lon": 5.60933,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Arête des Trois Pointes",
+        "url": "https://www.camptocamp.org/routes/56173"
+      }
+    ],
+    "objectif": "Arête très sympa sous le col du couloir de Subéroque, bon entraînement pour des voies en montagne : 6 longueurs jusqu'à la fin des difficultés, puis pentes beaucoup plus douces. Échappatoires possibles presque partout vers le couloir de Subéroque.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4c (C2C) ; la dernière longueur comporte un pas noté 5a, évitable à droite en 4b",
+    "cotation_obligatoire": "4c",
+    "engagement": "II · équipement P2+ · exposition E2",
+    "hauteur": "env. 170 m (dénivelé des difficultés) ; dénivelé d'approche 300 m ; de 500 à 1000 m d'altitude",
+    "nb_longueurs": "6",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Calcaire, rocher très correct sauf L1. Orienté S : il peut faire très chaud à cette altitude.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Se garer au parking du Collet Saint-Pierre (5-6 places maximum). Suivre la piste qui part direction NE ; à la première bifurcation, prendre plein N la piste de gauche. Après un grand virage à gauche, elle s'élève vers l'W sur un petit épaulement et vire plein N sur un plat (cote 590 m). Deux options : 1) version rando : prendre le bon sentier à droite (cairn) plein E, qui revient par une grande boucle vers l'W et coupe le sentier marron (qui descend du refuge Baudino) au niveau d'un lacet ; prendre ce sentier marron vers la gauche (W) jusqu'à une épingle qui descend vers l'W, et continuer tout droit par une sente qui traverse horizontalement. 2) version rapide : continuer encore 100 m et prendre tout droit (la piste part à gauche) un sentier qui monte plein N dans un vallon jusqu'au sentier brun (raide) ; le prendre à droite et, lorsque le tracé brun bifurque à l'E (lacet), prendre la sente à gauche. Cette sente traverse horizontalement au pied des parois : la suivre jusqu'à une chaîne à droite, dans une descente avant un pierrier, au niveau d'une cheminée verticale. Franchir la cheminée grâce à la chaîne (assurance recommandée). Continuer au-dessus jusqu'à un gros cairn à gauche ; prendre là la sente à gauche, d'abord en sous-bois, puis un pierrier qui monte au pied du couloir de Subéroque. Le départ est au niveau d'une pierre mortuaire gravée, à droite du couloir.",
+    "descente": "Deux possibilités. Par le couloir de Subéroque, juste à gauche de l'arête : plus rapide mais plus délicat, attention aux chutes de pierres ; 2 rappels sur broches scellées (35 m et 20 m) ; on repasse au pied de la voie (commode pour laisser des affaires). Par le Grand Couloir : aller au Baou de Vespres puis descendre le Grand Couloir ; à la fin, une barre rocheuse avec 2 chaînes successives, puis un câble sur une vire descendante de 100 m sur la gauche jusqu'au sol ; prendre ensuite une sente cairnée descendante à droite qui longe les parois et ramène au refuge Baudino en rejoignant le tracé brun, à suivre vers l'W jusqu'à la bifurcation du chemin de montée.",
+    "materiel": "Coinceurs, friends (0.3 à 1 ou 2) et au moins 4-5 sangles.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Grimper l'arête d'abord raide puis qui se couche, jusqu'à un arbre face à un ressaut où se trouve un spit + cordelette à 3 m."
+          },
+          {
+            "n": "L2",
+            "cotation": "3c/4a",
+            "longueur": null,
+            "cheminement": "Quelques (2-3) points dans la longueur. Passer un relais intermédiaire sur spit + piton et faire relais plus loin au niveau d'un arbre sur une terrasse."
+          },
+          {
+            "n": "L3",
+            "cotation": "3b/3c",
+            "longueur": null,
+            "cheminement": "Continuer sur l'arête jusqu'au début d'une partie effilée et horizontale ; relais ici (on peut aussi le faire sur les arbres au bout de l'arête, mais on est alors moins protégé des chutes de pierres)."
+          },
+          {
+            "n": "L4",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Du relais, repérer un ou deux spits en face. Passage étroit sur l'arête horizontale (piton), puis à gauche et un crux avec 2 spits et un piton (inutile). Relais sur une sorte de terrasse en pente si on a assez de corde, sinon sous un arbre qui marque le début de la terrasse, sinon avant le passage où l'arête est horizontale."
+          },
+          {
+            "n": "L5",
+            "cotation": "4a/4b",
+            "longueur": null,
+            "cheminement": "Monter sur la terrasse, partir à gauche de l'arbre (bon rocher) ou à droite (plus facile et plus péteux). Relais sur une grande terrasse horizontale."
+          },
+          {
+            "n": "L6",
+            "cotation": "5a",
+            "longueur": null,
+            "cheminement": "Très courte, avec un petit crux vertical (des lunules et 1 piton), évitable quelques mètres à droite en 4b protégeable. Relais possible au-dessus du crux, ou (préférable, fin des difficultés) une dizaine de mètres plus haut au-dessus d'un arbre, sur un becquet."
+          },
+          {
+            "n": "Sortie",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Après un ressaut, on arrive rapidement sur des pentes beaucoup plus douces où il n'est pas nécessaire de tirer des longueurs."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "On peut s'échapper presque partout par 1 ou 2 rappels sur arbre vers le couloir de Subéroque, situé à gauche (également voie de descente possible).",
+      "L5 et L6 peuvent s'enchaîner, modulo un certain tirage.",
+      "Fin de L3 : relayer au début de la partie effilée et horizontale plutôt que sur les arbres au bout de l'arête, pour être mieux protégé des chutes de pierres.",
+      "Orienté S et à cette altitude, il peut faire très chaud."
+    ],
+    "retex": [
+      "Rocher et équipement : rocher globalement bon ; quelques spits et anneaux en bon état (sortie du 18/04/2026). Certains becquets bougent, rester vigilant (sortie du 10/11/2025) ; « certains ne demandent qu'à partir » (sortie du 31/12/2024). L1 péteuse au départ (sortie du 26/04/2025).",
+      "Relais : aucun relais équipé selon un retour, quasiment tous sur arbre ; prévoir beaucoup de sangles (6 emportées, 2 de plus auraient été utiles) (sortie du 31/12/2024). Cordelettes récentes sur les lunules de L6 en octobre 2024, jugées « pas super rassurantes », piton un peu trop à droite (sortie du 19/10/2024).",
+      "Longueurs : un retour les mesure longues (L2 45 m, L3 52 m, L4 55 m) et conseille une corde de 60 m (sortie du 19/10/2024) ; un autre a coupé L3 en deux pour le tirage avec une corde de 50 m (sortie du 31/12/2024). L4 : bien prendre à gauche avant l'arbre, ne pas s'engouffrer tout droit ; repérer les points à gauche de l'arbre-relais avant de s'engager sur la partie horizontale (sorties du 31/12/2024 et du 19/10/2024).",
+      "Approche : la cheminée équipée d'une chaîne est sur du rocher « pas top qui déboule vite », passer l'un après l'autre ; la suite, sans chaîne, est jugée assez exposée (sortie du 19/10/2024). Chaîne trempée et délicate après la pluie (sortie du 15/11/2025). Doutes pour quitter le sentier marron dans le lacet (sorties du 15/11/2025 et du 10/11/2025) ; une cordée n'a pas compris qu'il fallait basculer à gauche sur le pierrier sous le couloir (sortie du 25/06/2024). Des retours recommandent une trace GPX pour l'approche (sorties du 31/12/2024 et du 26/10/2025).",
+      "Descente par le couloir de Subéroque : jugée très glissante, avec 3 rappels dans le couloir + 1 rappel pour la chaîne de l'approche (sortie du 15/11/2025) ; d'autres ont préféré le Grand Couloir (sorties du 19/10/2024 et du 25/06/2024), dont le pierrier est décrit comme « casse-binette » et la vire finale patinée (se longer sur les câbles) ; sente cairnée difficile à suivre dans le pierrier, tirer à droite (sortie du 25/06/2024).",
+      "Météo : malgré l'orientation S, le vent s'engouffre ; une cordée a renoncé après une longueur par mistral à 85 km/h (sortie du 31/12/2024).",
+      "Variantes : départ possible à droite par une jolie fissure raide pour rejoindre l'arête plus haut, et tout droit à l'arbre de L5 par un système de fissures estimé IV+ (sortie du 16/11/2024)."
+    ],
+    "horaires": "Selon les retours : approche 1 h (11 h 10 → 12 h 10 le 27/12/2025 ; 10 h → 11 h le 15/11/2025 ; 1 h avec trace GPX le 31/12/2024). Dans la voie : 2 h 40 (attaque 11 h 20, sortie 14 h le 25/06/2024), 2 h 45 (12 h 35 → 15 h 20 le 27/12/2025), 3 h (15/06/2024), 3 h 45 (31/12/2024), 4 h 15 à 5 h en rythme tranquille ou d'initiation (10/11/2025, 15/11/2025, 19/10/2024) ; « 4 h TTC » (18/04/2026), 4 h 30 (18/05/2025). Retour : 1 h 30 par les crêtes (31/12/2024), 1 h 30 par le Grand Couloir (sommet 15 h 20 → voiture 16 h 50, 27/12/2025). Total 6 h approche et retour compris (15/06/2024).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 56173 (Arête des Trois Pointes), consulté le 15/10/2026",
+      "Sorties Camptocamp 1897386 (18/04/2026), 1858227 (27/12/2025), 1849575 (15/11/2025), 1835243 (10/11/2025), 1830814 (26/10/2025), 1831799 (11/10/2025), 1775252 (18/05/2025), 1774973 (26/04/2025), 1762784 (21/04/2025), 1720421 et 1719473 (31/12/2024), 1710252 (16/11/2024), 1700581 (19/10/2024), 1657549 (25/06/2024), 1654948 (15/06/2024), consultées le 15/10/2026",
+      "Topos cités par C2C : Escalade Sainte Victoire et Pays d'Aix ; Les nouvelles escalades faciles ; Escalades dans le massif de la Sainte-Victoire, Tome 2 - La Carrière, Baù des Vespres, Saint Ser",
+      "Historique (C2C) : Henri Gentil et des stagiaires, en 1958"
+    ],
+    "envie": 2
+  },
+  {
+    "id": "sainte-victoire-arete-du-cafard",
+    "nom": "Sainte-Victoire, Surplomb de la Carrière – Arête du Cafard",
+    "sous_titre": "Arête facile (II à III+) de 3 longueurs, large et peu vertigineuse – depuis le parking de la Carrière",
+    "massif": "Provence",
+    "secteur": "Sainte-Victoire – Le Surplomb de la Carrière",
+    "coordonnees": {
+      "lat": 43.52372,
+      "lon": 5.59564,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Arête du Cafard",
+        "url": "https://www.camptocamp.org/routes/317118"
+      }
+    ],
+    "objectif": "L'arête qui borde sur la droite le Surplomb de la Carrière (dalle triangulaire de rocher blanc) : ensemble de II à III+ en 3 longueurs. Option : continuer sur un vague éperon couché (100 m, corde tendue) jusqu'au pierrier du Pas de la Carrière, voire quelques ressauts faciles jusqu'à la crête faîtière.",
+    "cotation_globale": "PD+",
+    "cotation_libre_max": "3c",
+    "cotation_obligatoire": "3c",
+    "engagement": "I · équipement P3",
+    "hauteur": "env. 80 m (dénivelé des difficultés), sommet de l'itinéraire vers 850 m",
+    "nb_longueurs": "3",
+    "orientation": "E",
+    "duree": "1 jour",
+    "ambiance": "Calcaire. Arête large et peu vertigineuse ; le départ est le plus dur, avec un pas de bloc qui se protège bien.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Env. 1 h. La description de l'approche est sur la page Camptocamp du site « Sainte Victoire - Le Surplomb de la Carrière » (https://www.camptocamp.org/waypoints/317117) ; une trace GPX est disponible sur https://www.camptocamp.org/routes/1380450.",
+    "descente": "Après l'arbre (anneaux de corde) : un peu de corde tendue et redescente à un col sur la droite, puis retour au pied de la voie par un couloir. Si l'on sort au sommet : par le Pas de la Carrière en repassant au pied de la voie, ou par le Pas du Clapier (plus beau, tracé vert situé 1 km plus à l'E), qui redescend aussi vers le tracé brun et la carrière de marbre.",
+    "materiel": "Coinceurs : câblés, anneaux.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "",
+            "longueur": 50,
+            "cheminement": "Part du bord droit du surplomb. Bon rocher (friend ou sangle facile) jusqu'à un piton et une lunule."
+          },
+          {
+            "n": "L2",
+            "cotation": "",
+            "longueur": 50,
+            "cheminement": "Rando jusqu'à la petite cheminée, à la sortie de laquelle on trouve un relais avec spits."
+          },
+          {
+            "n": "L3",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Monter à droite jusqu'à l'arbre (anneaux de corde)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Selon la fiche C2C, l'Arête du Gouffre (100 m, AD+), située à côté, est plus intéressante ; la proche voisine, l'Arête du Contradicteur, grimpe plus, est plus courte et a un rocher qui demande plus d'attention."
+    ],
+    "retex": [
+      "Rocher : jugé bon dans l'ensemble (sorties du 22/01/2022, du 27/10/2020 et du 04/10/2019), « moyen » par un retour (sortie du 06/11/2016) ; plutôt délité sur le bord droit de l'arête, bien rester sur le fil (sortie du 18/12/2016) ; quelques cailloux qui se détachent (sortie du 08/06/2023) ; en L3, tirer légèrement à gauche pour éviter le rocher « putride » (sortie du 23/04/2026).",
+      "Équipement quasi absent, à protéger (coinceurs et friends de 0.3 à 0.75 utilisés le 06/11/2016). Relais décrits le 23/04/2026 : R1 sur cade mort + coinceurs, R2 sur arbustes, R3 sur lunule + coinceurs en bas de la cheminée, R4 sur deux spits d'une grande voie équipée, puis un arbre équipé de cordes. Un autre retour : R1 sur piton + lunule (prévoir 3 m de cordelette), R2 sur plaquettes, R3 sur arbre (2 anneaux de corde en bon état) (sortie du 18/12/2016).",
+      "Pas les plus durs : le pas de départ (évitable par le couloir à droite) et un pas gazeux en dalle à la fin (sortie du 04/10/2019) ; les pas les plus corsés et exposés sont dans les blocs sous la partie herbeuse, avant la voie proprement dite (sortie du 06/11/2016).",
+      "Approche : un peu « paumatoire » (sortie du 18/12/2016). Depuis le parking de la Marbrière, prendre le sentier marron puis, à l'épingle, une petite sente vers le N avec quelques cairns (sortie du 23/04/2026).",
+      "Descente : le retour dans le pierrier / le couloir de droite est décrit comme « casse-gueule » (sorties du 26/03/2021 et du 04/10/2019). Sur le chemin vers le Pas du Clapier, attention à une descente marquée sans issue une centaine de mètres avant (sortie du 08/02/2024).",
+      "Intérêt : avis partagés. Pour certains, très didactique pour l'initiation TA avec une multitude de protections possibles (sortie du 23/04/2026) ; pour d'autres, c'est très court, plus proche de la marche que de l'escalade hormis le pas de départ (sorties du 10/11/2025 et du 22/01/2022), « ne vaut pas l'approche » (sortie du 07/03/2014)."
+    ],
+    "horaires": "Selon les retours : approche env. 50 min (parking 14 h 40, pied 15 h 30, le 08/06/2023) à 35 min (04/10/2019). Arête : 1 h (sommet 16 h 30, 08/06/2023) ; 15 à 30 min en solo (10/11/2025, 26/03/2021, 04/10/2019). Exemple solo (04/10/2019) : parking 11 h 45, attaque 12 h 20, sommet 12 h 45, retour parking 13 h 50.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/sainte-victoire-arete-du-cafard-topo.jpg",
+        "legende": "Tracé de l'Arête du Cafard (photo TI_BOOL, Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 317118 (Arête du Cafard), consulté le 15/10/2026",
+      "Sorties Camptocamp 1898962 (23/04/2026), 1834409 (10/11/2025), 1617416 (08/02/2024), 1541900 (08/06/2023), 1873644 (03/01/2023), 1498434 (04/12/2022), 1383990 (22/01/2022), 1357075 (09/10/2021), 1297165 (26/03/2021), 1258759 (27/10/2020), 1152915 (04/10/2019), 834448 (18/12/2016), 819733 (06/11/2016), 755201 (05/05/2016), 500714 (07/03/2014), consultées le 15/10/2026",
+      "Image Camptocamp 317120 par TI_BOOL (CC-BY-SA)",
+      "Topo cité par C2C : Escalade Sainte-Victoire Pays d'Aix (2015), page 144",
+      "Topo cité par C2C : Escalades dans le massif de la Sainte-Victoire, Tome 2 - La Carrière, Baù des Vespres, Saint Ser",
+      "Historique (C2C) : Henri Gentil et Raymond Giusti, en 1965"
+    ],
+    "envie": 1
+  },
+  {
+    "id": "sainte-victoire-baou-cezanne-arete-d-aix",
+    "nom": "Sainte-Victoire, Baou Cézanne – Arête d'Aix",
+    "sous_titre": "Pilier à l'angle SW du Baou Cézanne, terrain d'aventure facile non équipé (III à IV) – depuis le parking de Plan-d'En-Chois",
+    "massif": "Provence",
+    "secteur": "Sainte-Victoire – Baou Cézanne",
+    "coordonnees": {
+      "lat": 43.52789,
+      "lon": 5.57015,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Arête d'Aix",
+        "url": "https://www.camptocamp.org/routes/304439"
+      }
+    ],
+    "objectif": "Le pilier situé à l'angle SW du Baou Cézanne : départ dans un système de fissure-cheminée qui raye la conque suspendue à gauche du fil du pilier, puis gradins et arête « à la carte » jusqu'à la crête. Selon C2C, bien pour une première approche de la Sainte-Victoire, en initiation montagne. Options en sortie : monter à la Croix de Provence (30 min) ou descendre le tracé jaune pour enchaîner avec une voie du Prieuré.",
+    "cotation_globale": "PD+ selon C2C (la voie est notée D sur le topo photo de Bruno Zunino publié sur C2C)",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "3c",
+    "engagement": "III · équipement P4",
+    "hauteur": "env. 120 m (dénivelé des difficultés, C2C) ; 100 m sur le topo photo de Bruno Zunino",
+    "nb_longueurs": "4 décrites sur C2C (la dernière « à la carte »)",
+    "orientation": "SW",
+    "duree": "1 jour",
+    "ambiance": "Calcaire, pilier en terrain montagne. Voie non équipée : quelques rares pitons en place. Selon C2C, le rocher est acceptable, mais beaucoup moins bon que dans la plupart des classiques faciles de la Sainte-Victoire. C'était autrefois une classique facile.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Depuis le parking de Plan-d'En-Chois, rejoindre le refuge Cézanne puis suivre le tracé rouge vers le Pas du Moine. Monter ensuite dans le cirque à droite, vers le pilier composant la voie, qui se trouve à l'angle SW de la montagne. Il se dissout vers le haut en de vagues ressauts (où passe le tracé jaune). Le départ se situe dans un système de fissure-cheminée qui raye la conque suspendue à gauche du fil du pilier.",
+    "descente": "Par le tracé rouge venant du sommet et rejoignant le parking. Possibilité aussi de monter à la Croix de Provence (30 min), ou de descendre le tracé jaune pour enchaîner avec une voie du Prieuré.",
+    "materiel": "Un petit jeu de câblés et des sangles sont suffisants (C2C).",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Attaquer dans une fissure herbeuse. Relais sur un chêne vert."
+          },
+          {
+            "n": "L2",
+            "cotation": "III+",
+            "longueur": null,
+            "cheminement": "Continuer cette fissure en revenant un peu à gauche."
+          },
+          {
+            "n": "L3",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Dans des gradins, en revenant en oblique vers la droite jusqu'au moment où l'on aperçoit à la fois le pilier du Puits et la Croix de Provence."
+          },
+          {
+            "n": "L4",
+            "cotation": "III-IV",
+            "longueur": null,
+            "cheminement": "À la carte, le plus esthétique étant de suivre le fil de gauche au maximum."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Selon C2C : bien pour une première approche de la Sainte-Victoire, en initiation montagne.",
+      "Dernière longueur « à la carte » : le plus esthétique est de suivre le fil de gauche au maximum.",
+      "En sortie, possibilité de monter à la Croix de Provence (30 min) ou de descendre le tracé jaune pour enchaîner avec une voie du Prieuré."
+    ],
+    "retex": [
+      "Rocher, surtout au début : un retour signale des prises du dièdre de départ qui pourraient rester dans les mains ou tomber sur le second (sortie du 25/08/2024) ; un grimpeur a décroché un bloc « de la taille d'un buste », attention ++ au début (sortie du 18/11/2023) ; cailloux mobiles en L1 (sortie du 12/03/2020) ; « toutes sortes de munitions » prêtes à partir dans les premières longueurs (sortie du 02/05/2015) ; rocher moyen en bas (fissure raide) et en haut (partie facile), bon au milieu (sortie du 08/02/2021). D'autres le jugent « très bon » (sortie du 02/11/2024) ou « au top » (sortie du 04/12/2018).",
+      "Équipement : deux pitons dans la voie, protections sur les pins, un petit friend (bleu BD) posé deux fois pour se rassurer (sortie du 02/11/2024) ; un seul clou croisé mais beaucoup d'arbres et arbustes pour s'assurer (sortie du 02/05/2015) ; quelques pitons et plaquettes selon où l'on passe (sortie du 08/05/2015). Aucun retour récent ne parle de plaquettes retirées ou sciées.",
+      "Relais décrits le 08/02/2021 (4 grandes longueurs de 45 à 50 m) : R1 sur arbre-arbuste, R2 sur 2 arbustes + coinceur, R3 et R4 sur gros becquet. Le 10/11/2018 : R1 sur un chêne, R2 sur un bon arbre solide.",
+      "Itinéraire : attaque difficile à trouver selon plusieurs retours (sorties du 02/11/2024 et du 20/04/2015). Ne pas traverser trop tôt à droite : suivre jusqu'en haut la fissure-dièdre qui tire un peu à gauche, sinon tirage (sortie du 02/05/2015). Des cordées sont parties plus à gauche et plus haut que le topo (sorties du 22/06/2021 et du 11/02/2017).",
+      "Après le dièdre de départ en 3, on passe un peu où on veut ; viser à gauche pour rester dans l'intéressant. La voie converge avec la partie facile de l'Aragonite après L2 (sortie du 25/08/2024).",
+      "Cotation ressentie : le III/III+ des premières longueurs jugé « pas si trivial » (sortie du 02/05/2015) ; « L1 grimpe pour du III » (sortie du 08/02/2021).",
+      "Approche : tracé rouge depuis le refuge Cézanne puis le tracé « difficile » à la patte d'oie, qui mène quasi directement au départ ; de petits cairns indiquent où bifurquer (sorties du 18/11/2023 et du 25/08/2024).",
+      "Accès : après les éboulements du 28/10/2024, beaucoup de chemins étaient fermés (arrêté préfectoral côté Croix de Provence) ; une cordée a quand même fait l'arête d'Aix, chemins fermés pour travaux sans verbalisation (sortie du 02/11/2024). Situation à vérifier avant d'y aller.",
+      "Descente : par le tracé jaune (sortie du 19/05/2025), le grand rappel du Prieuré (sortie du 25/08/2024), le tracé rouge du Pas du Moine avec un peu de désescalade, qui évite la foule (sortie du 20/04/2015), ou le Garagaï et le sentier vert Forcioli avec un rappel sur lunule (sortie du 08/05/2015)."
+    ],
+    "horaires": "Selon les retours : parking 11h30, pied de voie 12h30, sommet 16h30, parking 17h30 (cordée débutante, 18/11/2023) ; parking 10h30, début de voie 11h30, sortie 13h30, parking 15h (22/06/2021) ; parking 17h15, départ 18h15, sommet 19h30, parking 20h30 (à 3 en corde tendue, 12/03/2020). Dans la voie : 2 h presque tout en corde tendue (02/11/2024), 3 h (10h30-13h30, 08/02/2021), environ 3 h (11/02/2017).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/sainte-victoire-baou-cezanne-arete-d-aix-topo.jpg",
+        "legende": "Topo du Baou Cézanne publié sur Camptocamp (photo Bruno Zunino, CC-BY-SA) : l'Arête d'Aix est le tracé vert clair à droite"
+      },
+      {
+        "fichier": "images/sainte-victoire-baou-cezanne-arete-d-aix-topo-2.jpg",
+        "legende": "Fissure de départ de l'Arête d'Aix (photo Remi Maupetit, Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 304439 (Arête d'Aix), consulté le 15/10/2026",
+      "Sorties Camptocamp 1778506 (19/05/2025), 1704017 (02/11/2024), 1686452 (25/08/2024), 1595307 (18/11/2023), 1383932 (23/01/2022), 1322606 (22/06/2021), 1280633 (08/02/2021), 1254469 (09/10/2020), 1194235 (12/03/2020), 1063655 (04/12/2018), 1057446 (10/11/2018), 858267 (11/02/2017), 632797 (08/05/2015), 630013 (02/05/2015), 627011 (20/04/2015), consultées le 15/10/2026",
+      "Image Camptocamp 1057441 par Bruno Zunino (CC-BY-SA)",
+      "Image Camptocamp 480379 par Remi Maupetit (CC-BY-SA)",
+      "Topo cité par C2C : Escalade Sainte Victoire et Pays d'Aix",
+      "Topo cité par C2C : Les nouvelles escalades faciles",
+      "Topo cité par C2C : Calanques, Sainte-Baume, Sainte-Victoire, les 400 plus belles escalades et randonnées",
+      "Historique (C2C) : Charles du Couëdic et Charles Ravailhe, en 1931"
+    ],
+    "envie": 3
+  },
+  {
+    "id": "sainte-victoire-baou-des-vespres-voie-sud",
+    "nom": "Sainte-Victoire, Baou des Vespres – Voie Sud",
+    "sous_titre": "Fissure-couloir puis dièdre en terrain d'aventure, 5 longueurs (4b max) – depuis le refuge Baudino",
+    "massif": "Provence",
+    "secteur": "Sainte-Victoire – Baou des Vespres",
+    "coordonnees": {
+      "lat": 43.52666,
+      "lon": 5.62352,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Voie Sud",
+        "url": "https://www.camptocamp.org/routes/243543"
+      }
+    ],
+    "objectif": "La fissure-couloir diagonale (de gauche à droite), bien visible et parsemée de quelques arbres, à gauche de l'éperon S qui marque le bord gauche de la face E du Baou des Vespres ; elle arrive au sommet de l'éperon, puis une dernière longueur facile mène au sommet.",
+    "cotation_globale": "AD-",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "3c",
+    "engagement": "II · équipement P3",
+    "hauteur": "env. 100 m (dénivelé des difficultés) ; sommet de l'itinéraire à 1009 m",
+    "nb_longueurs": "5 (dont une dernière longueur de 30 m surtout en marche)",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Calcaire. Fissure-couloir puis dièdre, avec quelques arbres et quelques pitons en place ; relais sur arbres, pitons et un spit.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "D'un des parkings (Collet de Saint-Pierre ou Saut du Loup), monter au refuge Baudino. Prendre le chemin derrière le refuge et, après 2 min à travers un chaos de blocs, prendre le chemin qui monte à gauche. Il mène en 15 min au pied de la face E du Baou des Vespres. La voie, non visible, est à gauche de l'éperon S qui marque le bord gauche de la face E. Quitter le chemin pour monter en ascendance à gauche et dépasser l'éperon. La voie est une fissure-couloir diagonale de gauche à droite, bien visible, qui arrive au sommet de l'éperon ; elle est parsemée de quelques arbres.",
+    "descente": "Suivre la crête à droite pour rejoindre le débouché du Grand Couloir (500 m). Descendre la sente du Grand Couloir (pierrier puis chaînes et câble) pour rejoindre un grand pierrier qui permet de revenir au refuge.",
+    "materiel": "Sangles, éventuellement quelques coinceurs. Il y a quelques pitons dans la voie (C2C).",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3b",
+            "longueur": 30,
+            "cheminement": "Couloir en légère oblique à droite. R1 sur arbre ; relais possible sur le premier arbre 10 m avant."
+          },
+          {
+            "n": "L2",
+            "cotation": "4a",
+            "longueur": 20,
+            "cheminement": "Continuer dans le même axe (2 pitons). R2 : arbre + 1 piton."
+          },
+          {
+            "n": "L3",
+            "cotation": "4b",
+            "longueur": 25,
+            "cheminement": "Traverser de 5 m à droite puis gravir le dièdre jusqu'à un arbre (2 pitons). R3 : 1 spit de 10 + 1 lunule."
+          },
+          {
+            "n": "L4",
+            "cotation": "3c",
+            "longueur": 25,
+            "cheminement": "Continuer le dièdre jusqu'au grand replat au sommet de l'éperon (2 pitons). R4 : 2 pitons."
+          },
+          {
+            "n": "L5",
+            "cotation": "3",
+            "longueur": 30,
+            "cheminement": "Un dernier pas de 3 en dalle, puis de la marche jusqu'au sommet."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Équipement : quelques clous, une belle lunule et un spit rouillé à R3 (sortie du 11/10/2026) ; « quelques vieux pitons en qui il ne faut peut-être pas trop faire confiance », piton du départ du dièdre de L3 doublé par un friend (sortie du 14/05/2017) ; assez peu équipé, 2 ou 3 pitons (sortie du 18/11/2012).",
+      "Relais : R3 sur un spit et une lunule jugée fragile, à renforcer avec des friends (sortie du 19/11/2023) ; R3 sur plaquette et friend (sortie du 20/11/2016) ; R4 confortable sur deux pitons l'un au-dessus de l'autre (sorties du 19/11/2023 et du 21/02/2016) ; au sommet, relais sur un bloc (sortie du 19/11/2023).",
+      "Rocher : globalement excellent / sain selon plusieurs retours (sorties du 10/11/2025 et du 26/05/2024), mais attention à quelques blocs un peu mobiles et aux cailloux sur les petites vires terreuses (sortie du 26/05/2024) ; « ne pas tirer sur tout », des blocs posés mais solides font un peu peur (sortie du 11/11/2024) ; certains blocs supportent le poids d'un grimpeur mais pas une chute, bien placer les protections (sortie du 20/11/2016).",
+      "Protection : se protège bien et de manière variée (fissures, trous, becquets, arbres), très bonne école de pose de protections (sortie du 26/05/2024) ; « prendre de gros coinceurs » (sortie du 11/11/2024) ; friends 0.5, 2.5 et 3 utilisés le 08/12/2013.",
+      "Début de voie : L1 végétale et un peu terreuse (sorties du 21/02/2016 et du 20/11/2016) ; couloir où il faut faire attention s'il y a plusieurs cordées (sortie du 19/06/2021) ; « toujours joli passé les 30 premiers mètres » (sortie du 15/01/2022). L3 est la plus aérienne / gazeuse (sorties du 11/10/2026 et du 26/05/2024).",
+      "Cotation ressentie : crux dans le dièdre de L3, avec un pas de IV en L2 et en L4 ; très aérienne pour le niveau (sortie du 14/05/2017).",
+      "Trouver le départ : facile, on contourne le Baou par une sente un peu plus bas puis on remonte au pied d'une fissure-couloir, « S » gravé sur un rocher à gauche (sortie du 19/11/2023) ; sente à gauche (cairn) au niveau du Pas de la Torque (sortie du 21/02/2016).",
+      "Affluence : d'autres cordées dans la voie des Vires voisine (sortie du 11/10/2026), une ou deux cordées derrière (sortie du 14/05/2017). Face peu protégée du vent d'Est (sortie du 20/11/2016).",
+      "Descente : par le Grand Couloir selon la plupart des retours. En 2017, le sentier du col de Vauvenargues était fermé (amende) et une cordée est descendue par le sentier de Saint-Ser (45 min de plus) ; elle signale aussi que la position du parking du Saut du Loup sur C2C semble erronée (sortie du 14/05/2017) : à vérifier."
+    ],
+    "horaires": "Approche : une bonne heure (45 min jusqu'à Baudino puis 15 min jusqu'au pied) (26/05/2024). Dans la voie selon les retours : 1 h 40 (08/12/2013), 2 h (15/01/2022), 2 h 15 (11/11/2024), 2 h 45 sans se presser (18/11/2012), 3 h (14/05/2017 et 21/02/2016), 30 min en solo (10/11/2025). Exemple (16/12/2012) : départ voiture 10h30, retour 15h30 en descendant par le Grand Couloir.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/sainte-victoire-baou-des-vespres-voie-sud-topo.jpg",
+        "legende": "Tracé de la Voie Sud du Baou des Vespres (photo Frédéric C., Camptocamp, CC-BY-SA ; image de petite taille)"
+      },
+      {
+        "fichier": "images/sainte-victoire-baou-des-vespres-voie-sud-topo-2.jpg",
+        "legende": "Voie de la face sud avec R1, R2 et R3 (photo RemyH, Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 243543 (Voie Sud), consulté le 15/10/2026",
+      "Sorties Camptocamp 1959082 (11/10/2026), 1834388 (10/11/2025), 1706976 (11/11/2024), 1650143 (26/05/2024), 1594977 (19/11/2023), 1873645 (03/01/2023), 1381476 (15/01/2022), 1328501 (19/06/2021), 884322 (14/05/2017), 823048 (20/11/2016), 724759 (21/02/2016), 478460 (08/12/2013), 389577 (16/12/2012), 385107 et 385106 (18/11/2012), consultées le 15/10/2026",
+      "Image Camptocamp 243706 par Frédéric C. (CC-BY-SA)",
+      "Image Camptocamp 385108 par RemyH (CC-BY-SA)",
+      "Topo cité par C2C : Escalades dans le massif de la Sainte-Victoire, Tome 2 - La Carrière, Baù des Vespres, Saint Ser",
+      "Topo cité par C2C : « Les 100 plus belles » (l'itinéraire y est répertorié) ; absent des premières éditions d'« Escalade en Pays d'Aix », inséré dans la 3e édition",
+      "Historique (C2C) : Roger Duchier, Charles Magol, Victor Rostand en 1937"
+    ],
+    "envie": 2
+  },
+  {
+    "id": "sainte-victoire-croix-de-provence-arete-s-integrale",
+    "nom": "Sainte-Victoire, Croix de Provence – Arête S intégrale (ou des Rois Mages)",
+    "sous_titre": "Grande arête classique en terrain montagne jusqu'à la Croix de Provence – depuis le parking de Plan-d'En-Chois",
+    "massif": "Provence",
+    "secteur": "Sainte-Victoire – Croix de Provence",
+    "coordonnees": {
+      "lat": 43.5276,
+      "lon": 5.57309,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Arête S Intégrale (ou des Rois Mages)",
+        "url": "https://www.camptocamp.org/routes/54744"
+      }
+    ],
+    "objectif": "L'arête S jusqu'à la Croix de Provence : très beau parcours en terrain montagne, classique incontournable, idéale pour l'initiation (C2C). Trois façons d'accéder au pied : tracé vert (sentier Forcioli), tracé jaune, ou par les voies « Les Moussaillons » ou « Le Chien qui Aboie ».",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "4c (passages notés IV+ dans la description)",
+    "cotation_obligatoire": "4b",
+    "engagement": "II · équipement P3",
+    "hauteur": "env. 250 m (dénivelé des difficultés) ; arrivée à la Croix de Provence (945 m)",
+    "nb_longueurs": "",
+    "orientation": "SW",
+    "duree": "1 jour",
+    "ambiance": "Calcaire. Très beau parcours d'arête en terrain montagne, non engagé : échappatoires possibles par de petits rappels côté E. Quelques pitons et une cordelette sur lunule en place ; le reste se protège.",
+    "statut": "bientot",
+    "projet": null,
+    "approche": "Trois possibilités (C2C).\n- Par le tracé vert : du parking de Plan-d'En-Chois, suivre le GR vers l'E. Dépasser le refuge Cézanne et continuer (tracé marron) jusqu'à apercevoir un petit calvaire en pierre avec une croix métallique. Juste avant ce calvaire, quitter le GR et emprunter le sentier « tracé vert » Forcioli jusqu'à un passage raide et dalleux avec une marque verte bien visible. Grimper 2 m en suivant une écaille (« de la tortue », un spit avec maillon rapide) puis traverser sur la gauche pour accéder à un pierrier. Prendre une sente vers l'W au niveau de ce pierrier et la suivre de traces vertes en traces vertes. Passer une cheminée facile puis traverser vers la gauche jusqu'à des gradins. En vue de grandes dalles bien lisses, traverser vers la droite pour arriver au pied de l'arête S : petite terrasse avec arbres. (Si l'on continue sur le tracé vert, on tombe rapidement sur le tracé noir.)\n- Par le tracé jaune : depuis le parking de Plan-d'En-Chois, se rendre au refuge Cézanne. Suivre ensuite le tracé jaune pour gagner les larges vires caillouteuses traversant sous les parois du Baou Cézanne. Quitter le tracé lorsqu'il monte, juste après le « Puits », et poursuivre la traversée (assez longue) jusqu'à un petit col caractéristique situé en contrebas et sur la gauche du départ de l'arête. Compter 1 h 30.\n- Par la voie « Les Moussaillons » (C2C 55427) : bel itinéraire d'initiation au TA qui parcourt toute la face S sur une ligne naturelle.\n- Par la voie « Le Chien qui Aboie » (C2C 55472) : idem, avec quelques difficultés techniques supplémentaires.",
+    "descente": "- Par le GR côté W : dépasser la chapelle Sainte-Victoire et continuer par le tracé bleu jusqu'au Pas de l'Escalette, puis suivre le tracé rouge jusqu'au refuge Cézanne et au parking.\n- Par le trou du Garagaï et le tracé noir si l'on est garé au parking des Deux Aiguilles : de la Croix de Provence, descendre vers l'E sur environ 50 m et trouver sur la droite le trou et le tracé noir et vert, puis noir.",
+    "materiel": "Quelques coinceurs, tricams et friends (entre #0.5 et #1). Sangles (C2C).",
+    "longueurs": [
+      {
+        "titre": "Déroulement (découpage indicatif d'après la description C2C, sans longueurs précises)",
+        "lignes": [
+          {
+            "n": "1",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Remonter quelques gradins en direction de l'arête et venir faire relais sur le fil même de l'arête, au pied d'un mur blanc."
+          },
+          {
+            "n": "2",
+            "cotation": "IV+",
+            "longueur": null,
+            "cheminement": "Remonter ce mur en pleine dalle et poursuivre l'arête facile jusqu'en haut d'une première tour."
+          },
+          {
+            "n": "3",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Descendre légèrement et poursuivre sur un deuxième ressaut, puis par l'arête facile présentant de courts passages techniques."
+          },
+          {
+            "n": "4",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Gagner sur la gauche le pied d'un dièdre caractéristique. Le remonter (2 pitons, une cordelette sur lunule) et gagner une grande terrasse (arbre)."
+          },
+          {
+            "n": "5",
+            "cotation": "IV+",
+            "longueur": null,
+            "cheminement": "Gravir sur la gauche un système de fissures en restant près du fil de l'arête (1 piton) ; relais possible sur une petite terrasse avec arbres."
+          },
+          {
+            "n": "6",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Traverser quelques mètres à gauche pour atteindre des gradins (1 piton) qui débouchent à la Croix de Provence."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Parcours non engagé : il est possible de s'en échapper par de petits rappels côté E.",
+      "Toute la partie entre les longueurs de IV se fait très bien en corde tendue avec 15 à 20 m de corde."
+    ],
+    "retex": [
+      "Trouver le départ : plusieurs retours le jugent difficile. Après avoir quitté le tracé vert, descendre le pierrier vers l'W (cairn) puis le remonter jusqu'en haut en laissant la dalle lisse à main droite ; de là, 40 à 50 m de gradins en ascendance à droite, et on ne voit la dalle blanche et la belle terrasse qu'au dernier moment (sortie du 28/11/2025). Une cordée a perdu 30 à 45 min : vers 700 m, descente dans un pierrier à gauche du tracé vert, bien après une cheminée patinée, puis remontée de ce pierrier (sortie du 15/02/2025). « Prendre le pierrier à gauche et le remonter » (sortie du 28/04/2022).",
+      "L1 : ne pas partir en haut vers la dalle (1 piton, ça grimpe sévère ensuite) mais s'arrêter 5 m dessous sur la terrasse, donc partir en ascendance droite sans viser la dalle (sortie du 28/04/2022). Le piton dans la dalle de L2 est jugé bien utile (sortie du 14/04/2024).",
+      "Équipement : un retour signale des pitons et plaquettes très dégradés et non fiables ; tester systématiquement l'équipement avant de faire un relais, idem pour les becquets (sortie du 23/10/2022). Sur la sortie de droite en haut, une cordée a vu de vieux spits de 8 cassés ou coupés (sortie du 15/02/2025). Un retour plus récent trouve les quelques pitons « globalement en bon état » (sortie du 09/06/2026).",
+      "Rocher : globalement bon à très bon selon plusieurs retours (sorties du 09/06/2026 et du 15/02/2025), excellent dans les longueurs de 4 (sortie du 11/05/2024) ; mais de gros blocs posés, notamment dans les derniers mètres avant les transitions sur vires et dans les passages les plus obligatoires, pourraient partir si on les sollicite trop (sortie du 23/10/2022).",
+      "Fin de voie : la fissure-cheminée finale (lunule + cordelette) a paru bien plus dure que 4c à un grimpeur, « plutôt proche de 5c » (sortie du 28/11/2025). Variantes décrites : arête à gauche équipée de pitons (sortie du 19/07/2020), fissure en face, ou en bifurquant un peu à droite, plus facile (sortie du 15/02/2025) ; fissure-renfougne à droite (« variante Candela », ancien tracé noir, friend bloqué) (sorties du 11/05/2024 et du 28/04/2022).",
+      "Cotation : à ne pas sous-estimer, cotations sèches comme toujours à la Sainte-Victoire (sortie du 23/10/2022) ; « être à l'aise dans le 5b » pour le leader selon un retour (sortie du 30/10/2022). Un autre confirme que la difficulté correspond au topo (sortie du 15/10/2022).",
+      "Protection : se protège très bien en tricams et sangles, quelques friends #0.5 à #1 (sortie du 11/05/2024) ; câblés, sangles et friends #0.3 à #4 pour l'enchaînement avec Le Chien qui Aboie (sortie du 09/06/2026).",
+      "Affluence : 7 cordées croisées, la voie donnant pas mal d'occasions de doubler en sécurité ; parking de Plan-d'En-Chois plein, le GR se rejoint directement juste après le parking (sortie du 11/05/2024). Tracé vert et tracé noir un peu patinés (sortie du 27/04/2022).",
+      "Ambiance : pas si gazeuse, le « sol » est toujours assez proche d'un côté ou de l'autre (sortie du 14/04/2024)."
+    ],
+    "horaires": "Selon les retours : approche 40 min + tracé vert 1 h 10, voie 3 h, pause 50 min, descente 1 h, soit 6 h 40 de voiture à voiture (11/05/2024) ; 4 h dans la voie et 6 h 40 de parking à parking depuis les Deux Aiguilles, montée par le vert et descente par le noir (14/04/2024) ; 6 h 15 de voiture à voiture en perdant 30 à 45 min pour trouver le départ (15/02/2025) ; 2 h 30 dans la voie (09/06/2026) ; départ 10h45, en haut 14h15 (28/04/2022) ; 10h30 au pied, 15h à la Croix (groupe de jeunes, 27/04/2022) ; en solo sans corde : 1 h jusqu'au départ des gradins puis 1 h 15 (28/11/2025).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/sainte-victoire-croix-de-provence-arete-s-integrale-topo.jpg",
+        "legende": "Départ de l'arête des Rois Mages, tracé de l'approche (photo phill06, Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 54744 (Arête S Intégrale (ou des Rois Mages)), consulté le 15/10/2026",
+      "Sorties Camptocamp 1914120 (09/06/2026), 1900961 et 1900147 (25/04/2026), 1922255 (14/12/2025), 1851416 (28/11/2025), 1788671 (24/05/2025), 1739715 (15/02/2025), 1645841 (11/05/2024), 1694091 (14/04/2024), 1480014 (30/10/2022), 1477532 (23/10/2022), 1476064 (15/10/2022), 1416159 (28/04/2022), 1416002 (27/04/2022), 1227895 (19/07/2020), consultées le 15/10/2026",
+      "Image Camptocamp 1055732 par phill06 (CC-BY-SA)",
+      "Topo cité par C2C : Escalade Sainte Victoire et Pays d'Aix",
+      "Topo cité par C2C : Les nouvelles escalades faciles",
+      "Topo cité par C2C : Guide des escalades de la montagne Sainte-Victoire, Tome 1",
+      "Topo cité par C2C : Escalades dans le massif de la Sainte-Victoire, Tome 3 - Bau Cézanne, La Croix",
+      "Historique (C2C) : ouverture par Pierre Nevière en juin 1926",
+      "Topo Vertical Pirate (lien noté par le propriétaire) : https://verticalpirate-escalade.com/topos-escalade/france/sainte-victoire/baou-cezanne-croix-de-provence-prieure-et-contreforts/arete-des-rois-mages/"
+    ],
+    "envie": 2
+  },
+  {
+    "id": "sainte-victoire-deux-aiguilles-la-mouche",
+    "nom": "Sainte-Victoire, Deux Aiguilles – La Mouche",
+    "sous_titre": "La voie la plus facile du secteur (3c), 4 longueurs, équipée en bas puis à protéger – depuis le parking des Deux Aiguilles",
+    "massif": "Provence",
+    "secteur": "Sainte-Victoire – Deux Aiguilles (Grand Mur)",
+    "coordonnees": {
+      "lat": 43.52707,
+      "lon": 5.59037,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "La Mouche",
+        "url": "https://www.camptocamp.org/routes/1210290"
+      }
+    ],
+    "objectif": "La voie la plus facile du secteur : elle permet de monter (et de descendre) du haut du secteur ainsi qu'à certaines voies plus perchées (C2C). Selon C2C, la suite à partir de R2 correspond aux L3 et L4 de « Retour aux sources » dans le dernier topo de la Sainte-Victoire ; dans le précédent, c'est la sortie de la Mouche.",
+    "cotation_globale": "AD-",
+    "cotation_libre_max": "3c",
+    "cotation_obligatoire": "3c",
+    "engagement": "équipement P2",
+    "hauteur": "env. 90 m (dénivelé des difficultés)",
+    "nb_longueurs": "4",
+    "orientation": "S",
+    "duree": "",
+    "ambiance": "Calcaire, beaux murs à trous dans le haut. Début équipé large en plaquettes ; la suite (à partir de R2) est décrite par C2C comme « plus équipée » (d'après le reste de la fiche : peu ou pas de matériel en place). Le haut du mur est très peu équipé et le matériel rouillé.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Du P2 (parking des Deux Aiguilles), rejoindre le secteur. Le nom de la voie est écrit au pied.",
+    "descente": "Incertaine selon C2C : « au mieux en rappels dans le mur… ou en contournant à pied… ? ». La fiche précise que le haut du mur est très peu équipé et le matériel rouillé : descente en rappels plus « clean » dans le bas.",
+    "materiel": "Quelques coinceurs et sangles pour le haut (C2C).",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3c",
+            "longueur": 20,
+            "cheminement": "Départ commun avec « Les Masques de Pierre », puis quitter le dièdre pour partir en ascendance à droite et remonter un pilier jusqu'au R0 de « La Nef des Fous »."
+          },
+          {
+            "n": "L2",
+            "cotation": "3c",
+            "longueur": 20,
+            "cheminement": "En ascendance à gauche jusqu'à un relais chaîné (moins équipée)."
+          },
+          {
+            "n": "L3",
+            "cotation": "3c",
+            "longueur": 30,
+            "cheminement": "En ascendance à droite dans de beaux murs à trous ; pas de matériel en place ni de relais en sortie."
+          },
+          {
+            "n": "L4",
+            "cotation": "3c",
+            "longueur": 30,
+            "cheminement": "Idem. Relais à construire en sortie, sur 2 vieux anneaux."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Début équipé large en plaquettes ; à partir de R2, prendre quelques coinceurs et sangles.",
+      "Le haut du mur est très peu équipé et le matériel rouillé : descente en rappels plus « clean » dans le bas."
+    ],
+    "retex": [
+      "Peu de retours : seulement 3 sorties sur C2C, la plus récente en 2023 ; aucun retour récent sur l'état de l'équipement (à vérifier sur place).",
+      "Équipement : plaquettes éloignées mais suffisantes avec marge en L1 et L2 + relais, « plus grand-chose ensuite » ; le départ commun avec Les Masques de Pierre est bien usé, ensuite le rocher est « top » (sortie du 12/09/2020). Pour l'ensemble du Grand Mur, un retour décrit un rocher au top, une légère patine dans les voies pas trop dures et un équipement lointain et engagé (sortie du 26/05/2020).",
+      "L1 commence bien plus à gauche que ne la dessine le topo, puis traverse franchement à droite ; un pas grimpant juste sous le relais (pilier sans trop de pieds). L1 et L2 ont été enchaînées (35 à 40 m) ; le départ de L2 est végétatif, puis joli rocher (sortie du 12/09/2020).",
+      "Haut de la voie : une cordée a évité le couloir herbeux du topo (« trop sanglier ») pour une option pilier puis un « magnifique mur gris sculpté », un peu à droite (vieille cordelette) ; bien protégeable avec 2 ou 3 friends moyens et 3 sangles ; relais à 60 m pile en sortie sur 2 anneaux rouillés. Elle pense être sortie trop à droite (sortie du 12/09/2020).",
+      "Descente : la même cordée n'a vu aucun relais de rappel en haut et a erré ; elle a tenté de rejoindre la descente des Masques de Pierre, qui se désescalade bien selon son souvenir (sortie du 12/09/2020).",
+      "Utilisée comme accès au plateau du dessus avant la voie Céline, « joli et sympathique pour s'échauffer » ; protège bien (sortie du 03/03/2023)."
+    ],
+    "horaires": "Selon les retours : 15h40-17h dans la voie, vers 18h en bas après une descente laborieuse (12/09/2020) ; sortie de la Mouche à 11h puis attaque de la voie Céline à 11h10 (03/03/2023).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1210290 (La Mouche), consulté le 15/10/2026",
+      "Sorties Camptocamp 1517129 (03/03/2023), 1249626 (12/09/2020), 1210299 (26/05/2020), consultées le 15/10/2026",
+      "Historique (C2C) : B. Domenech et J.-P. Folliet en 1970 ; peut-être C. Ivanoff et B. Amy en 2014 à partir de R2"
+    ],
+    "envie": 1
+  },
+  {
+    "id": "sainte-victoire-la-georgie",
+    "nom": "Sainte-Victoire, socle de la Carrière – La Georgie",
+    "sous_titre": "Grande voie facile de 5 longueurs : L1 équipée, la suite en terrain d'aventure – depuis le parking de la Carrière",
+    "massif": "Provence",
+    "secteur": "Sainte-Victoire – Le socle de la Carrière",
+    "coordonnees": {
+      "lat": 43.52285,
+      "lon": 5.59885,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "La Georgie",
+        "url": "https://www.camptocamp.org/routes/480079"
+      }
+    ],
+    "objectif": "Grande voie du secteur de la Carrière : une première longueur en dalle équipée sur broches, puis terrain d'aventure facile jusqu'à la grotte et la sortie. Option : sortie par une belle fissure à bras en 5c (sortie délitée).",
+    "cotation_globale": "AD-",
+    "cotation_libre_max": "4b selon C2C (L1 notée 4c dans la description ; fissure de sortie optionnelle en 5c)",
+    "cotation_obligatoire": "4b",
+    "engagement": "II · équipement P3",
+    "hauteur": "env. 120 m (dénivelé des difficultés), de 580 à 700 m d'altitude",
+    "nb_longueurs": "5",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Calcaire (marbre) de la Carrière. Rocher correct mais avec des sections faciles très fragiles ; quelques vieux spits et pitons en place.",
+    "statut": "bientot",
+    "projet": null,
+    "approche": "",
+    "descente": "À pied, via le tracé marron.",
+    "materiel": "Un jeu de câblés et des sangles suffisent, mais sont indispensables.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Belles dalles équipées sur broches, au choix."
+          },
+          {
+            "n": "L2",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Passer le bourrelet, puis filer en ascendance à droite pour prendre une fissure via un pas de dalle (1 vieux spit), puis bien traverser à droite."
+          },
+          {
+            "n": "L3",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Au plus facile sur le flanc gauche du pilier (rocher un peu délicat), puis laisser les goujons de Samsara Sattva par une fissure à gauche."
+          },
+          {
+            "n": "L4",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Longueur courte, se diriger vers le bosquet d'arbres."
+          },
+          {
+            "n": "L5",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Passer sur la grotte, filer à gauche au plus simple, ou à mi-chemin sur la rampe monter à droite dans la cheminée facile (arbuste). On peut aussi forcer la belle fissure à bras dans le ressaut blanc (5c, sortie délitée)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Sections faciles très fragiles : parcours à proscrire s'il y a du monde dans le secteur en dessous."
+    ],
+    "retex": [
+      "Chutes de pierres : un retour (sortie du 15/07/2020) dit qu'à partir de L2 « ça tombe beaucoup et gros » malgré les précautions, notamment avec le passage de la corde, et qu'une grosse plaque (60 × 30) s'est détachée en L4 ; ce grimpeur n'y retournerait pas pour cette raison. Un autre a fait partir plusieurs cailloux gros comme deux poings (sortie du 13/05/2017). Ne pas y aller avec des grimpeurs en dessous.",
+      "Rocher : avis partagés. Rocher décrit « très compact tout le long » et « excellent » par certains (sorties du 10/11/2024 et du 22/01/2022) ; d'autres signalent du rocher péteux en début de L3, une grosse écaille inversée restée dans la main en L3, et une fissure de L2 en mauvais rocher (sorties du 09/04/2023, du 13/05/2017 et du 17/10/2016).",
+      "Équipement : L1 bien équipée sur broches ; les spits et plaquettes à partir de L2 sont jugés bien vieux, « je ne leur ferais pas confiance en cas de chute » ; la traversée dalleuse de L2 se protège difficilement (vieux spit, éviter de chuter dessus) (sortie du 09/04/2023). Un vieux spit de 8 avec maillon rapide au départ de L2 (sortie du 17/10/2016).",
+      "Relais : à construire à partir de R2 selon un retour (sortie du 10/11/2024) ; d'autres ont utilisé les relais spités de la voie voisine Samsara Sattva (sorties du 22/01/2022 et du 09/04/2023). Relais de L2 possible sur la vire sous le dièdre fissuré, un relais existe 4 m plus haut mais avec trop de tirage (sortie du 06/01/2024).",
+      "Itinéraire en L3 : ne pas suivre les spits de Samsara Sattva, très proche ; bien repartir à gauche (sorties du 06/11/2016 et du 17/10/2016). Rallonger les points (sangles de 120 cm) au départ de L3 et dans la traversée à gauche pour limiter le tirage (sortie du 09/04/2023).",
+      "L4-L5 : faciles, corde tendue possible jusqu'au sommet ; le rocher demande de l'attention (sorties du 09/04/2023 et du 10/11/2024). Un retour contourne la grotte par une rampe à droite puis une fissure (un pas de 4) (sortie du 10/11/2024).",
+      "Matériel : prévoir plus de 2 friends, un jeu de coinceurs et des sangles (sortie du 17/10/2016)."
+    ],
+    "horaires": "Selon les retours : approche 30 min (05/05/2015) à 1 h depuis le parking de la Marbrière (09/04/2023). Dans la voie : 2 h (parking 7 h, pied 7 h 45, sommet 9 h 50, retour parking 10 h 40 le 28/05/2017), 2 h 30 (05/05/2015), 3 h (13/05/2017), 3 h 30 (8 h 30 → 12 h le 10/11/2024), jusqu'à 6 h en formation TA (attaque 10 h 30, sommet 16 h 30 le 09/04/2023).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/sainte-victoire-la-georgie-topo.jpg",
+        "legende": "Tracé de La Georgie (photo Remi Maupetit, Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 480079 (La Georgie), consulté le 15/10/2026",
+      "Sorties Camptocamp 1824189 (25/09/2025), 1713534 (01/12/2024), 1706860 (10/11/2024), 1608454 (06/01/2024), 1526188 (09/04/2023), 1383969 (22/01/2022), 1226739 (15/07/2020), 888606 (28/05/2017), 884317 (13/05/2017), 819733 (06/11/2016), 813129 (17/10/2016), 773613 (10/06/2016), 698461 (17/11/2015), 687989 (24/10/2015), 632257 (05/05/2015), consultées le 15/10/2026",
+      "Image Camptocamp 480080 par Remi Maupetit (CC-BY-SA)",
+      "Topo cité par C2C : Escalade Sainte Victoire et Pays d'Aix",
+      "Historique (C2C) : voie ouverte par Philippe Légier et Georges Als"
+    ],
+    "envie": 1
+  },
+  {
+    "id": "sainte-victoire-masques-de-pierre",
+    "nom": "Sainte-Victoire, Deux Aiguilles – Les masques de pierre",
+    "sous_titre": "Voie semi-équipée de 4 longueurs (4c max), idéale pour l'initiation au terrain d'aventure – depuis le parking des Deux Aiguilles",
+    "massif": "Provence",
+    "secteur": "Sainte-Victoire – Deux Aiguilles (Aiguille Bertine)",
+    "coordonnees": {
+      "lat": 43.52707,
+      "lon": 5.59037,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Les masques de pierre",
+        "url": "https://www.camptocamp.org/routes/1152822"
+      }
+    ],
+    "objectif": "Courte voie semi-équipée de 4 longueurs (env. 90 m), présentée comme idéale pour l'initiation au TA : équipement en place à compléter (lunules, friends, coinceurs), relais partiellement à compléter, sortie sur un petit sommet au bout de l'arête.",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4b",
+    "engagement": "équipement P2",
+    "hauteur": "env. 100 m (dénivelé des difficultés)",
+    "nb_longueurs": "4",
+    "orientation": "S",
+    "duree": "",
+    "ambiance": "Calcaire de la Sainte-Victoire : vague dièdre, dalle sculptée, puis fil d'arête et court dièdre raide final. Équipement aéré sur plaquettes dans les deux premières longueurs (engagé), très peu d'équipement ensuite.",
+    "statut": "bientot",
+    "projet": null,
+    "approche": "Du P2 (parking des Deux Aiguilles), rejoindre le secteur par le sentier balisé de flèches bleues qui mène au pied du Grand Parcours, puis longer la falaise à droite. Le nom de la voie est écrit au pied.",
+    "descente": "Par le couloir/canyon à l'E : désescalade par la branche de gauche (à confirmer) ou rappel de 20 m sur arbre après une courte bartasse à droite. Puis un rappel de 20 m (2 pitons + lunule) pour passer une section raide, et un rappel de 50 m (deux plaquettes avec maillons) à gauche sur une vire qui ramène au sol.",
+    "materiel": "8-10 dégaines, un petit jeu de friends ou coinceurs, quelques sangles.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4c",
+            "longueur": 20,
+            "cheminement": "Vague dièdre à l'équipement un peu aéré (facile à compléter), en ascendance gauche. R1 sur une grosse écaille (2 plaquettes et deux pitons)."
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": 20,
+            "cheminement": "Dalle sculptée grimpée d'abord vers la gauche puis en revenant à droite. On peut s'arrêter à un relais de couenne ou poursuivre sur une dalle couchée jusqu'à un vieux relais chaîné au pied de l'arête (gérer le tirage). Équipement engagé sur plaquettes (quelques lunules et friends possibles)."
+          },
+          {
+            "n": "L3",
+            "cotation": "4b",
+            "longueur": 20,
+            "cheminement": "Droit sur le fil de l'arête au-dessus, très peu d'équipement en place ; une plaquette à compléter pour R3."
+          },
+          {
+            "n": "L4",
+            "cotation": "4c",
+            "longueur": 30,
+            "cheminement": "On poursuit sur l'arête (un piton) pour venir buter sur le bastion final qui se grimpe plutôt par la gauche (court dièdre raide, un pas de 4c bien protégeable). Relais final sur une plaquette au bout de l'arête, à compléter."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Rocher : un retour le décrit très patiné en L1 (sortie du 14/11/2021) ; d'autres le jugent patiné dans les deux premières longueurs, moins ensuite, et un peu moins compact mais sain dans le haut (sorties du 30/05/2021 et du 03/10/2019).",
+      "Équipement : L1 et L2 jugées « bien engagées » (sortie du 14/11/2021), le premier point de L1 « bien haut » (sortie du 07/05/2024) ; pour d'autres, équipée là où il faut et facile à compléter, avec une lunule rassurante au départ de L2 (sorties du 27/02/2024 et du 07/05/2024).",
+      "État des points (sortie du 07/05/2024) : un piton récent en L3, un vieux piton bien rouillé en L4 ; R3 sur une plaquette récente avec une très vieille cordelette jugée sans valeur, lunule possible juste en dessous à droite.",
+      "Itinéraire en L2 : nombreuses couennes qui se croisent, facile de partir trop à droite, et tirage si on ne clippe pas les bons points ; deux cordées ont ajouté une longueur intermédiaire (sorties du 30/05/2021 et du 27/02/2024).",
+      "Repérage : une cordée est redescendue de R3 en pensant être à R4, le topo papier n'étant pas clair (sortie du 14/11/2021).",
+      "Le pas final de la dalle de L2 est décrit comme un 4c typique de la Sainte (peu de pieds, prises fuyantes) : une chute avec blessure y est rapportée (sortie du 03/10/2019).",
+      "Descente : par le canyon en 3 rappels (20 m sur arbre, 20 m sur pitons, 50 m sur deux plaquettes avec maillon) ; un retour indique qu'une corde de 60 m passe et qu'il existe des relais intermédiaires (sorties du 30/05/2021 et du 27/02/2024). Variante : main courante vers la gauche depuis l'arbre jusqu'au relais des « Anges se grattent le derrière », attention aux petites pierres au-dessus des grimpeurs du dessous (sortie du 07/05/2024)."
+    ],
+    "horaires": "Selon les retours : approche 30 min (30/05/2021) ; 2 h 30 dans la voie rappels compris (14/11/2021) ; 4 h dans la voie (attaque 11 h, sortie 15 h, 27/02/2024) ; 4-5 h en initiation avec débutants en tête (30/05/2021) ; descente par le canyon et retour au parking 1 h (30/05/2021). Cordée rapide : environ 1 h en deux grandes longueurs L1+L2 et L3+L4 (28/05/2020).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1152822 (Les masques de pierre), consulté le 15/10/2026",
+      "Sorties Camptocamp 1643715 (07/05/2024), 1623644 (27/02/2024), 1377317 (31/12/2021), 1366354 (14/11/2021), 1316160 (30/05/2021), 1314114 (22/05/2021), 1211188 (28/05/2020), 1191399 (12/01/2020), 1152823 (03/10/2019), 1366847 (20/01/2012), consultées le 15/10/2026",
+      "Historique (C2C) : E., B. et D. Amy, B. Domenech, en 1970"
+    ],
+    "envie": 2
+  },
+  {
+    "id": "sainte-victoire-moussaillons-jardin-arete-sw",
+    "nom": "Sainte-Victoire, Croix de Provence – Moussaillons + Arête du Jardin + Arête SW de la Croix",
+    "sous_titre": "Combinaison de trois arêtes en terrain d'aventure, du pied de la Sainte-Victoire jusqu'à la Croix de Provence – depuis le parking d'Enchois (refuge Cézanne)",
+    "massif": "Provence",
+    "secteur": "Sainte-Victoire – Croix de Provence",
+    "coordonnees": {
+      "lat": 43.52741,
+      "lon": 5.57896,
+      "repere": "Attaque des Moussaillons (coordonnées UTM 31T 708404 4822617 données par C2C, converties ; à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Sainte Victoire - Croix de Provence : Combinaison Moussaillons + Arête du Jardin + Arête SW de la Croix",
+        "url": "https://www.camptocamp.org/routes/55427"
+      }
+    ],
+    "objectif": "Enchaîner trois arêtes (Moussaillons, Arête du Jardin, Arête SW de la Croix) pour sortir à la Croix de Provence, dans un niveau raisonnable où il faut savoir poser ses protections. Selon C2C, le grand replat entre les Moussaillons et l'Arête du Jardin coupe un peu la course ; nombreuses échappatoires possibles.",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "5a (L1 des Moussaillons notée 4c/5a)",
+    "cotation_obligatoire": "4c",
+    "engagement": "II · équipement P2+ · exposition E3",
+    "hauteur": "env. 400 m (dénivelé des difficultés) ; 250 m de dénivelé d'approche",
+    "nb_longueurs": "15 décrites sur C2C : 6 (Moussaillons) + 5 (Arête du Jardin) + 4 (Arête SW de la Croix), avec de la marche entre les parties",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Calcaire : conglomérat de bonne qualité dans les deux premières longueurs, puis calcaire de plus en plus compact. Trois arêtes en terrain d'aventure, pitons vieillissants, peu de points en place ; on se protège soi-même (coinceurs, friends, sangles). Attention (C2C) : les plaquettes posées en 2016 dans L1 des Moussaillons ont été sciées ; il ne reste dans L1 que 3 lunules dans les 20 premiers mètres (dont seule la première était en état correct en avril 2017) et une plaquette juste avant le relais.",
+    "statut": "bientot",
+    "projet": null,
+    "approche": "Du parking d'Enchois, suivre le chemin qui mène au refuge Cézanne (tracé rouge). Juste après le refuge, rejoindre le tracé marron vers l'E. Le suivre en longeant les contreforts de la Sainte (Dalles Grises, Grand Dièdre Jaune) jusqu'à un bloc pointu caractéristique au-dessus du sentier à gauche. Le dépasser de peu, puis prendre la sente à gauche (cairn) pour rejoindre vers la droite la dalle de conglomérat gris rougeâtre rayée d'une strate rouge horizontale à son sommet. Coordonnées UTM de l'attaque : 31T 708404 4822617.",
+    "descente": "Suivre le GR vers l'W puis le tracé bleu vers l'W. Lorsqu'on voit un gros cairn sur la crête au Pas du Moine, descendre vers le refuge Cézanne puis le parking par le tracé rouge. Un passage rocheux (1 spit + maillon rapide à gauche au cas où).",
+    "materiel": "Coinceurs, friends (BD #0.3 à #2) et quelques sangles, indispensables pour se protéger et équiper les relais. Corde de 60 m nécessaire si l'on veut enchaîner L1 + L2 des Moussaillons et continuer quelques mètres dans L3 (relais sur deux points vieillissants). Avec une corde de 50 m, sortie directe possible 10 m sous la croix.",
+    "longueurs": [
+      {
+        "titre": "Moussaillons",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4c/5a",
+            "longueur": 25,
+            "cheminement": "Remonter la dalle sur 20 m (3 lunules, pas de plaquettes), puis obliquer à gauche pour passer au-dessus d'un petit buisson et traverser (1 plaquette) jusqu'à une petite niche où se trouve le relais (2 plaquettes), peu visible."
+          },
+          {
+            "n": "L2",
+            "cotation": "4b",
+            "longueur": 20,
+            "cheminement": "Monter légèrement à gauche du relais le long d'une écaille, puis d'une fissure (2 pitons), puis vers la gauche pour rejoindre une terrasse au-dessus à gauche. Relais sur arbre ou sur 2 lunules. L1 + L2 couplables en 45 m ; possibilité de continuer 5 à 7 m en 2/3 dans L3 pour trouver deux points vieillissants et faire relais s'il y a plusieurs cordées (corde de 60 m nécessaire pour enchaîner depuis L1)."
+          },
+          {
+            "n": "L3",
+            "cotation": "4c",
+            "longueur": 20,
+            "cheminement": "Monter droit au-dessus, 2/3. Fissure au choix à protéger : fissure de gauche (1 piton) ou fissure de droite plus athlétique mais très facilement protégeable. Relais sur une large terrasse (piton + vieille plaquette). Variante en 2 possible dans le couloir de droite."
+          },
+          {
+            "n": "L4",
+            "cotation": "4b",
+            "longueur": 20,
+            "cheminement": "Remonter l'arête en suivant les 4 pitons. Relais sur petite terrasse sur la gauche (vieux piton + vieille plaquette)."
+          },
+          {
+            "n": "L5",
+            "cotation": "4b",
+            "longueur": 45,
+            "cheminement": "Suivre les 5 pitons vers la gauche. Relais à gauche sur le gros pin (ou 10 m avant sur 2 points)."
+          },
+          {
+            "n": "L6",
+            "cotation": "3",
+            "longueur": 35,
+            "cheminement": "Remonter la petite aiguille au-dessus de l'arbre par la gauche et passer une brèche. Relais malcommode sur petits arbustes ou à l'épaule."
+          },
+          {
+            "n": "Jonction",
+            "cotation": "2/3",
+            "longueur": null,
+            "cheminement": "Suivre les cairns vers la gauche, remonter une brèche (2/3) puis rejoindre le départ de l'Arête du Jardin en remontant vers la droite (c'est l'arête qui descend à gauche à l'aplomb de la Croix). Variante conseillée par C2C, plus directe et plus grimpante : après L6, monter à main droite (vague sente) jusqu'au pied d'un mur de 20 m près de la crête, côté W (cairn) : fissure + dalle-dièdre bien sculptée, 2 pitons, pas de relais mais terrain plat en sortie ; on rejoint facilement vers le haut le chemin de l'Arête du Jardin (traces). Au replat suivant, près de la base de l'Arête du Jardin, on peut partir à droite en descente vers la base des Rois Mages (Arête S Intégrale)."
+          }
+        ]
+      },
+      {
+        "titre": "Arête du Jardin",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "2/3",
+            "longueur": 35,
+            "cheminement": "Repérer l'arête qui part vers la gauche et se termine au pied SW de la paroi de la Croix. Rejoindre le petit collet sur l'arête. Relais sur coinceurs et lunules. Longueur non grimpante."
+          },
+          {
+            "n": "L2",
+            "cotation": "3",
+            "longueur": 30,
+            "cheminement": "Véritable première longueur d'arête. Rejoindre un autre petit collet sur l'arête. Relais sur lunule."
+          },
+          {
+            "n": "L3",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Au redressement du fil, traverser 3 m à gauche pour remonter le grand couloir-cheminée (fissure, 1 piton, 1 cordelette), ou prendre à droite du fil en traversée ascendante à droite (quelques pitons en place, plus dur). Relais sur gros arbre (belle plateforme) ou becquet (attention, blocs posés)."
+          },
+          {
+            "n": "L4",
+            "cotation": "3 puis 2",
+            "longueur": null,
+            "cheminement": "Continuer l'arête, sur le fil, joli. Relais sur becquet au début du grand replat, puis 30 m de marche pour aller au pied du promontoire d'accès à l'arête SW de la Croix. Échappatoire possible à droite."
+          },
+          {
+            "n": "L5",
+            "cotation": "3",
+            "longueur": 15,
+            "cheminement": "Ressaut pour rejoindre le promontoire marquant la fin de l'Arête du Jardin et le début de l'Arête SW de la Croix. Relais sur replat sur becquet, ou sur vieux pitons 4 à 5 m plus haut sur l'arête."
+          }
+        ]
+      },
+      {
+        "titre": "Arête SW de la Croix",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Du promontoire, petit mur de 3 m puis remonter le fil diagonal évident de l'arête (dalleux, quelques pitons mal en point, sinon délicat à protéger, adhérence). Sinon remonter le couloir parallèle juste derrière à gauche (3). Passé deux arbres, le couloir se rétrécit en petite vire : relais sur piton + becquet à côté du petit chêne au pied de la longueur suivante, ou 5 m plus bas sur becquet."
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Monter le dièdre-cheminée (quelques pitons) à la verticale de l'arbre, puis continuer toujours vers la droite jusqu'à un nouvel arbre à gauche, où la paroi devient moins raide. Relais sur l'arbre (mal placé) ou sur friends (plus confortable). Au début de la longueur, possibilité de grimper dans le dièdre de gauche avec la sangle orange (moins logique)."
+          },
+          {
+            "n": "L3",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Traverser à droite pour soit prendre la fissure-dièdre qui remonte ensuite à gauche (quelques pitons), soit passer le fil pour rejoindre l'arbre derrière à droite (belle plateforme). Puis monter au plus évident. Avec une corde de 50 m, sortie directe 10 m sous la croix, un spit + lunule au relais."
+          },
+          {
+            "n": "L4",
+            "cotation": "3",
+            "longueur": null,
+            "cheminement": "Monter au plus facile. Relais sur anneau scellé sous la croix, ou 10 m avant la croix sur spit + lunule."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Nombreuses échappatoires possibles.",
+      "L1 + L2 des Moussaillons peuvent être couplées en 45 m.",
+      "Après L6 des Moussaillons, variante conseillée par C2C (plus directe et plus de grimpe) : mur de 20 m côté W près de la crête (fissure + dalle-dièdre, 2 pitons) pour rejoindre le chemin de l'Arête du Jardin."
+    ],
+    "retex": [
+      "L1 des Moussaillons : un retour signale 6 à 7 m avant le premier point, longueur « assez expo », il faut rester concentré malgré les petites cotations (sortie du 12/11/2025) ; un autre : première protection à 5/6 m (lunules), pas protégeable avant, mais de bon pied et très bon rocher (sortie du 09/05/2025).",
+      "Équipement en place : « peu de matériel en place », « quasi rien sur l'arête du Jardin et pas grand-chose sur l'arête SW » (sorties des 12/11/2025 et 02/03/2025) ; « ne pas faire confiance aux pitons », facile à protéger ou compléter (sortie du 26/04/2025) ; pitons et plaquettes pas tous neufs (sortie du 28/09/2025) ; cordelettes un peu raides dans certaines lunules (sortie du 29/11/2025). À l'inverse, un retour trouve « plein de pitons » sur l'arête finale (sortie du 29/11/2025).",
+      "L1 de l'Arête SW : vieux pitons, 10 min d'hésitation avant 2 m d'adhérence au pas clé ; les cordées suivantes ont pris le couloir de gauche (sortie du 05/04/2026).",
+      "Rocher : excellent et quasi sans patine dans les Moussaillons ; sur l'Arête du Jardin, nombreuses structures de gros blocs qui pourraient partir ; quelques blocs morcelés dans le haut de l'Arête SW, attention à ne pas canarder le second (sortie du 02/03/2025). Passage plus « croustillant » entre Moussaillons et Arête du Jardin (sortie du 10/05/2025) ; une écaille qui sonne creux sur L4 de l'Arête du Jardin (sortie du 09/05/2025).",
+      "Relais : plaquette de R3 (Moussaillons) non trouvée, relais sur un gros becquet ; un relais intermédiaire au milieu de L5, ~20 m avant le gros pin, jugé peu adapté ; sur l'arête finale, bien choisir les relais sur arbres pour ne pas manquer de friends (sortie du 29/11/2025). Arbre de relais de L2 (Arête SW) jugé douteux, complété au friend (sortie du 05/04/2026).",
+      "Cotations : un retour les juge « d'époque » et salées, avec des 4+ plus grimpants que certains 5c/6a voisins, à protéger soi-même ; L3 de l'Arête du Jardin ressentie 5b par un autre (sorties des 02/03/2025 et 09/05/2025).",
+      "Itinéraire : sans faire les Moussaillons, le départ de l'Arête du Jardin n'est pas simple à trouver (sorties des 26/10/2025 et 05/04/2026) ; les traces GPX des sorties C2C aident (sortie du 26/10/2025).",
+      "Matériel utilisé selon les retours : 15 dégaines + 1,5 jeu de friends (tailles moyennes doublées), jugé « pile ce qu'il faut » (sortie du 02/03/2025) ; corde de 45 m + 7 dégaines + 4 sangles (sortie du 25/01/2026). Beaucoup font la suite en corde tendue après les premières longueurs (sorties des 08/11/2025, 29/11/2025, 10/05/2025).",
+      "Affluence et descente : plusieurs cordées au pied en même temps et foule à la croix certains jours (sorties des 08/11/2025 et 10/05/2025). Roche bien polie sous la croix à la descente par le tracé rouge (sortie du 09/05/2025). Par le sentier vert, ne pas traîner dans le pierrier sous l'éboulement récent (sortie du 10/05/2025) ; ce sentier est jugé praticable sans corde par un autre retour (sortie du 02/03/2025)."
+    ],
+    "horaires": "Approche : 250 m de dénivelé (C2C). Dans la voie, selon les retours : 10 h – 16 h (sortie du 22/02/2026) ; départ de R0 10 h, arrivée à la croix 16 h (sortie du 12/11/2025) ; 5 h 30 à 6 h pauses comprises (sortie du 28/09/2025) ; 2 h 30 à 3 h en corde tendue (sortie du 10/05/2025) ; 2 h 30 pour une cordée rapide (17 h – 19 h 30, sortie du 02/03/2025). Arête du Jardin + Arête SW seules : 11 h 30 – 15 h (sortie du 05/04/2026).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/sainte-victoire-moussaillons-jardin-arete-sw-topo.jpg",
+        "legende": "Tracé de la voie (vue depuis l'est du départ), publié sur Camptocamp (photo mathiaslg, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/sainte-victoire-moussaillons-jardin-arete-sw-topo-2.jpg",
+        "legende": "Moussaillons : tracé de L1 à L4, publié sur Camptocamp (photo Yayo, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 55427 (Sainte Victoire - Croix de Provence : Combinaison Moussaillons + Arête du Jardin + Arête SW de la Croix), consulté le 15/10/2026",
+      "Sorties Camptocamp 1891365 (05/04/2026), 1874102 (22/02/2026), 1869891 (25/01/2026), 1852574 (29/11/2025), 1835528 (12/11/2025), 1834375 (08/11/2025), 1850577 (01/11/2025), 1830814 (26/10/2025), 1821565 (28/09/2025), 1788671 (24/05/2025), 1775027 (10/05/2025), 1768333 (10/05/2025), 1768336 (09/05/2025), 1766371 (26/04/2025), 1745346 (02/03/2025), consultées le 15/10/2026",
+      "Image Camptocamp 643376 par mathiaslg (CC-BY-SA)",
+      "Image Camptocamp 141875 par Yayo (CC-BY-SA)",
+      "Topos associés sur C2C : « Escalade Sainte Victoire et Pays d'Aix », « 100 plus belles grandes voies de Provence »",
+      "Historique (C2C) : Moussaillons ouverts par Bernard Amy et Alain Michel en 1965 ; Arête du Jardin ouverte par Henri Gentil ; Arête SW de la Croix ouverte par Marc Latil et Louis Paul en 1941",
+      "Topo Vertical Pirate (lien noté par le propriétaire) : https://verticalpirate-escalade.com/topos-escalade/france/sainte-victoire/baou-cezanne-croix-de-provence-prieure-et-contreforts/arete-sud-ouest-de-la-croix/"
+    ],
+    "envie": 3
+  },
+  {
+    "id": "sormiou-diedre-guem",
+    "nom": "Dièdre Guem (Sormiou) – Dièdre Guem",
+    "sous_titre": "Petite grande voie très facile de 3 longueurs sur calcaire sculpté, au-dessus de la mer – depuis la calanque de Sormiou",
+    "massif": "Calanques",
+    "secteur": "Sormiou – Dièdre Guem",
+    "coordonnees": {
+      "lat": 43.20852,
+      "lon": 5.41982,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Calanques - Sormiou - Dièdre Guem : Dièdre Guem",
+        "url": "https://www.camptocamp.org/routes/194072"
+      }
+    ],
+    "objectif": "Grimper le dièdre puis la dalle et la rampe finale jusqu'au sommet ; voie très facile sur rocher sans patine, conseillée par C2C aux débutants ou pour un moment tranquille.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "4b",
+    "engagement": "I · équipement P1",
+    "hauteur": "env. 80 m (dénivelé des difficultés)",
+    "nb_longueurs": "3 décrites sur C2C (les remarques C2C parlent aussi d'un R4, et des retours d'une « L4 » 4b à gauche : à vérifier)",
+    "orientation": "SW",
+    "duree": "1 jour",
+    "ambiance": "Calcaire, pilier-dièdre ; « rocher de rêve sans aucune patine » et paysage magnifique selon C2C. Équipement excellent, sur broches (bis) ; relais non reliés.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Du parking de la calanque de Sormiou, suivre le tracé noir en direction du Bec : d'abord quelques mètres droit dans la pente puis à l'horizontale vers la gauche. Bien dépasser la dalle blanche du Spigaou et poursuivre jusqu'à croiser un éboulis. Suivre la sente qui remonte cet éboulis et, sur la fin, après quelques mètres d'escalade très facile dans une sorte de dièdre, tirer légèrement vers la droite jusqu'à un trou donnant côté SW et une corde fixe. S'engager dans le trou (étroit, de préférence les pieds en avant). Poursuivre la descente évidente par des cordes fixes qui tirent franchement à droite, puis droit dans la pente, puis de nouveau à droite. Après les cordes, le sol devient orange : suivre la sente jusqu'au pied d'une belle lame inclinée caractéristique où le relais de départ (2 points) est visible. Le Dièdre Guem est la ligne la plus à gauche, proche du dièdre.",
+    "descente": "Descendre en désescalade par derrière, puis reprendre le sentier de montée pour rejoindre le parking.",
+    "materiel": "Pas de liste de matériel sur C2C. Équipement décrit comme excellent, sur broches (bis), relais non reliés. Les trois premières longueurs s'enchaînent avec une corde de 70 m.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4a",
+            "longueur": 20,
+            "cheminement": "Remonter le dièdre jusqu'au relais dans une encoche."
+          },
+          {
+            "n": "L2",
+            "cotation": "4a",
+            "longueur": 35,
+            "cheminement": "Continuer droit dans la dalle très prisue à droite du dièdre, en sautant le premier relais rencontré (broche + plaque de métal)."
+          },
+          {
+            "n": "L3",
+            "cotation": "4b",
+            "longueur": 20,
+            "cheminement": "Monter quelques mètres, puis aller à gauche pour remonter une rampe caractéristique jusqu'au sommet ; le relais est quelques mètres plus loin."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Les trois premières longueurs s'enchaînent sans aucun problème avec une corde de 70 m (gérer le tirage, l'accepter ou sauter des points)."
+    ],
+    "retex": [
+      "Accès : passer la « chatière » (trou étroit) en ôtant les sacs (sortie du 12/03/2026). Au retour, une cordée n'est pas allée assez loin chercher les cordes fixes et a suivi un passage raide « pas idéal, faut pas tomber » (sortie du 27/09/2026) ; une autre est rentrée par le sentier aérien en face S, avec des cordes fixes sous le deuxième col (ne pas descendre au premier) (sortie du 30/03/2026).",
+      "Rocher : unanimement décrit comme excellent, sculpté et non patiné (sorties des 15/11/2025, 21/12/2024 et 12/10/2024) ; la dernière courte longueur est moins patinée qu'attendu (sortie du 23/10/2024).",
+      "Équipement : « super bien équipé » (sortie du 12/10/2024). Une cordée l'a faite en terrain d'aventure en utilisant les relais en place : petits câblés dans les aspérités, des friends BD #2 et #3 auraient été utiles pour longer le dièdre en L1/L2 ; 0.5 et 0.75 utiles dans la rampe de L3 (sortie du 07/12/2024).",
+      "Corde tendue : faite entièrement en corde tendue avec un relais sommital sur l'arbre (sortie du 29/12/2025) ; utilisée comme atelier de corde tendue (sortie du 03/11/2024).",
+      "Conditions : voie abritée du mistral (sorties des 07/12/2024 et 12/03/2026) ; elle a séché très vite grâce au mistral après une averse (sortie du 07/12/2024). Par vent d'est, tout était trempé à l'approche (sortie du 15/11/2025).",
+      "Accès en voiture : parking de Sormiou à 10 € (sorties des 15/11/2025 et 30/03/2026) ; une cordée est venue en bus jusqu'aux Baumettes puis à pied (sortie du 27/09/2026).",
+      "Initiation : plusieurs retours la jugent parfaite pour l'initiation, en famille ou avec des débutants (sorties des 21/12/2024, 16/03/2025 et 12/10/2024)."
+    ],
+    "horaires": "Selon les retours : environ 1 h dans la voie (sortie du 29/12/2025) ; 1 h 20 pour Étron Fou + Dièdre Guem (sortie du 27/09/2026) ; 13 h – 17 h parking à parking sans se presser avec Étron Fou (sortie du 30/03/2026) ; 9 h 30 – 14 h avec une deuxième voie (sortie du 12/10/2024).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 194072 (Calanques - Sormiou - Dièdre Guem : Dièdre Guem), consulté le 15/10/2026",
+      "Sorties Camptocamp 1954298 (27/09/2026), 1889443 (30/03/2026), 1882263 (12/03/2026), 1858976 (29/12/2025), 1851516 (15/11/2025), 1797836 (16/03/2025), 1722605 (09/01/2025), 1755150 (21/12/2024), 1716963 (07/12/2024), 1713831 (07/12/2024), 1707928 (10/11/2024), 1706867 (03/11/2024), 1701254 (23/10/2024), 1698653 (12/10/2024), 1639328 (20/04/2024), consultées le 15/10/2026",
+      "Topos associés sur C2C : « Escalades dans les Calanques - Sormiou », « Escalade plaisir - Alpes du Sud, Provence », « Des rochers et des hommes », « Les Calanques », « Escalade les Calanques Marseille-Cassis-La Ciotat »",
+      "Historique (C2C) : ouverture en 1976 par Martine et Christian Guyomar"
+    ],
+    "envie": 3,
+    "enchainements": [
+      {
+        "id": "sormiou-pop-psych",
+        "titre": "Dièdre Guem (Sormiou) – Pop-Psych",
+        "texte": "Pop-Psych (AD-, 4a, 75 m, même secteur) s'enchaîne après le Dièdre Guem : C2C conseille de faire les deux, « 2 voies très faciles et magnifiques sur un rocher de rêve »."
+      }
+    ]
+  },
+  {
+    "id": "sormiou-pop-psych",
+    "nom": "Dièdre Guem (Sormiou) – Pop-Psych",
+    "sous_titre": "Deux longueurs très faciles sur dalle sculptée, à droite du Dièdre Guem – depuis la calanque de Sormiou",
+    "massif": "Calanques",
+    "secteur": "Sormiou – Dièdre Guem",
+    "coordonnees": {
+      "lat": 43.20852,
+      "lon": 5.41982,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Calanques - Sormiou - Dièdre Guem : Pop-Psych",
+        "url": "https://www.camptocamp.org/routes/211000"
+      }
+    ],
+    "objectif": "Voie très facile de deux longueurs (ligne de droite du secteur Dièdre Guem), puis sortie vers le pin caractéristique ou par la L4 du Dièdre Guem en 4b. Conseillée par C2C aux débutants ou pour un moment tranquille.",
+    "cotation_globale": "AD-",
+    "cotation_libre_max": "4a (sortie possible en 4b par la L4 du Dièdre Guem)",
+    "cotation_obligatoire": "4a",
+    "engagement": "I · équipement P1",
+    "hauteur": "env. 75 m (dénivelé des difficultés)",
+    "nb_longueurs": "2 (+ sortie)",
+    "orientation": "SW",
+    "duree": "1 jour",
+    "ambiance": "Calcaire, dalle ; « rocher de rêve sans aucune patine » et paysage magnifique selon C2C. Équipement « béton » sur broches (bis).",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Du parking de la calanque de Sormiou, suivre le tracé noir en direction du Bec, qui part à l'horizontale vers la gauche après quelques mètres droit dans la pente. Bien dépasser la dalle blanche du Spigaou jusqu'à croiser un éboulis. Suivre la sente qui remonte cet éboulis et, sur la fin, après quelques mètres d'escalade très facile dans une sorte de dièdre, tirer légèrement vers la droite pour trouver un trou donnant côté SW. Pop-Psych est la ligne de droite. (La suite après le trou – descente par cordes fixes jusqu'au pied – est décrite dans la fiche C2C du Dièdre Guem, même pied de voie.)",
+    "descente": "Désescalade évidente, puis reprendre le sentier de montée pour rejoindre le parking.",
+    "materiel": "Pas de liste de matériel sur C2C. Équipement décrit comme « béton », sur broches (bis).",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4a",
+            "longueur": 50,
+            "cheminement": ""
+          },
+          {
+            "n": "L2",
+            "cotation": "4a",
+            "longueur": 25,
+            "cheminement": ""
+          },
+          {
+            "n": "Sortie",
+            "cotation": "? ou 4b",
+            "longueur": null,
+            "cheminement": "Soit sortir vers le pin caractéristique, soit rejoindre la L4 du Dièdre Guem en 4b."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Rocher : excellent, très bien sculpté, super adhérent et sans patine (sorties des 07/11/2024, 23/10/2024, 18/12/2023 et 31/10/2022).",
+      "Équipement : « bon équipement » (sortie du 18/12/2023), « récent et béton » (sortie du 11/03/2017), « excellent » (sortie du 11/12/2016).",
+      "Corde : avec une corde à simple de 40 m, L1 « passe pile-poil » (sortie du 31/10/2022). Avec une corde à simple de 90 m, une cordée a fait Pop-Psych en une longueur (~60 m) jusqu'en haut du dièdre, puis la L4 du Dièdre Guem (« le 4b aérien de gauche ») (sortie du 02/01/2017).",
+      "Sortie par la L4 du Dièdre Guem : jugée « pas idéale » par un retour : beaucoup de tirage, 7 m de traversée sur une vire, petite escalade raide avant le premier point, 2 points dans la rampe finale puis plus rien, et 5-6 m sur une vire pour trouver le relais d'une autre voie plus à gauche ; on ne voit ni n'entend plus le second (sortie du 31/10/2022). Une autre cordée a fait les deux longueurs + la dernière longueur du Dièdre Guem, puis 15 m de corde tendue sur l'arête pour rejoindre la descente dans un couloir (sortie du 23/10/2024).",
+      "Accès : passage de l'étroiture jugé « bof » (sortie du 29/10/2024). Une cordée a renoncé à commencer par une voie du bord de l'eau à cause des cordées en dessous dans les rappels (sortie du 29/10/2024).",
+      "Comparaison avec le Dièdre Guem : avis partagés : « un peu plus d'ambiance que sa voisine » (sortie du 31/10/2022) ; « voie moins belle que sa voisine » (sortie du 11/03/2017) ; « ressemble à s'y méprendre à la voisine de gauche » (sortie du 15/11/2025).",
+      "Conditions : un peu moins de mistral côté Guem, mais sortie sur la crête à l'ombre très froide par mistral (sortie du 11/12/2016). Parking de Sormiou payant : 10 € (sortie du 15/11/2025)."
+    ],
+    "horaires": "Selon les retours : 30 min en corde tendue (sortie du 20/02/2018) ; 1 h 10 (sortie du 11/12/2016) ; départ du parking 10 h 20, retour 13 h 30 (sortie du 31/10/2022).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 211000 (Calanques - Sormiou - Dièdre Guem : Pop-Psych), consulté le 15/10/2026",
+      "Sorties Camptocamp 1862673 (10/01/2026), 1851516 (15/11/2025), 1797836 (16/03/2025), 1705542 (07/11/2024), 1721296 (29/10/2024), 1701254 (23/10/2024), 1636304 (11/04/2024), 1606300 (18/12/2023), 1605056 (26/11/2023), 1479870 (31/10/2022), 1384680 (23/10/2021), 973150 (20/02/2018), 860107 (11/03/2017), 862407 (02/01/2017), 830351 (11/12/2016), consultées le 15/10/2026",
+      "Topos associés sur C2C : « Escalades dans les Calanques - Sormiou », « Des rochers et des hommes », « Les Calanques »",
+      "Historique (C2C) : ouverture en 1976 par Christian Guyomar avec l'UCPA"
+    ],
+    "envie": 3,
+    "enchainements": [
+      {
+        "id": "sormiou-diedre-guem",
+        "titre": "Dièdre Guem (Sormiou) – Dièdre Guem",
+        "texte": "C2C conseille de commencer par le Dièdre Guem (AD, 4b, 80 m, même secteur) puis d'enchaîner Pop-Psych."
+      }
+    ]
+  },
+  {
     "id": "crete-de-coq-grand-eperon",
     "nom": "Crête de Coq – Le Grand Éperon",
     "sous_titre": "Dalle en adhérence sur trachy-andésite, 4 longueurs – vallée de Chaudefour",
