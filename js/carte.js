@@ -89,6 +89,7 @@ function construireFiltres(voies) {
 chargerVoies()
   .then((voies) => {
     construireFiltres(voies);
+    carte.invalidateSize(); // les filtres ajoutés changent la hauteur de la carte
     for (const voie of voies) {
       const c = voie.coordonnees;
       if (!c || c.lat == null || c.lon == null) continue;
