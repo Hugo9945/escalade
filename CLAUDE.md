@@ -18,7 +18,7 @@ Le propriétaire ne code pas : expliquer simplement ce qui est fait, poser des q
 
 Tester en local : `python3 -m http.server 8000` puis http://localhost:8000 (ouvrir le fichier directement ne marche pas, le JSON ne se charge pas).
 
-Publication : dépôt https://github.com/Hugo9945/escalade (GitHub Pages, branche main) → https://hugo9945.github.io/escalade/. GitHub CLI : `~/.local/bin/gh` (connecté au compte Hugo9945). Après chaque modification : commit + push, le site se met à jour en 1-2 min.
+Publication : dépôt https://github.com/Hugo9945/escalade (GitHub Pages, branche main) → https://hugo9945.github.io/escalade/. GitHub CLI : `~/.local/bin/gh` (connecté au compte Hugo9945). Après chaque modification : commit + push, le site se met à jour en 1-2 min. GitHub Pages fait garder les fichiers 10 min par les navigateurs : quand on modifie un fichier `js/` ou `css/`, augmenter le numéro `?v=N` dans les 3 pages HTML.
 
 ## Format d'une voie (`data/voies.json`)
 
