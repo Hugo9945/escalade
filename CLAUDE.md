@@ -64,3 +64,8 @@ Règles :
 - Niveau : 6c en salle, 6a en extérieur, grandes voies jusqu'à 5b pour l'instant. Prend de la marge (a facilement peur) : rester prudent dans les suggestions.
 - Rack : friends Black Diamond en double du 0.5 au 3, plus un 0.4 ; Aliens : 1 gris, 1 rouge, 2 jaunes, 2 verts, 1 noir ; jeu complet de nuts DMM, jeu complet de nuts Black Diamond, jeu complet d'offsets DMM ; ~12 dégaines rallongeables, ~20 dégaines classiques, sangles et mousquetons en quantité. **Rien au-dessus du friend #3.**
 - Cordes : simple 70 m en 9,5 ; double 60 m en 8,6 ; simple d'environ 30 m.
+
+## À traiter plus tard
+
+- **Maroc** (repérées dans les onglets du propriétaire le 15/10/2026, à traiter quand il le demandera, statut à demander voie par voie, dossier « Maroc ») : itinéraires C2C 1740320 (High Sierra Dome – Wide Sierra), 1893930 (High Sierra Dome – Dièdre sud-ouest), 1740329 (Adrar Iffran – Lone Tree Rib), 1849844 (Tafraout – Akida : Alabama buttress), 1849860 (Azrou el Doutoumdah – Curved Ridge), 1849985 (Adrar Umlil 5 – South Ridge), 1851086 (Adrar Umlil 1 – Noir c'est noir), 1851890 (Great Rock – Labyrinth Ridge), 1894552 (Middle Eagle – Éperon E).
+- **Enchaînements repérés, non encore proposés en détail** : Arêtes de la Bruyère + Éperon des Moulinettes (refuge du Clot des Vaches) ; Index de la Glière + Mani pulite (C2C 54601) ; Brumes de l'automne + traversée Montaubert–Beccaz–Mouche (C2C 56812) ; Baulmes Grande Arête + Petite Arête (C2C 658103) ; Orpierre + Merci M'sieur (C2C 57749) ; Roche Fendue + Dents du Loup (C2C 57077).
