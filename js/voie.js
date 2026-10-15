@@ -46,6 +46,13 @@ function info(libelle, valeur) {
   return `<div><dt>${echapper(libelle)}</dt><dd>${echapper(valeur)}</dd></div>`;
 }
 
+// Prévisions Meteoblue sur 7 jours au point de la voie (ex. …/semaine/45.991N6.463E).
+function lienMeteo(c) {
+  const lat = `${Math.abs(c.lat).toFixed(3)}${c.lat >= 0 ? "N" : "S"}`;
+  const lon = `${Math.abs(c.lon).toFixed(3)}${c.lon >= 0 ? "E" : "W"}`;
+  return `https://www.meteoblue.com/fr/meteo/semaine/${lat}${lon}`;
+}
+
 /* ---------- Affichage écran ---------- */
 function afficherFiche(voie) {
   document.title = `${voie.nom} – Escalade`;
@@ -69,6 +76,7 @@ function afficherFiche(voie) {
       <button class="bouton principal" type="button" onclick="window.print()">🖨 Fiche A4</button>
       ${liensC2C}
       ${c.lat != null ? `<a class="bouton" href="index.html?voie=${encodeURIComponent(voie.id)}">Voir sur la carte</a>` : ""}
+      ${c.lat != null ? `<a class="bouton" href="${lienMeteo(c)}" target="_blank" rel="noopener">🌤 Météo (Meteoblue) ↗</a>` : ""}
     </div>
 
     <dl class="infos">
