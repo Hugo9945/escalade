@@ -5,20 +5,20 @@
       {
         "nom": "Corde à simple",
         "quantite": "1",
-        "marque": "",
-        "details": "70 m, 9,5 mm",
-        "annee": "",
+        "marque": "Mammut",
+        "details": "Crag We Care, 70 m, 9,5 mm",
+        "annee": "05/2025",
         "etat": "",
         "notes": ""
       },
       {
         "nom": "Corde à double",
-        "quantite": "",
-        "marque": "",
+        "quantite": "2 brins",
+        "marque": "Simond",
         "details": "60 m, 8,6 mm",
-        "annee": "",
+        "annee": "10/2026",
         "etat": "",
-        "notes": "Nombre de brins à préciser"
+        "notes": ""
       },
       {
         "nom": "Corde à simple",
