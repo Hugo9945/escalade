@@ -15,6 +15,9 @@ const fonds = {
   ),
 };
 fonds["OpenTopoMap"].addTo(carte);
+
+// Recalcule la taille de la carte quand sa zone change (filtres sur plusieurs lignes, rotation du téléphone…).
+new ResizeObserver(() => carte.invalidateSize()).observe(document.getElementById("carte"));
 L.control.layers(fonds, null, { position: "topright" }).addTo(carte);
 
 // Légende des couleurs
@@ -89,7 +92,6 @@ function construireFiltres(voies) {
 chargerVoies()
   .then((voies) => {
     construireFiltres(voies);
-    carte.invalidateSize(); // les filtres ajoutés changent la hauteur de la carte
     for (const voie of voies) {
       const c = voie.coordonnees;
       if (!c || c.lat == null || c.lon == null) continue;
