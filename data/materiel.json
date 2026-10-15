@@ -1,0 +1,53 @@
+[
+  {
+    "categorie": "Cordes",
+    "articles": [
+      { "nom": "Corde à simple", "quantite": "1", "marque": "", "details": "70 m, 9,5 mm", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Corde à double", "quantite": "", "marque": "", "details": "60 m, 8,6 mm", "annee": "", "etat": "", "notes": "Nombre de brins à préciser" },
+      { "nom": "Corde à simple", "quantite": "1", "marque": "", "details": "env. 30 m", "annee": "", "etat": "", "notes": "" }
+    ]
+  },
+  {
+    "categorie": "Coinceurs mécaniques (friends)",
+    "articles": [
+      { "nom": "Friend", "quantite": "1", "marque": "Black Diamond", "details": "#0.4", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Friend", "quantite": "2", "marque": "Black Diamond", "details": "#0.5", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Friend", "quantite": "2", "marque": "Black Diamond", "details": "#0.75", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Friend", "quantite": "2", "marque": "Black Diamond", "details": "#1", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Friend", "quantite": "2", "marque": "Black Diamond", "details": "#2", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Friend", "quantite": "2", "marque": "Black Diamond", "details": "#3", "annee": "", "etat": "", "notes": "Rien au-dessus du #3" },
+      { "nom": "Alien", "quantite": "1", "marque": "", "details": "gris", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Alien", "quantite": "1", "marque": "", "details": "rouge", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Alien", "quantite": "2", "marque": "", "details": "jaune", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Alien", "quantite": "2", "marque": "", "details": "vert", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Alien", "quantite": "1", "marque": "", "details": "noir", "annee": "", "etat": "", "notes": "" }
+    ]
+  },
+  {
+    "categorie": "Coinceurs câblés",
+    "articles": [
+      { "nom": "Jeu complet de nuts", "quantite": "1", "marque": "DMM", "details": "", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Jeu complet de nuts", "quantite": "1", "marque": "Black Diamond", "details": "", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Jeu complet d'offsets", "quantite": "1", "marque": "DMM", "details": "", "annee": "", "etat": "", "notes": "" }
+    ]
+  },
+  {
+    "categorie": "Dégaines et sangles",
+    "articles": [
+      { "nom": "Dégaine rallongeable", "quantite": "env. 12", "marque": "", "details": "", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Dégaine classique", "quantite": "env. 20", "marque": "", "details": "", "annee": "", "etat": "", "notes": "" },
+      { "nom": "Sangles", "quantite": "en quantité", "marque": "", "details": "longueurs à préciser", "annee": "", "etat": "", "notes": "" }
+    ]
+  },
+  {
+    "categorie": "Mousquetons, relais et cordelettes",
+    "articles": [
+      { "nom": "Mousquetons", "quantite": "en quantité", "marque": "", "details": "à vis / simples à préciser", "annee": "", "etat": "", "notes": "" }
+    ]
+  },
+  { "categorie": "Assurage et descente", "articles": [] },
+  { "categorie": "Baudriers et casques", "articles": [] },
+  { "categorie": "Alpinisme (crampons, piolets…)", "articles": [] },
+  { "categorie": "Chaussures", "articles": [] },
+  { "categorie": "Bivouac et divers", "articles": [] }
+]

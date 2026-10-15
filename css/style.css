@@ -257,6 +257,15 @@ p.periode { color: var(--doux); margin-top: -8px; }
   .infos { grid-template-columns: 1fr 1fr; }
 }
 
+/* ===== Page matériel ===== */
+.intro-materiel { color: var(--doux); }
+.sommaire { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 20px; }
+.puce-cat { display: inline-flex; gap: 6px; align-items: center; padding: 4px 10px; border: 2px solid var(--texte); background: #fff; color: var(--texte); text-decoration: none; font-weight: 600; font-size: 0.9rem; }
+.puce-cat .nb { background: var(--jaune); border: 1px solid var(--texte); padding: 0 6px; font-size: 0.8rem; }
+.puce-cat:hover { background: #c9f3ee; }
+table.inventaire { min-width: 0; }
+.a-completer { color: var(--doux); font-style: italic; }
+
 /* ===== THÈME « MEMPHIS » (années 80) ===== */
 h1, h2, .fiche-titre h1, .section h2, .dossier .titre, .popup h3 { font-family: var(--titre); font-weight: 400; letter-spacing: 0.3px; }
 h1 { color: var(--texte); }
@@ -288,7 +297,7 @@ a { color: var(--violet); }
 .entete::after {
   content: "";
   position: absolute;
-  right: 22%;
+  left: 46%;
   top: 10px;
   width: 46px; height: 46px;
   border-radius: 50%;
@@ -334,7 +343,9 @@ table.longueurs tr:nth-child(even) td { background: #fdf3e0; }
 @media (max-width: 600px) {
   .entete { min-height: 72px; padding: 10px 12px 26px; }
   .entete .logo { font-size: 1.3rem; }
-  .entete::after { width: 34px; height: 34px; right: 30%; }
+  .entete::after { display: none; }
+  .entete nav { gap: 4px; }
+  .entete nav a { padding: 3px 8px; font-size: 0.85rem; }
   .fiche-titre h1 { font-size: 1.3rem; }
 }
 

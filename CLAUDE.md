@@ -14,6 +14,7 @@ Le propriétaire ne code pas : expliquer simplement ce qui est fait, poser des q
 - `projets.html` + `js/projets.js` : un dossier par projet de voyage (`projets.html?projet=<nom>` ouvre le dossier) + dossier « Autres voies » pour les voies sans projet.
 - `data/projets.json` : liste des projets `[{nom, periode, description}]` ; un projet peut exister sans voie (dossier vide). Le `nom` doit être identique au champ `projet` des voies.
 - `js/verrou.js` : écran de code à 4 chiffres (chargé dans le `<head>` de chaque page). Seule l'empreinte SHA-256 de `escalade:<code>` est stockée ; ne jamais écrire le code en clair dans le dépôt. Protection de confort seulement : le dépôt est public.
+- `materiel.html` + `js/materiel.js` + `data/materiel.json` : inventaire de notre matériel par catégorie (`[{categorie, articles:[{nom, quantite, marque, details, annee, etat, notes}]}]`). C'est la référence du rack et des cordes pour suggérer un statut : la tenir à jour quand le propriétaire envoie sa liste.
 - `js/commun.js` : statuts (libellés + couleurs), chargement des données, outils.
 - `data/voies.json` : toutes les voies (tableau JSON).
 - `images/` : topos, croquis, photos. Nom de fichier : `<id-de-la-voie>-<description>.jpg`.
