@@ -41,7 +41,8 @@ fetch("data/materiel.json", { cache: "no-cache" })
       .map(
         (c) => `<section class="section" id="${ancre(c.categorie)}">
           <h2>${echapper(c.categorie)}</h2>
-          ${c.articles.length ? tableau(c.articles) : `<p class="a-completer">À compléter</p>`}
+          ${c.note ? `<p class="note-cat">${echapper(c.note)}</p>` : ""}
+          ${c.articles.length ? tableau(c.articles) : c.note ? "" : `<p class="a-completer">À compléter</p>`}
         </section>`
       )
       .join("");

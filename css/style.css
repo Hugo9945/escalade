@@ -265,6 +265,7 @@ p.periode { color: var(--doux); margin-top: -8px; }
 .puce-cat:hover { background: #c9f3ee; }
 table.inventaire { min-width: 0; }
 .a-completer { color: var(--doux); font-style: italic; }
+.note-cat { font-weight: 600; }
 
 /* ===== THÈME « MEMPHIS » (années 80) ===== */
 h1, h2, .fiche-titre h1, .section h2, .dossier .titre, .popup h3 { font-family: var(--titre); font-weight: 400; letter-spacing: 0.3px; }
