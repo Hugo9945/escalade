@@ -1,5 +1,161 @@
 [
   {
+    "id": "crete-de-coq-grand-eperon",
+    "nom": "Crête de Coq – Le Grand Éperon",
+    "sous_titre": "Dalle en adhérence sur trachy-andésite, 4 longueurs – vallée de Chaudefour",
+    "massif": "Massif du Sancy",
+    "secteur": "Vallée de Chaudefour – Crête de Coq",
+    "coordonnees": {
+      "lat": 45.53722,
+      "lon": 2.84972,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Le Grand Éperon",
+        "url": "https://www.camptocamp.org/routes/57832"
+      }
+    ],
+    "objectif": "Grande voie courte en dalle, escalade principalement en adhérence sur les pieds.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "I · équipement P1 · exposition E3",
+    "hauteur": "env. 100 m (dénivelé des difficultés)",
+    "nb_longueurs": "4",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Dalle inclinée de trachy-andésite très compacte : d'aspect très solide, le rocher peut néanmoins casser facilement sur les très fines écailles. Équipement sur goujons un peu aéré (3 à 5 m entre les points), relais sur 2 points non reliés. Orientée plein S, praticable de mai à octobre.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Du parking de la Réserve naturelle de la vallée de Chaudefour, suivre le chemin forestier, passer le pont et remonter SW le sentier. Continuer tout droit en direction du « fond de vallée » jusqu'à voir la face S de la Crête de Coq. Un sentier peu visible mais marqué par un cairn part sur la droite : s'y engager, remonter un pierrier et atteindre le pied de la face sous un surplomb. Un câble sur la droite facilite la montée à une grande vire pour le départ des voies. La 1re longueur du Grand Éperon démarre juste à gauche de ce câble.",
+    "descente": "Deux solutions : (1) depuis R4, emprunter une mauvaise sente à l'horizontale sur la droite (chute interdite) et rejoindre le relais sur chaîne de la voie « Jamais Vue », que l'on descend en 2 rappels de 50 m (ou 4 × 25 m) ; (2) conseillé : rejoindre ce relais en traversant l'arête au sommet (belle vue sur la Dent de la Rancune) et en redescendant une dizaine de mètres.",
+    "materiel": "7 dégaines, 2 sangles pour les relais, rappel de 2 × 50 m ou corde à simple de 50 m minimum si on descend par la ligne de rappel de « Jamais Vue ».",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3a",
+            "longueur": null,
+            "cheminement": "Relais au niveau de la vire."
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": 45,
+            "cheminement": "Grande longueur de 45 m assez soutenue."
+          },
+          {
+            "n": "L3",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Magnifique longueur avec de belles écailles."
+          },
+          {
+            "n": "L4",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Traverser légèrement à droite et remonter jusqu'au sommet."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Départ : la voie se trouve aussitôt sortie du câble et n'est pas indiquée (sortie du 05/04/2026) ; une cordée a raté la 1re longueur en prenant le câble (sortie du 18/08/2007). Une autre a manqué R1 et posé 12 dégaines avant une petite vire (sortie du 05/04/2026).",
+      "Équipement : « très bien équipé avec des points réguliers » (sortie du 05/04/2026) ; en 2025, un retour pense la voie rééquipée, L2 « pas engagée du tout » (sortie du 29/05/2025). Retours plus anciens : points « à l'auvergnate », espacés (2011, 2016).",
+      "Grimpe : il faut accepter des pas sur les pieds quelques mètres au-dessus du dernier point, sans raison de perdre l'équilibre ; ne pas hésiter à louvoyer (sortie du 01/10/2025). Un pas pas simple avant la fin de L1 et quelques pas fins en L2 (sortie du 06/10/2018).",
+      "Cotations ressenties : « plutôt 3a / 4c / 4c / 4a » selon un retour (sortie du 01/10/2025).",
+      "Rocher : sain, mais quelques sons creux dans la dernière longueur (sortie du 01/10/2025) ; dernière longueur en mélange touffes d'herbe / roche, moins agréable (sortie du 05/04/2026).",
+      "Descente : traversée de la crête vers le relais de « Jamais Vue », désormais équipée de cordelettes selon un retour (sortie du 29/05/2025) ; 2 rappels depuis « Jamais Vue » (sortie du 05/04/2026).",
+      "Tirage : gros tirage dans la première longueur, prévoir des dégaines longues (sortie du 15/07/2016).",
+      "Approche : « usante », env. 40 min (sortie du 07/05/2016)."
+    ],
+    "horaires": "Selon les retours : 4 h au total (01/10/2025) ; départ 9h30, sommet 11h30 (07/05/2016) ; approche 45 min, difficultés 1 h 45 (18/08/2007) ; 7 h parking à parking en prenant son temps (05/04/2026).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 57832 (Le Grand Éperon), consulté le 15/10/2026",
+      "Sorties Camptocamp 1896544 (05/04/2026), 1822469 (01/10/2025), 1776989 (29/05/2025), 1049018 (06/10/2018), 776272 (15/07/2016), 753833 (07/05/2016), 683855 (04/08/2011), 100857 (18/08/2007), consultées le 15/10/2026",
+      "Livres associés sur C2C : Escalade dans le massif du Sancy ; Le Topo du Massif du Sancy (massif déduit de ces titres, pas de zone « massif » sur C2C)",
+      "Topo cité par C2C : http://www.sports-nature-auvergne.fr/2017/03/24/la-crete-de-coq/",
+      "Historique (C2C) : ouverture 1963 par B. et J.-D. Capitan, M. Domas, M. Grenet, A. Pinol"
+    ]
+  },
+  {
+    "id": "crete-de-coq-voie-normale",
+    "nom": "Crête de Coq – Voie normale",
+    "sous_titre": "Mini-course : 3 courtes longueurs puis traversée d'arête et retour à pied – vallée de Chaudefour",
+    "massif": "Massif du Sancy",
+    "secteur": "Vallée de Chaudefour – Crête de Coq",
+    "coordonnees": {
+      "lat": 45.53389,
+      "lon": 2.83778,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Voie normale",
+        "url": "https://www.camptocamp.org/routes/425229"
+      }
+    ],
+    "objectif": "Voie située au bout d'une école d'escalade, décrite comme une mini-course très agréable et pas du tout engagée, avec traversée d'arête et retour à pied. Souvent parcourue l'hiver en mixte.",
+    "cotation_globale": "PD+",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "",
+    "engagement": "I · équipement P1",
+    "hauteur": "env. 100 m (dénivelé des difficultés) ; 363 m de dénivelé positif",
+    "nb_longueurs": "3 courtes longueurs (env. 20 m), puis arête",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Arête ; en haut des longueurs, on se retrouve nez à nez avec la face S de la Dent de la Rancune.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Du parking de la Réserve naturelle de la vallée de Chaudefour, suivre le chemin forestier, passer le pont et remonter SW le sentier. Continuer tout droit en direction du « fond de vallée » jusqu'à voir la face S de la Crête de Coq. Un sentier peu visible mais marqué par un cairn part sur la droite : s'y engager, remonter un pierrier et atteindre le pied de la face sous un surplomb. Un câble sur la droite facilite la montée à une grande vire pour le départ des voies. La voie normale est la dernière, tout au fond.",
+    "descente": "Quand l'arête se termine, rejoindre facilement un petit col dont le vallon boisé à droite passe entre la Crête de Coq et la Dent de la Rancune. Plutôt rester à flanc par une petite sente (visible du sommet de la Crête de Coq) qui rejoint le départ de la face W de la Rancune. Passer à gauche, sous la face N surplombante de la Rancune, puis descendre un sentier assez bien marqué dans la forêt de hêtres jusqu'au fond de la vallée de Chaudefour.",
+    "materiel": "Très peu : pas plus de 4 dégaines par longueur, de quoi relier les relais (2 points). Descente à pied, donc pas besoin de corde de rappel.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1 à L3",
+            "cotation": "jusqu'à 4c",
+            "longueur": null,
+            "cheminement": "Remonter l'arête en 3 courtes longueurs (moins de 30 m, proches de 20 m). Pas plus de 4 dégaines par longueur ; relais sur deux points à relier."
+          },
+          {
+            "n": "Arête",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "La suite peut se faire en corde tendue : points environ tous les 10 m."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Approche : le pierrier d'accès à la falaise est bien raide (sortie du 05/08/2025) ; avant le cairn, on repère plutôt 2 gros cailloux rapprochés d'environ 1 m de haut (sortie du 17/09/2025) ; « toujours galère de trouver le chemin » (sortie du 05/11/2025).",
+      "Équipement : broches aérées dans la première partie, relais à construire, puis anneaux de cordelette en place sur l'arête (sortie du 19/08/2026) ; scellements solides mais espacés (sortie du 05/08/2025) ; arête très bien équipée avec énormément de lunules (sortie du 05/11/2025).",
+      "Difficulté : L2 jugée la plus difficile, « on lui aurait bien mis 4a » (sortie du 05/08/2025). Un retour la trouve plus proche d'une voie montagne que d'une grande voie d'escalade : avoir de la marge et un peu d'expérience de ce terrain (sortie du 17/09/2025).",
+      "Danger : gros rocher (env. 1 × 1,5 m) en équilibre peu après le début de l'arête, au départ du rappel de « Tant qu'il y aura des coqs » ; il ressemble à une plateforme mais bascule si on marche sur un bord (sortie du 13/11/2025).",
+      "Hiver : faite en « grosses » en février, « pas si simple » ; descente en deux rappels (sorties des 17 et 18/02/2025). Vent rafaleux déstabilisant sur l'arête en janvier (sortie du 07/01/2023).",
+      "Fréquentation : parking payant complet à 11h en août, beaucoup de monde dans la vallée mais une seule cordée dans la voie (sortie du 05/08/2025).",
+      "Rocher : « super caillou », équipement permettant de grimpouiller entre les points ; petite course appréciée avec des enfants (sortie du 06/04/2024)."
+    ],
+    "horaires": "Selon les retours : parking 13h, pied de la voie 14h, sommet 15h30, parking 16h15 (05/11/2025) ; 3 h « TTC » (06/04/2024) ; 4 h (17/09/2025) ; 5 h de voiture à voiture (05/08/2025).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 425229 (Crête de Coq – voie normale), consulté le 15/10/2026",
+      "Sorties Camptocamp 1944067 (19/08/2026), 1848922 (13/11/2025), 1849096 (05/11/2025), 1818066 (17/09/2025), 1801590 (05/08/2025), 1739790 (18/02/2025), 1739780 (17/02/2025), 1634568 (06/04/2024), 1495562 (07/01/2023), consultées le 15/10/2026",
+      "Livres associés sur C2C : Escalade dans le massif du Sancy ; Le Topo du Massif du Sancy (massif déduit de ces titres, pas de zone « massif » sur C2C)",
+      "Historique (C2C) : auteurs inconnus"
+    ]
+  },
+  {
     "id": "pic-de-jallouvre-voie-des-cristaux",
     "nom": "Pic de Jallouvre – Voie des Cristaux",
     "sous_titre": "Voie d'initiation entièrement équipée (aussi appelée « Voie des Criquets ») – depuis le col de la Colombière",
