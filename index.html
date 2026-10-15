@@ -4,10 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
-  <script src="js/verrou.js?v=6"></script>
+  <script src="js/verrou.js?v=8"></script>
   <title>Carte des voies – Escalade</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-  <link rel="stylesheet" href="css/style.css?v=6">
+  <link rel="stylesheet" href="css/style.css?v=8">
 </head>
 <body class="page-carte">
   <header class="entete">
@@ -18,8 +18,18 @@
     </nav>
   </header>
   <main>
-    <div class="filtres">
+    <details class="filtres" id="filtres" open>
+      <summary>Filtres</summary>
+      <div class="filtres-contenu">
       <fieldset id="filtre-statuts"><legend>Statut</legend></fieldset>
+      <label class="projet">Équipement
+        <select id="filtre-equipement">
+          <option value="">Tous</option>
+          <option value="equipee">● Équipée</option>
+          <option value="semi">◆ Semi-équipée</option>
+          <option value="trad">▲ Trad</option>
+        </select>
+      </label>
       <label class="projet">Envie
         <select id="filtre-envie">
           <option value="0">Toutes</option>
@@ -31,11 +41,12 @@
       <label class="projet">Projet
         <select id="filtre-projet"><option value="">Tous</option></select>
       </label>
-    </div>
+      </div>
+    </details>
     <div id="carte"></div>
   </main>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="js/commun.js?v=6"></script>
-  <script src="js/carte.js?v=6"></script>
+  <script src="js/commun.js?v=8"></script>
+  <script src="js/carte.js?v=8"></script>
 </body>
 </html>

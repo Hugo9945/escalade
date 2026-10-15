@@ -71,6 +71,13 @@ main { max-width: 960px; margin: 0 auto; padding: 16px; }
   flex: none;
 }
 
+/* ===== Points de la carte (forme = équipement) ===== */
+.point-voie { background: none; border: 0; }
+.point-voie svg { display: block; filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.35)); }
+.legende hr { border: 0; border-top: 1px solid #ddd; margin: 4px 0; }
+.legende svg, .equipement-popup svg, .forme svg { vertical-align: -2px; margin-right: 4px; }
+.equipement-popup { margin: 4px 0 !important; }
+
 /* ===== Étoiles d'envie ===== */
 .etoiles { color: #e0a100; letter-spacing: 1px; white-space: nowrap; }
 .etoiles .vides { color: #d6d2c8; }
@@ -79,17 +86,27 @@ main { max-width: 960px; margin: 0 auto; padding: 16px; }
 
 /* ===== Page carte ===== */
 .page-carte { display: flex; flex-direction: column; height: 100vh; height: 100dvh; }
-.page-carte main { max-width: none; padding: 0; flex: 1; display: flex; flex-direction: column; min-height: 0; }
+.page-carte main { max-width: none; width: 100%; margin: 0; padding: 0; flex: 1; display: flex; flex-direction: column; min-height: 0; }
 #carte { flex: 1; min-height: 300px; }
 
 .filtres {
+  padding: 10px 16px;
+  background: var(--carte);
+  border-bottom: 1px solid var(--trait);
+}
+.filtres-contenu {
   display: flex;
   flex-wrap: wrap;
   gap: 8px 16px;
   align-items: center;
-  padding: 10px 16px;
-  background: var(--carte);
-  border-bottom: 1px solid var(--trait);
+}
+/* Sur ordinateur, les filtres sont toujours ouverts : pas besoin du bouton. */
+.filtres > summary { display: none; }
+@media (max-width: 700px) {
+  .filtres { padding: 6px 12px; }
+  .filtres > summary { display: list-item; cursor: pointer; font-weight: 600; color: var(--vert); padding: 4px 0; }
+  .filtres[open] > summary { margin-bottom: 6px; }
+  .legende { font-size: 0.72rem; line-height: 1.4; padding: 5px 7px; }
 }
 .filtres fieldset { border: 0; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
 .filtres legend { float: left; margin-right: 6px; font-weight: 600; color: var(--doux); font-size: 0.9rem; }

@@ -76,6 +76,7 @@ function afficherFiche(voie) {
       ${info("Libre max", voie.cotation_libre_max)}
       ${info("Obligatoire", voie.cotation_obligatoire)}
       ${info("Engagement", voie.engagement)}
+      ${info("Équipement", voie.equipement ? texteEquipement(voie) : "")}
       ${info("Hauteur", voie.hauteur)}
       ${info("Longueurs", voie.nb_longueurs)}
       ${info("Orientation", voie.orientation)}

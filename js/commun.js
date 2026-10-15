@@ -36,6 +36,32 @@ function badgeStatut(cle) {
   return `<span class="badge" style="--c:${s.couleur}"><span class="pastille"></span>${echapper(s.libelle)}</span>`;
 }
 
+// Type d'équipement (tiré de la cote d'équipement Camptocamp) : forme du point sur la carte.
+// P1/P1+ = équipée, P2/P2+ = semi-équipée, P3 à P4+ = trad.
+const EQUIPEMENTS = {
+  equipee: { libelle: "Équipée", detail: "P1, P1+", forme: "rond" },
+  semi: { libelle: "Semi-équipée", detail: "P2, P2+", forme: "losange" },
+  trad: { libelle: "Trad", detail: "P3 à P4", forme: "triangle" },
+};
+
+// Petit dessin SVG (rond, losange ou triangle) rempli de la couleur du statut.
+function formeSVG(cleEquipement, couleur, taille = 22) {
+  const forme = EQUIPEMENTS[cleEquipement]?.forme || "rond";
+  const contour = `fill="${couleur}" stroke="#fff" stroke-width="2" stroke-linejoin="round"`;
+  const dessin = {
+    rond: `<circle cx="11" cy="11" r="8.5" ${contour}/>`,
+    losange: `<polygon points="11,1.5 20.5,11 11,20.5 1.5,11" ${contour}/>`,
+    triangle: `<polygon points="11,1.5 21,19.5 1,19.5" ${contour}/>`,
+  }[forme];
+  return `<svg width="${taille}" height="${taille}" viewBox="0 0 22 22" aria-hidden="true">${dessin}</svg>`;
+}
+
+function texteEquipement(voie) {
+  const e = EQUIPEMENTS[voie.equipement];
+  if (!e) return "non renseigné";
+  return voie.cote_equipement ? `${e.libelle} (${voie.cote_equipement})` : e.libelle;
+}
+
 // Envie de faire la voie : 1 à 3 étoiles (champ « envie »), rien si non noté.
 const ENVIES = { 1: "Pourquoi pas", 2: "Envie", 3: "Très envie" };
 function etoiles(n) {

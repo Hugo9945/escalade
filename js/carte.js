@@ -2,6 +2,9 @@
 
 const SANS_PROJET = "__aucun__";
 
+// Sur téléphone, les filtres sont repliés au départ pour laisser la place à la carte.
+if (window.matchMedia("(max-width: 700px)").matches) document.getElementById("filtres").open = false;
+
 const carte = L.map("carte").setView([45.55, 6.2], 8); // Alpes du Nord
 
 const fonds = {
@@ -24,9 +27,14 @@ L.control.layers(fonds, null, { position: "topright" }).addTo(carte);
 const legende = L.control({ position: "bottomleft" });
 legende.onAdd = () => {
   const div = L.DomUtil.create("div", "legende");
-  div.innerHTML = Object.values(STATUTS)
-    .map((s) => `<div><span class="pastille" style="background:${s.couleur}"></span>${echapper(s.libelle)}</div>`)
-    .join("");
+  div.innerHTML =
+    Object.values(STATUTS)
+      .map((s) => `<div><span class="pastille" style="background:${s.couleur}"></span>${echapper(s.libelle)}</div>`)
+      .join("") +
+    `<hr>` +
+    Object.entries(EQUIPEMENTS)
+      .map(([cle, e]) => `<div>${formeSVG(cle, "#8a8f8b", 14)}${echapper(e.libelle)}</div>`)
+      .join("");
   return div;
 };
 legende.addTo(carte);
@@ -34,11 +42,13 @@ legende.addTo(carte);
 const statutsCoches = new Set(Object.keys(STATUTS));
 let projetChoisi = "";
 let envieMin = 0;
+let equipementChoisi = "";
 const points = []; // { voie, marqueur }
 
 function correspondAuxFiltres(voie) {
   if (!statutsCoches.has(voie.statut)) return false;
   if (envieMin && !((voie.envie || 0) >= envieMin)) return false;
+  if (equipementChoisi && voie.equipement !== equipementChoisi) return false;
   if (projetChoisi === SANS_PROJET) return !voie.projet;
   if (projetChoisi) return voie.projet === projetChoisi;
   return true;
@@ -61,6 +71,7 @@ function resume(voie) {
     <h3>${echapper(voie.nom)}</h3>
     ${voie.envie ? `<p class="envie-popup">${etoiles(voie.envie)} ${echapper(ENVIES[voie.envie])}</p>` : ""}
     ${badgeStatut(voie.statut)}
+    <p class="equipement-popup">${formeSVG(voie.equipement, STATUTS[voie.statut]?.couleur || "#777", 14)} Équipement : ${echapper(texteEquipement(voie))}</p>
     ${lignes.map((l) => `<p>${echapper(l)}</p>`).join("")}
     <a class="lien-fiche" href="${lienVoie(voie)}">Voir la fiche complète →</a>
   </div>`;
@@ -81,6 +92,11 @@ function construireFiltres(voies) {
     });
     zone.appendChild(label);
   }
+
+  document.getElementById("filtre-equipement").addEventListener("change", (e) => {
+    equipementChoisi = e.target.value;
+    appliquerFiltres();
+  });
 
   document.getElementById("filtre-envie").addEventListener("change", (e) => {
     envieMin = Number(e.target.value);
@@ -110,13 +126,15 @@ chargerVoies()
       const c = voie.coordonnees;
       if (!c || c.lat == null || c.lon == null) continue;
       const couleur = STATUTS[voie.statut]?.couleur || "#777";
-      const marqueur = L.circleMarker([c.lat, c.lon], {
-        radius: 9,
-        color: "#fff",
-        weight: 2,
-        fillColor: couleur,
-        fillOpacity: 0.95,
-      }).bindPopup(resume(voie));
+      // Couleur = statut, forme = type d'équipement (rond, losange, triangle).
+      const icone = L.divIcon({
+        className: "point-voie",
+        html: formeSVG(voie.equipement, couleur),
+        iconSize: [22, 22],
+        iconAnchor: [11, 11],
+        popupAnchor: [0, -10],
+      });
+      const marqueur = L.marker([c.lat, c.lon], { icon: icone, title: voie.nom, zIndexOffset: 100 * (voie.envie || 0) }).bindPopup(resume(voie));
       points.push({ voie, marqueur });
     }
     appliquerFiltres();

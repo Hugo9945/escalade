@@ -8,7 +8,7 @@ const zone = document.getElementById("projets");
 function elementVoie(voie) {
   const details = [voie.massif, voie.cotation_globale, voie.cotation_libre_max, voie.hauteur].filter(Boolean).join(" · ");
   return `<li><a href="${lienVoie(voie)}">
-    <span><span class="nom">${echapper(voie.nom)}</span> ${etoiles(voie.envie)}<br><span class="details">${echapper(details)}</span></span>
+    <span><span class="forme" title="${echapper(texteEquipement(voie))}">${formeSVG(voie.equipement, STATUTS[voie.statut]?.couleur || "#777", 14)}</span> <span class="nom">${echapper(voie.nom)}</span> ${etoiles(voie.envie)}<br><span class="details">${echapper(details)}</span></span>
     ${badgeStatut(voie.statut)}
   </a></li>`;
 }
