@@ -1,13 +1,18 @@
 /* ===== Couleurs et base ===== */
 :root {
-  --fond: #f6f4ef;
-  --carte: #ffffff;
-  --texte: #1f2420;
-  --doux: #5d655f;
-  --trait: #dcd8ce;
-  --vert: #234a35;
-  --vert-clair: #e7eee9;
-  --rayon: 10px;
+  /* Thème « affiche vintage » : papier crème, bleu nuit, ocre, rouille. */
+  --fond: #f2e6cc;
+  --carte: #fbf4e4;
+  --texte: #1f2a44;
+  --doux: #6b5f4d;
+  --trait: #d9c7a3;
+  --vert: #1f2a44; /* couleur principale (bleu nuit), nom historique */
+  --ocre: #e2a03f;
+  --rouille: #b4532a;
+  --creme: #f6ecd6;
+  --rayon: 6px;
+  --ombre: 3px 3px 0 #1f2a44;
+  --titre: "Alfa Slab One", Georgia, serif;
 }
 
 * { box-sizing: border-box; }
@@ -16,7 +21,7 @@ body {
   margin: 0;
   background: var(--fond);
   color: var(--texte);
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-family: "Work Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -251,6 +256,65 @@ p.periode { color: var(--doux); margin-top: -8px; }
   .infos { grid-template-columns: 1fr 1fr; }
 }
 
+/* ===== THÈME « AFFICHE VINTAGE » ===== */
+h1, h2, .fiche-titre h1, .section h2, .dossier .titre { font-family: var(--titre); font-weight: 400; letter-spacing: 0.3px; }
+h1 { color: var(--rouille); }
+.section h2, .projet h2 { color: var(--rouille); text-transform: uppercase; font-size: 1.05rem; }
+.fiche-titre h1 { color: var(--texte); font-size: 1.75rem; }
+a { color: var(--rouille); }
+
+/* En-tête : montagnes en aplats et soleil ocre, comme une affiche de station. */
+.entete {
+  position: relative;
+  min-height: 74px;
+  padding: 12px 16px 22px;
+  background-color: var(--vert);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 100' preserveAspectRatio='xMidYMax slice'%3E%3Ccircle cx='980' cy='46' r='34' fill='%23e2a03f'/%3E%3Cpath d='M0 100 L0 70 L90 40 L170 66 L260 26 L360 64 L450 38 L560 70 L660 30 L760 62 L860 36 L960 72 L1060 44 L1140 62 L1200 50 L1200 100 Z' fill='%23b4532a'/%3E%3Cpath d='M0 100 L0 84 L120 62 L230 86 L340 58 L470 88 L600 64 L720 90 L850 66 L990 92 L1100 72 L1200 86 L1200 100 Z' fill='%23141c30'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: 100% 100%;
+}
+.entete .logo {
+  font-family: var(--titre);
+  font-weight: 400;
+  font-size: 1.6rem;
+  color: var(--creme);
+  letter-spacing: 1px;
+  text-shadow: 2px 2px 0 #141c30;
+}
+.entete nav a { color: var(--creme); font-weight: 600; border: 2px solid transparent; }
+.entete nav a.actif, .entete nav a:hover { background: var(--ocre); color: var(--texte); border-color: #141c30; }
+
+/* Boutons et cartes « imprimés » : bord épais et ombre décalée. */
+.bouton { border: 2px solid var(--texte); border-radius: var(--rayon); background: var(--carte); color: var(--texte); box-shadow: var(--ombre); }
+.bouton:hover { transform: translate(1px, 1px); box-shadow: 2px 2px 0 var(--texte); }
+.bouton.principal { background: var(--ocre); color: var(--texte); }
+.section, .infos, .dossier, .liste-voies li a { border: 2px solid var(--texte); border-radius: var(--rayon); box-shadow: var(--ombre); }
+.infos { background: var(--texte); gap: 2px; }
+.infos dt { text-transform: uppercase; letter-spacing: 0.5px; font-size: 0.72rem; }
+.dossier:hover, .liste-voies li a:hover { border-color: var(--rouille); box-shadow: 3px 3px 0 var(--rouille); }
+.dossier .titre, .liste-voies .nom { color: var(--texte); }
+.badge { background: var(--carte); border-width: 2px; }
+table.longueurs th { background: var(--texte); color: var(--creme); }
+.images img { border: 2px solid var(--texte); }
+
+/* Carte */
+.filtres { background: var(--carte); border-bottom: 2px solid var(--texte); }
+.filtre-statut { background: #fffaf0; border-color: var(--trait); }
+.filtres select { background: #fffaf0; border: 2px solid var(--texte); }
+.legende { background: var(--carte); border: 2px solid var(--texte); box-shadow: var(--ombre); border-radius: var(--rayon); }
+.leaflet-popup-content-wrapper { background: var(--carte); border: 2px solid var(--texte); border-radius: var(--rayon); box-shadow: var(--ombre); }
+.leaflet-popup-tip { background: var(--carte); }
+.popup h3 { font-family: var(--titre); font-weight: 400; color: var(--texte); font-size: 0.98rem; line-height: 1.25; }
+.etoiles { color: var(--ocre); }
+.etoiles .vides { color: #d9c7a3; }
+
+@media (max-width: 600px) {
+  .entete { min-height: 64px; padding: 10px 12px 18px; }
+  .entete .logo { font-size: 1.3rem; }
+  .fiche-titre h1 { font-size: 1.4rem; }
+}
+
 /* ===== FICHE A4 =====
    À l'écran, la fiche est mise en page hors de la vue, à la largeur utile d'une page A4,
    pour que js/voie.js mesure sa hauteur et resserre le texte (--k) jusqu'à tenir sur une page.
@@ -266,7 +330,10 @@ p.periode { color: var(--doux); margin-top: -8px; }
   color: #000;
   font-size: calc(7.7pt * var(--k));
   line-height: 1.22;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
+.a4 h1, .a4 h2 { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; font-weight: 700; letter-spacing: 0; text-transform: none; }
+.a4 h1 { text-transform: uppercase; }
 .a4 h1 { font-size: 2.2em; margin: 0; letter-spacing: 0.3px; text-transform: uppercase; line-height: 1.1; color: #000; }
 .a4 .sous-titre { margin: 0.5mm 0 1.5mm; font-size: 1.1em; }
 

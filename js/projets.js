@@ -60,7 +60,7 @@ function afficherProjet(nom, projets, voies) {
   const titre = estAutres ? "Autres voies" : nom;
   const p = projets.find((x) => x.nom === nom) || {};
   const liste = voies.filter((v) => (estAutres ? !v.projet : v.projet === nom)).sort((a, b) => (b.envie || 0) - (a.envie || 0) || a.nom.localeCompare(b.nom, "fr")); // plus d'envie en premier
-  document.title = `${titre} – Escalade`;
+  document.title = `${titre} – Sac à topos`;
   zone.innerHTML = `
     <a class="retour" href="projets.html">← Tous les projets</a>
     <h1>📂 ${echapper(titre)}</h1>

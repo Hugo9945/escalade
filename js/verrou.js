@@ -21,10 +21,10 @@
   const style = document.createElement("style");
   style.textContent = `
     html.verrouille body > *:not(#verrou) { display: none !important; }
-    #verrou { position: fixed; inset: 0; z-index: 10000; background: #234a35; color: #fff;
+    #verrou { position: fixed; inset: 0; z-index: 10000; background: #1f2a44; color: #f6ecd6;
       display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px;
       padding: 16px; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; text-align: center; }
-    #verrou h1 { margin: 0; font-size: 1.4rem; }
+    #verrou h1 { margin: 0; font-family: "Alfa Slab One", Georgia, serif; font-weight: 400; font-size: 2rem; color: #e2a03f; letter-spacing: 1px; }
     #verrou p { margin: 0; opacity: 0.85; }
     #verrou input { width: 9ch; font-size: 2rem; letter-spacing: 0.4em; text-align: center; padding: 8px 4px 8px 0.4em;
       border-radius: 10px; border: 2px solid #fff; background: rgba(255,255,255,0.1); color: #fff; }
@@ -44,7 +44,7 @@
     const ecran = document.createElement("div");
     ecran.id = "verrou";
     ecran.innerHTML = `
-      <h1>⛰ Nos grandes voies</h1>
+      <h1>Sac à topos</h1>
       <p>Entre le code pour ouvrir le site</p>
       <input type="password" inputmode="numeric" pattern="[0-9]*" maxlength="4" autocomplete="off" aria-label="Code à 4 chiffres">
       <div class="erreur-code" role="alert"></div>`;

@@ -134,7 +134,7 @@ chargerVoies()
         iconAnchor: [11, 11],
         popupAnchor: [0, -10],
       });
-      const marqueur = L.marker([c.lat, c.lon], { icon: icone, title: voie.nom, zIndexOffset: 100 * (voie.envie || 0) }).bindPopup(resume(voie));
+      const marqueur = L.marker([c.lat, c.lon], { icon: icone, title: voie.nom, zIndexOffset: 100 * (voie.envie || 0) }).bindPopup(resume(voie), { maxWidth: Math.min(260, window.innerWidth - 80), autoPanPadding: [24, 24] });
       points.push({ voie, marqueur });
     }
     appliquerFiltres();

@@ -55,7 +55,7 @@ function lienMeteo(c) {
 
 /* ---------- Affichage écran ---------- */
 function afficherFiche(voie) {
-  document.title = `${voie.nom} – Escalade`;
+  document.title = `${voie.nom} – Sac à topos`;
   const c = voie.coordonnees || {};
   const liensC2C = (voie.camptocamp || [])
     .map((l) => `<a class="bouton" href="${echapper(l.url)}" target="_blank" rel="noopener">Camptocamp : ${echapper(l.titre)} ↗</a>`)
