@@ -1,0 +1,82 @@
+[
+  {
+    "id": "charmant-som-dalles-e",
+    "nom": "Charmant Som – Dalles de la face E",
+    "sous_titre": "Intégrale possible : dalles inférieures (option) + dalles de la face E (objectif certain) – depuis les Bergeries / Col de Porte",
+    "massif": "Chartreuse",
+    "secteur": "Charmant Som – face E",
+    "coordonnees": {
+      "lat": 45.32287,
+      "lon": 5.76708,
+      "repere": "Point de l'itinéraire « Dalles de la face E » sur Camptocamp (position approximative, à vérifier sur place)"
+    },
+    "camptocamp": [
+      { "titre": "Dalles de la face E (objectif haut)", "url": "https://www.camptocamp.org/routes/54411" },
+      { "titre": "Face E – Dalles inférieures (option bas)", "url": "https://www.camptocamp.org/routes/317640" }
+    ],
+    "objectif": "Dalles de la face E (objectif certain). Option : dalles inférieures avant, si horaire et groupe OK.",
+    "cotation_globale": "PD (option bas : PD+)",
+    "cotation_libre_max": "3c/4a, court passage IV/IV+ (option bas : 4c)",
+    "cotation_obligatoire": "3c (option bas : 4b)",
+    "engagement": "I",
+    "hauteur": "env. 100-170 m selon découpage (option bas : env. 130 m)",
+    "nb_longueurs": "5 à 7 (option bas : 7)",
+    "orientation": "E",
+    "duree": "Haut seul : 2 h à 2 h 30. Intégral : env. 3 h dans les dalles + approche/liaisons",
+    "ambiance": "Grandes dalles calcaires couchées, vires herbeuses, lunules, itinéraire assez libre ; pas une voie sportive continue",
+    "statut": "fait",
+    "projet": null,
+    "approche": "Depuis les Bergeries du Charmant Som, prendre le sentier du sommet puis le quitter après la croupe pour le sentier à droite marqué jaune/rouge vers Le Collet / Saint-Pierre-de-Chartreuse. Pour les dalles inférieures, traverser les dalles par le GR jusqu'à l'orée nord, puis descendre versant E (raide, peu marqué, glissant si humide), contourner les barres et remonter vers le pied de la paroi. Pour ne faire que le haut, rejoindre le secteur des dalles et le petit site/anneaux de relais ; départ possible au ring le plus à gauche ou par une ligne proche selon l'équipement en place.",
+    "descente": "Pas toujours de relais immédiat au sommet des dalles : continuer vers les blocs/lunules ou remonter les pentes herbeuses vers le sentier du sommet. Retour env. 25-40 min.",
+    "materiel": "Corde 50 m, casque, 8 dégaines, 8-10 sangles/anneaux pour lunules, 2-3 coinceurs moyens utiles surtout si sortie/points absents",
+    "longueurs": [
+      {
+        "titre": "Option BAS – Face E, dalles inférieures (à faire si temps OK)",
+        "lignes": [
+          { "n": "L1", "cotation": "4b puis 3c", "longueur": 25, "cheminement": "Gravir le dièdre, puis dalles herbeuses vers la droite. Départ : partie droite de la paroi, marques rouges/plaquette, piton plus haut." },
+          { "n": "L2", "cotation": "4b", "longueur": 30, "cheminement": "Dalles herbeuses au-dessus vers un surplomb ; traverser à droite, passer le surplomb puis remonter des cannelures." },
+          { "n": "L3", "cotation": "3c", "longueur": 25, "cheminement": "Passages faciles et petit mur. R3 sur vire." },
+          { "n": "L4", "cotation": "facile", "longueur": 25, "cheminement": "Un peu vers la droite. R4 sur vire. Points/relais à vérifier sur place." },
+          { "n": "L5", "cotation": "3c-4b", "longueur": 35, "cheminement": "Dalles raides au-dessus ; sortie en gradins vers la gauche. R5 sur anneaux." },
+          { "n": "L6", "cotation": "4c", "longueur": 50, "cheminement": "Traverser en montant à gauche puis direct au-dessus. R6 sur grosse vire. Longueur la plus sérieuse / tirage possible." },
+          { "n": "L7", "cotation": "3b puis 3c", "longueur": null, "cheminement": "Monter à pied puis gravir une dalle herbeuse au-dessus ; fin possible en rejoignant la dalle facile et le sentier." }
+        ]
+      },
+      {
+        "titre": "Objectif HAUT – Dalles de la face E / voie de droite",
+        "lignes": [
+          { "n": "Départ", "cotation": "", "longueur": null, "cheminement": "Au niveau des dalles / petit site : anneaux de corde posés dans les lunules ; départ souvent au ring le plus à gauche ou dans la ligne la plus évidente. Le livre décrit deux points rouges au bas des dalles, partie droite, au niveau des cannelures verticales." },
+          { "n": "Ressaut 1", "cotation": "3/4", "longueur": null, "cheminement": "Attaquer droit au-dessus (spits possibles). Relais au-dessus de la partie verticale, sur anneau à droite." },
+          { "n": "Ressaut 2", "cotation": "III+", "longueur": null, "cheminement": "Continuer vers un ressaut/point faible. Relais possible sur 1 piton à droite, puis passer le point faible." },
+          { "n": "Dalles médianes", "cotation": "III puis court IV/IV+", "longueur": null, "cheminement": "Monter dans les gradins/dalles herbeuses faciles ; continuer droit au-dessus jusqu'à une bonne vire. Quelques points protègent le passage plus raide au milieu." },
+          { "n": "Dalle supérieure", "cotation": "3c/4a", "longueur": null, "cheminement": "Monter dans la dalle en tirant vers la gauche, puis viser la faiblesse. Spits/piton possibles ; louvoyer si besoin dans le plus facile." },
+          { "n": "Sortie", "cotation": "facile", "longueur": null, "cheminement": "Sortir par le mur le plus à droite / vers l'arbuste mort selon le topo Mission Outdoor. Pas forcément de relais immédiat : continuer env. 20 m vers un bloc avec lunules, puis remonter l'herbe à gauche vers le sentier/sommet." }
+        ]
+      }
+    ],
+    "strategie": [
+      "Plan normal : viser d'abord le départ des dalles inférieures. Si le timing est trop court ou l'approche trop confuse, basculer directement vers les dalles de la face E.",
+      "Enchaînement intégral : sortie des dalles inférieures vers le sentier/GR des dalles, puis rejoindre le secteur de départ des dalles de la face E.",
+      "Partie haute à garder quoi qu'il arrive : beaucoup plus facile, esthétique, souvent faite en initiation ; attention tout de même aux dalles compactes et aux relais à bricoler.",
+      "Terrain à privilégier sec : herbe, cannelures et approche versant E deviennent moins sympathiques si humide."
+    ],
+    "retex": [
+      "Dalles inférieures : retours récents signalent des relais parfois introuvables ou disparus ; prévoir de bricoler sur lunules/sangles.",
+      "Plusieurs points semblent avoir été enlevés, surtout à partir de L4 inférieure ; facile mais potentiellement impressionnant pour débutants.",
+      "Partie haute : départ parfois confus au milieu de plusieurs spits/voies ; après le premier ressaut on rejoint facilement la grande dalle inclinée.",
+      "Sur le haut, beaucoup de lunules ; dans les dalles très compactes, chercher les quelques points et louvoyer dans le plus facile.",
+      "Descente/sortie : pas toujours de relais immédiat au sommet des dalles ; continuer vers les blocs/lunules ou remonter les pentes herbeuses vers le sentier du sommet."
+    ],
+    "horaires": "Haut seul : approche env. 30-45 min, voie 1 h à 2 h 30 selon encordement, retour 25-40 min. Intégral : compter environ 3 h dans les dalles pour une cordée fluide + approche/liaisons ; un retour C2C récent donne 11h parking, 12h10 pied inférieur, 14h30 au chemin, 15h15 départ haut, 16h30 sommet, 17h parking.",
+    "notes": "",
+    "images": [
+      { "fichier": "images/charmant-som-dalles-e-croquis.jpg", "legende": "Croquis du topo : chemin d'accès, départ possible à la base, itinéraire jusqu'au sommet" }
+    ],
+    "sources": [
+      "Camptocamp, itinéraires 54411 (Dalles de la face E) et 317640 (Face E – Dalles inférieures)",
+      "Sorties Camptocamp 2025-2026 consultées le 10/09/2026",
+      "Photos du topo papier et fiche Mission Outdoor (documents perso)",
+      "Coordonnées et cotation d'engagement : API Camptocamp, consultée le 15/10/2026"
+    ]
+  }
+]

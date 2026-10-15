@@ -1,0 +1,271 @@
+/* ===== Couleurs et base ===== */
+:root {
+  --fond: #f6f4ef;
+  --carte: #ffffff;
+  --texte: #1f2420;
+  --doux: #5d655f;
+  --trait: #dcd8ce;
+  --vert: #234a35;
+  --vert-clair: #e7eee9;
+  --rayon: 10px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--fond);
+  color: var(--texte);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+a { color: var(--vert); }
+
+/* ===== En-tête ===== */
+.entete {
+  background: var(--vert);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 16px;
+  flex-wrap: wrap;
+}
+.entete .logo { color: #fff; text-decoration: none; font-weight: 700; font-size: 1.1rem; }
+.entete nav { display: flex; gap: 6px; }
+.entete nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: 999px;
+}
+.entete nav a.actif, .entete nav a:hover { background: rgba(255, 255, 255, 0.18); }
+
+main { max-width: 960px; margin: 0 auto; padding: 16px; }
+
+.erreur { background: #fdecea; color: #8a1c1c; padding: 12px; border-radius: var(--rayon); }
+
+/* ===== Badges de statut ===== */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 2px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--c);
+  color: var(--c);
+  background: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.pastille {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--c);
+  display: inline-block;
+  flex: none;
+}
+
+/* ===== Page carte ===== */
+.page-carte { display: flex; flex-direction: column; height: 100vh; height: 100dvh; }
+.page-carte main { max-width: none; padding: 0; flex: 1; display: flex; flex-direction: column; min-height: 0; }
+#carte { flex: 1; min-height: 300px; }
+
+.filtres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  align-items: center;
+  padding: 10px 16px;
+  background: var(--carte);
+  border-bottom: 1px solid var(--trait);
+}
+.filtres fieldset { border: 0; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.filtres legend { float: left; margin-right: 6px; font-weight: 600; color: var(--doux); font-size: 0.9rem; }
+.filtre-statut {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  border: 1px solid var(--trait);
+  border-radius: 999px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  user-select: none;
+}
+.filtre-statut input { margin: 0; accent-color: var(--c); }
+.filtre-statut .nb { color: var(--doux); }
+.filtres label.projet { display: inline-flex; align-items: center; gap: 6px; font-size: 0.9rem; }
+.filtres select { font: inherit; font-size: 0.9rem; padding: 4px 8px; border-radius: 6px; border: 1px solid var(--trait); }
+
+.legende {
+  background: #fff;
+  padding: 8px 10px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+  font-size: 0.8rem;
+  line-height: 1.6;
+}
+.legende div { display: flex; align-items: center; gap: 6px; }
+
+.popup h3 { margin: 0 0 4px; font-size: 1rem; }
+.popup p { margin: 2px 0; }
+.popup .lien-fiche { display: inline-block; margin-top: 6px; font-weight: 600; }
+
+/* ===== Fiche voie (écran) ===== */
+.fiche-titre h1 { margin: 4px 0; font-size: 1.6rem; line-height: 1.2; color: var(--vert); }
+.fiche-titre .sous-titre { color: var(--doux); margin: 0 0 8px; }
+.fiche-titre .lieu { color: var(--doux); font-size: 0.95rem; margin: 0 0 8px; }
+
+.actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 16px; }
+.bouton {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--vert);
+  background: #fff;
+  color: var(--vert);
+  font: inherit;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+}
+.bouton.principal { background: var(--vert); color: #fff; }
+
+.infos {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1px;
+  background: var(--trait);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+  overflow: hidden;
+  margin-bottom: 16px;
+}
+.infos div { background: var(--carte); padding: 8px 12px; }
+.infos dt { font-size: 0.8rem; color: var(--doux); }
+.infos dd { margin: 0; font-weight: 600; }
+
+.section {
+  background: var(--carte);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+  padding: 4px 16px 12px;
+  margin-bottom: 16px;
+}
+.section h2 { font-size: 1.15rem; color: var(--vert); margin: 12px 0 6px; }
+.section h3 { font-size: 1rem; margin: 14px 0 6px; }
+.section ul { padding-left: 20px; margin: 6px 0; }
+.section p { margin: 6px 0; }
+
+.defile { overflow-x: auto; }
+table.longueurs { border-collapse: collapse; width: 100%; font-size: 0.92rem; min-width: 520px; }
+table.longueurs th { background: var(--vert); color: #fff; text-align: left; padding: 6px 8px; font-weight: 600; }
+table.longueurs td { border-bottom: 1px solid var(--trait); padding: 6px 8px; vertical-align: top; }
+table.longueurs td.court { white-space: nowrap; }
+
+.images figure { margin: 8px 0 16px; }
+.images img { max-width: 100%; height: auto; border: 1px solid var(--trait); border-radius: 6px; }
+.images figcaption { font-size: 0.85rem; color: var(--doux); }
+
+.sources { font-size: 0.85rem; color: var(--doux); }
+
+/* ===== Page projets ===== */
+.projet { margin-bottom: 20px; }
+.projet h2 { color: var(--vert); margin: 8px 0; font-size: 1.25rem; }
+.projet h2 .nb { color: var(--doux); font-weight: 400; font-size: 0.95rem; }
+.liste-voies { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.liste-voies li a {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 6px 12px;
+  background: var(--carte);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+  padding: 10px 14px;
+  text-decoration: none;
+  color: var(--texte);
+}
+.liste-voies li a:hover { border-color: var(--vert); }
+.liste-voies .nom { font-weight: 600; color: var(--vert); }
+.liste-voies .details { color: var(--doux); font-size: 0.9rem; }
+
+/* La fiche A4 n'apparaît qu'à l'impression. */
+.a4 { display: none; }
+
+@media (max-width: 600px) {
+  .fiche-titre h1 { font-size: 1.3rem; }
+  .infos { grid-template-columns: 1fr 1fr; }
+}
+
+/* ===== FICHE A4 (impression) ===== */
+@media print {
+  @page { size: A4; margin: 8mm 9mm; }
+
+  html, body { background: #fff; color: #000; font-size: 7.7pt; line-height: 1.22; }
+  .ecran { display: none !important; }
+  .a4 { display: block; }
+
+  .a4 h1 { font-size: 17pt; margin: 0; letter-spacing: 0.3px; text-transform: uppercase; line-height: 1.1; }
+  .a4 .sous-titre { margin: 0.5mm 0 1.5mm; font-size: 8.5pt; }
+
+  .a4 table { border-collapse: collapse; width: 100%; }
+  .a4 td, .a4 th { border: 0.6pt solid #555; padding: 0.4mm 1.5mm; vertical-align: top; text-align: left; }
+
+  .a4 .cles th { width: 20mm; font-weight: 700; background: #e6e6e6; }
+
+  .a4 .colonnes { column-count: 2; column-gap: 5mm; margin: 2mm 0 0; }
+  .a4 .colonnes .bloc { break-inside: avoid; margin-bottom: 1.5mm; }
+  .a4 h2 {
+    font-size: 9.5pt;
+    margin: 0 0 0.6mm;
+    padding-bottom: 0.3mm;
+    border-bottom: 1.2pt solid #000;
+    break-after: avoid;
+  }
+  .a4 ul { margin: 0; padding-left: 3.5mm; }
+  .a4 li { margin: 0 0 0.3mm; }
+  .a4 p { margin: 0 0 0.5mm; }
+
+  .a4 .tableau { margin-top: 1.5mm; }
+  .a4 .defile { overflow: visible; }
+  .a4 table.longueurs { min-width: 0; font-size: 7.3pt; }
+  .a4 table.longueurs th, .a4 table.longueurs td { padding: 0.3mm 1.5mm; border: 0.6pt solid #555; }
+  .a4 table.longueurs tr { break-inside: avoid; }
+  .a4 .tableau h2 { border-bottom: 0; margin-bottom: 0.5mm; }
+  .a4 .tableau th { background: #000; color: #fff; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .a4 .tableau td:nth-child(1) { width: 18mm; font-weight: 700; }
+  .a4 .tableau td:nth-child(2) { width: 18mm; }
+  .a4 .tableau td:nth-child(3) { width: 8mm; text-align: right; }
+  .a4 .cles th, .a4 .tableau th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+  .a4 .securite {
+    margin-top: 2mm;
+    padding: 1.2mm 2mm;
+    border: 1.2pt solid #000;
+    font-weight: 700;
+    font-size: 8pt;
+  }
+  .a4 .notes { margin-top: 1.5mm; }
+  .a4 .sources-a4 { margin-top: 1.5mm; font-size: 7pt; color: #333; }
+
+  .a4 .page-image {
+    break-before: page;
+    height: 270mm;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .a4 .page-image img { max-width: 100%; max-height: 262mm; object-fit: contain; }
+  .a4 .page-image figcaption { font-size: 7.5pt; margin-top: 1mm; }
+}
