@@ -134,6 +134,7 @@ function afficherA4(voie) {
     .join("");
 
   document.getElementById("a4").innerHTML = `
+    <div class="page1">
     <h1>${echapper(voie.nom)}</h1>
     ${voie.sous_titre ? `<p class="sous-titre">${echapper(voie.sous_titre)}</p>` : ""}
 
@@ -158,10 +159,26 @@ function afficherA4(voie) {
     ${voie.notes ? `<div class="notes"><strong>Notes perso :</strong> ${echapper(voie.notes)}</div>` : ""}
     <div class="securite">${echapper(RAPPEL_SECURITE)}</div>
     ${vide(voie.sources) ? "" : `<div class="sources-a4"><strong>Sources :</strong> ${voie.sources.map(echapper).join(" ; ")}.</div>`}
+    </div>
 
     ${images}
   `;
 }
+
+// Resserre le texte de la fiche A4 jusqu'à ce que la page 1 tienne sur une page (sans descendre sous ~6,3 pt).
+function ajusterA4() {
+  const a4 = document.getElementById("a4");
+  const page = a4.querySelector(".page1");
+  if (!page) return;
+  const limite = (281 * 96) / 25.4 - 6; // hauteur utile d'une page A4 (297 mm - 2 × 8 mm de marge), en pixels
+  let k = 1;
+  a4.style.setProperty("--k", k);
+  while (page.offsetHeight > limite && k > 0.82) {
+    k = Math.round((k - 0.02) * 100) / 100;
+    a4.style.setProperty("--k", k);
+  }
+}
+window.addEventListener("beforeprint", ajusterA4);
 
 /* ---------- Chargement ---------- */
 const id = new URLSearchParams(location.search).get("id");
@@ -171,5 +188,7 @@ chargerVoies()
     if (!voie) throw new Error("Voie introuvable. Retourne à la carte pour en choisir une.");
     afficherFiche(voie);
     afficherA4(voie);
+    ajusterA4();
+    document.fonts?.ready.then(ajusterA4);
   })
   .catch((e) => afficherErreur(document.getElementById("fiche"), e.message));

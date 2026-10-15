@@ -1,5 +1,2382 @@
 [
   {
+    "id": "aiguille-de-montaubert-brumes-de-l-automne",
+    "nom": "Aiguille de Montaubert – Les brumes de l'automne",
+    "sous_titre": "Longue voie de dalles calcaires (13 longueurs) entrecoupées de vires herbeuses – accès par La Molloire et le chalet des Trois Vargnes",
+    "massif": "Bornes - Aravis",
+    "secteur": "Aiguille de Montaubert",
+    "coordonnees": {
+      "lat": 45.82636,
+      "lon": 6.31337,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Les brumes de l'automne",
+        "url": "https://www.camptocamp.org/routes/237368"
+      }
+    ],
+    "objectif": "Course intéressante, sans difficulté particulière, longue et variée : 13 longueurs sur goujons jusqu'au sommet de l'Aiguille de Montaubert, descente à pied par la voie normale.",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "I · équipement P1 · exposition E3",
+    "hauteur": "env. 400 m (dénivelé des difficultés)",
+    "nb_longueurs": "13",
+    "orientation": "NE",
+    "duree": "1 jour",
+    "ambiance": "Calcaire. Belles dalles (notamment L5 et L6 en 4c) entrecoupées de passages herbeux et de vires. Rocher en général très bon, moyen dans de nombreux passages vers le haut et sur les vires. Équipement sur goujons, bon mais souvent un peu espacé, points parfois cachés.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "1 h 10. Du parking, emprunter le GR de Pays Tournette Aravis jusqu'au chalet des Trois Vargnes. Du col, descendre environ 50 m de dénivelée. Passer un 1er lapiaz fracturé puis un 2e, plus important. Quitter le sentier exactement à la fin de ce lapiaz, quand le sentier fait une épingle vers la droite en descendant. Monter droit dans la pente jusqu'à venir buter sur une belle dalle (une plaquette très bas, la 2e à 5-6 m). Les cairns de la fin de l'approche et du retour sont à reconstruire chaque année à cause des avalanches.",
+    "descente": "2 h. Par la voie normale (plein E). Elle est marquée de traces fluo peu visibles (partiellement effacées et orientées montée, donc moyennement repérables du haut) et parfois de cairns. Raide au début (plutôt à droite au début) et chemin quasi inexistant jusqu'aux premiers pierriers. La trace se perd un peu à proximité du chalet des Vargnes au moment où elle pénètre dans la forêt : descendre alors en ligne droite dans la forêt jusqu'à retrouver l'alpage du chalet des Trois Vargnes. Descente en rappel déconseillée (relais non reliés et sans maillons, pierres instables par endroits, paroi peu raide).",
+    "materiel": "Corde 1 × 50 m (longueurs souvent de 50 m, une corde de 50 m suffit), 9 dégaines hors relais.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Tout droit dans une grosse cannelure, 6 points (le dernier point manque)."
+          },
+          {
+            "n": "L2",
+            "cotation": "4a",
+            "longueur": 60,
+            "cheminement": "5 points. Début en ascendance à gauche, la suite en tirant à droite. En haut, on débouche dans une gorge. Ne pas prendre trop à droite (des plaquettes ont été retirées, il reste les tiges) : emprunter la gorge sur 20 m. R2 sous un mur légèrement surplombant."
+          },
+          {
+            "n": "L3",
+            "cotation": "3c",
+            "longueur": 50,
+            "cheminement": "6 points. Remonter la gorge sur quelques mètres puis s'en extraire à gauche. Remonter tout droit."
+          },
+          {
+            "n": "L4",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "4 points. Monter quelques mètres, puis prendre franchement à droite dans l'herbe de manière à retrouver la base des belles dalles."
+          },
+          {
+            "n": "L5",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "7 points. Tout droit, belle dalle, franchir un petit mur légèrement surplombant."
+          },
+          {
+            "n": "L6",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "9 points. Tout droit, belle dalle."
+          },
+          {
+            "n": "L7",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "9 points. Franchir un mur à grosses prises, puis partir en ascendance à droite. Les points sont parfois cachés."
+          },
+          {
+            "n": "L8",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": "5 points. En ascendance (herbe) sur la gauche pour trouver les dalles."
+          },
+          {
+            "n": "L9",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": "3 points. Monter droit, 3 points rapprochés, puis se diriger vers la partie en contrebas à gauche. Désescalader 2 m et remonter en face sur une épaule caractéristique (rocher péteux dans la gorge). R9."
+          },
+          {
+            "n": "L10",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "5 points. Remonter l'épaule puis tout droit."
+          },
+          {
+            "n": "L11",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "6 points. Tout droit."
+          },
+          {
+            "n": "L12",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "8 points. En ascendance à droite, quelques passages généralement mouillés."
+          },
+          {
+            "n": "L13",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "6 points. Tout droit jusqu'à un replat en terre puis remonter une petite gorge. R13."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Attention aux chutes de pierres, surtout dans la 2e partie : elles filent jusqu'en bas, dangereux pour les cordées suivantes et pour les randonneurs qui passent sur le sentier en dessous.",
+      "Points parfois cachés : ne pas hésiter à grimper pour les trouver ; la plupart des longueurs sont assez rectilignes, il suffit de suivre la logique.",
+      "Longueurs souvent de 50 m : une corde de 50 m suffit.",
+      "Descente en rappel déconseillée (relais non reliés et sans maillons, pierres instables, paroi peu raide) : descendre à pied par la voie normale."
+    ],
+    "retex": [
+      "Chutes de pierres : plusieurs retours insistent (vires caillouteuses, « ça parpine ») et déconseillent d'être plusieurs cordées ; une cordée au-dessus a fait tomber de grosses pierres presque dans l'axe de la dalle (sorties du 08/10/2020 et du 26/10/2024) ; grosse chute de pierres dans L1 provoquée par des bouquetins ou chamois (sortie du 09/08/2020).",
+      "Équipement : jugé bon avec relais solides et bien placés, mais points espacés (« la chute est rarement permise ») ; quelques plaquettes pliées ou dévissées (sorties du 01/10/2023, 02/06/2024 et 21/06/2025). Dernier spit de L1 sans plaquette (sorties du 09/08/2020 et du 08/10/2020) ; un retour signale qu'il manquerait des plaquettes dans L3, contournable sans trop de difficulté (sortie du 14/06/2025).",
+      "Recherche d'itinéraire : un retour trouve qu'on perd souvent du temps à chercher les points cachés (sortie du 23/07/2020). En L9, R9 est difficile à trouver : il est au-dessus du « pilier couché » ; un autre conseille de continuer à monter dans l'herbe après les 3 points pour voir le relais sur l'épaule (sorties du 09/08/2020 et du 21/06/2025).",
+      "Rocher : jugé excellent par certains (sortie du 01/10/2023), mais un retour trouve qu'il faut faire attention aux prises dans les 3 longueurs les plus dures, assez fragiles, et que la fin est herbeuse et péteuse (sortie du 02/06/2024). Roche friable signalée (sortie du 02/08/2021).",
+      "Difficulté : un retour trouve L1 (cannelure) un peu sèche pour sa cotation (sortie du 26/10/2024) ; L5-L6 (dalles en 4c) sont les plus belles longueurs, un retour cote la dalle 5a (sortie du 14/06/2025). Beaucoup de pentes herbeuses entre les passages de grimpe (plusieurs sorties).",
+      "Corde tendue et chaussures : plusieurs cordées ont fait tout ou partie de la voie en corde tendue et en chaussures d'approche ou « grosses » (sorties du 12/08/2020, 02/06/2024, 26/10/2024) ; un retour signale que les longueurs dépassent les 50 m à plusieurs reprises, obligeant à progresser en corde tendue (sortie du 09/08/2020).",
+      "Humidité : 2 passages de 5 m trempés par le ruissellement mais qui passent (sortie du 08/10/2020) ; en janvier, dalles L5-L6 couvertes d'une fine pellicule de glace (sortie du 06/01/2023).",
+      "Descente : jugée raide, pénible et « casse-gueule » par plusieurs retours (pierres instables, pierriers, surtout après la pluie ; bâtons utiles) (sorties du 02/06/2024 et du 21/06/2025), « super efficace et bien marquée » par un autre (sortie du 26/10/2024). Au chalet des Trois Vargnes, bien prendre dans la forêt le chemin de droite qui descend et non celui qui monte tout droit (sortie du 02/08/2021).",
+      "Affluence : une cordée dans chaque longueur un dimanche de juin vers 11 h (sortie du 21/06/2020) ; partir tôt, c'est long (sortie du 02/08/2021)."
+    ],
+    "horaires": "Selon C2C : approche 1 h 10, voie 4 h, descente 2 h. Selon les retours : approche 1 h à 1 h 10 ; voie de 2 h (corde tendue intégrale) à 5 h ; descente 1 h à 1 h 20. Exemples : 02/06/2024 parking 9h, attaque 10h, sommet 13h15, parking 14h30 ; 21/06/2025 parking 10h, attaque 11h15, relais sommital 16h45, parking 18h35.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/aiguille-de-montaubert-brumes-de-l-automne-topo.jpg",
+        "legende": "Tracé de la voie vu de Thônes (photo Adren-Alien sur Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 237368 (Les brumes de l'automne), consulté le 15/10/2026",
+      "Sorties Camptocamp 1783691 (21/06/2025), 1781457 (14/06/2025), 1701633 (26/10/2024), 1651757 (02/06/2024), 1583141 (01/10/2023), 1567061 (14/08/2023), 1495245 (06/01/2023), 1343018 (02/08/2021), 1254269 (08/10/2020), 1250069 (12/08/2020), 1236510 (09/08/2020), 1229932 (23/07/2020), 1233815 (06/07/2020), 1218446 (21/06/2020), 1154208 (29/09/2019), consultées le 15/10/2026",
+      "Image Camptocamp 276038 par Adren-Alien (CC-BY-SA)",
+      "Topo cité par C2C : « Bornes Aravis – tome 2 – La Clusaz, Thônes, Ugine » (Gilles Brunot, EKIPROC)",
+      "Topo cité par C2C : topo PDF du CAF Annecy (2008 ou 2009)",
+      "Historique (C2C) : ouverture les 2 et 9 octobre 2008 par Jonathan Gaud, Julian Goletto, Régis Marulier, Benoît Nourisson"
+    ]
+  },
+  {
+    "id": "aiguilles-de-baulmes-grande-arete",
+    "nom": "Aiguilles de Baulmes – Grande Arête",
+    "sous_titre": "Arête calcaire courte et facile du Jura vaudois (Suisse) – depuis le col de l'Aiguillon",
+    "massif": "Jura",
+    "secteur": "Aiguilles de Baulmes – col de l'Aiguillon (Vaud, Suisse)",
+    "coordonnees": {
+      "lat": 46.78958,
+      "lon": 6.46909,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Grande Arête",
+        "url": "https://www.camptocamp.org/routes/57224"
+      }
+    ],
+    "objectif": "Suivre intégralement la Grande Arête (env. 150 m) jusqu'à un petit col, puis gagner le sommet à pied (panorama splendide). Course très courte : l'arête se parcourt en moins d'une heure, plus 1/2 h pour le sommet.",
+    "cotation_globale": "PD-",
+    "cotation_libre_max": "3b",
+    "cotation_obligatoire": "3b",
+    "engagement": "I · équipement P2",
+    "hauteur": "env. 150 m (dénivelé des difficultés)",
+    "nb_longueurs": "",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Calcaire, arête courte et évidente, plein sud, « juste un chouia aérienne par endroits ». Excellent rocher selon la fiche, protection naturelle sur becquets ou arbres, 2 spits dans les passages « plus difficiles », de jolies lames puis une désescalade plus simple qu'il n'y paraît. Nombreuses autres voies équipées de toutes difficultés sur les rochers alentour.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Accès routier : Lausanne/Berne – Yverdon – Baulmes – col de l'Aiguillon (voiture possible ; la fiche suggère la route du col à vélo, +800 m). Du petit parking, la Grande Arête est celle de droite : on y accède en moins de 3 min par une sente puis quelques pas faciles en s'aidant des arbres, à droite de l'arête proprement dite.",
+    "descente": "Environ 30 min. Le plus simple est de suivre les balises droit depuis la croix ; le sentier débouche sur une piste forestière, la suivre à gauche ; on retombe sur la route du col de l'Aiguillon puis rapidement sur le parking.",
+    "materiel": "Corde de 20 m, quelques dégaines et sangles ; chaussons inutiles selon la fiche C2C. Le topo dessiné publié sur C2C (version du 09/11/2025) indique : corde 30 m (40 m selon variante Petite Arête), 5-6 dégaines, 2-3 sangles.",
+    "longueurs": [],
+    "strategie": [
+      "On peut attaquer où l'on veut, mais le plus simple est de prendre pied sur l'arête au-dessus d'un arbre un peu plus gros que les autres.",
+      "Du petit col en fin d'arête, gagner le sommet à pied en remontant la forêt (tirer bien à gauche) : sente dans une sorte de couloir raide entre 2 épaules rocheuses, puis à nouveau en forêt.",
+      "La fiche recommande de monter au col de l'Aiguillon à vélo plutôt qu'en voiture (course très courte, sacs légers)."
+    ],
+    "retex": [
+      "Pierres instables : plusieurs retours signalent des cailloux ou rochers qui bougent, surtout en début de saison, et conseillent le casque et de tester les prises (sorties des 14/05/2023, 18/05/2023, 04/05/2024, 12/06/2025, 18/06/2025 et 01/06/2026). Un retour trouve au contraire le rocher « beau, pas du tout patiné » (sortie du 15/08/2026).",
+      "Itinéraire : beaucoup de spits partout, ce qui rend difficile de suivre une ligne précise mais permet de protéger souvent (sorties des 03/05/2024, 17/07/2024 et 15/08/2026). D'autres trouvent le tracé de la Grande Arête évident (sorties des 29/09/2024 et 01/06/2026).",
+      "Début de voie : un retour signale que partir trop à gauche au départ rend la sortie plus difficile (sortie du 17/07/2024).",
+      "Après la pluie : départ gras/glissant sur les 30 premiers mètres, terrain boueux ; un retour conseille d'attendre au moins une demi-journée après la pluie (sorties des 18/05/2023, 23/09/2023 et 29/09/2024).",
+      "Chaussures : plusieurs cordées l'ont faite en baskets ou en grosses chaussures (sorties des 12/06/2025 et 15/08/2026) ; « pas évident en grosses quand ça glisse » (sortie du 23/09/2023).",
+      "Corde tendue : une bonne partie faite en corde tendue avec des débutants (sortie du 04/05/2024).",
+      "Descente : un retour est descendu par la sente à l'E de l'arête (sortie du 18/05/2023), un autre à pied par la droite en passant par le bunker (sortie du 15/08/2026).",
+      "Affluence : une dizaine de voitures mais personne sur la Grande Arête un 15 août (sortie du 15/08/2026) ; journée longue avec une douzaine de cordées lors d'une sortie de club (sortie du 14/05/2023).",
+      "Hiver : parcourue avec environ 20 cm de neige, crampons aux pieds pour certains passages (sortie du 25/11/2023)."
+    ],
+    "horaires": "Fiche C2C : arête en moins d'une heure, plus 1/2 h pour le sommet ; descente 30 min. Dans l'arête, selon les retours : 30 min (03/05/2024), 1 h (31/05/2026 et 15/08/2026), 1 h 10 (01/06/2026 : départ 17h, fin 18h10, parking 18h20), 1 h 15 à 1 h 30 (18/05/2023, 06/08/2024), 2 h avec des débutants (04/05/2024).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/aiguilles-de-baulmes-grande-arete-topo.jpg",
+        "legende": "Topo Camptocamp des Aiguilles de Baulmes, Grande et Petite Arête (dessin Sylvain Mauroux, CC-BY-SA), version du 09/11/2025"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 57224 (Grande Arête), consulté le 15/10/2026",
+      "Sorties Camptocamp 1940001 (15/08/2026), 1914897 (01/06/2026), 1912598 (31/05/2026), 1782601 (18/06/2025), 1780523 (12/06/2025), 1694798 (29/09/2024), 1674539 (06/08/2024), 1670517 (17/07/2024), 1676528 (15/06/2024), 1642532 (04/05/2024), 1642321 (03/05/2024), 1595976 (25/11/2023), 1580794 (23/09/2023), 1535744 (18/05/2023), 1534957 (14/05/2023), consultées le 15/10/2026",
+      "Image Camptocamp 1833826 par Sylvain Mauroux (CC-BY-SA)",
+      "Historique (C2C) : équipement Marcel Demont, Daniel Cochand ; rééquipement Marcel Demont, Florent Besson"
+    ]
+  },
+  {
+    "id": "aretes-de-la-bruyere-traversee",
+    "nom": "Arêtes de la Bruyère – Traversée des arêtes",
+    "sous_titre": "Course d'arête classique sur calcaire, 11 longueurs et 2 rappels – depuis le Pont de l'Alpe, retour par le refuge du Clot des Vaches",
+    "massif": "Cerces - Thabor - Mont-Cenis",
+    "secteur": "Arêtes de la Bruyère – refuge du Clot des Vaches",
+    "coordonnees": {
+      "lat": 45.03685,
+      "lon": 6.47763,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Traversée des arêtes",
+        "url": "https://www.camptocamp.org/routes/54248"
+      }
+    ],
+    "objectif": "Course d'arête classique avec une vue imprenable : traversée des gendarmes de l'arête jusqu'au sommet (2611 m), puis descente par un rappel vers le refuge du Clot des Vaches. La première longueur est un peu patinée mais ne reflète pas la suite.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4b",
+    "engagement": "III · équipement P2 · exposition E4",
+    "hauteur": "env. 200 m (dénivelé des difficultés)",
+    "nb_longueurs": "11 (+ 2 rappels de 10 et 15 m dans la traversée, puis un rappel de 25 m à la descente)",
+    "orientation": "",
+    "duree": "1 jour",
+    "ambiance": "Calcaire. Arête aérienne ; en suivant bien le fil, escalade belle sur un rocher le plus souvent très bon. Protections en place relativement abondantes, bonnes possibilités de poser sangles et coinceurs. Hors du fil ou sur les vires : peu ou pas d'équipement et rocher souvent beaucoup plus délicat. Engagement global non négligeable pour ce niveau, en l'absence d'échappatoires. Vue à 360° tout au long du parcours.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "1 h 30 à 2 h. Du Pont de l'Alpe, remonter en direction de l'Alpe du Lauzet, puis virer au N direction le Grand Lac pour contourner les arêtes de la Bruyère par l'W. Quelques lacets et câbles plus loin, on arrive au-dessus du lac. Prendre alors une sente à droite qui rejoint un petit col dominant le lac (2436 m). De ce col, monter vers les arêtes jusqu'au pied d'une rampe évidente en oblique de gauche à droite. Variante : de l'Alpe du Lauzet, prendre le chemin du col de la Ponsonnière (un peu plus long).",
+    "descente": "1 h 30 à 2 h. Du sommet, rejoindre facilement un replat herbeux, puis descendre en oblique vers la gauche (E) le long d'une rampe de gravillons (traces) qui domine un à-pic jusqu'à une petite brèche (SE) qu'on désescalade sur une dizaine de mètres (court 3a sur la fin). Traverser à flanc vers la droite (S) sur une quinzaine de mètres pour gagner un rappel de 25 m dans une cheminée (2 goujons reliés par une corde + maillon rapide), caché derrière un bloc surplombant la cheminée. Il mène à un collu puis à la croupe herbeuse qui domine le Clot des Vaches. Option non conseillée à la place du rappel : continuer dans un terrain péteux et exposé jusqu'à une lame détachée, traverser la brèche entre la lame et la paroi puis descendre (3b, un piton). Depuis le pied du rappel (attention au vide d'abord côté N puis côté S), rejoindre le collu puis le terre-plein herbeux quelques mètres au-dessus pour trouver une sente qui serpente sur la croupe ESE vers le refuge du Clot des Vaches ; quelques passages de désescalade facile mais exposée, surtout vers 2300 m. La sente rejoint un bon sentier vers l'E jusqu'au lac et au refuge du Clot des Vaches, puis le torrent du Rif et le chemin de montée.",
+    "materiel": "Une corde de 50 m, 6 dégaines, 5 à 6 sangles (dont 2 × 120 et 2 × 180 cm), quelques friends (#0.4 au #1 surtout) et/ou câblés. Souvent faite en « grosses » ou en chaussures d'approche, mais on peut grimper en chaussons s'ils sont confortables.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4c (ou A0/4b), puis 4b",
+            "longueur": 35,
+            "cheminement": "Monter dans la fissure à gauche du dièdre, d'abord fine et très patinée (pas en 4c ou A0/4b bien protégé par 3 plaquettes), puis plus large (4b, 2 plaquettes). Contourner par la droite un relais intermédiaire douteux et inconfortable (corde coincée, maillon rapide) pour gagner facilement un collu sur l'arête au pied du second gendarme. Relais sur un bloc."
+          },
+          {
+            "n": "L2",
+            "cotation": "3c",
+            "longueur": 30,
+            "cheminement": "Gravir le second gendarme par un couloir raide mais facile (1 piton à main gauche, friends). Relais sur un bloc en contrebas à droite du sommet du gendarme (corde et sangle, maillon rapide)."
+          },
+          {
+            "n": "L3",
+            "cotation": "facile",
+            "longueur": 25,
+            "cheminement": "Redescendre une dizaine de mètres en zigzagant au plus facile et en tirant un peu à l'W pour rejoindre l'arête terreuse et confortable, que l'on suit jusqu'à un relais sur bloc au début de la partie rocheuse."
+          },
+          {
+            "n": "L4",
+            "cotation": "3b",
+            "longueur": 25,
+            "cheminement": "Escalader l'arête étroite sur une succession de blocs (1 piton dans une dalle) jusqu'au pied du beau ressaut très redressé du 3e gendarme. Relais sur deux plaquettes."
+          },
+          {
+            "n": "L5",
+            "cotation": "4c",
+            "longueur": 25,
+            "cheminement": "Gravir le ressaut (aérien) près du fil ; relais sur un gros becquet au sommet."
+          },
+          {
+            "n": "L6",
+            "cotation": "3a-3b",
+            "longueur": 40,
+            "cheminement": "Suivre l'arête horizontale, d'abord côté W puis côté E, jusqu'à un rappel de 10 m qui amène dans une brèche obstruée (le « saut » des vieux topos n'existe plus)."
+          },
+          {
+            "n": "L7",
+            "cotation": "3c",
+            "longueur": 30,
+            "cheminement": "Depuis la brèche, contourner le premier ressaut raide par une rampe oblique en versant W sur quelques mètres, puis monter à gauche par une nouvelle rampe pour rejoindre le fil. Traverser par un court mur-rampe versant E sous le deuxième ressaut (3b, bien gérer le tirage). Suivre l'arête près du fil horizontal (3a) jusqu'à une brèche confortable au pied d'un petit mur versant W : relais."
+          },
+          {
+            "n": "L8",
+            "cotation": "4b, 4c",
+            "longueur": 30,
+            "cheminement": "Franchir ce mur de 2 m sur le fil (4b, 1 plaquette), puis une jolie dalle (4c, 1 piton + 1 plaquette) jusqu'à l'arête que l'on franchit dans l'axe des points. En redescendre versant E par une dalle de 6 m (3b) pour rejoindre une brèche obstruée par des effondrements récents."
+          },
+          {
+            "n": "L9",
+            "cotation": "3c",
+            "longueur": 30,
+            "cheminement": "Rejoindre la vire côté W et la suivre quelques mètres jusqu'à pouvoir rejoindre facilement à gauche le fil. Basculer à nouveau versant E par une traversée aérienne (friends) sur une jolie dalle, puis des blocs, jusqu'au sommet du gendarme : relais sur becquet."
+          },
+          {
+            "n": "Rappel",
+            "cotation": "",
+            "longueur": 15,
+            "cheminement": "Courte désescalade facile versant W jusqu'à des anneaux de rappel sur un becquet. Rappel de 15 m dans un large collet d'éboulis. Traverser l'éboulis en ascendance à droite jusqu'au pied du dernier gendarme, sous un dièdre jaunâtre fissuré en oblique à droite (plaquette visible à 2 m du sol)."
+          },
+          {
+            "n": "L10",
+            "cotation": "4b",
+            "longueur": 30,
+            "cheminement": "Gravir ce dièdre jaunâtre fissuré (1 plaquette, 1 piton, 1 coinceur et 1 friend coincés) et poursuivre à droite jusqu'à ce que le rocher s'oriente plein W. S'élever de quelques mètres jusqu'à une petite terrasse : relais sur becquet + 1 plaquette."
+          },
+          {
+            "n": "L11",
+            "cotation": "4b",
+            "longueur": 25,
+            "cheminement": "Franchir un petit mur par un léger crochet à gauche (1 plaquette), puis un petit dièdre (friend) jusqu'au sommet du gendarme : relais."
+          },
+          {
+            "n": "Sortie",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Traverser quelques mètres vers le S pour rejoindre à vue, un peu en contrebas, les anneaux du rappel de 15 m qui conduit dans la brèche suivante. Rejoindre une vire versant W, puis gagner facilement le sommet rocheux."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Suivre bien le fil : l'escalade y est belle et protégée ; si on s'égare ou utilise les vires, peu ou pas d'équipement et rocher beaucoup plus délicat.",
+      "Toujours vérifier l'état des équipements en place.",
+      "Attention aux horaires : voie très fréquentée ; l'horaire dépend surtout de l'aisance de la cordée dans ce terrain, dont la difficulté d'ensemble ne doit pas être sous-estimée, descente comprise.",
+      "Progression simultanée possible mais très délicate en termes d'assurage : elle suppose une cordée expérimentée dont le niveau excède largement celui de la voie.",
+      "Voie idéale pour apprendre l'escalade en montagne avec des personnes expérimentées, mais certainement pas pour « l'auto-initiation » d'une cordée inexpérimentée.",
+      "Raccourcis possibles : atteindre directement le dernier gendarme depuis la vire du versant W en shuntant L9 et le rappel qui suit ; ou contourner le dernier gendarme par la droite (versant W) et rattraper le fil par une cheminée facile (3b/c ?)."
+    ],
+    "retex": [
+      "L1 (départ historique) : très patinée, plusieurs cordées l'ont passée en A0 grâce aux nombreux spits (sorties du 13/08/2026, 15/08/2026 et 11/09/2026) ; un retour la trouve « pas très dérangeante », pas raide et très bien équipée (sortie du 19/08/2026). Une cordée a pris le dièdre de départ en 5c et l'a trouvé moins dur que prévu (sortie du 18/08/2026) ; une autre a renoncé au dièdre pour le départ classique, jugé « clairement la meilleure option » (sortie du 19/08/2026).",
+      "Équipement : jugé abondant (spits, pitons, lunules, « chasses d'eau » dans les pas de IV), plutôt P1+/P2 que P2+ selon deux retours (sorties du 12/08/2026 et du 13/08/2026) ; un autre trouve les portions grimpantes « presque trop spittées » et des spits peu pertinents (sortie du 13/07/2026). 3-4 spits retirés dont un relais, sans gêne (sortie du 18/07/2026). Un relais de rappel sur sangles et cordelettes à changer « un jour » (sortie du 15/08/2026).",
+      "Protections : un petit jeu de friends 0.4 à 1 a suffi à plusieurs cordées (sorties du 19/08/2026 et du 11/09/2026) ; un #2 utilisé dans la longueur du dièdre (sortie du 18/07/2026). Beaucoup d'écailles « branlantes » sur le fil, qui tiennent comme prises mais pas pour poser des friends (sortie du 13/08/2026).",
+      "Brèche effondrée (vers L8-L9) : quelques éboulements ont modifié l'extrémité de l'arête franchie en L8 (sortie du 12/09/2026) ; une cordée est passée à droite versant W sur 15 m par une sente confortable, en conseillant de reprendre le fil dès que possible (sortie du 15/08/2026).",
+      "Dernier rappel : il faut chercher un peu, descendre plusieurs cairns jusqu'à une traversée main gauche (face à la paroi), cairnée elle aussi (sortie du 13/08/2026).",
+      "Itinéraire : jugé logique et assez évident par la plupart (sorties du 19/08/2026 et du 12/09/2026) ; un retour a eu du mal à suivre la description C2C et a suivi « au plus évident » (sortie du 15/08/2026).",
+      "Affluence : très fréquentée (une dizaine de cordées un samedi de septembre, au moins 5 cordées un jour d'août) (sorties du 18/08/2026 et du 12/09/2026) ; partir tôt ou à contretemps (attaque à midi) pour éviter la foule (sorties du 13/07/2026 et du 19/08/2026).",
+      "Chaussures et corde tendue : souvent faite en grosses ou en chaussures d'approche, beaucoup de cordées en corde tendue sauf L1 (sorties du 13/07/2026, 13/08/2026 et 11/09/2026). Froid et vent à l'ombre en septembre, prévoir une polaire (sorties du 05/09/2026 et du 11/09/2026).",
+      "Accès en bus l'été : ligne 6 depuis Briançon, arrivée 8h55 au Pont de l'Alpe (3,30 € en 2026) ; hors saison bus 55 Briançon-Grenoble (sortie du 19/08/2026). Refuge du Clot des Vaches : pas de paiement par carte signalé (sortie du 13/08/2026)."
+    ],
+    "horaires": "Selon C2C : approche 1 h 30 à 2 h, voie 3 h à 5 h, descente 1 h 30 à 2 h. Selon les retours : approche 1 h 30 à 2 h ; arête de 2 h (corde tendue) à 5 h (groupe CAF) ; descente 1 h à 2 h. Exemples : 13/07/2026 départ 7h15, pied des arêtes 8h50, sommet 12h15, parking 14h ; 12/09/2026 départ 8h, attaque 10h, sortie de l'arête 14h, parking 16h45 (avec pause au refuge).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/aretes-de-la-bruyere-traversee-topo.jpg",
+        "legende": "Les différentes attaques : classique (rouge), dièdre en 5c (jaune), variante en 4c (vert) (photo Titi.rey sur Camptocamp, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/aretes-de-la-bruyere-traversee-topo-2.jpg",
+        "legende": "Brèche effondrée : ancien passage (rouge) et contournement par une vire versant W (jaune) (photo Titi.rey sur Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 54248 (Traversée des arêtes), consulté le 15/10/2026",
+      "Sorties Camptocamp 1951703, 1951034 et 1950975 (12/09/2026), 1950501 (11/09/2026), 1949767 (05/09/2026), 1942920 (19/08/2026), 1942602 (18/08/2026), 1941299 (15/08/2026), 1939615 (13/08/2026), 1939018 (12/08/2026), 1933929 (30/07/2026), 1930665 (18/07/2026), 1927083 (13/07/2026), 1930226 (10/07/2026), 1940425 (22/06/2026), consultées le 15/10/2026",
+      "Images Camptocamp 1684882 et 1684883 par Titi.rey (CC-BY-SA)",
+      "Topos cités par C2C : « Le Massif des Écrins – Les 100 plus belles courses et randonnées », « Oisans Nouveau Oisans sauvage – Livre Est », « Les nouvelles escalades faciles », « Escalade plaisir – Alpes françaises du Nord », « Escalades du Briançonnais », « Guide des escalades du massif des Cerces », Montagnes Magazine n° 308 et n° 344",
+      "Historique (C2C) : 1947, auteur inconnu"
+    ]
+  },
+  {
+    "id": "breche-des-clochetons-voie-du-nain",
+    "nom": "Brèche des Clochetons – Voie du Nain",
+    "sous_titre": "Courte voie de dalle entièrement équipée sur granite, cirque du Soreiller – depuis le refuge du Soreiller",
+    "massif": "Écrins",
+    "secteur": "Cirque du Soreiller – Brèche des Clochetons (refuge du Soreiller, accès depuis Les Étages)",
+    "coordonnees": {
+      "lat": 44.964,
+      "lon": 6.24346,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Brèche des Clochetons : Voie du Nain",
+        "url": "https://www.camptocamp.org/routes/54688"
+      }
+    ],
+    "objectif": "Superbe voie du cirque du Soreiller aux cotations modestes, jusqu'à la brèche des Clochetons : voie récente, continue dans le 3/4, entièrement équipée sur spits, essentiellement en dalle.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "5a (un pas)",
+    "cotation_obligatoire": "4c",
+    "engagement": "I · équipement P1+ · exposition E1",
+    "hauteur": "env. 150 m (dénivelé des difficultés)",
+    "nb_longueurs": "5 décrites sur C2C, plus l'accès au 1er relais (éperon facile ou départ direct)",
+    "orientation": "E",
+    "duree": "1 à 2 jours (selon C2C, avec la montée au refuge)",
+    "ambiance": "Granite, escalade essentiellement en dalle, continue dans le 3/4, entièrement équipée sur spits ; relais avec cordelettes et 3 spits. Itinéraire évident (suivre les spits). Face E au soleil assez tôt. C2C la signale comme extrêmement fréquentée, avec des bouchons fréquents.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Compter 45 min depuis le refuge du Soreiller. Derrière le refuge, prendre une sente qui monte au pied de la Dibona puis la contourne par l'E. Monter jusqu'au pied des Clochetons Gunneng, à environ 2950 m. La voie remonte à droite des Clochetons pour aboutir à la brèche des Clochetons : c'est la voie la plus proche du couloir évident qui descend des Clochetons.",
+    "descente": "Compter 1 h. Redescendre au refuge en suivant le sentier versant W (cairns). Se renseigner au refuge sur la présence ou non de névé dans la combe W.",
+    "materiel": "Corde de 2×40 m (1×40 m suffisant si descente sans rappels) ; 8 dégaines (hors relais) ; un friend moyen peut dépanner si on est juste dans le niveau (très facultatif).",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "Accès R1",
+            "cotation": "2c",
+            "longueur": null,
+            "cheminement": "Éperon rocheux facile en ascendance à gauche : ne pas aller jusqu'à la bonne terrasse en haut de l'éperon mais chercher le relais dans un petit dièdre en contrebas à gauche en suivant des vires. Ou directement (2 spits ; le premier est assez haut, 5-6 m, si le névé à la base a fondu ; friend moyen utile)."
+          },
+          {
+            "n": "L1",
+            "cotation": "5a",
+            "longueur": null,
+            "cheminement": "Grimper en ascendance à gauche vers un ressaut (4b/4c) puis traverser sous le ressaut (un pas de 5a, possibilité de mettre un friend pour le second)."
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Remonter tout droit (un pas de 4c) et finir vers la droite. Le relais est bien à droite, un peu caché après un ressaut : ne pas chercher à monter droit dans le « raide »."
+          },
+          {
+            "n": "L3",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": "Remonter tout droit des dalles faciles."
+          },
+          {
+            "n": "L4",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": "Remonter tout droit des dalles faciles."
+          },
+          {
+            "n": "L5",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": "Monter tout droit puis traverser un couloir pour se diriger vers une petite brèche en ascendance à gauche."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Bien que la voie soit en dalle, la montée en grosses chaussures se fait bien si l'on a une marge dans le niveau (juste un pas dans le 5a).",
+      "Itinéraire évident : suivre les spits."
+    ],
+    "retex": [
+      "Trouver le départ : un retour a pas mal cherché l'attaque, le premier point étant au ras de la neige (sortie du 10/07/2026) ; un autre décrit les premiers points peu visibles, sur un éperon incliné à droite quand on est au bas de la brèche (sortie du 06/09/2025). Mi-juin, première longueur complètement sous la neige, départ à R1, crampons appréciés pour la fin du névé (sortie du 13/06/2026) ; en juillet, petit névé non gênant et départ direct 4a (sortie du 20/07/2026) ; en septembre, névé fondu (sortie du 05/09/2026).",
+      "Difficulté : un retour a trouvé un passage de L1 plus dur que prévu, ressenti 5b+ car les points sont parfois espacés (sortie du 05/09/2026) ; un autre la trouve plutôt dans le 5a/b (sortie du 03/08/2026) ; « 2 petits pas plus fins dans L1 » (sortie du 10/07/2026) ; un pas de la longueur en 5a a « fait trembler les jambes » d'une grimpeuse (sortie du 15/08/2023).",
+      "Topo différent : le topo Cambon (disponible au refuge) diffère un peu du topo C2C, avec une petite longueur avant la « L1 » C2C ; L1 et L2 enchaînées, « limite » avec une corde de 50 m (sortie du 02/08/2026).",
+      "Équipement : bien équipée, relais en bon état, mais il faut parfois lever la tête pour chercher le point suivant (sortie du 10/08/2023). Un retour dit pas besoin de friends ni de sangles (sortie du 09/08/2025) ; un autre a posé 1 coinceur pour la courte traversée sous le ressaut, non indispensable (sortie du 06/09/2025).",
+      "Chaussures : plusieurs cordées l'ont faite entièrement en chaussures d'approche ou en grosses, à condition d'être à l'aise dans le 5 (sorties des 13/06/2026, 06/08/2025 et 06/09/2025).",
+      "Affluence : contrairement à la fiche C2C, plusieurs retours récents étaient seuls ou presque dans la voie (sorties des 05/09/2026, 02/08/2026, 10/07/2026 et 06/08/2025) ; d'autres ont trouvé un peu de monde mais ont pu doubler (sortie du 23/07/2023).",
+      "Soleil : la voie prend le soleil vers 8 h 15 mi-août (sortie du 09/08/2025) ; un retour la conseille en début d'après-midi par forte chaleur, la paroi passant vite à l'ombre (sortie du 13/06/2026).",
+      "Descente : par les vires cairnées pour éviter le névé (sortie du 10/07/2026) ; un retour parle d'une « errance dans le pierrier scabreux » en suivant traces et cairns (sortie du 06/09/2025).",
+      "Accès : en 2025, route barrée à Saint-Christophe-en-Oisans, navette obligatoire jusqu'aux Étages (sortie du 06/09/2025) ; à vérifier avant d'y aller."
+    ],
+    "horaires": "Selon C2C : approche 45 min depuis le refuge, descente 1 h. Selon les retours : Les Étages → refuge du Soreiller 2 h (sortie du 06/09/2025) ; départ 6 h 50, approche 45 min, 30 min pour trouver l'attaque et s'équiper, voie 2 h 15, retour au refuge 1 h 10, descente aux Étages 2 h 10 (sortie du 10/07/2026) ; début de voie 7 h, brèche 9 h (sortie du 07/08/2026) ; attaque 8 h, fin de voie 9 h 45 (sortie du 03/08/2026) ; environ 1 h 30 dans la voie (sorties du 06/08/2025 et du 06/09/2025) ; 1 h 45 (sortie du 30/09/2023) ; attaque 8 h 15, brèche 10 h 20 (sortie du 10/08/2023).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/breche-des-clochetons-voie-du-nain-topo.jpg",
+        "legende": "Tracé Camptocamp de la Voie du Nain avec L0 en 4a, contournable par la droite (photo Inami, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 54688 (Brèche des Clochetons : Voie du Nain), consulté le 15/10/2026",
+      "Sorties Camptocamp 1948306 (05/09/2026), 1938522 (07/08/2026), 1937046 (03/08/2026), 1941889 (02/08/2026), 1929393 (20/07/2026), 1928015 (10/07/2026), 1916876 (13/06/2026), 1827972 (06/09/2025), 1804050 (09/08/2025), 1820497 (06/08/2025), 1796105 (21/07/2025), 1583797 (30/09/2023), 1568242 (15/08/2023), 1567972 (10/08/2023), 1567424 (23/07/2023), consultées le 15/10/2026",
+      "Image Camptocamp 1137784 par Inami (CC-BY-SA)",
+      "Topos cités par C2C : Oisans nouveau, Oisans sauvage – Livre Ouest ; Guide du Haut-Dauphiné, tome 1 ; 6a max – Dauphiné ; Escalades faciles de Grenoble à Briançon ; Escalade plaisir – Alpes françaises du Nord",
+      "Historique (C2C) : ouverture en 1998 par Gaëtan et Pascal Junique"
+    ]
+  },
+  {
+    "id": "cervieres-les-aittes-el-boboch",
+    "nom": "Éperon des Aittes – El Boboch",
+    "sous_titre": "Grande voie d'initiation équipée, 8 longueurs – départ de la route des Fonts (Cervières)",
+    "massif": "Queyras N - Briançonnais - Alpes Cottiennes",
+    "secteur": "Cervières – Les Aittes",
+    "coordonnees": {
+      "lat": 44.88022,
+      "lon": 6.73728,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Cervières - Les Aittes : El Boboch",
+        "url": "https://www.camptocamp.org/routes/1017689"
+      }
+    ],
+    "objectif": "Voie d'initiation avec quelques pas de IV+ bien protégés, entièrement équipée sur goujons et broches. Échappatoires toujours possibles en cas de problème.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4b",
+    "engagement": "I · équipement P1 · exposition E2",
+    "hauteur": "env. 160 m (dénivelé des difficultés)",
+    "nb_longueurs": "8",
+    "orientation": "SE",
+    "duree": "1 jour",
+    "ambiance": "Calcaire, pilier et face entre 1850 et 2100 m. Bon rocher dans l'ensemble, mais quelques passages fracturés ou friables, voire de la terre, surtout dans la dernière longueur. La voie reprend ou côtoie un ancien itinéraire militaire sur broches (2005) ; El Boboch a été rééquipée sur goujons en 2010 et reste sur le pilier.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "De Cervières, emprunter la route des Fonts. Après l'embranchement des chalets des Aittes, mais avant le mur des Aittes, petit parking sur la droite. Rejoindre le sentier (dans le virage) qui mène au pied de l'éperon (5 min). Départ à partir de la dalle gravée par les militaires : nom « El Boboch » avec un dessin d'escargot au pied.",
+    "descente": "Depuis le dernier relais, deux options. Option 1 (recommandée, « très joli ») : monter 50 m droit au-dessus jusqu'aux arbres, suivre le sentier raide jusqu'à la crête, descendre celle-ci sur 20 m vers le N, puis rejoindre le sentier qui descend de Peyre Moutte jusqu'à la route. Option 2 : basculer de 10 m côté N à pied ou en désescalade jusqu'à un pin ; amarrage pour un petit rappel de 25 m ; on arrive dans un grand pierrier pénible qu'on descend main droite jusqu'au départ.",
+    "materiel": "10 dégaines, matériel pour relier les relais (sangles + mousquetons à vis), corde 50 m.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4c",
+            "longueur": 30,
+            "cheminement": "Ascendance en diagonale gauche, quelques pas fins. Relais chaîné."
+          },
+          {
+            "n": "L2",
+            "cotation": "3c",
+            "longueur": 40,
+            "cheminement": "Ascendance à gauche, facile. Relais chaîné."
+          },
+          {
+            "n": "L3",
+            "cotation": "3c/4a",
+            "longueur": 35,
+            "cheminement": "Au début, soit à gauche en suivant les broches (3c, facile), soit tout droit en suivant les goujons (4a), puis passer à gauche du pin (ne pas suivre les broches : pas de relais et gros tirage !). Relais chaîné."
+          },
+          {
+            "n": "L4",
+            "cotation": "4c",
+            "longueur": 30,
+            "cheminement": "Jolie longueur en dalle : au début, suivre les goujons tout droit (4c) ou les broches à droite (4a/b). Relais chaîné."
+          },
+          {
+            "n": "L5",
+            "cotation": "4a",
+            "longueur": 35,
+            "cheminement": "Relais non relié (3 points, R5)."
+          },
+          {
+            "n": "L6",
+            "cotation": "2",
+            "longueur": 50,
+            "cheminement": "2 spits puis marche à droite (vers l'E) sur 40 m (suivre des cairns et un spit), relais sur 2 spits non reliés."
+          },
+          {
+            "n": "L7",
+            "cotation": "4a",
+            "longueur": 45,
+            "cheminement": "Monter pour rejoindre un joli mur comportant 3-4 points, puis replat sur la crête."
+          },
+          {
+            "n": "L8",
+            "cotation": "2",
+            "longueur": 50,
+            "cheminement": "Remonter la pente jusqu'au premier arbre, relais sur celui-ci."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "En général, il vaut mieux suivre les goujons plutôt que les broches, pour éviter le tirage et pour passer au plus beau/grimpant.",
+      "En cas de problème, il est toujours possible de s'échapper.",
+      "Relais à relier (sangles + mousquetons à vis)."
+    ],
+    "retex": [
+      "Suivre la voie équipée sur goujons (à droite) et non les broches des militaires, qui zigzaguent en L3 et bas de L4 et donnent un très gros tirage (sorties du 31/07/2020 et du 29/07/2025).",
+      "Chutes de pierres : plusieurs retours signalent des cailloux qui tombent, surtout quand ça grimpe moins ; un retour déconseille la voie si une cordée est déjà engagée devant (sorties du 31/07/2020, 29/07/2025 et 11/07/2026).",
+      "Seules les 4 premières longueurs sont vraiment de l'escalade ; ensuite surtout de la marche en terrain délicat (sorties du 31/07/2020 et du 17/08/2022). Un retour juge les 3 dernières longueurs « bien pourries » et la L6 très exposée (graviers, au-dessus du vide) : prendre de quoi mettre un point sur les arbres si on n'est pas à l'aise ; les deux points du relais y sont difficiles à voir de loin (sortie du 06/04/2024).",
+      "Rocher : bon dans l'ensemble selon les retours, mais tester certaines prises ; gravier et terre dans les longueurs faciles (sorties du 21/06/2020 et du 06/04/2024).",
+      "Équipement jugé très bon / abondant par la plupart des retours ; une plaquette manquante signalée en L1 (sortie du 29/09/2024) ; 2 ou 3 chevilles sans plaquette dans les longueurs de transition (fin de L6 et sentier de sortie) en 2019 (sortie du 04/08/2019) ; un grimpeur indique avoir replacé 3 plaquettes manquantes dans les dernières longueurs en août 2020 (sortie du 31/07/2020).",
+      "Itinéraire jugé facile à suivre, sauf peut-être les longueurs de marche en L6 et L8 (sortie du 11/07/2026). On voit l'inscription « El Boboch » depuis le parking (sortie du 29/09/2024).",
+      "Plusieurs cordées l'ont faite en chaussures d'approche ou « en grosses » (sorties du 21/06/2020, 31/07/2020, 17/08/2022 et 29/09/2024).",
+      "À l'ombre une bonne partie de la montée selon un retour d'été (sortie du 11/07/2026) ; au soleil en fin septembre (sortie du 29/09/2024). En juillet, grimpe le matin avant les orages de l'après-midi (sortie du 11/07/2026).",
+      "Accès : se garer sur la droite de la route, au pied du sentier (sortie du 11/07/2026)."
+    ],
+    "horaires": "Approche 5 min. Selon les retours : env. 2 h 30 dans la voie (06/04/2024) ; 3 h 10 (11/07/2026) ; départ 10 h 30, retour 13 h 30 (29/09/2024) ; 11 h 15 – 13 h 00 (29/07/2025).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/cervieres-les-aittes-el-boboch-topo.jpg",
+        "legende": "Topo Camptocamp : tracé de la voie sur l'éperon des Aittes (photo nico las, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 1017689 (Cervières - Les Aittes : El Boboch), consulté le 15/10/2026",
+      "Sorties Camptocamp 1925782 (11/07/2026), 1798363 (29/07/2025), 1694605 (29/09/2024), 1634214 (06/04/2024), 1566913 (11/08/2023), 1464129 (17/08/2022), 1235247 (31/07/2020), 1242977 (21/06/2020), 1135742 (04/08/2019), 1215649 (02/08/2019), 1802359 (20/07/2017), consultées le 15/10/2026",
+      "Image Camptocamp 1017772 par nico las (CC-BY-SA)",
+      "Topos cités par C2C : topo originel http://brianconescalade.free.fr/TopoEperonDesAittes.pdf ; topo Briançon climbs https://www.briancon-climbs.com/aittes",
+      "Historique (C2C) : itinéraire équipé en mai 2005 sur broches par les militaires de la SEM du 3e REG ; rectification en octobre 2010 (sur goujons)"
+    ]
+  },
+  {
+    "id": "col-du-grand-saint-bernard-confiance-aux-tetards",
+    "nom": "Col du Grand-Saint-Bernard – Confiance aux têtards",
+    "sous_titre": "Voie facile en dalle, 6 petites longueurs – 5 min de l'Hospice (Suisse)",
+    "massif": "Valais W - Alpes Pennines W",
+    "secteur": "Col du Grand-Saint-Bernard – sentier de la Chenalette",
+    "coordonnees": {
+      "lat": 45.86892,
+      "lon": 7.17093,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Col du Grand Saint Bernard : Confiance aux têtards",
+        "url": "https://www.camptocamp.org/routes/1577103"
+      }
+    ],
+    "objectif": "Jolie voie en dalle de 6 petites longueurs. Approche aisée et escalade relativement courte, idéale pour une fin de journée ; idéale pour l'initiation ou la découverte de la grande voie avec des enfants. Nombreuses échappatoires possibles.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4b",
+    "engagement": "I · équipement P1",
+    "hauteur": "env. 100 m (dénivelé des difficultés)",
+    "nb_longueurs": "6",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Gneiss, dalles et pilier vers 2470-2600 m. Magnifique décor avec vue plongeante sur le lac, mais proximité de la route du col. Jonctions herbeuses et marche de 5 min entre L4 et L5.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Depuis l'Hospice du Grand-Saint-Bernard, prendre le sentier de la Chenalette. Peu après la bâtisse du départ de l'ancien télésiège, emprunter une pente herbeuse qui monte sur la droite. Départ de la voie sur une dalle côté gauche. 5 min d'approche.",
+    "descente": "Par le sentier de la Chenalette qui ramène au col du Grand-Saint-Bernard (10 min). Relais non équipés pour la descente en rappel.",
+    "materiel": "Corde 40 m, 8 dégaines et de quoi faire les relais (non reliés).",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4b",
+            "longueur": 15,
+            "cheminement": "Dalle bien fournie en petites prises, jonchée de vieux pitons (5 pts). Relais, puis 1 pt au début de la dalle suivante pour assurer la courte jonction herbeuse."
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": 30,
+            "cheminement": "Belle dalle couchée, petit pas athlétique sur le dernier ressaut. Relais sur gros bloc après le ressaut (8 pts)."
+          },
+          {
+            "n": "L3",
+            "cotation": "4b",
+            "longueur": 15,
+            "cheminement": "Joli dièdre évasé (4 pts)."
+          },
+          {
+            "n": "L4",
+            "cotation": "4c",
+            "longueur": 15,
+            "cheminement": "Jonction herbeuse de 10 m sur la droite. Traversée ascendante vers la gauche sur un mur vertical à bonnes prises. Petit rétablissement avant le relais (3 pts)."
+          },
+          {
+            "n": "Marche",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Marcher 5 min en direction des 2 évidentes dalles couchées."
+          },
+          {
+            "n": "L5",
+            "cotation": "4b",
+            "longueur": 20,
+            "cheminement": "Belle dalle à petites prises (4 pts)."
+          },
+          {
+            "n": "L6",
+            "cotation": "4a",
+            "longueur": 20,
+            "cheminement": "1 pt pour faciliter la traversée horizontale sur la gauche. Dalle facile ensuite (2 pts)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Itinéraire facile, idéal pour l'initiation ou pour la découverte de la grande voie avec des enfants ; l'orientation et la rapidité d'accès en font un terrain de jeu appréciable.",
+      "Nombreuses échappatoires possibles durant toute la progression.",
+      "Relais non reliés et pas équipés pour la descente en rappel : prévoir de quoi les relier, descendre à pied."
+    ],
+    "retex": [
+      "Départs de L3 et de L5 un peu cherchés sur les rochers alentour (sortie du 12/10/2025) ; une autre cordée s'est perdue pour atteindre L4, est montée trop haut puis a fait demi-tour (sortie du 02/08/2024).",
+      "Après L4 : marcher 5 min en laissant les lacs sur la droite, vers les dalles, en direction d'un gros cairn et d'une croix au loin (sortie du 02/08/2024).",
+      "Accès : se diriger derrière le musée des chiens saint-bernard et continuer le chemin après l'ancienne gare de téléphérique, à gauche en direction de l'Italie (sortie du 02/08/2024).",
+      "Rocher jugé d'excellente qualité, points proches, pas de 4 bien protégés, réchappe possible presque à tout moment (sorties du 02/08/2024 et du 12/10/2025).",
+      "Escalade non continue, nombreux passages faciles : « course plaisir », les grimpeurs qui veulent vraiment grimper risquent de rester sur leur faim (sortie du 02/08/2024).",
+      "Affluence : malgré le col tout proche, une cordée était seule dans la voie en août (sortie du 02/08/2024).",
+      "Conditions d'automne : rocher sec à la mi-octobre, les neiges de septembre ayant disparu ; voie entièrement au soleil en partant vers 12 h (sortie du 12/10/2025)."
+    ],
+    "horaires": "Approche 5 min, descente 10 min. Selon un retour : 1 h de grimpe et 2 h aller-retour (02/08/2024) ; départ dans la voie vers 12 h (12/10/2025).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/col-du-grand-saint-bernard-confiance-aux-tetards-topo.jpg",
+        "legende": "Photo Camptocamp avec le tracé de la voie (photo Vincent Tornay, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 1577103 (Col du Grand Saint Bernard : Confiance aux têtards), consulté le 15/10/2026",
+      "Sorties Camptocamp 1825962 (12/10/2025), 1673588 (02/08/2024), consultées le 15/10/2026",
+      "Image Camptocamp 1577416 par Vincent Tornay (CC-BY-SA)",
+      "Historique (C2C) : ouverture du bas en septembre 2023 par Vincent Tornay et Isabelle Godot"
+    ]
+  },
+  {
+    "id": "dent-d-orlu-dalles-blanches",
+    "nom": "Dent d'Orlu (face E) – Les Dalles Blanches",
+    "sous_titre": "Grande voie de dalle facile, 11 longueurs sur granite – depuis Orlu (Jasse de Cabane Longue)",
+    "massif": "Haute Ariège - Andorre",
+    "secteur": "Dent d'Orlu – face E (accès Orlu, Jasse de Cabane Longue)",
+    "coordonnees": {
+      "lat": 42.69872,
+      "lon": 1.93633,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Dent d'Orlu - Face E : Les Dalles Blanches",
+        "url": "https://www.camptocamp.org/routes/56780"
+      }
+    ],
+    "objectif": "Voie de dalle de 11 longueurs en face E de la Dent d'Orlu, sortie au sommet. Selon C2C, elle se situe à la limite de l'escalade : le pas le plus dur est tout juste en 4.",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "4b (deux longueurs notées 4c dans le tableau C2C)",
+    "cotation_obligatoire": "3b",
+    "engagement": "I · équipement P2",
+    "hauteur": "env. 300 m (dénivelé des difficultés)",
+    "nb_longueurs": "11",
+    "orientation": "E",
+    "duree": "1 jour",
+    "ambiance": "Granite, grandes dalles. Selon C2C, tous les relais sont équipés, avec 2 à 4 points par longueur.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Prendre le sentier de la voie normale de la Dent, balisé rouge et blanc. À 1990 m d'altitude, prendre un sentier à gauche qui mène vers le col de Brasseil : la face E est devant vous. Descendre en longeant la face ; le nom de la voie (presque effacé) est marqué au pied (goulotte herbeuse), avec une marque rouge au départ. C'est le même départ que la voie Tapas en Dalle, qui part à gauche.",
+    "descente": "Par la voie normale.",
+    "materiel": "8 dégaines ; « un rappel de 90 m » (indication C2C telle quelle, à vérifier) ; quelques pitons lame et coinceurs si l'on veut grimper avec plus que 2 à 4 points par longueur ; chaussons.",
+    "longueurs": [
+      {
+        "titre": "Cotations seules (pas de description des longueurs sur C2C)",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L2",
+            "cotation": "3a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L3",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L4",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L5",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L6",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L7",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L8",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L9",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L10",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L11",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": ""
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Cotations : un retour juge les cotations du topo CAF et de C2C « sèches », avec plus souvent du 4c que du 3, et conseille de prendre des petits friends et deux moyens (sortie du 03/07/2026).",
+      "Équipement : hétérogène selon un retour (goujons, plaquettes coudées ou aplaties, spits de 8 rouillés, spits de 10 ; longueurs très peu équipées, d'autres correctes) (sortie du 03/07/2026) ; « points espacés » (sortie du 20/08/2024), environ 4 points par longueur voire moins (sortie du 17/07/2018) ; un autre retour le trouve « nickel » (sortie du 28/06/2025). Un plus ancien décrit la première partie en P1 et la fin en P2 voire P3, avec un équipement plus ancien et plus aéré (sortie du 06/10/2012).",
+      "Piège en L8 : une cordée n'a pas vu les points à droite et s'est retrouvée au relais R8 de Tapas en Dalle après 40 m sans point, perdant 1 h 30 à 2 h ; « la photo semble indiquer que la voie part à gauche… en fait non » (sortie du 05/10/2024). Un autre grimpeur, 8 m sous le relais de L8 (très exposé), est parti à droite de la fissure dans un passage inconnu et difficile (sortie du 03/07/2026).",
+      "Itinéraire : plusieurs retours ont eu du mal à trouver le départ et à rester dans la voie, à cause des voies voisines (Tapas en Dalle à gauche, une voie non répertoriée à droite) (sorties des 18/07/2021, 17/07/2018 et 06/09/2014). En début de saison, plaquettes recouvertes d'herbe et 30 min pour trouver le départ (sortie du 30/06/2024).",
+      "Humidité : paroi souvent pleine de résurgences, « une vraie patinoire » par endroits (sortie du 29/07/2025) ; paroi « intégralement sèche, rare ! » (sortie du 03/07/2026) ; par temps très humide, chaussons jugés indispensables et un relais jamais trouvé (sortie du 01/09/2012).",
+      "Corde et relais : avec une corde à double de 60 m, une cordée arrivait souvent aux relais en limite de corde et en a sauté quelques-uns (sortie du 18/07/2021) ; voie faite entièrement à corde tendue en 2 h (sortie du 28/06/2025).",
+      "Sommet : pas de relais au sommet, prévoir une ou deux sangles ; la voie ne passe pas à l'ombre avant 14 h environ (sortie du 15/07/2017).",
+      "Approche et descente : route d'accès au parking longue et en mauvais état (sortie du 10/08/2018) ; descente par la voie normale pleine de boue et de rochers glissants (sortie du 06/10/2012)."
+    ],
+    "horaires": "Selon les retours : approche 1 h 20 et 2 h dans la voie à corde tendue (sortie du 28/06/2025) ; parking 9 h, pied de la voie 10 h, départ 10 h 40, sommet 14 h 30, retour parking 15 h 30 (sortie du 30/06/2024) ; parking 9 h 30, pied de la voie 11 h, sommet 13 h (1 h 35 de voie, sortie du 17/07/2018) ; parking 8 h, voie 10 h – 14 h, parking 17 h à rythme tranquille (sortie du 15/07/2017) ; 10 h 15 – 17 h 15 après une erreur d'itinéraire en L8 (sortie du 05/10/2024).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/dent-d-orlu-dalles-blanches-topo.jpg",
+        "legende": "Tracé des Dalles Blanches publié sur Camptocamp (photo cestrade, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 56780 (Dent d'Orlu - Face E : Les Dalles Blanches), consulté le 15/10/2026",
+      "Sorties Camptocamp 1922763 (03/07/2026), 1881848 (29/07/2025), 1785839 (28/06/2025), 1697354 (05/10/2024), 1681003 (20/08/2024), 1659360 (30/06/2024), 1375264 (18/07/2021), 1139564 (29/07/2019), 1113079 (10/08/2018), 1027582 (17/07/2018), 904887 (15/07/2017), 558491 (06/09/2014), 378226 (06/10/2012), 371965 (01/09/2012), 299817 (11/09/2011), consultées le 15/10/2026",
+      "Image Camptocamp 30884 par cestrade (CC-BY-SA)",
+      "Historique (C2C) : première tentative en 1943, première ascension inconnue"
+    ]
+  },
+  {
+    "id": "grand-eulier-timtim-et-nana",
+    "nom": "Grand Eulier – Timtim et Nana",
+    "sous_titre": "Grande voie familiale de 7 longueurs sur dalles couchées au-dessus des lacs Robert – depuis Chamrousse (Le Recoin)",
+    "massif": "Belledonne",
+    "secteur": "Grand Eulier – lacs Robert (Chamrousse)",
+    "coordonnees": {
+      "lat": 45.13493,
+      "lon": 5.91551,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Timtim et Nana",
+        "url": "https://www.camptocamp.org/routes/656889"
+      }
+    ],
+    "objectif": "Escalade familiale, facile et sans engagement : 7 longueurs (env. 170 m) en face SE du Grand Eulier, à droite de la voie normale, jusqu'au sommet (2232 m). Échappatoire possible à chaque longueur sauf l'avant-dernière.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4c (5a pour L3 dans le détail des longueurs C2C)",
+    "cotation_obligatoire": "4a",
+    "engagement": "I · équipement P1 · exposition E1",
+    "hauteur": "env. 170 m (dénivelé des difficultés)",
+    "nb_longueurs": "7",
+    "orientation": "SE",
+    "duree": "1 jour",
+    "ambiance": "Dalles couchées de très bonne qualité, entrecoupées de liaisons dans des pentes herbeuses et caillouteuses. Équipement sur goujons de 10 mm dans les longueurs et aux relais.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "1 h 30. Du Recoin, suivre le GR 549 vers la brèche Robert N ; l'attaque est presque au bord du lac, à 30 m d'un piquet de signalisation, dans une grande pelouse bien verte. Possibilité de prendre le téléphérique de la Croix de Chamrousse et de descendre par la piste des lacs Robert.",
+    "descente": "À pied jusqu'au lac par la sente de la voie normale, après être passé par le sommet.",
+    "materiel": "Une dizaine de dégaines.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3a",
+            "longueur": 25,
+            "cheminement": "Courte couenne sur un îlot dalleux ; bien traverser à droite dans l'herbe pour trouver le départ de L2 (50 m ?)."
+          },
+          {
+            "n": "L2",
+            "cotation": "4a",
+            "longueur": 40,
+            "cheminement": "Dalle, légèrement à droite ; on peut rester à R2 pour faire L3."
+          },
+          {
+            "n": "L3",
+            "cotation": "5a",
+            "longueur": 45,
+            "cheminement": "Traversée à droite avec un ou deux pas pouvant être difficiles sur la fin de la longueur ; variante possible par la droite, très jolie et plus courte."
+          },
+          {
+            "n": "L4",
+            "cotation": "4a",
+            "longueur": 50,
+            "cheminement": "Franchement à droite dans l'herbe, traverser un goulet et prendre la dalle au-dessus, toujours à droite ; remonter dans l'herbe main droite jusqu'au pied du ressaut suivant."
+          },
+          {
+            "n": "L5",
+            "cotation": "4b",
+            "longueur": 50,
+            "cheminement": "Remonter le ressaut sur le fil de la large arête ; repartir à pied en montant main gauche dans l'éboulis ; démarrage à droite d'un couloir herbeux, sur le fil de la mini-arête."
+          },
+          {
+            "n": "L6",
+            "cotation": "4b",
+            "longueur": 40,
+            "cheminement": "Remonter le fil de la mini-arête ; après un mini-surplomb, traverser le couloir (à gauche) et faire le relais de l'autre côté du couloir."
+          },
+          {
+            "n": "L7",
+            "cotation": "4c",
+            "longueur": 40,
+            "cheminement": ""
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Il est possible de s'échapper à chaque longueur sauf l'avant-dernière ; celle-ci peut cependant se contourner par le raide couloir herbeux qui borde l'arête sur la gauche, mais c'est délicat.",
+      "L3 : variante possible par la droite, très jolie et plus courte."
+    ],
+    "retex": [
+      "Attaque : le panneau de direction n'existe plus (seul le pied métallique reste) ; repérer les spits dans la dalle 50 m au-dessus du lac (sortie du 11/07/2021). Départ jugé facile à trouver (sortie du 12/10/2025).",
+      "L3 (traversée) : passage le plus délicat ; « sur 3 mètres, plus du 5b que du 4 », déversant mais bien protégé, évitable par l'herbe 3 m plus bas (sortie du 13/11/2022) ; un spit à repérer dans le toit au niveau du rognon (sortie du 11/07/2021) ; peut faire réfléchir des débutants (sorties des 24/08/2024 et 15/08/2023) ; contourné par une cordée (sortie du 12/10/2025).",
+      "L6 : 1 ou 2 pas plus grimpants, petit surplomb (4c) probablement évitable par la gauche (sorties des 15/08/2023 et 24/08/2024).",
+      "Fin de voie : un grimpeur n'a pas vu qu'il fallait changer de rive dans la brèche en dernière longueur et a continué tout droit en terrain d'aventure facile mais peu protégeable (sortie du 15/08/2022) ; un autre n'a pas trouvé de relais en haut de L7 (sortie du 11/07/2021).",
+      "Relais : non chaînés, à relier (sorties des 10/10/2021, 11/07/2021, 13/11/2022 et 12/10/2025).",
+      "Équipement : jugé abondant, « protections plus que suffisantes » (sorties des 11/07/2021 et 08/11/2024) ; un autre retour trouve les points un peu espacés et à chercher (sortie du 13/11/2022), et sans topo il a été difficile de repérer les spits entre les longueurs (sortie du 25/05/2025). Comptage d'une cordée : 5 à 7 spits par longueur de L2 à L7 (sortie du 12/10/2025).",
+      "Corde et tirage : en L4, assurer depuis le bas de la longueur plutôt que depuis R3, sinon c'est juste avec 50 m ; L5 avec du tirage, rallonger (sortie du 11/07/2021).",
+      "Protections complémentaires : peu de possibilités de poser sangles et coinceurs selon un retour (10/10/2021) ; un autre conseille quelques sangles (25/05/2025).",
+      "Conditions : rocher mouillé dans les premières longueurs fin mai après de la neige récente (sortie du 25/05/2025) ; neige gelée par endroits sur l'approche fin octobre (sortie du 23/10/2015). Voie moins fréquentée que les autres du Grand Eulier (sortie du 25/05/2025)."
+    ],
+    "horaires": "Approche : 1 h 30 depuis le Recoin (fiche C2C) ; 1 h 15 par le col de la Balme (12/10/2025). Dans la voie, selon les retours : 2 à 3 h (12/10/2025), 3 h (13/11/2022, 24/08/2024), 4 h 30 avec pause repas (25/05/2025 : 11h au pied, 15h30 au sommet). Journée complète : 6 h (15/08/2023, 12/10/2025) à 7 h (10/10/2021). Exemple (11/07/2021) : Recoin 10h30, attaque 12h, sommet 16h30, voiture 19h. Par la télécabine (30/08/2024) : départ Croix de Chamrousse 11h, sommet 14h15, retour 16h15.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/grand-eulier-timtim-et-nana-topo.jpg",
+        "legende": "Topo Camptocamp de Timtim et Nana : escalade en rouge, marche en noir (photo skigrimpe, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 656889 (Timtim et Nana), consulté le 15/10/2026",
+      "Sorties Camptocamp 1827545 (12/10/2025), 1774064 (25/05/2025), 1707917 (08/11/2024), 1686515 (30/08/2024), 1683688 (24/08/2024), 1667474 (22/07/2024), 1567184 (15/08/2023), 1483916 (13/11/2022), 1456589 (15/08/2022), 1357540 (10/10/2021), 1327832 (11/07/2021), 1123527 (25/06/2019), 915857 (09/08/2017), 909569 (29/07/2017), 706347 (23/10/2015), consultées le 15/10/2026",
+      "Image Camptocamp 656890 par skigrimpe (CC-BY-SA)",
+      "Topo cité par C2C : « Lacs Roberts - Grand Eulier - Timtim et Nana », dans « Escalades depuis Grenoble - Le topo doux » (Florian Garibal, Fanny Audigé, éd. Aventures sans voitures, 2025)",
+      "Historique (C2C) : ouverture le 28 septembre 2014 par Philippe Halot, Tim, Nana, Flo Marcelja, Tristan, Judith, Jacques"
+    ]
+  },
+  {
+    "id": "grand-som-face-w",
+    "nom": "Grand Som – Face W",
+    "sous_titre": "Voie historique (1913) en terrain d'aventure : cheminées, vires et dalles jusqu'à la croix sommitale – depuis La Correrie",
+    "massif": "Chartreuse",
+    "secteur": "Grand Som",
+    "coordonnees": {
+      "lat": 45.36967,
+      "lon": 5.81154,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Face W",
+        "url": "https://www.camptocamp.org/routes/281884"
+      }
+    ],
+    "objectif": "Gravir la face W du Grand Som par l'itinéraire historique : cheminées, vire puis dalles en oblique, traversée de la vire des genévriers sous les surplombs noirs et cheminée de sortie jusqu'à la croix. Descente à pied par le pas de la Suiffière.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "4b",
+    "engagement": "équipement P3",
+    "hauteur": "env. 175 m (dénivelé des difficultés)",
+    "nb_longueurs": "9",
+    "orientation": "W",
+    "duree": "1 jour",
+    "ambiance": "Calcaire. Grande face coupée de vires herbeuses ; tout le long, le rocher demande de l'attention. Peu d'équipement en place (quelques pitons aux relais), protections à poser.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "2 h 30. Depuis La Correrie, monter au col du Frenay, puis au pied du pas de la Suiffière. De là, longer la falaise pour atteindre une cheminée au sommet d'un cône herbeux suivi de gradins (« du cône herbeux », tellement il n'y a pas de doute possible), pas loin de l'aplomb de la croix, avant que la sente ne redescende.",
+    "descente": "Par le pas de la Suiffière (panneaux au sommet, puis balisage jaune).",
+    "materiel": "Sangles, petit jeu de câblés, d'excentriques et de friends (0.3 à 2 en taille Camalot). 2-3 pitons peuvent s'avérer utiles.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3c",
+            "longueur": 20,
+            "cheminement": "Remonter une cheminée. R1 sur la gauche (2 pitons)."
+          },
+          {
+            "n": "L2",
+            "cotation": "3c",
+            "longueur": 30,
+            "cheminement": "Continuer la cheminée et sortir à la fin sur la vire à gauche. R2 (2 pitons)."
+          },
+          {
+            "n": "L3",
+            "cotation": "2",
+            "longueur": null,
+            "cheminement": "Suivre la vire horizontalement jusqu'au pied d'une cheminée étroite."
+          },
+          {
+            "n": "L4",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": "Contourner une cheminée par quelques pas d'escalade extérieure. R4 au pied d'une petite cheminée verticale."
+          },
+          {
+            "n": "L5",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Gravir cette petite cheminée, poursuivre dans des dalles faciles."
+          },
+          {
+            "n": "L6",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Continuer dans les dalles en léger oblique vers la droite, viser la droite des surplombs noirs sous les aiguilles qui portent le sommet. (À cet endroit on peut sortir tout droit par des cheminées en 3/4, mais on ne déboucherait pas au sommet ; la voie traverse à gauche sous les surplombs noirs pour sortir sous la croix.)"
+          },
+          {
+            "n": "L7",
+            "cotation": "marche",
+            "longueur": null,
+            "cheminement": "Traverser la vire des genévriers (beaux buissons bien visibles) vers la gauche jusque sous les surplombs noirs, avant un pilier."
+          },
+          {
+            "n": "L8",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": "Contourner le pilier vers la gauche, gazeux ! R8 sur le collu au pied de la cheminée de sortie."
+          },
+          {
+            "n": "L9",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": "Cheminée facile qui débouche au sommet. R9 sur la croix."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Tout le long, le rocher demande de l'attention.",
+      "En L6 et L7, ne pas tirer à gauche trop tôt : on arrive dans une dalle avec quelques pas méritant bien les chaussons (un piton au fond d'une fissure).",
+      "Variante de sortie (topo « Tête dans le guidon », sortie « ? ») : une cheminée de 30 m avec 2 ressauts en IV, relais possible sur becquet 2 m à droite de la vire des genévriers, relais sur becquet à gauche à la sortie, sur la crête sommitale.",
+      "Variante « des paumés » (décrite sur C2C par une cordée qui avait perdu l'itinéraire, en rouge sur la 2e photo) : plus à gauche après L2, entre III et IV/IV+ ; si l'on prend des chaussons, inutile de les mettre avant sa L6."
+    ],
+    "retex": [
+      "Rocher : tous les retours insistent sur un rocher fragile ou « interactif » (prises tiroirs, blocs instables), à tester systématiquement ; un retour le trouve meilleur à partir de L6 et franchement bon dans les dalles (sorties du 04/10/2015, 01/05/2022, 28/09/2025 et 04/10/2026). Un énorme bloc a été décroché en L4 (sortie du 15/10/2021) ; gros bloc instable signalé à la sortie de la 1re cheminée (sorties du 12/10/2017 et du 22/04/2022) et bloc attaché avec une corde au pied de la cheminée finale (sortie du 22/04/2022).",
+      "Chutes de pierres : la 1re cheminée canalise les cailloux ; plusieurs retours conseillent de ne pas s'engager s'il y a une cordée au-dessus et de ne pas être nombreux dans la voie (sorties du 04/10/2015 et du 28/09/2025). Casque indispensable (sortie du 12/08/2016).",
+      "Relais et équipement : R1 et R2 sur 2 pitons, rien ensuite (sortie du 24/08/2014) ; la plupart des relais sont à construire, ceux sur pitons à renforcer (surtout R2) (sortie du 04/10/2026). Un retour détaille les points en place en 2022 : relais 2 pitons en milieu et en sortie de 1re cheminée, cordelette sur becquet dans la traversée, relais cordelette sur becquet fin L5, un piton à moitié enfoncé au contournement du pilier (sortie du 22/04/2022). Corde fixe trouvée pour le pas en 5 du topo « Tête dans le guidon » (sortie du 15/10/2021).",
+      "Matériel utilisé selon les retours : friends 0.3 à 1 (le #2 aurait servi), un seul câblé utilisé (sortie du 28/09/2025) ; C4 0.4 à 2 + petits Totems, câblés inutiles (sortie du 15/10/2021) ; un retour conseillerait plus de petits friends type Aliens (sortie du 04/10/2026). Corde de 40 m jugée idéale par un retour (sortie du 23/10/2015).",
+      "Itinéraire : recherche d'itinéraire à partir de L4 ; le topo historique « ramoner la cheminée » induit en erreur, cela passe mieux à gauche en L4 (sortie du 12/10/2017). En L6/L7, ne pas partir trop tôt à gauche (niche au piton, pas de 5+ ou de V) mais poursuivre en ascendance à droite sur une vire herbeuse (sorties du 24/08/2014, 16/05/2016 et 12/10/2017). Un retour en anglais conseille, pour L9, de ne pas monter tout droit mais d'aller 10 m à gauche vers un couloir évident en 2+ (sortie du 23/10/2015).",
+      "Le croquis du topo « Tête dans le guidon » (1re image) est jugé bon et permet d'aller au plus facile (sorties du 31/07/2020 et du 15/10/2021).",
+      "Longueurs : plusieurs cordées ont regroupé les longueurs (6 longueurs avec un brin de 60 m, L1+L2, L7+L8) (sorties du 04/10/2015, 31/07/2020, 15/10/2021 et 28/09/2025).",
+      "Face à l'ombre au moins jusqu'à 12h30 en été (sortie du 31/07/2020). Une coulure humide dans la cheminée de L4 après un orage (sortie du 04/10/2015). Approche : bifurcation vers le col du Frenay seulement signalée par des flèches gravées sur les rochers à droite (sortie du 24/08/2014).",
+      "Accès alternatif utilisé par certains : col du Cucheron, col des Aures et pas de la Suiffière (sorties du 22/04/2022 et du 01/05/2022) ; en bus T40 Voreppe – Saint-Pierre-de-Chartreuse (sortie du 15/10/2021)."
+    ],
+    "horaires": "Selon C2C : approche 2 h 30. Selon les retours : voie de 2 h 30 à 6 h en cordée (45 min à 1 h 15 en solo). Exemples : 04/10/2015 départ 8h45, pied de la face 10h15, sommet 15h30, voiture 18h30 ; 28/09/2025 départ 10h, début de voie 12h30, sommet 15h20, retour 17h30.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/grand-som-face-w-topo.jpg",
+        "legende": "Croquis de la face W, topo « Tête dans le guidon », octobre 2017 (Camptocamp, auteur tetedansleguidon, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/grand-som-face-w-topo-2.jpg",
+        "legende": "Itinéraire normal en bleu, « variante des paumés » en rouge (photo J Pollier sur Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 281884 (Face W), consulté le 15/10/2026",
+      "Sorties Camptocamp 1957140 (04/10/2026), 1821964 (28/09/2025), 1417955 (01/05/2022), 1414788 (22/04/2022), 1358122 (15/10/2021), 1233191 (31/07/2020), 1048974 (06/10/2018), 934647 (12/10/2017), 787919 (12/08/2016), 758530 (16/05/2016), 712858 (01/01/2016), 691267 (31/10/2015), 687783 (23/10/2015), 682599 (04/10/2015), 554443 (24/08/2014), consultées le 15/10/2026",
+      "Image Camptocamp 935058 par tetedansleguidon (CC-BY-SA)",
+      "Image Camptocamp 374027 par J Pollier (CC-BY-SA)",
+      "Topo cité par C2C : « Escalades en Chartreuse »",
+      "Historique (C2C) : 1re ascension le 8 juin 1913 par Jean Capdepon et Henri Constant"
+    ]
+  },
+  {
+    "id": "grand-van-les-vacances-de-chloe",
+    "nom": "Grand Van – Les vacances de Chloé",
+    "sous_titre": "Voie montagne équipée (assez espacé), 10 longueurs – depuis Chamrousse (le Recoin)",
+    "massif": "Belledonne",
+    "secteur": "Grand Van – lacs Robert",
+    "coordonnees": {
+      "lat": 45.13098,
+      "lon": 5.93082,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Grand Van : Les vacances de Chloé",
+        "url": "https://www.camptocamp.org/routes/1664708"
+      }
+    ],
+    "objectif": "Belle voie abordable entièrement équipée (assez espacé) en excellent rocher.",
+    "cotation_globale": "D-",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "II · équipement P1 · exposition E4",
+    "hauteur": "env. 280 m (dénivelé des difficultés)",
+    "nb_longueurs": "10",
+    "orientation": "W",
+    "duree": "",
+    "ambiance": "Gneiss, pilier. Alternance de dalles, murs raides, rampes et zones herbeuses. À l'ombre le matin, au soleil après la rampe.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "1 h 30. Depuis Chamrousse (le Recoin), suivre le GR jusqu'aux lacs Robert par la brèche S. Monter en direction du col de Lessine et, au niveau d'un arbre caractéristique, traverser à flanc à gauche jusqu'au départ (cairn), à gauche d'un couloir caractéristique. Spit avec cordelette visible quelques mètres au-dessus.",
+    "descente": "1 h 30. Faire un rappel de 20 m, puis remonter les pentes herbeuses en direction d'un cairn avant de descendre une section raide et un peu exposée pour regagner le sentier qui ramène aux lacs.",
+    "materiel": "Corde de 50 m, 10 dégaines, sangles, éventuellement quelques friends petits et moyens pour compléter.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Remonter une dalle couchée (3b) puis un mur raide (4b), et continuer droit en dalle (3c) jusqu'au relais R1 (2 goujons reliés avec maillon) sous un petit surplomb."
+          },
+          {
+            "n": "L2",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Contourner le surplomb par la gauche, gravir un mur raide, traverser une zone herbeuse, et gravir un dernier mur pour rejoindre R2 (2 goujons non reliés)."
+          },
+          {
+            "n": "L3",
+            "cotation": "3a",
+            "longueur": null,
+            "cheminement": "Traverser en ascendance à gauche (1 point), puis traverser des zones herbeuses à gauche au plus facile pour rejoindre au-dessus R3 (2 points non reliés) au pied d'une dalle raide, au-dessus de deux arbres."
+          },
+          {
+            "n": "L4",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Gravir cette dalle et continuer au-dessus dans des murs raides mais prisus avant d'obliquer à droite pour rejoindre en traversée R4 (1 point et un piton) avant une rampe oblique à droite."
+          },
+          {
+            "n": "L5",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Traverser à droite, puis remonter la rampe (3b avec un pas de 4b au départ) jusqu'à R5 (1 point et 1 piton) à la fin de la rampe."
+          },
+          {
+            "n": "L6",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Franchir le mur qui barre la rampe en ascendance à droite (4c, 2 goujons) et continuer sur la rampe (3b) qui devient herbeuse jusqu'à R6 (1 goujon et 1 piton, ou 2 goujons juste après) à son extrémité."
+          },
+          {
+            "n": "L7",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Traverser à droite en descendant légèrement au départ (4b un peu expo), franchir un angle (3b), puis remonter une cheminée (4c) jusqu'à R7 (2 points)."
+          },
+          {
+            "n": "L8",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Remonter une rampe dalleuse raide (4b, 2 points), puis obliquer à gauche (3b) vers le fil de l'arête où se trouve R8 (2 points), commun avec la voie Brianna."
+          },
+          {
+            "n": "L9",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Suivre l'arête jusqu'à R9."
+          },
+          {
+            "n": "L10",
+            "cotation": "2b",
+            "longueur": null,
+            "cheminement": "Rejoindre le sommet où se trouve le relais de rappel R10."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Départ : cairn au pied ; le premier point (avec cordelette) n'est pas évident à voir (sortie du 06/08/2026).",
+      "R4 et R6 : deux relais à chaque fois, d'abord un relais relié par une cordelette (rouge à R6, un point + un piton), puis deux points non reliés environ 2 m après ; le deuxième est préférable, surtout à R6 pour éviter le tirage dans la longueur suivante (sortie du 06/08/2026).",
+      "Piège à R4 : des points montent droit au-dessus vers un relais à cordelette bleue, ce n'est pas la voie ; traverser à droite sur la rampe pour suivre L5 (sortie du 06/08/2026).",
+      "Cheminement : quelques hésitations seulement en L1 et L5 ; gradins herbeux de L2-L3 jugés « pommatoires » (plus de plaquettes pour guider) ; possibilité de contourner le petit surplomb du départ de L2 par la gauche (sorties du 06/07/2025 et du 06/08/2026).",
+      "Équipement : jugé « un peu espacé » mais on repère généralement bien le point suivant (sortie du 06/08/2026) ; un autre retour le trouve « confortablement » fourni (sortie du 06/07/2025).",
+      "L9 (arête) : un retour conseille de raccourcir l'encordement et de progresser en corde tendue ; sangles et friends utiles (3 moyens : violet, vert, rouge) pour compléter les quelques points (sortie du 06/08/2026).",
+      "Rocher : bon dans l'ensemble, mais plusieurs blocs sonnent creux malgré la fréquentation (sortie du 06/07/2025) ; passages herbeux glissants quand c'est humide (sortie du 06/08/2026).",
+      "Descente : si ça bouchonne au rappel du sommet, un retour indique qu'on peut désescalader en poursuivant quelques mètres après le relais, « expo mais facile » (sortie du 06/07/2025).",
+      "Accès possible par la télécabine de la Croix de Chamrousse ; un retour signale une panne de la télécabine en milieu de matinée (sortie du 06/08/2026)."
+    ],
+    "horaires": "Approche 1 h 30, retour 1 h 30 (C2C). Exemple (06/07/2025) : attaque 10 h 30, rappel au sommet 12 h 50, départ du retour 13 h 20.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1664708 (Grand Van : Les vacances de Chloé), consulté le 15/10/2026",
+      "Sorties Camptocamp 1936644 (06/08/2026), 1788960 (06/07/2025), 1929319 (09/09/2023), consultées le 15/10/2026"
+    ]
+  },
+  {
+    "id": "hollentorkopf-nordkante",
+    "nom": "Höllentorkopf – Nordkante (arête N)",
+    "sous_titre": "Classique alpine IV+, 12 à 14 longueurs, terrain d'aventure – accès par le téléphérique de l'Alpspitze (Garmisch-Partenkirchen, Allemagne)",
+    "massif": "Alpes de Lechtal - Wetterstein - Karwendel",
+    "secteur": "Wetterstein – Höllental, Höllentorkopf (2150 m)",
+    "coordonnees": {
+      "lat": 47.43811,
+      "lon": 11.04733,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Höllentorkopf : Nordkante",
+        "url": "https://www.camptocamp.org/routes/1933096"
+      }
+    ],
+    "objectif": "Escalade alpine classique d'arête (rampes, cheminées, fissures, couloirs) au-dessus de la vallée du Höllental, avec approche rapide par le téléphérique de l'Alpspitze. Sortie normale en 4a (deux autres sorties possibles, voir stratégie).",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "IV+ UIAA selon le résumé C2C (≈ 4c/5a : L2 en IV+/V-) (5c sur la variante de sortie Kreitz). Le champ structuré C2C indique 4a, incohérent avec la description.",
+    "cotation_obligatoire": "5a (champ C2C)",
+    "engagement": "III · équipement P1+ · exposition E2",
+    "hauteur": "env. 300 m (dénivelé des difficultés, C2C) ; « ~400 m d'escalade » selon le résumé",
+    "nb_longueurs": "12 à 14 (selon l'usage des 2 nouveaux relais dans la paroi)",
+    "orientation": "N",
+    "duree": "1 jour",
+    "ambiance": "Calcaire, face et couloirs, 1800-2150 m, face N. Selon le résumé C2C : en tant que voie alpine classique, nettement plus difficile que des voies récentes de même cotation. Relais sur goujons dans la partie basse, mais pas de relais en place dans la partie haute : il faut savoir monter ses relais. Itinéraire exposé aux chutes de pierres. Grande ambiance alpine malgré l'accès en téléphérique (« Alpinklettern für Gehfaule »).",
+    "statut": "bientot",
+    "projet": null,
+    "approche": "Du téléphérique jusqu'au départ du sentier : depuis la gare d'arrivée de l'Osterfelderkopf (~2050 m), descendre vers le NE en direction de la Hochalm, en passant sous le téléphérique de la Hochalm côté N. Au col au-dessus de la Hochalm, tourner à gauche en suivant les panneaux vers le Hupfleitenjoch. Dans le creux marqué en contrebas, tourner à nouveau à gauche, passer sous le téléphérique de l'Alpspitze côté O et monter brièvement au Hupfleitenjoch.\nDescente sur le sentier et traversée des pins : depuis le Hupfleitenjoch, descendre vers le Höllental par le sentier principal sur environ 150 m de dénivelé. Après deux lacets serrés, repérer des marches renforcées par des poutres en bois et prendre à gauche une sente discrète à travers les pins couchés (Latschen).\nJusqu'au pied de la paroi : suivre la sente à l'horizontale à travers les pins sans prendre beaucoup de hauteur. Monter une dalle à gauche vers le pied de la paroi [I–II]. Franchir des ressauts rocheux et des éboulis, en restant à gauche au-dessus du couloir marqué, vers le pied de l'arête N. Passages exposés et sujets aux chutes de pierres : casque, et attention à ne pas faire tomber de pierres sur le sentier du Höllental en contrebas.\nDépart : traverser une cuvette peu marquée au bout du couloir qui descend de l'Osterfelderkopf et remonter en arc de cercle vers la droite [II] jusqu'au pied de la voie. Le départ se trouve à côté d'une touffe d'herbe, marqué par un piquet en fer avec 2 goujons de départ ; le piquet peut être difficile à voir.",
+    "descente": "De la croix sommitale du Höllentorkopf, descendre par un sentier balisé et équipé de câbles [II+] jusqu'au sentier principal sous la Rinderscharte. Remonter quelques mètres jusqu'au col, puis suivre le sentier bien balisé qui ramène à la gare du téléphérique de l'Osterfelderkopf.",
+    "materiel": "2 cordes à double de 50 m ; un jeu standard de matériel d'escalade traditionnelle (coinceurs).",
+    "longueurs": [
+      {
+        "titre": "Partie 1 : mur d'entrée et rampes inférieures (L1 à L4)",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4b",
+            "longueur": 30,
+            "cheminement": "Depuis le piquet en fer, monter directement l'arête raide [4b], puis continuer légèrement à droite en terrain plus facile [3b] jusqu'au relais sur 2 goujons sous un dièdre incliné vers la droite. Attention : ne pas partir à gauche dans le dièdre jaune ! Attention aux pierres instables."
+          },
+          {
+            "n": "L2",
+            "cotation": "4c/5a",
+            "longueur": 30,
+            "cheminement": "Traverser à droite autour d'une arête exposée et aérienne [IV+/V-] (2 goujons, 1 piton) pour entrer dans le dièdre incliné vers la droite [4a] (2 pitons). À sa fin, monter jusqu'à une niche sur une vire supérieure (relais sur 2 pitons)."
+          },
+          {
+            "n": "L3",
+            "cotation": "3c",
+            "longueur": 35,
+            "cheminement": "Continuer le long de la vire, suivre la ligne de pente en passant un éperon rocheux à gauche et entrer dans un entonnoir peu marqué [3c]. Appuyer légèrement à gauche jusqu'à un relais sur bloc (1 goujon + sangle)."
+          },
+          {
+            "n": "L4",
+            "cotation": "3b",
+            "longueur": 30,
+            "cheminement": "Monter droit par un couloir peu marqué [3b], en appuyant à gauche jusqu'au relais sur 1 goujon au pied de la cheminée, sous les blocs coincés caractéristiques."
+          }
+        ]
+      },
+      {
+        "titre": "Partie 2 : arête principale et système de cheminées (L5 à L10)",
+        "lignes": [
+          {
+            "n": "L5",
+            "cotation": "4c",
+            "longueur": 30,
+            "cheminement": "Monter une fissure peu marquée le long du bord extérieur droit de la cheminée (1 goujon), traverser à gauche dans la cheminée proprement dite [4b] et passer sous le bloc coincé géant [4c] (2 goujons) jusqu'au relais sur le grand bloc coincé inférieur (2 goujons)."
+          },
+          {
+            "n": "L6",
+            "cotation": "4c",
+            "longueur": 45,
+            "cheminement": "Passer derrière le bloc coincé géant en grimpant à gauche [4b], franchir une arête près de la ligne de pente [4c] (2 goujons) puis passer une tête rocheuse marquée à gauche [3b] jusqu'au relais au-dessus du couloir de gauche (2 goujons)."
+          },
+          {
+            "n": "L7",
+            "cotation": "4b",
+            "longueur": 25,
+            "cheminement": "Monter le long de l'arête puis par une écaille à droite jusqu'à une vire dalleuse [4b]. Relais sous le surplomb fissuré (2 goujons)."
+          },
+          {
+            "n": "L8",
+            "cotation": "4b",
+            "longueur": 30,
+            "cheminement": "Franchir le surplomb fissuré [4b] (1 goujon) et monter parallèlement à l'arête N jusqu'à un relais sur vire, à gauche de l'arête principale, juste sous le « Bec d'aigle » (Adlerschnabel) (2 goujons)."
+          },
+          {
+            "n": "L9",
+            "cotation": "3c",
+            "longueur": 35,
+            "cheminement": "Suivre le système de fissures et couloirs parallèle à l'arête [3c] jusqu'à un relais (2 goujons) à droite d'un dièdre jaune."
+          },
+          {
+            "n": "L10",
+            "cotation": "3b",
+            "longueur": 30,
+            "cheminement": "Monter un autre couloir et aller à gauche jusqu'au relais sur 2 goujons, sur une vire juste sous les plaques commémoratives (Gedenktafeln)."
+          }
+        ]
+      },
+      {
+        "titre": "Partie 3 : sortie normale (option A, 4a)",
+        "lignes": [
+          {
+            "n": "L11",
+            "cotation": "3c",
+            "longueur": 55,
+            "cheminement": "Traverser à gauche juste sous les dalles qui descendent de la droite [3c]. Passer un éperon pointu à gauche jusqu'à un relais à monter (friends) dans une fissure marquée sous le large couloir dalleux sommital (pas de pitons)."
+          },
+          {
+            "n": "L12",
+            "cotation": "4b",
+            "longueur": 45,
+            "cheminement": "Traverser brièvement à gauche, monter le dièdre du côté gauche du couloir dalleux [4a], puis traverser à nouveau à gauche et monter une fissure sombre [4b]. Relais au début de la traversée suivante (pas de goujons)."
+          },
+          {
+            "n": "L13",
+            "cotation": "4b",
+            "longueur": 25,
+            "cheminement": "Traverser à gauche en montant par une rampe peu inclinée jusqu'à une brèche [4b]. Relais sur goujon/écaille à droite, sous un petit dièdre."
+          },
+          {
+            "n": "L14",
+            "cotation": "3c",
+            "longueur": 20,
+            "cheminement": "Monter le dièdre [3c] puis traverser à droite sur des dalles [3a] jusqu'à la brèche de droite du plateau sommital, puis ~50 m de marche facile jusqu'à la croix."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Les topos de référence (ex. Panico « Wetterstein Nord » et Am-Berg Verlag) diffèrent nettement sur le nombre et la longueur des longueurs (ex. 3 longueurs / 135 m contre 4 longueurs / 155 m jusqu'à la cheminée principale) : se fier aux éléments du terrain plutôt qu'aux métrages.",
+      "Relais sur goujons dans les longueurs du bas, mais pas de relais en place dans la partie haute : savoir monter ses relais sur coinceurs.",
+      "Itinéraire sujet aux chutes de pierres ; casque, et attention à ne pas faire tomber de pierres sur le sentier du Höllental pendant l'approche.",
+      "Sorties alternatives depuis les plaques commémoratives (R10), selon C2C : option B plus facile (3b) – traversée à gauche sur une côte peu marquée [2b, 45 m, sans pitons] puis couloir [3b, 30 m] jusqu'à un relais sur 1 goujon, et même fin que l'option A ; option C « Kreitz-Verschneidung » (5c) – depuis R9 tout droit par un mur lisse, pas de 5c (1 piton) en L11 et 5a en L12, relais sur 2 goujons, sortie juste sous la croix.",
+      "La sente à travers la ceinture dense de pins couchés (Latschen) se perd facilement : si on la perd, il faut traverser la pente directement à travers les branches. Recherche d'itinéraire peu évidente jusqu'au départ."
+    ],
+    "retex": [
+      "Un seul retour sur C2C, abandon après environ 2 longueurs (sortie du 16/07/2026, conditions jugées « mauvaises »).",
+      "Rocher : « près de 50 % des prises instables » selon ce retour ; chaque prise et chaque pied à tester ; impression que la voie n'avait pas été parcourue depuis plus d'un an (sortie du 16/07/2026).",
+      "Chutes de pierres déclenchées par la corde elle-même, dangereuses pour l'assureur ; gestion de la corde à soigner (sortie du 16/07/2026).",
+      "Difficulté ressentie supérieure aux topos ; la cordée estime qu'en voie récente elle serait cotée vers 5 UIAA (sortie du 16/07/2026).",
+      "Relais : le 1er relais en place a été manqué (trop à droite), et faute de corde la cordée a dû monter un relais sur coinceurs environ 5 m sous le 2e ; prévoir des sangles pour des relais de secours (sortie du 16/07/2026).",
+      "Départ : le piquet en fer n'a pas été vu au début, la cordée a d'abord grimpé plus à droite, en traversée exposée sur dalle (sortie du 16/07/2026).",
+      "Retour après abandon : 2 rappels de longueur de corde jusqu'au pied (1 h 20), puis près de 1 h 30 à se battre dans les pins couchés et les éboulis pour rejoindre le sentier ; conseil : bien noter des repères en entrant dans les pins (sortie du 16/07/2026).",
+      "Conditions : face N, donc pas gênée par le soleil par temps chaud ; voie sèche le lendemain de fortes pluies (sortie du 16/07/2026)."
+    ],
+    "horaires": "Selon le seul retour (16/07/2026, abandon) : approche depuis la gare du téléphérique jusqu'au pied 1 h 30 ; escalade jusqu'au point d'abandon 1 h 40 ; 2 rappels 1 h 20 ; retour au sentier à travers les pins 1 h 30 ; marche jusqu'au Kreuzeckhaus 1 h ; environ 7 h au total. Montée avec le premier téléphérique de l'Alpspitzbahn, redescente par le Kreuzeckbahn.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1933096 (Höllentorkopf : Nordkante), fiche en anglais traduite, consulté le 15/10/2026",
+      "Sortie Camptocamp 1933111 (16/07/2026, en anglais, traduite), consultée le 15/10/2026",
+      "Topos cités par C2C : Alpartig, « Höllentorkopf (2150m) via Nordkante (IV+) » https://alpartig.com/hoellentorkopf-2150m-via-nordkante-iv/ ; topo Deichjodler (cité par Alpartig comme le plus précis) ; Panico Alpinverlag, Wetterstein Nord ; Am-Berg Verlag, Kletterführer Garmisch-Partenkirchen ; Walter Pause, Im schweren Fels",
+      "Historique (C2C) : première ascension en 1904 par Freudenberg, apparemment en solo"
+    ]
+  },
+  {
+    "id": "index-de-la-gliere-arete-se",
+    "nom": "Index de la Glière – Arête SE",
+    "sous_titre": "Courte course d'arête très fréquentée, accès direct par le télésiège de l'Index",
+    "massif": "Haut Giffre - Aiguilles Rouges - Fiz",
+    "secteur": "Index de la Glière – télésiège de l'Index",
+    "coordonnees": {
+      "lat": 45.96714,
+      "lon": 6.87023,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Index de la Glière : Arête SE",
+        "url": "https://www.camptocamp.org/routes/54725"
+      }
+    ],
+    "objectif": "Jolie course courte et facile d'approche, l'une des plus fréquentées des Aiguilles Rouges. Altitude modérée et orientation S : on peut y grimper tôt et tard en saison.",
+    "cotation_globale": "AD-",
+    "cotation_libre_max": "4c (A0 indiqué sur C2C) ; passage clé noté IV dans la description, variante sur le fil en V+",
+    "cotation_obligatoire": "4a",
+    "engagement": "I · équipement P2",
+    "hauteur": "env. 100 m (dénivelé des difficultés)",
+    "nb_longueurs": "6 longueurs d'environ 25-30 m (C2C)",
+    "orientation": "SE",
+    "duree": "1 jour",
+    "ambiance": "Gneiss. Arête courte, décrite en longueurs de 25-30 m, avec un pas clé dans le dièdre de la première longueur (pitons). Équipement P2 : protections à compléter.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Depuis l'arrivée du télésiège, remonter le pierrier au pied de l'Index en direction de la grande vire herbeuse qui coupe la face E (noté Index de la Glière sur la carte IGN). Quelques pas d'escalade facile pour prendre pied sur la vire, puis la suivre jusqu'à son extrémité, à hauteur d'un bloc décollé caractéristique.",
+    "descente": "Du sommet, partir NW et désescalader quelques mètres (une vire apparaît sous les dalles faciles à l'W) pour trouver le départ du rappel (pas moins de 4 relais équipés). Rejoindre le col de l'Index par un rappel de 40 m ou 2 rappels de 25 m (relais chaîné à 25 m sur un petit éperon). Attention en tirant la corde et si d'autres cordées sont en dessous : le couloir E est un bon entonnoir. Du col de l'Index, 2 possibilités : remonter l'éperon suivant sur 20 m et rejoindre la descente de l'Épaule de la Glière (sente + désescalade ou rappel) ; ou désescalader le couloir E jusqu'à la sente qui ramène au télésiège, en faisant attention à ne pas faire tomber de pierres sur les grimpeurs et randonneurs en contrebas.",
+    "materiel": "Corde 2×40 m ou 2×25 m ; un petit jeu de coinceurs et de friends.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Partir à droite du bloc, passer derrière puis remonter le dièdre évident (pitons). Un pas au milieu du dièdre est le passage clé de toute la voie."
+          },
+          {
+            "n": "L2",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Traverser à droite sur une petite vire, puis remonter un mur fissuré pour rejoindre le fil de l'arête. Variante : rester sur le fil tout le long (V+)."
+          },
+          {
+            "n": "L3",
+            "cotation": "II",
+            "longueur": null,
+            "cheminement": "Suivre une petite vire sur la droite puis rejoindre le fil. Relais possible sur un gros bloc au pied de la tour raide."
+          },
+          {
+            "n": "L4",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Remonter la tour directement. Relais sur l'antécime."
+          },
+          {
+            "n": "L5",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Quelques pas de désescalade, puis traverser sur la droite. Relais malcommode sur une dalle peu inclinée."
+          },
+          {
+            "n": "L6",
+            "cotation": "II",
+            "longueur": null,
+            "cheminement": "Monter droit, puis passer sur le versant gauche pour finir facilement au sommet."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Longueurs décrites d'environ 25-30 m : des cordées compétentes pourront les doubler ou progresser à corde tendue."
+    ],
+    "retex": [
+      "Attaque : une cordée est partie trop à droite dans un dièdre « bien senti » en voyant un anneau de corde avec maillon ; le bon départ est plus à gauche, sur l'extrémité de l'éperon après la terrasse de bout de sentier, et bien plus simple (sortie du 20/07/2026).",
+      "Protections, selon un retour détaillé : L1 deux pitons, relais sur 2 spits ; L2 friend coincé au départ, friends #2 et #1 posés, relais sur becquet ; L3 un piton à peine visible, relais au pied de l'éperon sur 2 pitons à relier ; ensuite sangles sur becquets et un friend 0.75 avant la cheminée finale, relais sur becquet au sommet (sortie du 04/09/2026). Un autre a utilisé des cames 0.5 / 0.75 / 1 « mais surtout des sangles sur les becquets » (sortie du 03/08/2025).",
+      "Rappels : 2 rappels de 25 m avec une corde de 60 m, le 2e « mieux le faire court puis désescalade » (sortie du 04/09/2026) ; un seul rappel avec une corde à double de 60 m passe bien en descendant dans la dalle à gauche (en regardant vers le bas) et non sur le fil (sortie du 20/07/2026) ; rappels pas tous dans l'axe (sortie du 03/07/2026) ; une cordée a fait un rappel de 50 m au col, remonté vers le sentier des voies voisines puis un petit rappel de 28 m (sortie du 03/08/2025).",
+      "Relais de rappel au sommet : un guide a posé un nouveau relais en février 2025, l'ancien sur deux vieux spits « faisant peur » (sortie du 11/02/2025).",
+      "Affluence : « les bouchons sont inévitables » (sortie du 03/07/2026), « very crowded » (sortie du 02/07/2026) ; un dimanche d'août, longues attentes derrière des cordées lentes et un secours en hélicoptère pour une cordée en difficulté au sommet (sortie du 03/08/2025). Prendre la première benne (8 h) a permis d'avoir peu de monde (sortie du 03/08/2025).",
+      "Rocher : excellent gneiss, patiné sur l'arête (sorties des 19/09/2024 et 15/09/2024). Mi-septembre, un peu de neige fraîche dans les pierriers de montée et de descente (sortie du 15/09/2024).",
+      "Chaussures : faite en chaussures d'approche avec un jeu de coinceurs et des sangles dans le cadre d'un stage initiateur (sortie du 03/07/2026)."
+    ],
+    "horaires": "Selon les retours : télésiège 9 h 30, départ de la voie 10 h 15, sommet 12 h 30 (2 h 15 de voie), fin des rappels 13 h 30, télésiège 14 h 30 (sortie du 04/09/2026) ; première benne à 8 h, retour à la voiture 13 h (sortie du 03/08/2025) ; 1 h 45 effective dans la voie (sortie du 19/09/2024) ; moins de 2 h (sortie du 15/09/2024).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/index-de-la-gliere-arete-se-topo.jpg",
+        "legende": "Topo Camptocamp de la face E de l'Index (photo David Bochot, CC-BY-SA) : en jaune l'approche, en noir continu l'arête SE, en pointillé la descente ; les autres tracés sont d'autres voies"
+      },
+      {
+        "fichier": "images/index-de-la-gliere-arete-se-topo-2.jpg",
+        "legende": "Itinéraire de l'arête SE (photo Jerome Obiols, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 54725 (Index de la Glière : Arête SE), consulté le 15/10/2026",
+      "Sorties Camptocamp 1948838 (04/09/2026), 1931233 (23/07/2026), 1929826 (20/07/2026), 1925141 (03/07/2026), 1922353 (02/07/2026), 1920734 (27/06/2026), 1936332 et 1800887 (03/08/2025), 1791260 (09/07/2025), 1792939 (30/06/2025), 1735814 (11/02/2025), 1693678 (19/09/2024), 1690444 (15/09/2024), 1690599 (10/09/2024), 1684444 (27/08/2024), consultées le 15/10/2026",
+      "Image Camptocamp 179918 par David Bochot (CC-BY-SA)",
+      "Image Camptocamp 22172 par Jerome Obiols (CC-BY-SA)",
+      "Topos cités par C2C : Les Aiguilles Rouges 1 – Face au Mont-Blanc ; Les Aiguilles Rouges ; Escalade plaisir – Alpes françaises du Nord ; Alpinisme – Des premiers pas aux grandes courses ; topo sur passion-alpes.com",
+      "Historique (C2C) : ouverture le 16 août 1913 par Alice Agussol, H. Bonin, Maurice Damesme, Jacques et Tom de Lépiney, en 1 h 30"
+    ]
+  },
+  {
+    "id": "la-draye-pets-des-rupricaprins",
+    "nom": "La Draye – Les Pets des Rupricaprins",
+    "sous_titre": "Longue voie équipée dans le 5 sur granit, en ressauts, jusqu'à la prairie sommitale de la Draye – depuis Ailefroide",
+    "massif": "Écrins",
+    "secteur": "Vallée d'Ailefroide – La Draye",
+    "coordonnees": {
+      "lat": 44.88724,
+      "lon": 6.44948,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier). Point de départ « à confirmer » donné par C2C via Fatmap : env. 44.88617, 6.45779"
+    },
+    "camptocamp": [
+      {
+        "titre": "Les Pets des Rupricaprins",
+        "url": "https://www.camptocamp.org/routes/53915"
+      }
+    ],
+    "objectif": "Voie assez homogène dans le 5, en excellent rocher, en plusieurs ressauts, où l'impression de vide n'existe pas malgré la dénivellation. Superbe vue en sortie à la Draye.",
+    "cotation_globale": "D",
+    "cotation_libre_max": "5c",
+    "cotation_obligatoire": "5b",
+    "engagement": "II · équipement P1",
+    "hauteur": "env. 450 m (dénivelé des difficultés)",
+    "nb_longueurs": "19 sections décrites sur C2C, dont plusieurs passages de marche sur vires herbeuses",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Granit. Succession de petits ressauts séparés de vires herbeuses ; soleil garanti selon C2C. Équipement sur plaquettes ; coinceurs quasi inutiles et peu utilisables.",
+    "statut": "bientot",
+    "projet": null,
+    "approche": "Du centre d'Ailefroide, passer le pont et prendre la direction de la Tête de la Draye / Chambran (balisage GR et marques jaunes). Au panneau situé au niveau d'une dalle de l'école d'escalade, suivre encore la direction Tête de la Draye / Chambran. Passer la bifurcation pour la Tête de la Draye, puis, une trentaine de mètres plus loin, la sente qui rejoint le secteur Spit on cup. La sente qui monte au départ démarre 2-3 min plus loin, après une descente ; elle est assez bien tracée et cairnée à la bifurcation. Montée raide, puis passer au pied d'une 1re voie (Ein Zwei Draye), traverser à droite en passant un petit ruisseau et venir buter au pied de la voie dans un renfoncement. Spit à 2 m.",
+    "descente": "1 h minimum. Par l'itinéraire de montée normale à la Tête de la Draye, parfois un peu exposé (des câbles ont été rajoutés, « assez inutiles » selon C2C). Un spit 150 m plus bas dans un passage terreux un peu exposé (raviné par des orages en 2023, à nouveau bien tracé depuis) ; relais pour s'assurer 20 m avant, juste à droite du sentier, sur un bout de rocher en sortie de voie.",
+    "materiel": "Corde de 50 m minimum, 12-13 dégaines + de quoi faire les relais. Coinceurs quasi inutiles et peu utilisables. Des plaquettes ont tendance à disparaître (OK en octobre 2022 selon C2C).",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "5b+ puis 4b",
+            "longueur": null,
+            "cheminement": "Départ modifié."
+          },
+          {
+            "n": "L2",
+            "cotation": "4b/c puis 5b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L3",
+            "cotation": "4c puis 4a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L4",
+            "cotation": "5b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L5",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L6",
+            "cotation": "4c puis 5b+",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L7",
+            "cotation": "marche",
+            "longueur": 50,
+            "cheminement": "Vire herbeuse en oblique à gauche."
+          },
+          {
+            "n": "L8",
+            "cotation": "4c puis 5a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L9",
+            "cotation": "marche",
+            "longueur": 80,
+            "cheminement": "Vire herbeuse et éboulis tout droit puis en oblique à droite."
+          },
+          {
+            "n": "L10",
+            "cotation": "5b/c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L11",
+            "cotation": "4c puis 5b (un pas de 5c)",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L12",
+            "cotation": "3b-4b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L13",
+            "cotation": "3b-4b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L14",
+            "cotation": "marche",
+            "longueur": 100,
+            "cheminement": "En oblique à gauche, dalles inclinées et herbe. Cairns."
+          },
+          {
+            "n": "L15",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L16",
+            "cotation": "marche",
+            "longueur": 30,
+            "cheminement": "À gauche sur vire herbeuse."
+          },
+          {
+            "n": "L17",
+            "cotation": "4b puis 4c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L18",
+            "cotation": "5b+ puis 4b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "Sortie",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "5 min de ressauts faciles en oblique à droite puis tout droit jusqu'à la prairie sommitale."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Beaucoup de longueurs sont évitables par des couloirs herbeux commodes situés juste sur la gauche.",
+      "Soleil garanti : face plein sud."
+    ],
+    "retex": [
+      "Attaque : plusieurs retours ont eu du mal à trouver le départ (pas de panneau) ; repère : trouver la voie Ein Zwei Draye puis continuer vers la droite (sorties du 15/07/2021, 04/09/2024 et 25/08/2026). Un retour conseille de bien prendre le cheminement horizontal cairné après le torrent, puis de remonter le long du pierrier vers l'arête (sortie du 20/08/2023).",
+      "L1 : début végétal et moussu, humide après la pluie car sous les arbres, pas représentatif de la suite (sorties du 15/07/2021, 01/06/2024 et 25/08/2026). Pas de départ « aussi brutal que court » en libre (sortie du 20/08/2023). Une plaquette manquait vers 15-20 m en 2021 (tige filetée) (sorties du 30/06/2021, 15/07/2021 et 25/07/2021) ; 3 spits neufs au début de L1 et toutes les plaquettes présentes le 07/09/2021.",
+      "Équipement : jugé excellent, « béton » et souvent serré par la plupart des retours (sorties du 02/08/2021, 27/10/2022, 04/09/2024 et 30/10/2024) ; un autre trouve les points parfois espacés et demandant de l'engagement (sorties du 20/08/2023 et du 25/08/2026). Les grands sont avantagés ; une « dégaine panique » peut servir aux petits gabarits (sortie du 27/10/2022).",
+      "Relais : non équipés pour le rappel, la voie n'y est pas propice (sortie du 30/06/2021) ; quelques relais peu confortables, que l'on peut shunter en montant à une vire plus haut mais sur un seul point (sortie du 20/08/2023).",
+      "Longueur de la journée : longues longueurs (35 m en moyenne, certaines bien plus), env. 500 m de grimpe vires comprises ; le 2e « jardin » fait bien 80 m ; ne pas sous-estimer la voie ni le niveau de la cordée, partir tôt (sorties du 20/08/2023 et du 27/10/2022, 30/10/2024).",
+      "Chaleur : soleil toute la journée, pas d'ombre ; prévoir beaucoup d'eau et des chaussons confortables, les pieds souffrent (sorties du 15/07/2021, 07/09/2021 et 20/08/2023). Orage avec grêle à la sortie un jour de juin (sortie du 01/06/2024).",
+      "Corde tendue possible sur les parties faciles ; plusieurs cordées se désencordent après le dernier passage en 5 (sorties du 25/07/2021, 07/09/2021 et 04/09/2024). Prévoir de quoi rallonger les points contre le tirage (sortie du 15/07/2021).",
+      "Dernière longueur notée « 5b+ puis 4b » : un retour la trouve simplement 5b+, courte (sortie du 25/08/2026)."
+    ],
+    "horaires": "Selon C2C : descente 1 h minimum. Selon les retours : approche env. 20 min ; voie de 4 h à 6 h ; descente 40 min (en courant) à 1 h 10. Exemples : 04/09/2024 départ d'Ailefroide 8h40, départ en voie 9h20, en haut 15h ; 30/10/2024 pied de voie 10h30, retour 18h30.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 53915 (Les Pets des Rupricaprins), consulté le 15/10/2026",
+      "Sorties Camptocamp 1945544 (25/08/2026), 1702960 (30/10/2024), 1687590 (04/09/2024), 1651861 (01/06/2024), 1569579 (20/08/2023), 1478320 (27/10/2022), 1348492 (07/09/2021), 1450054 (20/08/2021), 1374267 (05/08/2021), 1346519 (02/08/2021), 1338268 (25/07/2021), 1331245 (15/07/2021), 1325053 (30/06/2021), 1541885 (18/07/2020), 1401014 (03/06/2020), consultées le 15/10/2026",
+      "Topos cités par C2C : « Oisans Nouveau Oisans sauvage – Livre Est », « Escalades autour d'Ailefroide », « Escalades faciles de Grenoble à Briançon », « Escalade plaisir – Alpes du Sud, Provence »",
+      "Historique (C2C) : ouverture en 1997 par Jean-Michel Cambon ; rééquipement géré par la mairie de Vallouise-Pelvoux, coordonné par le bureau des guides des Écrins avec l'association ONOS"
+    ]
+  },
+  {
+    "id": "orpierre-ascle-maitre-de-la-danse",
+    "nom": "Orpierre, pilier W de l'Ascle – Le maître de la danse",
+    "sous_titre": "Grande voie d'initiation de 6 longueurs, très équipée – depuis le parking de l'Adrech",
+    "massif": "Luberon - Baronnies - Saoû",
+    "secteur": "Orpierre – pilier W de l'Ascle (parking de l'Adrech)",
+    "coordonnees": {
+      "lat": 44.32057,
+      "lon": 5.70088,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Le maître de la danse",
+        "url": "https://www.camptocamp.org/routes/57594"
+      }
+    ],
+    "objectif": "Belle voie d'initiation de 6 courtes longueurs (env. 130 m), relais confortables : la plus à gauche de la face du pilier W de l'Ascle.",
+    "cotation_globale": "D",
+    "cotation_libre_max": "5b",
+    "cotation_obligatoire": "5a",
+    "engagement": "I · équipement P1 · exposition E1",
+    "hauteur": "env. 130 m (dénivelé des difficultés)",
+    "nb_longueurs": "6",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Calcaire, face sud. Voie « plaisir » d'initiation : équipement béton sur broches scellées tous les 2 à 4 m (« aucun stress »), relais confortables avec à chaque fois 2 emplacements sur 2 broches scellées. Traversée aérienne en L3, superbe dalle en L6.",
+    "statut": "bientot",
+    "projet": null,
+    "approche": "Du parking de l'Adrech, prendre le sentier de montée qui part à droite vers le secteur 4 heures puis l'Ascle (suivre les panneaux). La voie est la plus à gauche de la face (après Pèlerin de Compostelle et Malkuth la Terre) ; le nom est marqué au pied.",
+    "descente": "À pied : rejoindre le col entre les piliers W et E de l'Ascle et le sentier du secteur 4 heures.",
+    "materiel": "12 dégaines (relais chaînés selon la fiche), corde 35 m.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "5a",
+            "longueur": 20,
+            "cheminement": ""
+          },
+          {
+            "n": "L2",
+            "cotation": "5a",
+            "longueur": 25,
+            "cheminement": "Relais commun (il y en a 3) avec R1 de Malkuth la Terre."
+          },
+          {
+            "n": "L3",
+            "cotation": "4c",
+            "longueur": 20,
+            "cheminement": "Traversée aérienne à gauche sur 20 m, très bien équipée."
+          },
+          {
+            "n": "L4",
+            "cotation": "5b",
+            "longueur": 15,
+            "cheminement": ""
+          },
+          {
+            "n": "L5",
+            "cotation": "3",
+            "longueur": 15,
+            "cheminement": "Liaison (peut s'enchaîner avec L4)."
+          },
+          {
+            "n": "L6",
+            "cotation": "5a+",
+            "longueur": 30,
+            "cheminement": "Superbe dalle."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Avec une corde de 50 m, on peut enchaîner L1 et L2 sans problème, idem pour L3 et L4, L5 et L6, ou L4 et L5."
+    ],
+    "retex": [
+      "Départ de L1 : jugé « un peu teigneux pour la cotation » (patine ?) ; un grimpeur conseille de partir à droite puis de revenir à gauche au 1er ou 2e point, ce qui passe bien plus facilement (sorties des 20/09/2026 et 22/09/2026).",
+      "Équipement : décrit comme très rapproché, « ultra équipé », un peu plus espacé en L6 (sorties des 21/03/2026, 15/05/2026 et 20/09/2026).",
+      "Relais : un retour signale en haut d'une longueur un relais chaîné et deux points non reliés (sortie du 20/09/2026).",
+      "Enchaînements : L1+L2 et L4+L5 avec très peu de tirage (sortie du 21/03/2026) ; L5+L6 enchaînées (sortie du 07/04/2026). Mais en bas « ça navigue un peu trop de droite à gauche pour doubler » (sortie du 07/04/2026) et un autre retour met en garde contre le tirage en doublant L1-L2 (sortie du 08/05/2026) ; avec 2-3 dégaines rallongeables, pas tant de tirage (sortie du 20/09/2026).",
+      "L3 (traversée) : facile en restant bas (sortie du 20/09/2026) ; jugée « très jolie » par un retour (15/05/2026), « loin d'être mémorable » par un autre (22/09/2026).",
+      "L5 : simple jonction de 10-15 m dans les arbustes, sans intérêt (sortie du 20/09/2026).",
+      "L6 : un pas moins évident avant le relais, dernier pas en renfougne dans la fissure/surplomb ; si c'est compliqué dans l'axe, ça passe bien avec un rétablissement un peu à droite (sorties des 20/09/2026 et 22/09/2026).",
+      "Rocher : une grosse écaille qui sonne creux et semble bouger a été signalée dans L1 de la voie juste à droite (sortie du 12/05/2024).",
+      "Affluence : « BEAUCOUP de monde » un week-end d'avril (sortie du 05/04/2026) ; 4 cordées dans la voie lors d'une sortie de club (sortie du 08/05/2026)."
+    ],
+    "horaires": "Dans la voie, selon les retours : 1 h (21/03/2026), 1 h 45 (15/05/2026 : départ 16h15, sommet 18h, parking 18h45), environ 2 h 30 (07/04/2026 : 12h-14h30 ; 08/05/2026 avec 4 cordées).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/orpierre-ascle-maitre-de-la-danse-topo.jpg",
+        "legende": "Topo Camptocamp du pilier W de l'Ascle, voie en bleu (dessin Bruno Besson, Pierrot, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 57594 (Le maître de la danse), consulté le 15/10/2026",
+      "Sorties Camptocamp 1954333 et 1954125 (22/09/2026), 1958014 (20/09/2026), 1906470 (15/05/2026), 1904735 (08/05/2026), 1892353 (07/04/2026), 1891171 (05/04/2026), 1885590 (21/03/2026), 1921096 (13/11/2025), 1782719 (19/06/2025), 1777832 (01/06/2025), 1695610 (03/10/2024), 1647611 (19/05/2024), 1645647 (12/05/2024), 1644253 (09/05/2024), consultées le 15/10/2026",
+      "Image Camptocamp 178232 par Bruno Besson, Pierrot (CC-BY-SA)"
+    ]
+  },
+  {
+    "id": "perrons-de-vallorcine-traversee-e-w",
+    "nom": "Perrons de Vallorcine – Traversée E → W",
+    "sous_titre": "Course d'arête aérienne avec 3 montées et 3 descentes (dont 7 rappels) – depuis le barrage d'Émosson (La Gueulaz, Suisse)",
+    "massif": "Haut Giffre - Aiguilles Rouges - Fiz",
+    "secteur": "Perrons de Vallorcine – lacs d'Émosson (Aiguilles du Van → Grand Perron → Pointe Vouilloz → Pointe de l'Ifala)",
+    "coordonnees": {
+      "lat": 46.05978,
+      "lon": 6.9188,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Perrons de Vallorcine : Traversée E → W",
+        "url": "https://www.camptocamp.org/routes/54625"
+      }
+    ],
+    "objectif": "Traversée de l'arête des Perrons d'est en ouest, de la brèche entre les Aiguilles du Van jusqu'à la Pointe de l'Ifala, en passant par le Grand Perron (2674 m) et la Pointe Vouilloz. Escalade peu soutenue, en bon rocher et plutôt aérienne, avec un panorama sur le massif du Mont-Blanc, le Haut-Faucigny et les lacs d'Émosson. Depuis la brèche, on peut gravir facilement chacune des pointes des Aiguilles du Van pour rallonger la journée.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4a (passage clé de la remontée à l'Ifala noté 4a/4b dans la description)",
+    "cotation_obligatoire": "4a",
+    "engagement": "III · équipement P3",
+    "hauteur": "env. 200 m (dénivelé des difficultés) ; 800 m de dénivelé positif au total",
+    "nb_longueurs": "",
+    "orientation": "NE, SW",
+    "duree": "1 jour",
+    "ambiance": "Course d'arête : la plupart des obstacles sont évités versant S, avec une brève traversée aérienne versant N avant le sommet du Grand Perron. Escalade peu soutenue en bon rocher, plutôt aérienne. Arête assez ensoleillée dès le matin. Souvent très fréquentée.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Compter 2 h. Traverser le barrage et prendre à gauche le sentier balisé menant à Loriaz. Le quitter 250 m plus loin par une petite sente cairnée (départ au niveau d'un cairn sur un gros bloc marqué d'un point jaune, dans un tout petit vallon, avant une descente du chemin de Loriaz). Remonter des pentes de plus en plus escarpées en tirant progressivement à droite. Passer un premier ressaut facile, puis, après de nouvelles pentes, un deuxième ressaut où la corde peut être nécessaire (2b, exposé, 5 goujons). Viser ensuite le couloir issu de la brèche entre les 2 Aiguilles du Van (N et S), bien dessiné sur la carte : partie basse en combe orientée NNE, partie haute en couloir orienté E. Prendre pied dans la combe (névé fréquent) en surmontant une petite barre (2b, contournement possible par la droite), remonter le pierrier et sortir à la brèche par le couloir (quelques pas d'escalade facile en haut).",
+    "descente": "Compter 2 h depuis la Pointe de l'Ifala. Suivre une sente bien marquée vers le S, puis deux options : (1) 50 m sous le sommet, juste avant une brèche profonde (couloir encaissé à droite), traverser à niveau à droite (petits cairns, trace de sente) pour rejoindre l'arête WNW du sommet, la descendre facilement (sente) jusqu'à un gros cairn, puis la quitter par une rampe facile à gauche vers le pierrier et les lacs supérieurs de l'Ifala ; (2) poursuivre l'arête, désormais beaucoup plus facile (herbe et rocher), en contournant les obstacles (par la gauche puis par la droite) jusqu'à la brèche des Perrons (une remontée de 20 m dans un couloir en chemin, cairn en haut), puis rejoindre une série de petits lacs. Rejoindre ensuite la gorge de la Veudale par le sentier du fond du vallon.",
+    "materiel": "Corde 50 m ; quelques friends petits à moyens ; quelques sangles de 120 cm. Matériel glaciaire indiqué par C2C : crampons au printemps (le topo dessiné mentionne crampons et/ou piolet en début de saison).",
+    "longueurs": [
+      {
+        "titre": "Étapes de la traversée (d'après la description C2C, pas de longueurs détaillées)",
+        "lignes": [
+          {
+            "n": "Brèche",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Depuis la brèche des Aiguilles du Van, descendre de quelques mètres puis rejoindre une sente herbeuse ascendante jusqu'à l'arête principale."
+          },
+          {
+            "n": "Grand Perron",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Escalade plutôt facile jusqu'au sommet du Grand Perron (2674 m), obstacles évités versant S, brève traversée aérienne en N juste avant le sommet."
+          },
+          {
+            "n": "Rappel 1",
+            "cotation": "",
+            "longueur": 10,
+            "cheminement": "Premier rappel de 10 m vers une grande dalle peu inclinée, à traverser."
+          },
+          {
+            "n": "Rappel 2",
+            "cotation": "",
+            "longueur": 25,
+            "cheminement": "Second rappel de 25 m, puis un peu de marche et de désescalade facile."
+          },
+          {
+            "n": "Rappel 3",
+            "cotation": "",
+            "longueur": 20,
+            "cheminement": "Troisième rappel de 20 m, bien dans l'axe, jusqu'à la brèche sous la Pointe Vouilloz."
+          },
+          {
+            "n": "Vouilloz",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Deux courtes longueurs de 3b légèrement à droite du fil, puis le fil plus facile jusqu'au sommet de la Pointe Vouilloz ; continuer sur le fil jusqu'à un bref passage de désescalade très aérien vers un relais de rappel sur un gros bloc posé sur l'arête."
+          },
+          {
+            "n": "Rappels 4-5",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "2 rappels (20 m et 25 m) en pleine face N, puis une sente dans des pentes herbeuses jusqu'à la brèche Vouilloz – Ifala."
+          },
+          {
+            "n": "Ifala",
+            "cotation": "4a/4b",
+            "longueur": null,
+            "cheminement": "Passage clé : rester bien à droite de l'arête au départ de la brèche, dans un vague couloir raide. Ne pas aller vers le trou caractéristique mais sortir à une petite brèche un peu à droite (un piton peut permettre un relais avant le pas de traversée un peu délicat). Suivre ensuite le fil, aérien mais facile, jusqu'au sommet."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Peu de dénivelé mais 3 montées et 3 descentes : compter 7 h à 8 h du barrage au barrage.",
+      "Le deuxième ressaut de l'approche (2b, exposé, 5 goujons) peut demander la corde.",
+      "La hauteur du 1er rappel de la Pointe Vouilloz indiquée sur la photo jointe au topo est incorrecte : 20 m et non 10-15 m."
+    ],
+    "retex": [
+      "Approche : un retour signale un groupe en difficulté dans les petites barres à gauche faute d'avoir pris la sente qui part à droite dans la combe (sortie du 24/07/2026) ; un autre a eu du mal à trouver la petite sente, les cairns étant encore petits (sortie du 08/07/2026). Pour le ressaut équipé, « il vaut mieux sortir la corde » (sortie du 22/07/2026).",
+      "Affluence : bouchons signalés à la première partie et au 1er rappel (sortie du 26/09/2026), et de grosses attentes aux rappels du Grand Perron, à la brèche avant la Pointe Vouilloz et au pied de l'Ifala un vendredi de vacances (sortie du 24/07/2026). À l'inverse, un départ très matinal a permis d'être seuls (sorties des 25/06 et 22/07/2026), et une cordée était quasi seule un jour de semaine début septembre (sortie du 03/09/2026).",
+      "Équipement en place selon un retour : 1 piton avant le IV- de l'Ifala, 1 relais chaîné à la Pointe Vouilloz après la longueur en III+, et tous les relais de rappel chaînés et même doublés, sauf le 1er de la Pointe Vouilloz (sortie du 26/09/2026).",
+      "Matériel et progression : une cordée de 3 a trouvé « parfait » 3 friends (0.5, 0.75, 1) + Alien gris, quelques sangles et une corde de 50 m ; 4 longueurs tirées (2 à la Pointe Vouilloz, 2 à l'Ifala), le reste en corde tendue et anneaux (sortie du 26/09/2026).",
+      "Itinéraire : un retour trouve l'arête très logique, sauf au niveau de la brèche entre le Grand Perron et la Pointe Vouilloz (« au niveau du col, grimper au plus facile ») (sortie du 11/09/2026).",
+      "Chutes de pierres : grosse chute de pierres signalée en haut du second névé à 8 h par forte chaleur (sortie du 25/06/2026). Un autre retour rapporte une pluie de blocs tombés depuis l'arête sur le départ des voies de la face S des Perrons, avec une blessée : attention aux cailloux au-dessus d'autres grimpeurs (sortie du 22/08/2026).",
+      "Réchappe : un grimpeur juge la traversée complète « bien plus facile que de se réchapper depuis la brèche Perron – Vouilloz » (sortie du 03/09/2026).",
+      "Descente : sente bien marquée et nombreux cairns (sortie du 24/07/2026) ; « la descente casse bien les pattes » (sortie du 03/09/2026). Fin juin, descente par les névés et la gorge de la Veudale par le névé praticable, mais à passer tôt pour un bon regel (sortie du 25/06/2026). Début juillet, ni piolet ni crampons nécessaires (sortie du 08/07/2026)."
+    ],
+    "horaires": "Selon C2C : approche 2 h, arête 4 à 6 h, descente 2 h ; 7 h à 8 h du barrage au barrage. Selon les retours : 9 h 15 voiture à voiture (2 h approche, 5 h d'arêtes, 2 h descente, sortie du 26/09/2026) ; parking 7 h, brèche 8 h 50, pied des premiers rappels 10 h 40, Pointe de l'Ifala 12 h 20, parking 14 h 30 (sortie du 14/09/2026) ; 2 h + 5 h + 2 h 30 (sortie du 03/09/2026) ; 1 h 40 d'approche et 2 h 45 de voie (sortie du 22/08/2026) ; 4 h 45 pour la traversée (sortie du 28/07/2026) ; groupe club avec bouchons : 8 h 30 départ, sommet de l'Ifala 17 h 30, parking 19 h 30 (sortie du 24/07/2026) ; départ 4 h, arête 6 h 15 – 10 h, voiture 11 h 45 (sortie du 22/07/2026) ; avec un guide : 4 h 15 – 10 h 30 (1 h 45 / 2 h 45 / 1 h 30, sortie du 25/06/2026).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/perrons-de-vallorcine-traversee-e-w-topo.jpg",
+        "legende": "Topo Camptocamp (dessin Sylvain Mauroux, CC-BY-SA) : approche, arête, rappels et descente"
+      },
+      {
+        "fichier": "images/perrons-de-vallorcine-traversee-e-w-topo-2.jpg",
+        "legende": "Topo Camptocamp (photo Luc Gential, CC-BY-SA) : vue d'ensemble sur les rappels depuis l'Ifala. Attention : selon C2C, le 1er rappel de la Pointe Vouilloz fait 20 m et non 10-15 m comme indiqué"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 54625 (Perrons de Vallorcine : Traversée E → W), consulté le 15/10/2026",
+      "Sorties Camptocamp 1954317 (26/09/2026), 1951877 (14/09/2026), 1953836 (11/09/2026), 1957344 et 1947813 (03/09/2026), 1944042 et 1943569 (22/08/2026), 1933695 (28/07/2026), 1931890 (24/07/2026), 1933441 (22/07/2026), 1926841 (12/07/2026), 1925010 (08/07/2026), 1929584 (05/07/2026), 1923501 (27/06/2026), 1920185 (25/06/2026), consultées le 15/10/2026",
+      "Image Camptocamp 1704015 par Sylvain Mauroux (CC-BY-SA)",
+      "Image Camptocamp 26221 par Luc Gential (CC-BY-SA)",
+      "Topos cités par C2C : Guide Chaîne franco-suisse – Du col des Montets au lac Léman ; Par-delà les cimes ; Les Aiguilles Rouges 2 light – L'eau noire ; The Aiguilles Rouges 2 ; Montagnes Magazine #391 et #408 ; topo sur passion-alpes.com (Robin Bonnet)",
+      "Historique (C2C) : première traversée complète E-W par Émile-Robert Blanchet et Kaspar Mooser le 28 septembre 1931"
+    ]
+  },
+  {
+    "id": "pointes-de-la-blonniere-arete-a-marion",
+    "nom": "Pointes de la Blonnière – Arête à Marion",
+    "sous_titre": "Arête calcaire très classique et bien équipée, 13 longueurs – depuis le col des Aravis",
+    "massif": "Bornes - Aravis",
+    "secteur": "Pointes de la Blonnière – combe à Marion (col des Aravis)",
+    "coordonnees": {
+      "lat": 45.86164,
+      "lon": 6.45362,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Pointes de la Blonnière : Arête à Marion",
+        "url": "https://www.camptocamp.org/routes/57063"
+      }
+    ],
+    "objectif": "Jolie course très bien équipée et très classique dans ce niveau, avec une vue imprenable sur le Mont-Blanc. Voie conseillée par C2C pour une première grande voie en tête ou pour un parcours à corde tendue.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4c (cheminée de L3 : 4c, ou 4a A0 ; un pas en 4c en L13)",
+    "cotation_obligatoire": "4a",
+    "engagement": "II · équipement P1+",
+    "hauteur": "env. 300 m (dénivelé des difficultés) ; 893 m de dénivelé positif au total",
+    "nb_longueurs": "13 (plus une section de marche L3')",
+    "orientation": "N, NE",
+    "duree": "1 jour",
+    "ambiance": "Calcaire globalement plus que correct, très beau sur L1-L3. L1-L3 bien équipées (goujons) ; sur l'arête, points espacés de 10 à 20 m. Nombreux becquets. Voie très fréquentée.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Compter 1 h 30. Du col des Aravis, rejoindre à pied la ferme située à 300 m au SW (La Grande Montagne, alt. 1500 m). La contourner et continuer par le chemin 4×4 qui passe derrière la ferme ; il se termine après 400 m : prendre à droite 10-20 m avant la fin du chemin. Suivre la sente évidente qui remonte dans une forêt de vernes puis le lit asséché (selon la saison) d'un torrent qui descend de la « combe à Marion ». Plus haut, un chemin traverse la combe horizontalement : prendre à droite (sente plus douce qui surmonte une épaule herbeuse) ou tout droit (plus raide). Remonter la sente dans le pierrier en visant à droite de la grande paroi verticale ; la voie se situe dans une dalle derrière cette face. R0 (2 goujons) au pied d'une dalle couchée à cannelures, équipée de goujons.",
+    "descente": "Du sommet, descendre main droite dans la pente (cairns) direction NW en visant un gros rognon, à contourner à droite en restant bien contre la paroi. Passer ensuite à gauche sous ce rognon, qui marque l'entrée d'un goulet encombré de verrous formant des ressauts à désescalader avec précaution (rocher poli) ; un court rappel est possible (relais avec maillon rapide bien visible). Le bas du goulet débouche au col entre la Dent du Chatelet (2356 m) et la Pointe Blonnière (2369 m). Descendre ensuite la combe par le pierrier en suivant la sente évidente jusqu'au départ de la voie et à l'itinéraire de montée. C2C prévient : descente très difficile, pierres très instables.",
+    "materiel": "Corde : 1×20 m en corde tendue, ou 1×40 m en tirant des longueurs entre les relais équipés ; 10 dégaines ; quelques sangles pour ajouter des protections (nombreux becquets) ; chaussures correctes pour la descente (la voie se fait très bien en grosses).",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Dalle et grosses cannelures."
+          },
+          {
+            "n": "L2",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Partir légèrement sur la droite."
+          },
+          {
+            "n": "L3",
+            "cotation": "4c (ou 4a A0)",
+            "longueur": null,
+            "cheminement": "Cheminée : passage très court (moins de 3 m), goujonné tous les mètres."
+          },
+          {
+            "n": "L3'",
+            "cotation": "marche",
+            "longueur": null,
+            "cheminement": "Herbe et quelques dalles (pas de point). Échappatoire possible à droite depuis R3'."
+          },
+          {
+            "n": "L4",
+            "cotation": "3a",
+            "longueur": null,
+            "cheminement": "Début de l'arête : suivre le fil en suivant les plaquettes."
+          },
+          {
+            "n": "L5",
+            "cotation": "3a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L6",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Partir sur la gauche de l'arête."
+          },
+          {
+            "n": "L7",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L8",
+            "cotation": "2c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L9",
+            "cotation": "2c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L10",
+            "cotation": "3a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L11",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L12",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Une jolie dalle prisue."
+          },
+          {
+            "n": "L13",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Un pas. Cette longueur peut éventuellement s'éviter par une vire à droite."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "La montée et la descente à pied dans le pierrier ne sont pas à négliger.",
+      "Voie à conseiller pour une première grande voie en tête, ou pour un parcours à corde tendue (environ 20 m conseillés) : compter alors 2 h 30 à 3 h pour les difficultés.",
+      "Voie très fréquentée, à prendre en compte pour l'horaire.",
+      "Échappatoires possibles à droite à R3' et vers R10 ou R11 ; L13 peut éventuellement s'éviter par une vire à droite."
+    ],
+    "retex": [
+      "Approche : rester sur la sente le plus longtemps possible ; ne pas partir à gauche vers la première face aux coulures noires : le début de la voie est environ 50 m plus haut, en contournant large à gauche (sortie du 24/08/2025). Une cordée s'est trompée dans les deux premières longueurs en montant trop haut dans des coulures au rocher médiocre (sortie du 08/06/2026).",
+      "Chutes de pierres : un retour insiste pour mettre le casque dès le pierrier, après avoir reçu des pierres envoyées par une cordée qui descendait tout droit au-dessus du pied de la voie ; il existe une sente le long de la paroi de gauche (sortie du 25/07/2026). « Ça parpine bien dans le couloir de descente » (sortie du 12/07/2026) ; descente dans des pierriers raides et glissants (sortie du 04/07/2026). Un autre retour trouve en revanche le pierrier sans difficulté grâce à la sente (sortie du 06/09/2025).",
+      "Équipement : passages en 4 « très (trop) protégés » mais passages en 3 sans spit sur plus de 20 m (sortie du 05/09/2026) ; équipement très rapproché selon un autre (sortie du 15/08/2026). Un point « bouge fort » au début de l'arête (sortie du 23/05/2026). Corde fixe dans le goulet de descente usée mais utile (sortie du 30/05/2026).",
+      "Rocher : L1-L2 glissantes par condensation le matin, ne pas partir trop tôt (sortie du 24/08/2025) ; cheminée de L3 humide (sortie du 26/05/2026), très patinée et physique en grosses mais spitée tous les mètres (sortie du 08/06/2026) ; fin de L11 sur un rocher nettement moins bon (sortie du 04/07/2026).",
+      "L13 : changement de style, traversée limite déversante sans trop de pieds, très physique en grosses (sorties des 04/07 et 25/07/2026) ; un pas en traversée protégeable avec un friend (sortie du 08/06/2026). Des chaussures de trail ont été jugées trop molles pour L12-L13 (sortie du 18/08/2025).",
+      "Progression : plusieurs cordées tirent L1-L3 puis passent à corde tendue de L4 à L10-L11, et tirent à nouveau les deux dernières longueurs (sorties des 04/07/2026, 12/07/2026, 26/05/2026 et 24/08/2025). Longueurs L4 à L11 faites 3 par 3 avec 20 dégaines et 2 sangles (sortie du 25/07/2026).",
+      "Début de saison : fin mai, neige dès 1630 m, crampons conseillés, L1 à moitié sous la neige (sortie du 30/05/2026) ; attaque dans L2 (sortie du 23/05/2026) ; main courante de la descente pas totalement dégagée, petit rappel (sortie du 26/05/2026) ; piolet utile à la descente si pas à l'aise (sortie du 08/06/2026).",
+      "Affluence : 4 cordées devant (sortie du 05/09/2026), 30 min d'embouteillage au début (sortie du 25/07/2026), attentes aux relais (sortie du 04/07/2026). Seuls en partant tôt ou en fin mai / début juin (sorties des 06/09/2025, 23/05/2026 et 08/06/2026)."
+    ],
+    "horaires": "Selon C2C : approche 1 h 30 ; 2 h 30 à 3 h pour les difficultés à corde tendue. Selon les retours : approche 50 min à 1 h 30 ; dans la voie 1 h 40 (sortie du 06/09/2025), 2 h (sorties des 06/09/2026 et 08/06/2026), 3 h (sortie du 24/08/2025), 3 h 30 (sortie du 15/08/2026), 4 h 25 (sortie du 12/07/2026), 4 h 30 à trois (sortie du 25/07/2026) ; descente 45 min à 2 h. Exemples : départ 7 h, attaque 7 h 50, sommet 9 h 40, voiture 11 h (sortie du 06/09/2025) ; col des Aravis 8 h 15, sommet 12 h 40, parking 14 h 20 (sortie du 12/07/2026) ; 10 h – 17 h voiture à voiture (sortie du 04/07/2026).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/pointes-de-la-blonniere-arete-a-marion-topo.jpg",
+        "legende": "Tracé des 3 premières longueurs de l'Arête à Marion (photo Arnaud Mouiche, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/pointes-de-la-blonniere-arete-a-marion-topo-2.jpg",
+        "legende": "L'Arête à Marion vue de loin, tracé de l'arête (photo piolet15, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 57063 (Pointes de la Blonnière : Arête à Marion), consulté le 15/10/2026",
+      "Sorties Camptocamp 1949421 (06/09/2026), 1948620 (05/09/2026), 1940488 (15/08/2026), 1946488 (14/08/2026), 1938096 (25/07/2026), 1926085 (12/07/2026), 1926962 (07/07/2026), 1923323 (04/07/2026), 1928615 (08/06/2026), 1910792 (30/05/2026), 1909280 (26/05/2026), 1908001 (23/05/2026), 1814210 (06/09/2025), 1812446 (24/08/2025), 1817747 (18/08/2025), consultées le 15/10/2026",
+      "Image Camptocamp 1812444 par Arnaud Mouiche (CC-BY-SA)",
+      "Image Camptocamp 141366 par piolet15 (CC-BY-SA)",
+      "Topos cités par C2C : Bornes Aravis – tome 2 – La Clusaz, Thônes, Ugine (Gilles Brunot, association EKIPROC) ; Escalade Massif Bornes-Aravis",
+      "Historique (C2C) : 1re ascension par Michel Poencet avec un ami (date inconnue, sans corde) ; équipement été-automne 2001 par P. Chatenay, J.F. Exertier, F. Goutard, T. Guinot, D. Meynet, J.M. Thomet"
+    ]
+  },
+  {
+    "id": "roche-fendue-traversee-des-3-pointes",
+    "nom": "Roche Fendue – Traversée des 3 Pointes",
+    "sous_titre": "Terrain d'aventure facile au-dessus du lac du Crozet, 3 petites faces rocheuses – depuis Freydières",
+    "massif": "Belledonne",
+    "secteur": "Roche Fendue – lac du Crozet (depuis Freydières)",
+    "coordonnees": {
+      "lat": 45.175,
+      "lon": 5.92784,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Traversée des 3 Pointes",
+        "url": "https://www.camptocamp.org/routes/800683"
+      }
+    ],
+    "objectif": "Gravir successivement les 3 pointes de Roche Fendue (250 m de rocher en cumulé) au-dessus du lac du Crozet ; difficultés concentrées dans la deuxième pointe ; réchappe évidente entre chacune des 3 pointes.",
+    "cotation_globale": "PD",
+    "cotation_libre_max": "3c",
+    "cotation_obligatoire": "",
+    "engagement": "I · équipement P4",
+    "hauteur": "env. 250 m de rocher en cumulé (dénivelé des difficultés)",
+    "nb_longueurs": "",
+    "orientation": "NW",
+    "duree": "1 jour",
+    "ambiance": "Trois petites faces rocheuses en versant NW, nombreux cheminements possibles. Qualité du rocher variable, « de très compact et adhérent à délité et moussu ». Panoramas magnifiques sur le lac du Crozet à plusieurs reprises.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Du parking de Freydières (1372 m pour le plus haut), suivre le sentier classique du lac du Crozet (1974 m). Le quitter vers 1900 m au niveau de la conduite forcée et traverser SW à flanc en direction du collet W de la pointe évidente (la plus à droite) qui domine le lac. Remonter un raide couloir pierreux assez malcommode, sans sentier, jusqu'au collet W (bloc rocheux cubique à main droite). De là, s'écarter un peu de la paroi en versant NW pour distinguer l'itinéraire.",
+    "descente": "Du sommet de la troisième pointe, descendre par le S et rattraper le sentier plus ou moins marqué qui relie le col entre le Grand Colon et le Galeteau au lac du Crozet. Retour par le GR qui longe le lac en rive droite.",
+    "materiel": "Friends utiles dans les nombreuses fissures.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "Pointe 1",
+            "cotation": "3a",
+            "longueur": null,
+            "cheminement": "Remonter la paroi en ascendance légèrement oblique vers la droite par 2 cheminées en rocher moyen. Un dernier mur mène à la crête herbeuse ; base de la deuxième pointe en 5 min de marche (direction SE)."
+          },
+          {
+            "n": "Pointe 2",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Au choix la raide cheminée bien marquée (3b), ou quelques pas d'adhérence dans les jolies dalles à sa droite, plus exposées. Atteindre la section herbeuse intermédiaire."
+          },
+          {
+            "n": "Pointe 2 (suite)",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": "Traverser à gauche une cinquantaine de mètres jusqu'à une rampe oblique ascendante vers la gauche ; vire exposée avec un petit ressaut délicat (3c) ; puis couloir-cheminée peu marqué, bordé de bon rocher (3c), droit jusqu'au sommet. Courte descente plein S jusqu'à la base de la troisième pointe."
+          },
+          {
+            "n": "Pointe 3",
+            "cotation": "3a",
+            "longueur": null,
+            "cheminement": "Remonter droit dans la face (facile, bon rocher) en cherchant plutôt les passages rocheux que les jonctions herbeuses ; choisir le point d'attaque des jolies dalles couchées sous-sommitales (3a, rocher compact) et rejoindre la crête."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Engagement minimum : réchappe évidente entre chacune des 3 pointes.",
+      "Du collet W, s'écarter un peu de la paroi en versant NW pour distinguer l'itinéraire à suivre.",
+      "Deuxième pointe : au choix la cheminée bien marquée (3b) ou les dalles à sa droite, plus exposées.",
+      "Troisième pointe : chercher plutôt les passages rocheux que les jonctions herbeuses."
+    ],
+    "retex": [
+      "Approche : au niveau de la conduite forcée, monter le couloir visible dans l'axe des locaux en béton ; le départ est au petit col entre la première pointe et le bloc carré à main droite (sortie du 24/10/2021).",
+      "Rocher : un retour signale pas mal de passages où la roche s'effrite (24/10/2021) ; un autre décrit un rocher allant du tas d'éboulis (cheminées de la 1re pointe) à bon voire très bon (dalles des 2e et 3e pointes) (sortie du 19/06/2022) ; rocher moyen sur la pointe 1 (sortie du 22/05/2020).",
+      "Troisième pointe : une cordée ne l'a pas faite, la jugeant d'en bas « toute pourrie » (prés à vaches, dalles moisies) (sortie du 18/09/2020) ; un autre retour y a trouvé une escalade plaisir en excellent rocher (sortie du 09/09/2016).",
+      "Protections : pas d'équipement en place ; cordée en corde tendue, « ça se protège bien » (sortie du 19/06/2022) ; câblés, friends du 0.3 au 2 et sangles utilisés (sortie du 24/10/2021).",
+      "Deuxième pointe : la vire médiane en écharpe a été jugée « bof », la sortie directe à l'aplomb de la première cheminée paraissait plus sympa (sortie du 19/06/2022). Variante : continuer tout droit dans le prolongement de la première longueur (deux fissures, puis dalles et éperon secondaire), difficulté d'ensemble niveau 3 (sortie du 22/05/2020).",
+      "Deuxième pointe, en solo : ressaut au-dessus de la cheminée presque surplombant (contourné par la gauche), rampe « bigrement expo » et pas final avec beaucoup de gaz (sortie du 09/09/2016).",
+      "Réchappe : une cordée est redescendue par un couloir entre les pointes 1 et 2 vers le lac du Crozet (sortie du 18/09/2020).",
+      "Conditions : terrain humide en forêt et humidité résiduelle en versant ombragé le matin (sorties des 09/09/2016 et 19/06/2022). Beaucoup de monde pour monter au lac mais personne sur Roche Fendue (sortie du 19/06/2022)."
+    ],
+    "horaires": "Selon les retours : parking 8h10, collet sous la première pointe 9h20 (19/06/2022) ; attaque pointe 1 à 12h, sommet pointe 3 à 16h30 (22/05/2020) ; depuis un bivouac au lac du Loup : attaque pointe 1 à 10h, pointe 2 à 11h, sommet pointe 2 à 12h30 (18/09/2020) ; en solo, 3 h 45 au total (09/09/2016).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/roche-fendue-traversee-des-3-pointes-topo.jpg",
+        "legende": "Tracé de la première pointe (photo JulBont sur Camptocamp, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/roche-fendue-traversee-des-3-pointes-topo-2.jpg",
+        "legende": "Tracé de la deuxième pointe (photo JulBont sur Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 800683 (Traversée des 3 Pointes), consulté le 15/10/2026",
+      "Sorties Camptocamp 1486774 (27/11/2022), 1433224 (19/06/2022), 1361269 (24/10/2021), 1250853 (18/09/2020), 1208956 (22/05/2020), 800762 (09/09/2016), consultées le 15/10/2026",
+      "Images Camptocamp 800690 et 800699 par JulBont (CC-BY-SA)"
+    ]
+  },
+  {
+    "id": "rochers-d-armentier-voie-du-s",
+    "nom": "Rochers d'Armentier – Voie du S",
+    "sous_titre": "Goulotte en S polie par l'eau puis ressauts et terrasses, 9 longueurs faciles – parking au bord de la route du Lautaret, 2 km après Le Bourg-d'Oisans",
+    "massif": "Grandes Rousses - Arves",
+    "secteur": "Rochers d'Armentier (Bourg-d'Oisans – Le Vernis)",
+    "coordonnees": {
+      "lat": 45.05057,
+      "lon": 6.05452,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Voie du S",
+        "url": "https://www.camptocamp.org/routes/278156"
+      }
+    ],
+    "objectif": "Voie peu soutenue (entre 3a et 4c), coupée de larges terrasses, présentée par C2C comme adaptée à l'initiation sur plusieurs longueurs (peu impressionnante, non engagée), mais demandant d'être à l'aise dans le 3c/4b. Échappatoires un peu partout vers la piste des chasseurs.",
+    "cotation_globale": "AD-",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "I · équipement P1",
+    "hauteur": "env. 170 m (dénivelé des difficultés)",
+    "nb_longueurs": "9",
+    "orientation": "SW",
+    "duree": "1 jour",
+    "ambiance": "Gneiss. Profonde goulotte en forme de S au rocher bien poli par l'eau, puis ressauts séparés par de larges terrasses. Rocher très bon et compact, voie peu aérienne. Relais généralement sur des rings solitaires. Bruit de la route en contrebas.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "10 min. En venant de Vizille, se garer sur le parking situé dans la longue ligne droite de la route du Lautaret, 2 km environ après la sortie du Bourg-d'Oisans (panneau P bleu). Du bout du parking (côté amont), traverser la route un peu en biais pour repérer un petit talus de schistes noirs formant une trouée dans la végétation, 20 m à gauche d'un pylône électrique. Suivre derrière un chemin (en schistes noirs également), passer un second talus pour rejoindre le lit d'un torrent asséché que l'on remonte entièrement jusqu'à une goulotte raide qui donne le départ de la voie (balisage petits points rouges).",
+    "descente": "Descendre sur la droite (S, une plaquette orange si nécessaire) la trace des chasseurs, abondamment munie de marques de peinture rouge. Vers le bas, des câbles en main courante ramènent au sol (ATTENTION : vérifier l'état des câbles !).",
+    "materiel": "Corde 1 × 50 m, 8 dégaines, 2 sangles, bonnes chaussures pour la descente.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3, pas de 4",
+            "longueur": 30,
+            "cheminement": "Droit au fond de la goulotte."
+          },
+          {
+            "n": "L2",
+            "cotation": "3, pas de 4",
+            "longueur": 30,
+            "cheminement": "En tirant vers la droite."
+          },
+          {
+            "n": "L3",
+            "cotation": "2",
+            "longueur": null,
+            "cheminement": "Longueur de transition, ou à l'aide du câble des chasseurs."
+          },
+          {
+            "n": "L4",
+            "cotation": "4",
+            "longueur": null,
+            "cheminement": "Dans la dalle au-dessus, vers la gauche ; relais sur un arbre. Remonter ensuite à pied vers la dalle suivante sur la gauche (spit visible)."
+          },
+          {
+            "n": "L5",
+            "cotation": "4c, puis 3",
+            "longueur": null,
+            "cheminement": "Gravir la dalle (4c) puis des petits murs (3) ; relais sur un ring."
+          },
+          {
+            "n": "L6",
+            "cotation": "2",
+            "longueur": null,
+            "cheminement": "Facile et courte sur un éperon ; relais sur une grande plateforme."
+          },
+          {
+            "n": "L7",
+            "cotation": "3 et 4",
+            "longueur": null,
+            "cheminement": "Une dalle à droite puis un petit pilier graillonneux."
+          },
+          {
+            "n": "L8",
+            "cotation": "4+, puis 4",
+            "longueur": null,
+            "cheminement": "Un pas de 4+ puis un beau dièdre à gauche."
+          },
+          {
+            "n": "L9",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Du dernier relais, traverser 2 m à gauche puis remonter sur une longueur un petit couloir et des gradins en tirant vers la droite (spits). R9 sur 2 spits."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "On peut s'échapper un peu partout et rejoindre commodément la piste des chasseurs.",
+      "Descente par la trace des chasseurs : vérifier l'état des câbles en main courante."
+    ],
+    "retex": [
+      "Équipement vieillissant : plusieurs retours signalent des plaquettes rouillées ou aplaties par les chutes de pierres, des maillons rouillés à R1 et R2, R5 sur une broche, et des points de relais écrasés où l'on ne peut pas passer de mousqueton ; prévoir sangles et cordelette pour les relais (sorties du 29/07/2024 et du 17/05/2026).",
+      "Engagement : un retour juge le qualificatif « voie d'initiation » inapproprié (relais sur un seul point ou inexistant à R3, env. 10 m entre deux points en L5) (sortie du 14/04/2018) ; un autre trouve L5 (50 m) facile mais à l'équipement éloigné, difficile à compléter, pas de point en L6 avant la terrasse ni en L7 avant le pilier (sortie du 29/07/2024). D'autres l'ont trouvée « très bien équipée » (sorties du 15/04/2014 et du 16/04/2017).",
+      "Câbles de descente : en 2024, câble arraché au niveau de L4 et mains courantes du bas arrachées au niveau de R2 ; la cordée a dû faire un rappel sur arbre jusqu'à R3, puis suivre le câble rouillé jusqu'à R2 et faire un rappel de 50 m jusqu'au pied ; elle recommande 2 × 50 m en l'état (sortie du 29/07/2024). En 2026, une cordée a suivi le câble depuis R3 pour descendre ; R2 ne donne pas envie pour un rappel (rouille, 1 piton + 1 point) (sortie du 17/05/2026).",
+      "Descente à pied : demande le sens de l'itinéraire, surtout au départ ; traces rouges assez effacées, autant de temps à descendre qu'à monter, piolet « peut-être utile » (sorties du 29/07/2024 et du 17/05/2026). Au dernier relais, partir à droite vers la croix rouge au sol, pas vers la grosse trace rouge à gauche (sorties du 01/09/2014 et du 09/04/2015).",
+      "Rocher : très poli dans la goulotte ; une cordée partie en « grosses » a trouvé les chaussons obligatoires (sortie du 17/05/2026), d'autres ont tout fait en grosses sauf le dièdre (sortie du 27/07/2017).",
+      "Chutes de pierres : gravillons sur les terrasses et dans L7, attention avec la corde (sortie du 14/09/2016) ; beaucoup de cailloux, casque utile, une prise cassée (sortie du 14/04/2018).",
+      "Relais : un relais (R5 ou R6 selon le grimpeur) sur un arbre mort (sortie du 15/04/2014) ; R6 abîmé par les pierres (sortie du 27/07/2017) ; une cordée a remplacé la cordelette de R2 (sortie du 29/07/2024).",
+      "Chaleur et bruit : exposition plein sud, forte chaleur à éviter (sorties du 09/04/2015 et du 29/07/2024) ; bruit continu de la route en contrebas, communication difficile entre grimpeurs (sorties du 14/09/2016 et du 14/04/2018).",
+      "Cheminement : quelques hésitations signalées (« un peu cherché ma route », relais raté) (sorties du 01/09/2014 et du 09/04/2015)."
+    ],
+    "horaires": "Approche 10 min. Selon les retours : voie de 1 h 15 à 2 h 15 ; aller-retour parking de 3 h à 4 h 30 descente comprise. Exemples : 09/04/2015 parking 10h30, pied 10h45, relais final 13h30, parking 14h10 ; 17/05/2026 midi à 16h30 descente comprise.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/rochers-d-armentier-voie-du-s-topo.jpg",
+        "legende": "Tracé de la voie (rouge) et de la descente (bleu) depuis le parking (photo JulBont sur Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 278156 (Voie du S), consulté le 15/10/2026",
+      "Sorties Camptocamp 1906386 (17/05/2026), 1675373 (29/07/2024), 990151 (14/04/2018), 909211 (27/07/2017), 874124 (16/04/2017), 822598 (17/11/2016), 803168 (14/09/2016), 620236 (09/04/2015), 556918 (01/09/2014), 516463 (15/04/2014), 450563 (04/08/2013), 289278 (25/07/2011), 285376 (06/07/2011), consultées le 15/10/2026",
+      "Image Camptocamp 803188 par JulBont (CC-BY-SA)",
+      "Topo cité par C2C : « Escalades faciles de Grenoble à Briançon »",
+      "Historique (C2C) : ouverture en 2000 par B. Castillo et Thierry Margueritat ; rééquipement en juillet 2011 par Thierry Margueritat (40 points ajoutés ou remplacés)"
+    ]
+  },
+  {
+    "id": "torrent-de-meollion-les-poas-chiches",
+    "nom": "Dalles de Méollion – Les poas-chiches",
+    "sous_titre": "Grande voie en dalles à friction, 9 longueurs, équipement espacé – vallée de Champoléon",
+    "massif": "Écrins",
+    "secteur": "Champoléon – Torrent de Méollion (Les Sucettes de Méollion)",
+    "coordonnees": {
+      "lat": 44.71739,
+      "lon": 6.26555,
+      "repere": "Point de l'itinéraire sur Camptocamp, qui semble correspondre au parking (position approximative, à vérifier). Départ de la voie selon C2C : N 44.728749° / E 6.275168°, alt. 1994 m."
+    },
+    "camptocamp": [
+      {
+        "titre": "Torrent de Méollion : Les poas-chiches",
+        "url": "https://www.camptocamp.org/routes/1796107"
+      }
+    ],
+    "objectif": "Belle voie en dalles avec un équipement espacé. Randonnée/escalade assez longue (environ huit heures), bonne condition physique nécessaire.",
+    "cotation_globale": "D",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "I · équipement P1+ · exposition E4",
+    "hauteur": "env. 435 m (dénivelé des difficultés selon C2C)",
+    "nb_longueurs": "9 (dont 4 longueurs communes avec les voies voisines Les Poas-lus et Les Poas-sons cuits, selon le topo des ouvreurs)",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Grès, grande dalle (friction, trous, bossettes, tafoni). Points parfois assez éloignés, ce qui peut demander un peu d'engagement. Équipement en goujons de 10 mm ; relais deux plaquettes reliées par une cordelette.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "2 h. Depuis la vallée de Champoléon, passer le hameau des Martins et, juste après le pont étroit, prendre une piste à droite jusqu'à son bout (200 m) où on se gare (N 44.717445° / E 6.264784°, alt. 1296 m). De là, prendre à pied la direction du village de Méollion (« Hauts des Poas »). Le sentier classique est interdit : prendre à gauche (gros panneau) le sentier indiqué « par le haut vers Méollion ». Monter jusqu'à 1650 m (45 min). Au point le plus haut du sentier, avant une descente raide dans le lit d'un torrent sec, un cairn à gauche indique l'accès au secteur (N 44.722176° / E 6.276288°) : quitter le sentier pour monter droit dans le bois. À la sortie de la végétation, monter en ascendance vers la gauche de la dalle jusqu'à atteindre une vire assez large qui amène rive droite de la grande dalle et au départ des voies (N 44.728749° / E 6.275168°, alt. 1994 m).",
+    "descente": "En rappels dans la voie (corde de 50 m), puis retour à pied par le chemin d'approche.",
+    "materiel": "Corde de rappel de 50 m, 6 dégaines (C2C). Le topo des ouvreurs (image) ajoute : casque (pierres sur dalles), corde à double de cinquante « vrais » mètres ; friends et coinceurs inutiles.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4c",
+            "longueur": 50,
+            "cheminement": "5 pts. Remonter une dalle raide à trous qui se couche progressivement pour rejoindre le relais de rappel R1."
+          },
+          {
+            "n": "L2",
+            "cotation": "3a",
+            "longueur": 40,
+            "cheminement": "2 pts. Remonter des dalles avec une section un peu plus raide au milieu pour rejoindre R2."
+          },
+          {
+            "n": "L3",
+            "cotation": "4a",
+            "longueur": 50,
+            "cheminement": "4 pts. Départ raide en adhérence (1 pt), continuer dans une dalle à friction qui se couche, passer une vire herbeuse, puis terminer par des dalles à bossettes jusqu'à R3."
+          },
+          {
+            "n": "L4",
+            "cotation": "3c",
+            "longueur": 45,
+            "cheminement": "3 pts. Remonter des dalles couchées pour rejoindre R4 dans des épineux. Le relais des Poas-lus est à gauche, celui des Poas-sons cuits à droite."
+          },
+          {
+            "n": "L5",
+            "cotation": "4c",
+            "longueur": 50,
+            "cheminement": "5 pts. Remonter des dalles raides mais prisues, passer un rétablissement délicat dans une dalle à friction, passer une zone de tafoni, puis rejoindre R5."
+          },
+          {
+            "n": "L6",
+            "cotation": "4a",
+            "longueur": 50,
+            "cheminement": "3 pts. Remonter une dalle à friction, puis obliquer à droite pour rejoindre R6 au-dessus d'une vire herbeuse."
+          },
+          {
+            "n": "L7",
+            "cotation": "4c",
+            "longueur": 50,
+            "cheminement": "4 pts. Remonter des dalles (friction, trous, tafoni) en légère ascendance à droite jusqu'à R7."
+          },
+          {
+            "n": "L8",
+            "cotation": "4c",
+            "longueur": 50,
+            "cheminement": "4 pts. Remonter droit dans des dalles jusqu'à R8."
+          },
+          {
+            "n": "L9",
+            "cotation": "4c",
+            "longueur": 50,
+            "cheminement": "5 pts. Remonter des dalles, puis une zone végétale jusqu'au relais de rappel R9 sur un bloc au sommet."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Randonnée/escalade assez longue, environ huit heures : bonne condition physique nécessaire.",
+      "Les points sont parfois assez éloignés, ce qui peut demander un peu d'engagement."
+    ],
+    "retex": [
+      "Approche : plusieurs cordées ont perdu les cairns et fini « en mode banzaï » jusqu'au départ (sortie du 30/07/2025). Conseil d'un retour : ne pas sortir trop tôt à gauche (ouest), attiré par les dalles de gauche, mais rester bien sur la droite ; il s'agit de traverser à flanc dans les dalles très haut, le reste passe dans la forêt très à l'est (sortie du 05/08/2026).",
+      "Une cordée a manqué le départ du sentier vers les « Hauts des Poas » et est partie vers Méollion ; erreur rattrapable en revenant vers l'ouest (sortie du 05/08/2026).",
+      "Équipement : jugé très espacé, en particulier dans les 4 longueurs du bas (communes aux 3 voies), « ce qui n'autorise pas forcément quelqu'un dans le niveau à aller s'y initier » ; plus rapproché ensuite (sorties du 30/07/2025 et du 05/08/2026). La voie de droite (Les Poas-sons cuits) est plus équipée (sortie du 05/08/2026).",
+      "L8 : un grimpeur ne voyant pas de point au-dessus a rattrapé une voie voisine à droite ; il y avait en fait 2 points pour rejoindre droit le relais (sortie du 30/07/2025).",
+      "Rocher : « bon rocher », « joli caillou, à peine sableux parfois » ; grimpe en dalle répétitive, qui sollicite mollets et cardio (sorties du 30/07/2025 et du 05/08/2026).",
+      "Rappels : la corde ne se déroule pas bien sur les dalles couchées, mais rien pour la coincer (sortie du 05/08/2026).",
+      "Affluence : « solitude garantie (par l'approche…) » (sortie du 30/07/2025).",
+      "Variante de retour : un retour décrit environ 2 h de traversée depuis le haut de la voie puis la descente du canyon (sec) de la combe de Méollion, « le plus compliqué de la journée » (sortie du 16/10/2025)."
+    ],
+    "horaires": "C2C : approche 2 h, environ 8 h au total. Selon les retours (les deux derniers concernent des voies voisines du même secteur) : approche 2 h en se perdant (30/07/2025) ; départ 9 h, pied de la voie 10 h 30, haut 12 h 30 (16/10/2025, Les Poas-lus) ; approche rallongée 9 h-10 h 45, voie 11 h-13 h, en bas 14 h 30, parking vers 16 h (05/08/2026, Les Poas-sons cuits).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/torrent-de-meollion-les-poas-chiches-topo.jpg",
+        "legende": "Topo des ouvreurs publié sur Camptocamp (page 2) : tracés des trois voies Poas-lus, Poas-chiches, Poas-sons cuits et sentier d'approche (jojo05, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/torrent-de-meollion-les-poas-chiches-topo-2.jpg",
+        "legende": "Topo des ouvreurs publié sur Camptocamp (page 1) : carte de l'approche avec points GPS (jojo05, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 1796107 (Torrent de Méollion : Les poas-chiches), consulté le 15/10/2026",
+      "Sorties Camptocamp 1936340 (05/08/2026, titrée Les poas-son cuits), 1828021 (16/10/2025, titrée Les poas-lus), 1798818 (30/07/2025), consultées le 15/10/2026",
+      "Images Camptocamp 1796108 et 1796109 par jojo05 (CC-BY-SA), topo des ouvreurs daté du 12/07/2022",
+      "Historique (C2C) : Poas-sons cuits équipée en septembre 2018 ; Poas-chiche équipée pour moitié en septembre 2018 puis en août 2019 (Jo et Al) ; Poas-lus équipée en août 2019 puis juillet 2020"
+    ]
+  },
+  {
     "id": "tete-de-la-maye-escalade-au-village",
     "nom": "Tête de la Maye – Escalade au Village",
     "sous_titre": "Terrain école en granit au-dessus de La Bérarde, pour grimper en grosses chaussures et s'entraîner à poser du matériel",

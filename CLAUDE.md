@@ -3,6 +3,7 @@
 Site statique (HTML/CSS/JS, sans build) hébergé sur GitHub Pages. Tout est en français.
 Usage perso : un couple qui grimpe surtout en grandes voies et terrain d'aventure.
 Le propriétaire ne code pas : expliquer simplement ce qui est fait, poser des questions plutôt que deviner.
+**Toujours répondre au propriétaire en français**, y compris les messages courts et les comptes rendus d'avancement.
 
 ## Fichiers
 
@@ -53,7 +54,9 @@ Règles :
 - Ne jamais rien inventer. Si une info manque : champ vide, ou demander.
 - Garder les incertitudes (« à vérifier sur place »). Ne pas transformer une impression d'un grimpeur en fait (« un retour signale… »).
 - Citer les sources (numéros d'itinéraire/sorties C2C, date de consultation, livres).
-- Suggérer un statut d'après le profil ci-dessous, mais c'est toujours le propriétaire qui décide : demander.
+- Suggérer un statut d'après le profil ci-dessous, mais c'est toujours le propriétaire qui décide : demander (voie par voie quand il y en a plusieurs).
+- Une fiche = un seul itinéraire. Si la fiche C2C ou les sorties évoquent un itinéraire complémentaire à enchaîner (ex. voie des Cristaux + arête du Bouquetin), ne pas l'intégrer d'office : le proposer au propriétaire, qui décide (le plus souvent : un seul itinéraire).
+- Projets : ne pas ranger d'office dans un dossier ; demander si le projet n'est pas évident (pour l'instant, les voies hors Europe ne sont pas traitées sans demande).
 
 ## Profil (pour suggérer un statut)
 

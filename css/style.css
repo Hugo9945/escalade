@@ -222,73 +222,79 @@ p.periode { color: var(--doux); margin-top: -8px; }
 .liste-voies .nom { font-weight: 600; color: var(--vert); }
 .liste-voies .details { color: var(--doux); font-size: 0.9rem; }
 
-/* La fiche A4 n'apparaît qu'à l'impression. */
-.a4 { display: none; }
 
 @media (max-width: 600px) {
   .fiche-titre h1 { font-size: 1.3rem; }
   .infos { grid-template-columns: 1fr 1fr; }
 }
 
-/* ===== FICHE A4 (impression) ===== */
+/* ===== FICHE A4 =====
+   À l'écran, la fiche est mise en page hors de la vue, à la largeur utile d'une page A4,
+   pour que js/voie.js mesure sa hauteur et resserre le texte (--k) jusqu'à tenir sur une page.
+   Elle ne devient visible qu'à l'impression. Les tailles sont en em : tout suit --k. */
+.a4 {
+  --k: 1;
+  position: absolute;
+  left: -10000px;
+  top: 0;
+  width: 192mm; /* 210 mm - 2 × 9 mm de marge */
+  visibility: hidden;
+  background: #fff;
+  color: #000;
+  font-size: calc(7.7pt * var(--k));
+  line-height: 1.22;
+}
+.a4 h1 { font-size: 2.2em; margin: 0; letter-spacing: 0.3px; text-transform: uppercase; line-height: 1.1; color: #000; }
+.a4 .sous-titre { margin: 0.5mm 0 1.5mm; font-size: 1.1em; }
+
+.a4 table { border-collapse: collapse; width: 100%; }
+.a4 td, .a4 th { border: 0.6pt solid #555; padding: 0.4mm 1.5mm; vertical-align: top; text-align: left; }
+.a4 .cles th { width: 20mm; font-weight: 700; background: #e6e6e6; }
+
+.a4 .colonnes { column-count: 2; column-gap: 5mm; margin: 2mm 0 0; }
+.a4 .colonnes .bloc { break-inside: avoid; margin-bottom: 1.5mm; }
+.a4 h2 {
+  font-size: 1.23em;
+  color: #000;
+  margin: 0 0 0.6mm;
+  padding-bottom: 0.3mm;
+  border-bottom: 1.2pt solid #000;
+  break-after: avoid;
+}
+.a4 ul { margin: 0; padding-left: 3.5mm; }
+.a4 li { margin: 0 0 0.3mm; }
+.a4 p { margin: 0 0 0.5mm; }
+
+.a4 .tableau { margin-top: 1.5mm; }
+.a4 .defile { overflow: visible; }
+.a4 table.longueurs { min-width: 0; font-size: 0.95em; }
+.a4 table.longueurs th, .a4 table.longueurs td { padding: 0.3mm 1.5mm; border: 0.6pt solid #555; }
+.a4 table.longueurs tr { break-inside: avoid; }
+.a4 .tableau h2 { border-bottom: 0; margin-bottom: 0.5mm; }
+.a4 .tableau th { background: #000; color: #fff; }
+.a4 .tableau td:nth-child(1) { width: 18mm; font-weight: 700; }
+.a4 .tableau td:nth-child(2) { width: 18mm; }
+.a4 .tableau td:nth-child(3) { width: 8mm; text-align: right; }
+.a4 .cles th, .a4 .tableau th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+.a4 .securite { margin-top: 2mm; padding: 1.2mm 2mm; border: 1.2pt solid #000; font-weight: 700; font-size: 1.04em; }
+.a4 .notes { margin-top: 1.5mm; }
+.a4 .sources-a4 { margin-top: 1.5mm; font-size: 0.85em; color: #333; }
+
+.a4 .page-image {
+  break-before: page;
+  height: 270mm;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.a4 .page-image img { max-width: 100%; max-height: 262mm; object-fit: contain; }
+.a4 .page-image figcaption { font-size: 7.5pt; margin-top: 1mm; }
+
 @media print {
   @page { size: A4; margin: 8mm 9mm; }
-
-  html, body { background: #fff; color: #000; font-size: 7.7pt; line-height: 1.22; }
+  html, body { background: #fff; color: #000; }
   .ecran { display: none !important; }
-  .a4 { display: block; }
-
-  .a4 h1 { font-size: 17pt; margin: 0; letter-spacing: 0.3px; text-transform: uppercase; line-height: 1.1; }
-  .a4 .sous-titre { margin: 0.5mm 0 1.5mm; font-size: 8.5pt; }
-
-  .a4 table { border-collapse: collapse; width: 100%; }
-  .a4 td, .a4 th { border: 0.6pt solid #555; padding: 0.4mm 1.5mm; vertical-align: top; text-align: left; }
-
-  .a4 .cles th { width: 20mm; font-weight: 700; background: #e6e6e6; }
-
-  .a4 .colonnes { column-count: 2; column-gap: 5mm; margin: 2mm 0 0; }
-  .a4 .colonnes .bloc { break-inside: avoid; margin-bottom: 1.5mm; }
-  .a4 h2 {
-    font-size: 9.5pt;
-    margin: 0 0 0.6mm;
-    padding-bottom: 0.3mm;
-    border-bottom: 1.2pt solid #000;
-    break-after: avoid;
-  }
-  .a4 ul { margin: 0; padding-left: 3.5mm; }
-  .a4 li { margin: 0 0 0.3mm; }
-  .a4 p { margin: 0 0 0.5mm; }
-
-  .a4 .tableau { margin-top: 1.5mm; }
-  .a4 .defile { overflow: visible; }
-  .a4 table.longueurs { min-width: 0; font-size: 7.3pt; }
-  .a4 table.longueurs th, .a4 table.longueurs td { padding: 0.3mm 1.5mm; border: 0.6pt solid #555; }
-  .a4 table.longueurs tr { break-inside: avoid; }
-  .a4 .tableau h2 { border-bottom: 0; margin-bottom: 0.5mm; }
-  .a4 .tableau th { background: #000; color: #fff; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-  .a4 .tableau td:nth-child(1) { width: 18mm; font-weight: 700; }
-  .a4 .tableau td:nth-child(2) { width: 18mm; }
-  .a4 .tableau td:nth-child(3) { width: 8mm; text-align: right; }
-  .a4 .cles th, .a4 .tableau th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-
-  .a4 .securite {
-    margin-top: 2mm;
-    padding: 1.2mm 2mm;
-    border: 1.2pt solid #000;
-    font-weight: 700;
-    font-size: 8pt;
-  }
-  .a4 .notes { margin-top: 1.5mm; }
-  .a4 .sources-a4 { margin-top: 1.5mm; font-size: 7pt; color: #333; }
-
-  .a4 .page-image {
-    break-before: page;
-    height: 270mm;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  .a4 .page-image img { max-width: 100%; max-height: 262mm; object-fit: contain; }
-  .a4 .page-image figcaption { font-size: 7.5pt; margin-top: 1mm; }
+  .a4 { position: static; width: auto; visibility: visible; }
 }
