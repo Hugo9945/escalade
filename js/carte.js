@@ -86,6 +86,10 @@ function construireFiltres(voies) {
   select.addEventListener("change", () => {
     projetChoisi = select.value;
     appliquerFiltres();
+    // Un projet choisi : on cadre la carte sur ses voies ; « Tous » : retour aux Alpes du Nord.
+    const visibles = points.filter((p) => correspondAuxFiltres(p.voie)).map((p) => p.marqueur.getLatLng());
+    if (projetChoisi && visibles.length) carte.fitBounds(L.latLngBounds(visibles), { padding: [40, 40], maxZoom: 13 });
+    else if (!projetChoisi) carte.setView([45.55, 6.2], 8);
   });
 }
 

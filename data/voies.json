@@ -11,8 +11,14 @@
       "repere": "Point de l'itinéraire « Dalles de la face E » sur Camptocamp (position approximative, à vérifier sur place)"
     },
     "camptocamp": [
-      { "titre": "Dalles de la face E (objectif haut)", "url": "https://www.camptocamp.org/routes/54411" },
-      { "titre": "Face E – Dalles inférieures (option bas)", "url": "https://www.camptocamp.org/routes/317640" }
+      {
+        "titre": "Dalles de la face E (objectif haut)",
+        "url": "https://www.camptocamp.org/routes/54411"
+      },
+      {
+        "titre": "Face E – Dalles inférieures (option bas)",
+        "url": "https://www.camptocamp.org/routes/317640"
+      }
     ],
     "objectif": "Dalles de la face E (objectif certain). Option : dalles inférieures avant, si horaire et groupe OK.",
     "cotation_globale": "PD (option bas : PD+)",
@@ -33,24 +39,89 @@
       {
         "titre": "Option BAS – Face E, dalles inférieures (à faire si temps OK)",
         "lignes": [
-          { "n": "L1", "cotation": "4b puis 3c", "longueur": 25, "cheminement": "Gravir le dièdre, puis dalles herbeuses vers la droite. Départ : partie droite de la paroi, marques rouges/plaquette, piton plus haut." },
-          { "n": "L2", "cotation": "4b", "longueur": 30, "cheminement": "Dalles herbeuses au-dessus vers un surplomb ; traverser à droite, passer le surplomb puis remonter des cannelures." },
-          { "n": "L3", "cotation": "3c", "longueur": 25, "cheminement": "Passages faciles et petit mur. R3 sur vire." },
-          { "n": "L4", "cotation": "facile", "longueur": 25, "cheminement": "Un peu vers la droite. R4 sur vire. Points/relais à vérifier sur place." },
-          { "n": "L5", "cotation": "3c-4b", "longueur": 35, "cheminement": "Dalles raides au-dessus ; sortie en gradins vers la gauche. R5 sur anneaux." },
-          { "n": "L6", "cotation": "4c", "longueur": 50, "cheminement": "Traverser en montant à gauche puis direct au-dessus. R6 sur grosse vire. Longueur la plus sérieuse / tirage possible." },
-          { "n": "L7", "cotation": "3b puis 3c", "longueur": null, "cheminement": "Monter à pied puis gravir une dalle herbeuse au-dessus ; fin possible en rejoignant la dalle facile et le sentier." }
+          {
+            "n": "L1",
+            "cotation": "4b puis 3c",
+            "longueur": 25,
+            "cheminement": "Gravir le dièdre, puis dalles herbeuses vers la droite. Départ : partie droite de la paroi, marques rouges/plaquette, piton plus haut."
+          },
+          {
+            "n": "L2",
+            "cotation": "4b",
+            "longueur": 30,
+            "cheminement": "Dalles herbeuses au-dessus vers un surplomb ; traverser à droite, passer le surplomb puis remonter des cannelures."
+          },
+          {
+            "n": "L3",
+            "cotation": "3c",
+            "longueur": 25,
+            "cheminement": "Passages faciles et petit mur. R3 sur vire."
+          },
+          {
+            "n": "L4",
+            "cotation": "facile",
+            "longueur": 25,
+            "cheminement": "Un peu vers la droite. R4 sur vire. Points/relais à vérifier sur place."
+          },
+          {
+            "n": "L5",
+            "cotation": "3c-4b",
+            "longueur": 35,
+            "cheminement": "Dalles raides au-dessus ; sortie en gradins vers la gauche. R5 sur anneaux."
+          },
+          {
+            "n": "L6",
+            "cotation": "4c",
+            "longueur": 50,
+            "cheminement": "Traverser en montant à gauche puis direct au-dessus. R6 sur grosse vire. Longueur la plus sérieuse / tirage possible."
+          },
+          {
+            "n": "L7",
+            "cotation": "3b puis 3c",
+            "longueur": null,
+            "cheminement": "Monter à pied puis gravir une dalle herbeuse au-dessus ; fin possible en rejoignant la dalle facile et le sentier."
+          }
         ]
       },
       {
         "titre": "Objectif HAUT – Dalles de la face E / voie de droite",
         "lignes": [
-          { "n": "Départ", "cotation": "", "longueur": null, "cheminement": "Au niveau des dalles / petit site : anneaux de corde posés dans les lunules ; départ souvent au ring le plus à gauche ou dans la ligne la plus évidente. Le livre décrit deux points rouges au bas des dalles, partie droite, au niveau des cannelures verticales." },
-          { "n": "Ressaut 1", "cotation": "3/4", "longueur": null, "cheminement": "Attaquer droit au-dessus (spits possibles). Relais au-dessus de la partie verticale, sur anneau à droite." },
-          { "n": "Ressaut 2", "cotation": "III+", "longueur": null, "cheminement": "Continuer vers un ressaut/point faible. Relais possible sur 1 piton à droite, puis passer le point faible." },
-          { "n": "Dalles médianes", "cotation": "III puis court IV/IV+", "longueur": null, "cheminement": "Monter dans les gradins/dalles herbeuses faciles ; continuer droit au-dessus jusqu'à une bonne vire. Quelques points protègent le passage plus raide au milieu." },
-          { "n": "Dalle supérieure", "cotation": "3c/4a", "longueur": null, "cheminement": "Monter dans la dalle en tirant vers la gauche, puis viser la faiblesse. Spits/piton possibles ; louvoyer si besoin dans le plus facile." },
-          { "n": "Sortie", "cotation": "facile", "longueur": null, "cheminement": "Sortir par le mur le plus à droite / vers l'arbuste mort selon le topo Mission Outdoor. Pas forcément de relais immédiat : continuer env. 20 m vers un bloc avec lunules, puis remonter l'herbe à gauche vers le sentier/sommet." }
+          {
+            "n": "Départ",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Au niveau des dalles / petit site : anneaux de corde posés dans les lunules ; départ souvent au ring le plus à gauche ou dans la ligne la plus évidente. Le livre décrit deux points rouges au bas des dalles, partie droite, au niveau des cannelures verticales."
+          },
+          {
+            "n": "Ressaut 1",
+            "cotation": "3/4",
+            "longueur": null,
+            "cheminement": "Attaquer droit au-dessus (spits possibles). Relais au-dessus de la partie verticale, sur anneau à droite."
+          },
+          {
+            "n": "Ressaut 2",
+            "cotation": "III+",
+            "longueur": null,
+            "cheminement": "Continuer vers un ressaut/point faible. Relais possible sur 1 piton à droite, puis passer le point faible."
+          },
+          {
+            "n": "Dalles médianes",
+            "cotation": "III puis court IV/IV+",
+            "longueur": null,
+            "cheminement": "Monter dans les gradins/dalles herbeuses faciles ; continuer droit au-dessus jusqu'à une bonne vire. Quelques points protègent le passage plus raide au milieu."
+          },
+          {
+            "n": "Dalle supérieure",
+            "cotation": "3c/4a",
+            "longueur": null,
+            "cheminement": "Monter dans la dalle en tirant vers la gauche, puis viser la faiblesse. Spits/piton possibles ; louvoyer si besoin dans le plus facile."
+          },
+          {
+            "n": "Sortie",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Sortir par le mur le plus à droite / vers l'arbuste mort selon le topo Mission Outdoor. Pas forcément de relais immédiat : continuer env. 20 m vers un bloc avec lunules, puis remonter l'herbe à gauche vers le sentier/sommet."
+          }
         ]
       }
     ],
@@ -70,13 +141,1505 @@
     "horaires": "Haut seul : approche env. 30-45 min, voie 1 h à 2 h 30 selon encordement, retour 25-40 min. Intégral : compter environ 3 h dans les dalles pour une cordée fluide + approche/liaisons ; un retour C2C récent donne 11h parking, 12h10 pied inférieur, 14h30 au chemin, 15h15 départ haut, 16h30 sommet, 17h parking.",
     "notes": "",
     "images": [
-      { "fichier": "images/charmant-som-dalles-e-croquis.jpg", "legende": "Croquis du topo : chemin d'accès, départ possible à la base, itinéraire jusqu'au sommet" }
+      {
+        "fichier": "images/charmant-som-dalles-e-croquis.jpg",
+        "legende": "Croquis du topo : chemin d'accès, départ possible à la base, itinéraire jusqu'au sommet"
+      }
     ],
     "sources": [
       "Camptocamp, itinéraires 54411 (Dalles de la face E) et 317640 (Face E – Dalles inférieures)",
       "Sorties Camptocamp 2025-2026 consultées le 10/09/2026",
       "Photos du topo papier et fiche Mission Outdoor (documents perso)",
       "Coordonnées et cotation d'engagement : API Camptocamp, consultée le 15/10/2026"
+    ]
+  },
+  {
+    "id": "rochepleine-eperon-gosses-mythiques",
+    "nom": "Saint-Égrève, Rochepleine – Éperon des Gosses Mythiques",
+    "sous_titre": "Depuis Saint-Égrève (avenue de Karben) ; 5 longueurs puis sortie par l'arête et retour à pied, ou descente en rappels depuis R5",
+    "massif": "Chartreuse",
+    "secteur": "Saint-Égrève – Rochepleine",
+    "coordonnees": {
+      "lat": 45.24743,
+      "lon": 5.68889,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Eperon des Gosses Mythiques",
+        "url": "https://www.camptocamp.org/routes/54846"
+      }
+    ],
+    "objectif": "Grande voie d'initiation praticable toute l'année, juste au-dessus de Saint-Égrève. Le final sur l'arête avec retour à pied en fait une belle sortie montagne ; option : redescendre en rappels depuis R5.",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "5a+",
+    "cotation_obligatoire": "4c",
+    "engagement": "I · équipement P1",
+    "hauteur": "env. 250 m (dénivelé des difficultés)",
+    "nb_longueurs": "5 jusqu'à R5, puis sortie par le sommet (plusieurs relais, nombre non précisé)",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Éperon calcaire plein S. Voie très fréquentée à toute heure et à toute saison ; se prête très bien à l'apprentissage de la pose de protections. Partie haute : petites dalles successives, éperon qui se couche, végétation, nombreux goujons. Ouverture : Claude Vigier, 1980.",
+    "statut": "fait",
+    "projet": null,
+    "approche": "15 min. Depuis le premier rond-point, continuer sur l'avenue de Karben en direction de l'usine Teledyne E2V. 100 m après les toilettes publiques (sur la gauche), prendre à gauche un sentier. Presque au pied du secteur Paroi Centrale, prendre à droite un chemin qui remonte ensuite un pierrier jusqu'au secteur Rocher de Mandrin (dièdres déversants et géométriques caractéristiques). Du dièdre, poursuivre à gauche sur quelques mètres puis, juste après le premier bosquet, prendre à droite une vire montante avec un câble ; la suivre jusqu'à son extrémité droite. La voie attaque dans la ligne la plus à gauche de la dalle (troisième en partant de la droite). Note C2C : chemins d'accès et de retour refaits lors d'un chantier bénévole de l'ECI le 26/04/2026 ; ils ne sont peut-être pas encore tous stables, notamment dans les pierriers.",
+    "descente": "Depuis R5, deux solutions. En rappels (1 h) : traverser 10 m à gauche par un sentier jusqu'au relais de rappel, puis 2 rappels dans la voie « Nuit de Cauchemar » (50 m puis 45 m), communs aux autres voies de la Paroi de l'Amazone ; suivre le chemin vers le Rocher de Mandrin et retrouver le chemin de l'aller. Depuis le sommet (1 h 15) : remonter un tout petit peu l'arête (moins de 5 min) ; au niveau d'un replat, suivre une sente à droite au milieu des ronces. Le chemin franchit l'éperon situé à l'E en restant à niveau ; rester plus ou moins à niveau sur 1 km globalement vers l'E pour contourner une gorge, puis passer une clôture pour rejoindre le pré à l'W de la Rigaudière. Un arbre marqué (triangle rouge, trait jaune, flèche bleue) indique la direction à droite. Descendre le pré jusqu'aux maisons du haut de Saint-Égrève, passer devant le cimetière et l'église pour rejoindre le parking. Sécateur et pantalon conseillés.",
+    "materiel": "12 dégaines. Les remarques C2C conseillent, pour apprendre à poser des protections, un jeu de friends, un jeu de coinceurs et plusieurs sangles. Corde pour les rappels de 50 m et 45 m (le 1er rappel de 50 m est « limite »).",
+    "longueurs": [
+      {
+        "titre": "Voie jusqu'à R5",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "5a+",
+            "longueur": null,
+            "cheminement": "Un pas au départ, puis plus facile."
+          },
+          {
+            "n": "L2",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Une succession de petites dalles."
+          },
+          {
+            "n": "L3",
+            "cotation": "5a",
+            "longueur": 15,
+            "cheminement": "Un ressaut raide (un pas de 5a), puis plus facile. Longueur courte jusqu'au relais sur une vire confortable. Possibilité de combiner L3 et L4 (50 m)."
+          },
+          {
+            "n": "L4",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Longueur variée avec un petit surplomb muni de bonnes prises."
+          },
+          {
+            "n": "L5",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Petit mur raide puis facile sur le bord de la falaise."
+          }
+        ]
+      },
+      {
+        "titre": "Sortie par le sommet (depuis R5)",
+        "lignes": [
+          {
+            "n": "Sortie",
+            "cotation": "4, deux passages de 5a",
+            "longueur": null,
+            "cheminement": "Partir par la droite sur de petites dalles successives ; l'éperon se couche. Passer là où il y a pas ou peu de végétation, en suivant les nombreux goujons (quelques marques rouges et bleues parfois visibles). Relais régulièrement disposés."
+          },
+          {
+            "n": "Dernière longueur",
+            "cotation": "5a",
+            "longueur": null,
+            "cheminement": "Longueur en dalle jusqu'au relais final sur une plateforme."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Possibilité de faire une L0 par « l'Amère Loque » (6a+), « CSF Story » (5c+) ou la voie n° 7 (5), puis rejoindre l'attaque classique.",
+      "Variante d'attaque : au niveau du câble de la vire d'accès, démarrer par « La vache de cerveau » (L1 4c+, L2 4c en traversée à droite) pour rejoindre R1.",
+      "À éviter pendant les grosses chaleurs : il peut y faire très chaud (plein S).",
+      "Rappels : le 1er rappel de 50 m est limite ; plus confortable de le fractionner en 2 avec un relais sur la vire intermédiaire. Une autre chaîne permet de fractionner aussi le 2e (soit 4 rappels) ; la description C2C demande s'il passe avec une corde de 50 ou de 60 m (à confirmer)."
+    ],
+    "retex": [],
+    "horaires": "Approche 15 min ; voie env. 3 h ; descente 1 h en rappels ou 1 h 15 depuis le sommet.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/rochepleine-eperon-gosses-mythiques-topo.jpg",
+        "legende": "Topo Camptocamp : tracé de la voie (photo CHNOS5808, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/rochepleine-eperon-gosses-mythiques-topo-2.jpg",
+        "legende": "Topo Camptocamp : accès depuis Rochepleine, voie et retour vers la Rigaudière / La Monta (photo CHNOS5808, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 54846 (Eperon des Gosses Mythiques), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1959754 du 09/10/2026",
+      "Topo cité par C2C : « Rochepleine - Eperon des gosses mythiques », topoguide « Escalades depuis Grenoble - Le topo doux » (F. Garibal, F. Audigé, éd. Aventures sans voitures, 2025), https://explore.eosya.com/guides/rochepleine-eperon-des-gosses-mythiques",
+      "Image Camptocamp 185216 par CHNOS5808 (CC-BY-SA)",
+      "Image Camptocamp 185215 par CHNOS5808 (CC-BY-SA)"
+    ]
+  },
+  {
+    "id": "gerbier-traversee-aretes",
+    "nom": "Gerbier – Traversée des arêtes",
+    "sous_titre": "Traversée N > S depuis la Double Brèche ; accès depuis Villard-de-Lans (Glovettes / Les Clots) ou Prélenfrey",
+    "massif": "Vercors",
+    "secteur": "Gerbier",
+    "coordonnees": {
+      "lat": 45.03518,
+      "lon": 5.58626,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Traversée des arêtes",
+        "url": "https://www.camptocamp.org/routes/54152"
+      }
+    ],
+    "objectif": "Grande classique du Vercors : traverser l'arête du Gerbier (2109 m) depuis la Double Brèche, arête par moments effilée et très aérienne mais jamais difficile. Option : arête intégrale jusqu'à l'antécime S (2081 m).",
+    "cotation_globale": "PD+",
+    "cotation_libre_max": "4a",
+    "cotation_obligatoire": "4a",
+    "engagement": "II · équipement P3",
+    "hauteur": "env. 330 m (dénivelé des difficultés) ; dénivelé total env. 1000 m",
+    "nb_longueurs": "",
+    "orientation": "W",
+    "duree": "1 jour",
+    "ambiance": "Arête calcaire par moments effilée et très aérienne, mais jamais difficile ; passages du Rasoir et du Peigne ; on se déplace surtout à l'horizontale. Parcours très peu équipé, sauf pour les passages délicats. Historique : 1er parcours connu en 1914 (Capdepon) ; parcours avec accès par la face E le 29 mai 1927 (H. Mischler, Toscano).",
+    "statut": "fait",
+    "projet": null,
+    "approche": "Depuis Villard-de-Lans (1 h 30) : du parking des Glovettes (1160 m) – ou des Clots –, suivre le balisage GR vers le refuge de la Fauge (1343 m) et le Pas de l'Oeille, puis la direction de la Combe Charbonnière (1660 m). À l'intersection avec le sentier venant du col Vert, prendre la direction du Pas de l'Oeille et repérer un couloir-cheminée montant à la Double Brèche (sur l'arête). Remonter cette faille (2 pas de 4a, 2 pitons en place) jusqu'à une pente herbeuse que l'on remonte jusqu'à la brèche ; on peut aussi traverser les pentes herbeuses vers la droite pour monter sur l'arête plus loin. L'ensemble est équipé pour une retraite en rappel (deux relais plus une sangle sur lunule dans la cheminée, un relais au-dessus du ressaut rocheux au milieu des vires). Variante de gauche (en cas de chutes de pierres dans le couloir-cheminée, ou s'il est humide ou gelé) : quand le sentier affleure la falaise, remonter des pentes d'herbe raides un peu à gauche jusqu'à la barre suivante, traverser à droite (cairn), remonter un couloir d'éboulis, gravir des gradins faciles à droite vers une cheminée herbeuse (3b max, 3 spits), remonter un cirque herbeux, une cheminée rocheuse de 10 m, puis un couloir herbeux en longeant les rochers ; contourner une barre par la gauche, couloir rocheux à droite jusqu'à un collet, puis suivre à peu près à l'horizontale les rochers vers la droite jusqu'au sommet de la Double Brèche (itinéraire logique au plus facile). Depuis Prélenfrey (2 h) : du parking des Bordeaux (1290 m), chemin du Col Vert ; vers 1530 m, juste après la sortie de la forêt, prendre à gauche (S) le sentier des balcons E du Vercors pendant 5-10 min jusqu'à un cairn et une marque rouge à droite (début du sentier de la Double Brèche) ; le remonter jusqu'à la crête (marque orange-saumon). Accès à la Double Brèche en basculant versant W sur quelques mètres et en contournant le premier gendarme, toujours versant W. Option : agrémenter l'approche par l'arête du Roc des Agnelons depuis le Col Vert (T3).",
+    "descente": "En bout d'arête (passage vertical), deux options : 1) désescalader vers le SE puis tourner SW par un passage étroit sous un petit toit (2+, 1 piton) ; 2) descendre versant W jusqu'à un cairn : un relais sur spits et chaîne pour un rappel de moins de 20 m, ou un relais sur 2 pitons (dont un avec gros anneau) qui arrive sur une terrasse herbeuse 14 m plus bas. Les deux options ramènent sur les pentes herbeuses au-dessus du sentier du Pas de l'Oeille ; le rejoindre par un sentier assez raide. Vers Villard-de-Lans : revenir vers la Combe Charbonnière et le départ de la course (Double Brèche), puis trajet inverse de l'aller jusqu'aux Glovettes ou aux Clots par le chalet de la Fauge. Vers Prélenfrey : gagner le Pas de l'Oeille (30 min de remontée) puis descendre sur la Baraque des Clos pour rejoindre la route forestière des Bordeaux. Une ancienne 3e option (rappel direct de 23 m) n'est plus possible : l'anneau autour du becquet a disparu.",
+    "materiel": "Corde 2×15 m (2×30 m nécessaire pour la traversée intégrale). Sangles, quelques dégaines, un jeu de petits câblés ou de friends (facultatif).",
+    "longueurs": [
+      {
+        "titre": "Traversée N > S depuis la Double Brèche",
+        "lignes": [
+          {
+            "n": "Accès",
+            "cotation": "2 pas de 4a",
+            "longueur": null,
+            "cheminement": "Couloir-cheminée de la Double Brèche (versant Villard), 2 pitons en place, puis pente herbeuse jusqu'à la brèche."
+          },
+          {
+            "n": "Départ",
+            "cotation": "3b",
+            "longueur": 30,
+            "cheminement": "De la brèche, suivre une petite vire sur ~50 m, puis 30 m d'escalade sur du bon rocher."
+          },
+          {
+            "n": "Arête",
+            "cotation": "jusqu'à 3c",
+            "longueur": null,
+            "cheminement": "Suivre l'arête par son fil : passages délicats ou impressionnants (le Rasoir, le Peigne…). Certains passages sont évitables par le versant W."
+          },
+          {
+            "n": "Sommet",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Sommet du Gerbier (2109 m) par un passage assez aérien et esthétique, sur des rochers bien lisses (2 points en place)."
+          },
+          {
+            "n": "Fin d'arête",
+            "cotation": "2+ ou rappel < 20 m",
+            "longueur": null,
+            "cheminement": "Poursuivre jusqu'à buter contre un passage vertical, puis désescalade SE/SW sous un petit toit (1 piton) ou rappel versant W (voir Descente)."
+          }
+        ]
+      },
+      {
+        "titre": "Option : arête intégrale (corde 2×30 m)",
+        "lignes": [
+          {
+            "n": "Arête herbeuse",
+            "cotation": "",
+            "longueur": 200,
+            "cheminement": "Après le rappel, rejoindre la suite de l'arête, plutôt herbeuse, jusqu'au-dessus d'une profonde brèche juste avant l'antécime S (2081 m)."
+          },
+          {
+            "n": "Couloir",
+            "cotation": "rappel facultatif 25 m",
+            "longueur": null,
+            "cheminement": "Descendre le couloir herbeux côté Villard-de-Lans (rappel facultatif sur sangles dans une lunule), traverser sous la brèche puis une vire vers un couloir-cheminée entre une lame décollée et l'antécime S."
+          },
+          {
+            "n": "Couloir-cheminée",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Remonter le couloir vers l'arête puis accéder facilement à l'antécime S."
+          },
+          {
+            "n": "Rappel",
+            "cotation": "rappel 30 m",
+            "longueur": null,
+            "cheminement": "Traverser l'antécime jusqu'à un relais de rappel côté Prélenfrey ; rappel jusqu'à une vire, remonter la vire jusqu'à une brèche et basculer côté Villard-de-Lans."
+          },
+          {
+            "n": "Descente",
+            "cotation": "rappel facultatif 25 m",
+            "longueur": null,
+            "cheminement": "Descendre les pentes rocheuses ; un rappel facultatif mène aux dernières pentes raides, désescaladées jusqu'aux prairies du Pas de l'Oeille."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Préférer la traversée N > S, nettement plus esthétique.",
+      "Risque important de chutes de pierres au pied et dans la cheminée d'accès versant Villard-de-Lans : dans ce cas, utiliser la variante de gauche.",
+      "L'accès par Prélenfrey est plus sauvage et peut éviter ce risque par jour de forte fréquentation, mais le retour est plus long.",
+      "Autre façon d'éviter la cheminée : monter au Col Vert depuis Villard-de-Lans (1 h 30-2 h) puis faire la traversée du Ranc des Agnelons (1-2 h)."
+    ],
+    "retex": [],
+    "horaires": "Accès à la Double Brèche : 1 h 30 depuis Villard-de-Lans (Glovettes), 2 h depuis Prélenfrey (parking des Bordeaux). Retour vers Prélenfrey : 30 min de remontée jusqu'au Pas de l'Oeille puis descente (durée non précisée).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/gerbier-traversee-aretes-topo.jpg",
+        "legende": "Topo Camptocamp : accès par la Double Brèche, arête et rappel (photo Thomas Ribière, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/gerbier-traversee-aretes-topo-2.jpg",
+        "legende": "Topo Camptocamp : les rappels équipés en fin d'arête (15 m et 23 m) (photo Florence B, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 54152 (Traversée des arêtes), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1955481 du 26/09/2026",
+      "Topo cité par C2C : altituderando, http://www.altituderando.com/alain-Aretes-du-Gerbier-2109m",
+      "Historique cité par C2C : Revue Alpine (CAF Lyon, 1914) ; F. Belmont, La Montagne (CAF, juillet 1928)",
+      "Image Camptocamp 184907 par Thomas Ribière (CC-BY-SA)",
+      "Image Camptocamp 771983 par Florence B (CC-BY-SA)"
+    ]
+  },
+  {
+    "id": "ecoutoux-arete-a-jojo",
+    "nom": "L'Écoutoux – Arête à Jojo",
+    "sous_titre": "Arête SE de l'Écoutoux, depuis la Cimenterie (Le Sappey) ; variante : arête S",
+    "massif": "Chartreuse",
+    "secteur": "L'Écoutoux",
+    "coordonnees": {
+      "lat": 45.24882,
+      "lon": 5.76176,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Arête à Jojo",
+        "url": "https://www.camptocamp.org/routes/55445"
+      }
+    ],
+    "objectif": "Belle arête en rocher correct, au milieu de la forêt, à deux pas de Grenoble et avec une approche réduite ; jusqu'à la fin de l'arête (flèche bleue) ou jusqu'au sommet de l'Écoutoux (1406 m).",
+    "cotation_globale": "PD",
+    "cotation_libre_max": "3c",
+    "cotation_obligatoire": "3c",
+    "engagement": "II · équipement P3",
+    "hauteur": "env. 180 m (dénivelé des difficultés) ; dénivelé total env. 450 m",
+    "nb_longueurs": "",
+    "orientation": "SE",
+    "duree": "1 jour",
+    "ambiance": "Arête calcaire hétérogène en forêt : marche, passages faciles et quelques pas plus difficiles. Pas de relais en place ; portions terreuses pouvant être glissantes. Historique C2C : 1er parcours inconnu ; plusieurs (ré)équipements et déséquipements ; 04/07/2026 : 5 scellements et 2 goujons.",
+    "statut": "fait",
+    "projet": null,
+    "approche": "20 min. Depuis l'arrêt de bus après « La Scie », monter par un sentier jusqu'à l'école d'escalade de l'Écoutoux. Continuer à droite par une vague sente dénivelant peu, avec des points bleus. Quand la sente s'élève franchement dans le couloir S (une des descentes), ne plus suivre les points bleus mais rejoindre à droite le pied de l'arête. « Jojo » écrit en bleu indique l'attaque.",
+    "descente": "1 h ou moins selon l'option. Par le versant E (la plus rapide depuis le sommet) : descendre le PR de la crête N jusqu'au collet 1224 m, prendre à droite et descendre versant E dans une petite combe par un sentier qui devient chemin de débardage puis piste, jusqu'au hameau de Boulière et la route (chemin terreux un peu raide, non conseillé par temps humide). Par la crête N (voie normale) : sentier balisé jaune vers le N jusqu'au Col de Bens, à droite vers le hameau de Bens, le long des maisons, puis à droite à travers les Beauches jusqu'à la D512, à suivre à droite jusqu'au parking. Par le couloir SE (la plus rapide depuis la fin de l'arête) : bien avant le sommet, une inscription « Descente » indique le balisage bleu versant S ; le couloir longe le pied de l'arête et rejoint l'attaque ; non conseillé avec des enfants ou des personnes mal à l'aise en terrain raide, terreux et caillouteux (bonnes chaussures, casque conseillé ; la description le qualifie de désagréable et dangereux). Par l'arête S (plus facile et plus agréable selon la description) : au moment où le balisage bleu plonge dans le couloir, prendre à droite l'arête S boisée jusqu'à une brèche très marquée ; puis soit suivre le fil jusqu'à un ancrage (2 goujons et un mousqueton) et descendre facilement (2 longueurs de corde aériennes, III et II), soit descendre un couloir à droite (S) et longer le pied de la paroi ; suivre l'arête au mieux jusqu'à un cairn, puis courte descente à gauche (versant Sappey) vers une trace en forêt qui ramène aux lacets du sentier de l'école d'escalade.",
+    "materiel": "Corde 1×30 m, sangles. Coinceurs et friends peu utiles ; chaussons d'escalade inutiles.",
+    "longueurs": [
+      {
+        "titre": "Arête (1 à 2 h)",
+        "lignes": [
+          {
+            "n": "Attaque",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "« Jojo » écrit en bleu au pied de l'arête."
+          },
+          {
+            "n": "Arête",
+            "cotation": "un peu de 3, 1 pas de 3/4",
+            "longueur": null,
+            "cheminement": "Remonter l'arête par son fil, en alternant marche, passages faciles et quelques pas plus difficiles. Fin à une petite brèche avec une flèche bleue peinte (descente versant S)."
+          },
+          {
+            "n": "Vers le sommet",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Dès la flèche bleue, continuer droit dans les bois en contournant les ressauts par la droite (nombreuses marques bleues) ; ça passe aussi en restant sur la crête."
+          },
+          {
+            "n": "Avant-dernier ressaut",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Soit une sente à droite (quelques marques bleues) pour contourner le ressaut, puis le sentier PR jusqu'à l'Écoutoux (20 min depuis la flèche bleue) ; soit monter 2-3 m à gauche au pied du ressaut et suivre une vire à gauche (passage délicat, rocher moyen), continuer sur la crête jusqu'au dernier ressaut, traverser 20 m à droite (sente), puis gradins et petite cheminée jusqu'au sommet."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Pas de relais en place : progression en corde tendue possible sur l'essentiel du parcours, en se protégeant sur les nombreux arbres, lunules et fissures.",
+      "En bus : arrêt « le St Eynard » de la ligne Flexo62, juste au départ de l'approche ; on peut reprendre le bus au bourg du Sappey à la descente.",
+      "Variante : l'arête S (au-dessus de l'école d'escalade), « randonnée grimpante » par endroits bellement aérienne ; départ en traversant horizontalement depuis le premier lacet du sentier de l'école (cairn). Prendre un bout de corde et quelques sangles avec mousquetons."
+    ],
+    "retex": [],
+    "horaires": "Approche 20 min ; arête 1 à 2 h ; descente 1 h ou moins selon l'option.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/ecoutoux-arete-a-jojo-topo.jpg",
+        "legende": "Topo Camptocamp : départ de l'arête à Jojo (photo Loïc Perrin, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 55445 (Arête à Jojo), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1952220 du 14/09/2026",
+      "Topo cité par C2C : « L'Ecoutoux (1406 m) - Arête à Jojo », topoguide « Escalades en Chartreuse » (J. Bourdat, Y. Guerillot, éd. Oros, 2010), https://explore.eosya.com/guides/lecoutoux-1406-m-arete-a-jojo",
+      "Ressource citée par C2C : géologie de l'Écoutoux, Geol-Alp, http://www.geol-alp.com/chartreuse/6_sommets_ch/ecoutoux.html",
+      "Image Camptocamp 297355 par Loïc Perrin (CC-BY-SA)"
+    ]
+  },
+  {
+    "id": "dent-de-crolles-classique-jb",
+    "nom": "Dent de Crolles – Classique du J.B.",
+    "sous_titre": "Face SE, depuis le Col du Coq ; sortie directe (5b) ou échappatoire à droite depuis R9 (4c max)",
+    "massif": "Chartreuse",
+    "secteur": "Dent de Crolles – face SE",
+    "coordonnees": {
+      "lat": 45.30639,
+      "lon": 5.85585,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Classique du J.B.",
+        "url": "https://www.camptocamp.org/routes/54540"
+      }
+    ],
+    "objectif": "Première voie d'escalade ouverte sur la Dent de Crolles, classique facile de la Chartreuse : sortie directe par le dièdre (5b) ou, depuis R9, échappatoire à droite vers la sortie de la Voie des Neuf Cheminées (4c max).",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "5b (sortie directe ; 4c en sortant à droite)",
+    "cotation_obligatoire": "4c",
+    "engagement": "II · équipement P2",
+    "hauteur": "env. 250 m (dénivelé des difficultés) ; dénivelé total env. 930 m",
+    "nb_longueurs": "11",
+    "orientation": "SE",
+    "duree": "1 jour",
+    "ambiance": "Calcaire ; pas une voie « sportive » clé en main : pose de protections et recherche d'itinéraire font partie du jeu. Voie étagée en terrasses (pas gazeuse), pentes herbeuses, cheminées, pins ; rocher bon dans les parties raides, mauvais ailleurs. Une quinzaine de pitons en place, jugés bons ou très bons par la description. Le nom vient des sculptures de la paroi dessinant vaguement « JB » vues de loin avec le bon éclairage. 1re ascension : Besse, Flahu, Flick, 1921 ou 1922.",
+    "statut": "fait",
+    "projet": null,
+    "approche": "Depuis le Col du Coq : prendre le chemin du Pas de l'Oeille jusqu'à environ 1800 m, puis le sentier bien tracé qui traverse juste au-dessus du ravin de la Gorgette vers le Pas des Terreaux. Continuer sous la face SE. Après avoir traversé le ravin du ruisseau des Terreaux, et 200 m avant la Cabane du Berger, remonter la sente en lacets puis longer la paroi vers la gauche jusqu'à un large couloir découpé par de grandes vires herbeuses : départ à la pointe du ruisseau des Terreaux, sous la cote 1988 m de la carte IGN. Un petit cairn indique l'attaque ; du cairn, le grand pic de Belledonne est à 145° par rapport au N. Voir aussi la fiche C2C « Accès & descentes » de la Dent de Crolles (itinéraire 133861).",
+    "descente": "Non détaillée dans la fiche de la voie : renvoi vers la fiche Camptocamp « Accès & descentes » de la Dent de Crolles (itinéraire 133861), à consulter.",
+    "materiel": "Des sangles, quelques coinceurs, Camalot #0.5 à #1 utilisables.",
+    "longueurs": [
+      {
+        "titre": "Classique du J.B. (sortie directe)",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3a",
+            "longueur": 40,
+            "cheminement": "Franchir un petit ressaut d'une dizaine de mètres, puis remonter en oblique à gauche une large pente d'herbe jusqu'à un bloc sous une cheminée (0 point). Relais sur 2 spits."
+          },
+          {
+            "n": "L2",
+            "cotation": "4b",
+            "longueur": 20,
+            "cheminement": "Gravir la cheminée évasée (3 pitons) puis encaissée en goulotte."
+          },
+          {
+            "n": "L3",
+            "cotation": "marche",
+            "longueur": 30,
+            "cheminement": "Monter la pente herbeuse en évitant un ressaut rocheux par un crochet gauche-droite, ou franchir le ressaut par la droite (2 goujons). Rejoindre le pied d'un petit ressaut rocheux droit au-dessus. Relais sur 2 pitons."
+          },
+          {
+            "n": "L4",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Franchir le ressaut de 5 m par un vague dièdre (2 pitons) ou par une dalle à droite. Monter la pente herbeuse sous un grand mur, vers une gorge encaissée (éboulis instable dessous) : c'est la suite de la Voie des Neuf Cheminées (relais au pied), ne pas y aller mais traverser 30 m à gauche vers une croupe avec des pins, au pied d'un éperon rocheux. Relais sur pins."
+          },
+          {
+            "n": "L5",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Gravir une dalle de 10 m formant un petit éperon (ou l'éviter par la gauche), puis des rochers sous des pins jusqu'à une vire ; la suivre 5 m à gauche et remonter au mieux dans les pins jusqu'à une énorme vire. Relais sur pins."
+          },
+          {
+            "n": "L6",
+            "cotation": "marche",
+            "longueur": null,
+            "cheminement": "Marcher à gauche en ascendance jusqu'au pied de 2 grandes cheminées ; continuer vers celle de gauche par un court ressaut facile. Relais sur 2 pitons à l'entrée de la cheminée."
+          },
+          {
+            "n": "L7",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Remonter la cheminée de gauche (15 m, 4 pitons pour passer un bloc), plutôt côté gauche, jusqu'à une zone de vires avec des pins (la Directe du J.B. arrive de la gauche). Relais sur pin."
+          },
+          {
+            "n": "L8",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Gravir un mur de 10 m à droite par une fissure en V, ou par un passage de 4b à gauche ; ressaut évitable par des gradins en 3c plus à gauche. Rejoindre une vire et un pin à droite. Relais sur pin."
+          },
+          {
+            "n": "L9",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Viser à droite un pin 30 m plus haut (3c, un pas de 4c, 3 pitons, bien protégeable), puis revenir à gauche vers une petite baume sur une large vire au pied d'un dièdre moutonné. Relais sur 1 piton."
+          },
+          {
+            "n": "L10",
+            "cotation": "5b",
+            "longueur": null,
+            "cheminement": "Gravir le dièdre (5 pitons). Relais sur un immense bloc à la sortie du dièdre."
+          },
+          {
+            "n": "L11",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Sortir sur les pentes herbeuses sommitales et atteindre le plateau (50 m de dénivelé à 45° avec de petits ressauts, 0 point)."
+          }
+        ]
+      },
+      {
+        "titre": "Échappatoire depuis R9",
+        "lignes": [
+          {
+            "n": "Vire",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "S'échapper à droite par une vire jusqu'au bout, vers la sortie de la Voie des Neuf Cheminées ; dernier pas d'escalade (4b, 1 piton) vers les pentes herbeuses sommitales, relais à gauche (1 goujon)."
+          },
+          {
+            "n": "Variante",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Aux 2/3 de la vire, dièdre non équipé (spit à son pied) ; relais sur un pin à droite, puis pentes herbeuses sommitales entrecoupées de deux ressauts facilement protégeables."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Depuis R9, échappatoire possible à droite (vire vers la sortie de la Voie des Neuf Cheminées) : la cotation max passe alors à 4c au lieu de 5b.",
+      "L4 : ne pas entrer dans la gorge encaissée (suite de la Voie des Neuf Cheminées) mais traverser 30 m à gauche vers la croupe aux pins."
+    ],
+    "retex": [],
+    "horaires": "",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/dent-de-crolles-classique-jb-topo.jpg",
+        "legende": "Topo Camptocamp : croquis de la Classique du JB et des voies voisines (dessin CHNOS5808, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/dent-de-crolles-classique-jb-topo-2.jpg",
+        "legende": "Topo Camptocamp : voies de la face SE de la Dent de Crolles, JB en rouge (photo CHNOS5808, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 54540 (Classique du J.B.), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1951786 du 12/09/2026",
+      "Image Camptocamp 143518 par CHNOS5808 (CC-BY-SA)",
+      "Image Camptocamp 135278 par CHNOS5808 (CC-BY-SA)"
+    ]
+  },
+  {
+    "id": "roche-tuiliere-voie-normale",
+    "nom": "Roche Tuilière – Voie normale",
+    "sous_titre": "4e ligne de points à partir de la gauche du site – nom de la voie peint en noir au pied",
+    "massif": "Massif du Sancy",
+    "secteur": "Roche Tuilière (Col du Guéry)",
+    "coordonnees": {
+      "lat": 45.6292,
+      "lon": 2.81401,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Roche Tuilière : Voie normale",
+        "url": "https://www.camptocamp.org/routes/789501"
+      }
+    ],
+    "objectif": "Voie normale de Roche Tuilière jusqu'en haut des voies, puis sommet à 5 min. Décrite comme idéale pour une initiation.",
+    "cotation_globale": "PD",
+    "cotation_libre_max": "3a",
+    "cotation_obligatoire": "3a",
+    "engagement": "I · équipement P1",
+    "hauteur": "env. 110 m (dénivelé des difficultés)",
+    "nb_longueurs": "5 (d'après les cotations du topo)",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Face peu raide au début ; sur la fin, courts ressauts, blocs et partie sur arête, avec des points un peu plus espacés. Dernière longueur horizontale. Idéal pour une initiation.",
+    "statut": "fait",
+    "projet": null,
+    "approche": "Non décrite sur Camptocamp. Points d'accès associés à l'itinéraire : Col du Guéry, Le Cros. Au pied : le nom de la voie est écrit en peinture noire (à 30 cm du sol) ; c'est la 4e ligne de points à partir de la gauche du site.",
+    "descente": "Le sommet s'atteint en 5 min depuis le haut de la voie. Descente par une sente un peu raide (10 min pour revenir au pied des voies).",
+    "materiel": "",
+    "longueurs": [
+      {
+        "titre": "Voie normale (cotations du topo)",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3a",
+            "longueur": null,
+            "cheminement": "Face peu raide. Relais sur 2 points reliés par une chaîne."
+          },
+          {
+            "n": "L2",
+            "cotation": "3a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L3",
+            "cotation": "2c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L4",
+            "cotation": "3a",
+            "longueur": null,
+            "cheminement": "Sur la fin de la voie, bien chercher les points, un peu plus espacés (courts ressauts, blocs, partie sur arête)."
+          },
+          {
+            "n": "L5",
+            "cotation": "2c",
+            "longueur": null,
+            "cheminement": "Longueur horizontale (3 points) qui rejoint une belle sente menant soit au sommet, soit au pied des voies."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [],
+    "horaires": "",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 789501 (Roche Tuilière : Voie normale), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1946783 du 29/08/2026",
+      "Notre sortie Camptocamp 1944001 du 22/08/2026",
+      "Topo cité par C2C : Escalade 63",
+      "Massif d'après la carte IGN associée sur C2C (2432ET, Massif du Sancy)"
+    ]
+  },
+  {
+    "id": "pierra-menta-voie-historique",
+    "nom": "Pierra Menta – Voie historique (Loustalot - Zwingelstein)",
+    "sous_titre": "Face W – voie de la 1re ascension (1922), depuis Treicol",
+    "massif": "Beaufortain",
+    "secteur": "Pierra Menta – face W",
+    "coordonnees": {
+      "lat": 45.63834,
+      "lon": 6.65051,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Pierra Menta : Voie historique (Loustalot - Zwingelstein)",
+        "url": "https://www.camptocamp.org/routes/55910"
+      }
+    ],
+    "objectif": "Voie empruntée lors de la 1re ascension de la Pierra Menta (6 juillet 1922, Jean-Paul Loustalot et Léon Zwingelstein) : 6 longueurs en face W jusqu'à la crête sommitale, puis arête sommitale et rappels en face E. Rééquipée fin des années 1990 (itinéraire revu et corrigé), puis en 2010 et 2013.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "5a",
+    "cotation_obligatoire": "4c",
+    "engagement": "I · équipement P1+",
+    "hauteur": "env. 140 m (dénivelé des difficultés) ; env. 1000 m de dénivelé positif au total",
+    "nb_longueurs": "6",
+    "orientation": "W",
+    "duree": "1 jour",
+    "ambiance": "Face W, rocher classé conglomérat sur C2C. Équipement aéré, suffisant pour qui a de la marge ; chaque relais est constitué de 2 spits reliés par de la cordelette (pas toujours en bon état) et un maillon rapide. À l'ombre jusqu'à 14 h (en octobre).",
+    "statut": "fait",
+    "projet": null,
+    "approche": "De Treicol, suivre le GR en direction du col de Bresson. Le quitter pour prendre une sente menant au lac d'Amour et gagner le col au N de la Pierra Menta (bon sentier). Possible aussi de passer par le col du Bresson (belle vue de profil sur la Pierra Menta), puis revenir facilement au col N par la deuxième sente à droite ; cette option permet de s'équiper au soleil avant de rebasculer face W. Redescendre le sentier pour longer la face W. Le départ se trouve après la paroi NW très verticale, à environ 200 m du col. Une cordelette rouge est suspendue au premier point (à 2 m de haut). Repérer aussi la plaque commémorative qui brille à la deuxième longueur.",
+    "descente": "Suivre l'arête sommitale vers le S à corde tendue (points tous les 10 m), redescendre jusqu'à une brèche marquée (désescalade facile, quelques pas de 2 et trois points). 2 ou 3 rappels sur chaînes dans la face E : 25 m + 45 m, ou 25 m + 30 m + 15 m. Retour au pied de la voie : par le col S (conseillé si le terrain est humide) ou par le col N et un sentier qui fait le tour de la Pierra Menta (passages en désescalade facile ; exposé, surtout en début/fin de saison avec plaques de neige ou de glace). Descente en rappel dans la voie possible (par exemple s'il y a du monde dans la descente classique) mais uniquement s'il n'y a personne dans la voie (risque de chute de pierres trop élevé).",
+    "materiel": "8 dégaines. Friends #0.75, #1 et #2 (tailles BD) pour L4 et pour la fin, mais très difficiles à placer. Au moins une sangle de 150 cm, ou mieux deux de 120 cm, pour R5. Crampons possibles en début de saison (indication C2C).",
+    "longueurs": [
+      {
+        "titre": "Voie historique – face W",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4b",
+            "longueur": 20,
+            "cheminement": "R1 sur la vire. Départ à gauche du spit, plus facile que dans son axe."
+          },
+          {
+            "n": "L2",
+            "cotation": "4b",
+            "longueur": 15,
+            "cheminement": "Monter dans la grosse fissure puis à droite. L1 et L2 peuvent s'enchaîner en rallongeant bien certains points. Le relais historique malcommode serait encore en place."
+          },
+          {
+            "n": "L3",
+            "cotation": "4c",
+            "longueur": 25,
+            "cheminement": "Traverser horizontalement à droite, puis en ascendance à droite, puis verticalement pour rejoindre la fissure-dièdre. Un friend #1 se place aisément pour rassurer le second dans la traversée."
+          },
+          {
+            "n": "L4",
+            "cotation": "5a",
+            "longueur": 25,
+            "cheminement": "Partir à gauche sur plaquettes grises (à droite sur plaquettes dorées, c'est la voie « 36 ans plus tard »). Longueur assez verticale au début mais sur bonnes prises."
+          },
+          {
+            "n": "L5",
+            "cotation": "4a",
+            "longueur": 50,
+            "cheminement": "Droit dans la dalle. Équipement aéré. R5 3 m sur la gauche du cheminement naturel, sous une longue écaille horizontale. Si on rate ce relais, la longueur fait 60 m jusqu'au premier relais intermédiaire de L6. Points du relais très espacés : mettre une sangle de 120 à chaque point pour diminuer l'angle."
+          },
+          {
+            "n": "L6",
+            "cotation": "4a",
+            "longueur": 60,
+            "cheminement": "Idem. R6 sur la crête sommitale. Deux relais intermédiaires possibles dans la longueur (le 2e est meilleur) si corde inférieure à 60 m (sauf à finir en corde tendue)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Traversée de L3 : attention pour les seconds moins aguerris ; un friend 0,75 est bienvenu (un friend #1 se place aisément pour rassurer le second).",
+      "R5 : prévoir au moins une sangle de 150 cm, ou deux de 120 cm, car les points du relais sont très espacés.",
+      "Corde de moins de 60 m : utiliser l'un des deux relais intermédiaires de L6 (le 2e est meilleur), sauf à finir en corde tendue.",
+      "Retour au pied : passer par le col S si le terrain est humide ; le tour par le col N est exposé, surtout en début/fin de saison (neige ou glace).",
+      "Rappel dans la voie seulement s'il n'y a personne dedans (risque de chute de pierres trop élevé)."
+    ],
+    "retex": [],
+    "horaires": "À l'ombre jusqu'à 14 h (en octobre).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/pierra-menta-voie-historique-topo-2.jpg",
+        "legende": "Croquis Camptocamp « version Jacques Maurin » (dessin janic, CC-BY-SA) : 5 relais et 4c sur ce croquis, contre 6 longueurs et 5a dans le texte C2C"
+      },
+      {
+        "fichier": "images/pierra-menta-voie-historique-topo.jpg",
+        "legende": "Topo Camptocamp (photo Bastien G., CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 55910 (Pierra Menta : Voie historique (Loustalot - Zwingelstein)), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1940433 du 19/07/2026",
+      "Topo cité par C2C : Le topo de la Vanoise - Tarentaise - Beaufortain",
+      "Topo cité par C2C : Escalade plaisir - Alpes françaises du Nord",
+      "Topo cité par C2C : Montagnes Magazine #367",
+      "Cité par C2C : récit de la 1re ascension, J.-P. Loustalot, La Montagne (CAF), 1922",
+      "Cité par C2C : « Pierra Menta : Variante à la voie Loustalot de la paroi W », A. Le Ray et H. Ziegler, La Montagne, 1931, p. 383",
+      "Image Camptocamp 1470080 par Bastien G. (CC-BY-SA)",
+      "Image Camptocamp 1056608 par janic (CC-BY-SA)"
+    ]
+  },
+  {
+    "id": "aiguille-du-franchet-arete-w-traversee",
+    "nom": "Aiguille du Franchet – Arête W et traversée",
+    "sous_titre": "Arête W puis traversée par l'arête E – depuis Le Saut (Tignes)",
+    "massif": "Alpes Grées - Charbonnel",
+    "secteur": "Aiguille du Franchet – arête W",
+    "coordonnees": {
+      "lat": 45.47981,
+      "lon": 6.97165,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Aiguille du Franchet : Arête W et traversée",
+        "url": "https://www.camptocamp.org/routes/54461"
+      }
+    ],
+    "objectif": "Arête W (itinéraire traditionnel, passages de 4, ou variante récente équipée en goujons) puis traversée par l'arête E et descente par le pierrier. Belle vue sur le lac du Chevril, le mont Pourri, la Grande Casse, la Grande Sassière.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "4b",
+    "engagement": "II · équipement P2",
+    "hauteur": "env. 200 m (dénivelé des difficultés) ; env. 500 m de dénivelé positif au total",
+    "nb_longueurs": "4 décrites (avec de la corde tendue ou des longueurs faciles entre les ressauts) ; variante équipée : longueurs enchaînées, certaines jusqu'à 45 m",
+    "orientation": "SW",
+    "duree": "1 jour",
+    "ambiance": "Arête calcaire. Itinéraire traditionnel avec passages de 4 ; variante : à part les 2 premières longueurs, très bon rocher, difficulté continue dans le 4. Quelques chutes de pierres : attention aux autres cordées.",
+    "statut": "fait",
+    "projet": null,
+    "approche": "Env. 1 h. Du Saut, prendre le chemin rive gauche du 1er barrage (par le pont), le quitter 50 m plus loin (donc avant le barrage) pour suivre un sentier à droite qui se dirige vers une pente herbeuse permettant de franchir une petite barre rocheuse. Monter légèrement en traversée à droite des pentes d'herbe pour contourner le point 2660 m par la droite. Traverser la Combe du Mont et rejoindre le pied de l'arête W en montant (sente bien marquée dans les pierriers).",
+    "descente": "Arête E : du sommet, suivre une arête rocheuse (pas très longtemps), puis poursuivre un long moment à droite de l'arête (sente aérienne versant Val d'Isère, délicat si mouillé). Avant la dernière pointe, la sente passe versant Sassière (cairn). Traverser une courte dalle inclinée et rejoindre le pierrier. Descente (env. 45 min) : descendre par le pierrier (sente), emprunter la Combe du Mont puis à droite pour rejoindre le lac du Plan du Cheval. Suivre la sente et les cairns et passer la barre rocheuse au même endroit qu'à la montée.",
+    "materiel": "Corde 40-50 m. Chaussons d'escalade pas indispensables. Relais généralement en place (2 spits) et spits dans les passages clés ; compléter avec quelques coinceurs.",
+    "longueurs": [
+      {
+        "titre": "Arête W traditionnelle (3 h 30 à 4 h)",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Contourner l'arête et attaquer versant S par une dalle et un petit dièdre. Monter cette dalle (4b, pitons) sur les 2/3, puis traverser à gauche. Relais sur une terrasse."
+          },
+          {
+            "n": "L2",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Cheminement facile à gauche de l'arête jusqu'au ressaut. Monter à droite de 3 à 4 m, traverser horizontalement à droite, franchir un surplomb (4a, broche) pour se retrouver sur l'arête."
+          },
+          {
+            "n": "L3",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Suivre le fil, puis une fissure verticale (3, 4a)."
+          },
+          {
+            "n": "L4",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Rejoindre au mieux l'arête en évitant les blocs par la gauche, puis une fente à droite permet de rejoindre le sommet de l'arête."
+          }
+        ]
+      },
+      {
+        "titre": "Variante récente équipée (goujons de 12 sur toute l'arête W)",
+        "lignes": [
+          {
+            "n": "Départ",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "En face N, 15 m avant l'arête. Un petit cairn marque le début de la voie."
+          },
+          {
+            "n": "L1'",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "25-30 m. Droit au-dessus, puis un peu à gauche (ne pas aller dans le dièdre couché)."
+          },
+          {
+            "n": "L2'",
+            "cotation": "",
+            "longueur": 30,
+            "cheminement": "Marche vers la gauche."
+          },
+          {
+            "n": "Suite",
+            "cotation": "4/4+, une longueur 5−",
+            "longueur": null,
+            "cheminement": "Les longueurs s'enchaînent comme en voie sportive. Toutes dans le 4/4+, sauf une longueur aérienne valant 5−. Certaines longueurs font jusqu'à 45 m. Tous les relais sont équipés."
+          },
+          {
+            "n": "Sortie",
+            "cotation": "3",
+            "longueur": 50,
+            "cheminement": "Du dernier relais, sommet via 50 m de 3 dans de gros blocs."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [],
+    "horaires": "Approche env. 1 h ; arête W 3 h 30 à 4 h ; descente env. 45 min.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 54461 (Aiguille du Franchet : Arête W et traversée), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1940426 du 18/07/2026",
+      "Topo cité par C2C : Le topo de la Vanoise - Tarentaise - Beaufortain",
+      "Topo cité par C2C : Sommets de Vanoise - Les plus belles courses faciles"
+    ]
+  },
+  {
+    "id": "saurier-a-vos-coinceurs",
+    "nom": "Saurier – A vos coinceurs, prêt, partez",
+    "sous_titre": "Terrain d'aventure, depuis le parking du site d'escalade de Saurier",
+    "massif": "Puy-de-Dôme",
+    "secteur": "Saurier",
+    "coordonnees": {
+      "lat": 45.54588,
+      "lon": 3.06442,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "A vos coinceurs, prêt, partez",
+        "url": "https://www.camptocamp.org/routes/276764"
+      }
+    ],
+    "objectif": "125 m de pur terrain d'aventure, aucun équipement en place ; extra pour l'apprentissage du terrain d'aventure.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "5a",
+    "cotation_obligatoire": "",
+    "engagement": "II · équipement P4",
+    "hauteur": "env. 125 m (dénivelé des difficultés)",
+    "nb_longueurs": "5 (de 25 m)",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Pur terrain d'aventure sans équipement en place : 5 premiers mètres en 5, le reste en 3 et 4. Quelques points verts (presque effacés) indiquent le cheminement, 2 points verts au relais à construire.",
+    "statut": "fait",
+    "projet": null,
+    "approche": "1 min. Se garer au parking du site d'escalade, remonter la route en amont en laissant le premier cairn (accès au secteur dit du bas) et prendre le sentier au 2e cairn (1 minute de marche droit dans le pentu, à env. 50 m de la route). Nom de la voie sur une plaquette en alu.",
+    "descente": "Retour par le sentier côté Saurier balisé par des cairns et des cordes.",
+    "materiel": "Coinceurs câblés, coinceurs mécaniques, sangles",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "5a/b",
+            "longueur": 25,
+            "cheminement": "Monter dans un dièdre puis, quand il se termine, tirer à droite vers le haut. R1 sur une belle vire."
+          },
+          {
+            "n": "L2",
+            "cotation": "3/4",
+            "longueur": 25,
+            "cheminement": "Escalader à droite avant de buter au fond de la vire, passer l'écaille pointue, passer une terrasse terreuse. Aller à gauche (3) ou à droite (4). R2 sur terrasse."
+          },
+          {
+            "n": "L3",
+            "cotation": "3",
+            "longueur": 25,
+            "cheminement": "Passer la lame en restant plutôt à cheval dessus. Suivre la crête. R3 facile."
+          },
+          {
+            "n": "L4",
+            "cotation": "3",
+            "longueur": 25,
+            "cheminement": "Passer les blocs. R4 au pied du dernier ressaut."
+          },
+          {
+            "n": "L5",
+            "cotation": "4/3",
+            "longueur": 25,
+            "cheminement": "Escalader le dièdre par la droite. R5 sur replat ou aux arbres."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [],
+    "horaires": "",
+    "notes": "L’accès à la voie se fait assez facilement en suivant le topo. Il faut simplement faire attention car il y a deux parkings possibles selon l’endroit d’où l’on arrive. Nous étions sur celui où il n’y a pas de table de pique-nique, et en allant vers le site, il faut bien passer au niveau du deuxième cairn. Ensuite, c’est très bien indiqué, avec des panneaux, et la plaque est toujours présente.\n\nConcernant l’itinéraire, la première longueur est effectivement un peu plus soutenue que le reste, mais comme précisé dans le topo, elle se protège très bien. Pour le reste, la voie reste assez facile et globalement bien protégeable. Nous avons d’ailleurs beaucoup utilisé de sangles pour les protections, parfois même plus que les coinceurs sur certaines longueurs. Les relais 2 et 3 sont désormais chaînés. De notre côté, nous avons fait le relais 1 sur coinceurs, puis les relais 4 et 5 sur arbres. Pour le matériel, nous avions emporté un rack complet de friends et c’était largement suffisant. Nous avions aussi un jeu de nuts, que nous avons finalement très peu utilisé, probablement aussi par manque d’habitude. Quelques longues sangles de 180 cm sont également bien pratiques.\n\nPas de difficulté particulière à signaler, si ce n’est quelques rochers qui peuvent être un peu instables.\n\nPour la descente, une fois sortis de la voie, il faut immédiatement partir sur la gauche en gardant la voie dans le dos. Il faut vraiment rejoindre le petit plateau au-dessus, là où se trouvent les arbres et où nous avions fait notre relais. On trouve ensuite une petite sente avec quelques cairns. Ce n’est visiblement pas un passage très fréquenté, donc le sentier reste discret. Il faut un peu faire confiance à l’itinéraire. Il y a des cordes fixes à certains endroits. Nous avons eu un moment d’hésitation à un passage, mais une corde un peu cachée permet bien de confirmer le bon chemin. Une fois celle-ci repérée, la descente se déroule sans problème.\n\nSinon, c’est une très belle voie, nous avons vraiment beaucoup apprécié l’ascension.",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 276764 (A vos coinceurs, prêt, partez), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1904933 du 09/05/2026"
+    ]
+  },
+  {
+    "id": "lone-mountain-training-grounds",
+    "nom": "Lone Mountain – Training Grounds",
+    "sous_titre": "Courte grande voie sportive de 3 longueurs, face WSW de Lone Mountain",
+    "massif": "Nevada (États-Unis)",
+    "secteur": "Lone Mountain",
+    "coordonnees": {
+      "lat": 36.23807,
+      "lon": -115.31507,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Training Grounds",
+        "url": "https://www.camptocamp.org/routes/1940094"
+      }
+    ],
+    "objectif": "Courte grande voie sportive facile et bien équipée, adaptée à l'initiation et à l'apprentissage des manœuvres en grande voie.",
+    "cotation_globale": "PD+",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "I · équipement P1",
+    "hauteur": "env. 76 m (dénivelé des difficultés) ; la description indique environ 75 m",
+    "nb_longueurs": "3",
+    "orientation": "SW",
+    "duree": "1 jour",
+    "ambiance": "Calcaire, grande voie sportive bien équipée (face). Voie conçue notamment pour s'initier à la grande voie sportive et travailler les manœuvres de relais ; le rocher peut encore présenter quelques zones nécessitant du nettoyage.",
+    "statut": "fait",
+    "projet": "États-Unis 2025",
+    "approche": "Env. 20 min. Rejoindre la face WSW de Lone Mountain et remonter le grand couloir qui entaille cette face ; la voie se trouve dans ce secteur. Attention à ne pas partir dans la voie située immédiatement à gauche, dont l'équipement est nettement plus espacé.",
+    "descente": "Env. 30 min. Plusieurs possibilités : 3 rappels avec une corde à simple de 60 m ; 2 rappels avec deux cordes de 60 m ; ou rejoindre à pied le sentier principal situé au N et redescendre par celui-ci.",
+    "materiel": "",
+    "longueurs": [
+      {
+        "titre": "Training Grounds",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4b",
+            "longueur": 15,
+            "cheminement": "Première longueur courte et facile (4 points). L1 et L2 peuvent être enchaînées."
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": 30,
+            "cheminement": "Poursuivre dans la face équipée jusqu'au relais (8 points)."
+          },
+          {
+            "n": "L3",
+            "cotation": "4c",
+            "longueur": 30,
+            "cheminement": "Continuer dans la face jusqu'au relais sommital (10 points)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Ne pas partir dans la voie située immédiatement à gauche, dont l'équipement est nettement plus espacé.",
+      "L1 et L2 peuvent être enchaînées."
+    ],
+    "retex": [],
+    "horaires": "Approche env. 20 min, voie env. 1 h, descente env. 30 min.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1940094 (Training Grounds), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1940412 du 10/11/2025",
+      "Notre sortie Camptocamp 1940096 du 08/10/2025",
+      "Ressource citée par C2C : Mountain Project, https://www.mountainproject.com/route/118771443/training-grounds"
+    ]
+  },
+  {
+    "id": "little-baldy-regular-route",
+    "nom": "Little Baldy – Regular Route",
+    "sous_titre": "Grande rampe diagonale de la partie gauche de la face, depuis la Generals Highway",
+    "massif": "Californie (États-Unis)",
+    "secteur": "Little Baldy",
+    "coordonnees": {
+      "lat": 36.6141,
+      "lon": -118.8049,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Regular Route",
+        "url": "https://www.camptocamp.org/routes/1940382"
+      }
+    ],
+    "objectif": "Voie traditionnelle facile remontant la grande rampe diagonale de la face de Little Baldy jusqu'au sommet. Bon itinéraire d'initiation au trad. Mountain Project la décrit en 3 longueurs pour environ 90 m et la cote 5.5, tandis que SEKIclimbing la donne en 5.6.",
+    "cotation_globale": "PD+",
+    "cotation_libre_max": "4c (5.5 sur Mountain Project, 5.6 sur SEKIclimbing)",
+    "cotation_obligatoire": "4c",
+    "engagement": "équipement P4",
+    "hauteur": "env. 90 m (dénivelé des difficultés) ; sommet à 2453 m",
+    "nb_longueurs": "3",
+    "orientation": "W",
+    "duree": "1 jour",
+    "ambiance": "Granite peu raide, système de rampe/dièdre et fissures ; protections naturelles faciles à placer. La voie est entièrement ou presque entièrement protégeable sur coinceurs et friends ; Mountain Project ne signale pas d'équipement fixe nécessaire.",
+    "statut": "fait",
+    "projet": "États-Unis 2025",
+    "approche": "Env. 20 min. Depuis la Generals Highway, se garer sur le grand pull-out situé juste au S du parking du Little Baldy Trail. Little Baldy est bien visible au-dessus depuis le bord de la route. Traverser la forêt en remontant directement vers le pied du dôme, en suivant au mieux les quelques traces de passage (végétation assez dense par endroits). Au pied de la paroi, la longer vers la gauche jusqu'au départ de la Regular Route, dans la partie gauche de la face.",
+    "descente": "Env. 30 min. Du sommet, rejoindre le sentier de randonnée de Little Baldy et le suivre pour redescendre. Pour revenir directement au pied de la face.",
+    "materiel": "Jeu de friends jusqu'au Camalot #3 et jeu de coinceurs câblés.",
+    "longueurs": [
+      {
+        "titre": "Regular Route",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4c",
+            "longueur": 55,
+            "cheminement": "Remonter la grande rampe/dièdre peu raide en suivant le système de fissures oblique vers la droite. Nombreuses possibilités de protections. Relais confortable sur une vire, à construire dans de bonnes fissures."
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": 35,
+            "cheminement": "Continuer dans le même système de rampe et de fissures jusqu'à une nouvelle vire confortable. Relais à construire dans les fissures."
+          },
+          {
+            "n": "L3",
+            "cotation": "2",
+            "longueur": 60,
+            "cheminement": "Franchir encore quelques mètres relativement raides au-dessus du relais, puis poursuivre sur un terrain qui s'aplatit progressivement en direction du sommet. Nombreuses fissures horizontales pour placer ponctuellement des protections. Continuer jusqu'à un emplacement confortable pour construire un dernier relais à proximité du sommet."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [],
+    "horaires": "Approche env. 20 min, voie env. 1 h 30, descente env. 30 min.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1940382 (Regular Route), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1940385 du 30/10/2025",
+      "Ressources citées par C2C : Mountain Project (https://www.mountainproject.com/route/108101266/regular-route) et SEKIclimbing (https://www.sekiclimbing.com/little-baldy.html)",
+      "Historique C2C : première ascension par Boone et LaRue"
+    ]
+  },
+  {
+    "id": "sunnyside-bench-regular-route",
+    "nom": "Sunnyside Bench – Regular Route",
+    "sous_titre": "",
+    "massif": "Californie (États-Unis)",
+    "secteur": "Vallée du Yosemite – Sunnyside Bench",
+    "coordonnees": {
+      "lat": 37.74754,
+      "lon": -119.59344,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Sunnyside bench regular route",
+        "url": "https://www.camptocamp.org/routes/1024071"
+      }
+    ],
+    "objectif": "",
+    "cotation_globale": "D-",
+    "cotation_libre_max": "5b",
+    "cotation_obligatoire": "5a",
+    "engagement": "II · équipement P3",
+    "hauteur": "env. 130 m (dénivelé des difficultés)",
+    "nb_longueurs": "4",
+    "orientation": "SE, S, SW",
+    "duree": "1 jour",
+    "ambiance": "Granite ; couloir, dalles, vire, fissure dans une dalle.",
+    "statut": "fait",
+    "projet": "États-Unis 2025",
+    "approche": "",
+    "descente": "Continuer à vue jusqu'à un sentier, le suivre vers l'E jusqu'à descendre dans une forêt par des sentes évidentes (~2 km).",
+    "materiel": "Jeu de friends du #.3 au #3 et jeu de câblés.",
+    "longueurs": [
+      {
+        "titre": "Regular Route",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3rd",
+            "longueur": null,
+            "cheminement": "Couloir pierreux. Relais sur un arbre."
+          },
+          {
+            "n": "L2",
+            "cotation": "5.2",
+            "longueur": null,
+            "cheminement": "Couloir et dalle. Relais avant une bonne vire."
+          },
+          {
+            "n": "L3",
+            "cotation": "4",
+            "longueur": null,
+            "cheminement": "Traverser la vire vers la droite."
+          },
+          {
+            "n": "L4",
+            "cotation": "5.5 ou 5.4",
+            "longueur": null,
+            "cheminement": "Passer quelques ressauts puis suivre une fissure au milieu d'une dalle (5.5) ; après un spit, sortir par une dalle (plus aisée à droite) ou aller plus à droite chercher un dièdre (5.4)."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [],
+    "horaires": "",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1024071 (Sunnyside bench regular route), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1939630 du 23/10/2025"
+    ]
+  },
+  {
+    "id": "swan-slab-oak-tree-flake-bay-tree-crack",
+    "nom": "Swan Slab – Oak Tree Flake + Bay Tree Crack",
+    "sous_titre": "Enchaînement de deux fissures faciles de Swan Slab (Yosemite)",
+    "massif": "Californie (États-Unis)",
+    "secteur": "Swan Slab",
+    "coordonnees": {
+      "lat": 37.73957,
+      "lon": -119.60627,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Oak Tree Flake - Bay Tree Crack",
+        "url": "https://www.camptocamp.org/routes/1940122"
+      }
+    ],
+    "objectif": "Enchaînement de deux fissures classiques et faciles de Swan Slab : Oak Tree Flake puis Bay Tree Crack. Deux courtes longueurs entièrement à protéger, avec relais à construire.",
+    "cotation_globale": "D-",
+    "cotation_libre_max": "4c (5.6)",
+    "cotation_obligatoire": "4c",
+    "engagement": "I · équipement P3",
+    "hauteur": "env. 45 m d'après les longueurs de la description (15 m + 30 m)",
+    "nb_longueurs": "2",
+    "orientation": "E",
+    "duree": "1 jour",
+    "ambiance": "Granite, fissures/écaille ; aucun équipement en place dans les longueurs : protections et relais à construire sur coinceurs.",
+    "statut": "fait",
+    "projet": "États-Unis 2025",
+    "approche": "Env. 5 min. Depuis le secteur de Swan Slab, rejoindre le pied de Oak Tree Flake. La voie est assez facile à repérer grâce à l'arbre qui pousse directement dans la fissure de la première longueur.",
+    "descente": "Env. 10 min. Depuis le sommet de Bay Tree Crack, rejoindre à pied le sentier de descente de Swan Slab et revenir au pied de la paroi.",
+    "materiel": "Jeu de coinceurs mécaniques et câblés permettant également de construire les relais. Quelques sangles utiles pour les arbres et les becquets.",
+    "longueurs": [
+      {
+        "titre": "Oak Tree Flake + Bay Tree Crack",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4b (5.5)",
+            "longueur": 15,
+            "cheminement": "Oak Tree Flake : fissure/écaille facile caractérisée par un arbre poussant dans la fissure. Relais à construire sur la vire supérieure, notamment possible sur un becquet."
+          },
+          {
+            "n": "L2",
+            "cotation": "4c (5.6)",
+            "longueur": 30,
+            "cheminement": "Bay Tree Crack : fissure plus soutenue. Relais à construire en haut."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [],
+    "horaires": "Approche env. 5 min, voie env. 30 min, descente env. 10 min.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1940122 (Oak Tree Flake - Bay Tree Crack), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1940134 du 23/10/2025",
+      "Ressources citées par C2C : Mountain Project (https://www.mountainproject.com/route/105997635/oak-tree-flake et https://www.mountainproject.com/route/106698827/bay-tree-crack)"
+    ]
+  },
+  {
+    "id": "looking-glass-rock-regular-route",
+    "nom": "Looking Glass Rock – Regular Route (« East Rib »)",
+    "sous_titre": "Arête est de Looking Glass Rock, attaque sur le côté S de l'arête",
+    "massif": "Utah (États-Unis)",
+    "secteur": "Looking Glass Rock",
+    "coordonnees": {
+      "lat": 38.27631,
+      "lon": -109.40698,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Regular Route (\"East Rib\")",
+        "url": "https://www.camptocamp.org/routes/1939740"
+      }
+    ],
+    "objectif": "Voie facile de trois longueurs sur l'arête est de Looking Glass Rock, avec possibilité de poursuivre facilement jusqu'au sommet ; descente spectaculaire en rappel dans la grande arche.",
+    "cotation_globale": "",
+    "cotation_libre_max": "4a",
+    "cotation_obligatoire": "4a",
+    "engagement": "équipement P1+",
+    "hauteur": "env. 120 m (dénivelé des difficultés)",
+    "nb_longueurs": "3",
+    "orientation": "",
+    "duree": "1 jour (C2C) ; approche 10 min, voie 1 h 30 à 2 h, descente 30 min",
+    "ambiance": "Pilier/arête en grès, voie facile ; équipement en place mais points assez espacés ; grand rappel très aérien dans la grande arche",
+    "statut": "fait",
+    "projet": "États-Unis 2025",
+    "approche": "Depuis la piste longeant Looking Glass Rock, rejoindre le pied de l'arête est. L'attaque se situe sur le côté S de l'arête. Env. 10 min.",
+    "descente": "Depuis le haut, rejoindre le relais de rappel situé en contrebas, au niveau de la grande arche. Un grand rappel très aérien permet de redescendre directement au sol à travers l'amphithéâtre. Une corde à simple de 70 m permet d'atteindre le sol, mais avec très peu de marge ; deux cordes permettent une descente plus confortable. Env. 30 min.",
+    "materiel": "Une corde de 70 m minimum pour faire le grand rappel en un seul rappel, ou deux cordes de 50 m. Équipement en place (points pouvant être assez espacés).",
+    "longueurs": [
+      {
+        "titre": "Regular Route (« East Rib »)",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Remonter le début de l'arête. Quelques mouvements d'escalade au départ permettent de rejoindre un terrain nettement plus facile. Relais équipé."
+          },
+          {
+            "n": "L2",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Poursuivre directement sur l'arête. Quelques passages de dalle constituent l'essentiel des difficultés. Relais équipé sur une large zone confortable."
+          },
+          {
+            "n": "L3",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Continuer dans du terrain très facile jusqu'au dernier relais équipé. Possibilité ensuite de poursuivre facilement jusqu'au sommet de Looking Glass Rock."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [],
+    "horaires": "Approche 0 h 10 ; voie 1 h 30 à 2 h ; descente 0 h 30",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1939740 (Regular Route (\"East Rib\")), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1939741 du 27/09/2025",
+      "Lien cité par C2C : Mountain Project, https://www.mountainproject.com/route/106861093/regular-route-east-rib"
+    ]
+  },
+  {
+    "id": "second-flatiron-freeway",
+    "nom": "Second Flatiron – Freeway",
+    "sous_titre": "Point d'accès associé sur Camptocamp : Chautauqua",
+    "massif": "Colorado (États-Unis)",
+    "secteur": "Second Flatiron",
+    "coordonnees": {
+      "lat": 39.99448,
+      "lon": -105.28808,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Freeway",
+        "url": "https://www.camptocamp.org/routes/1072851"
+      }
+    ],
+    "objectif": "",
+    "cotation_globale": "F",
+    "cotation_libre_max": "3a",
+    "cotation_obligatoire": "",
+    "engagement": "équipement P4+",
+    "hauteur": "",
+    "nb_longueurs": "",
+    "orientation": "E",
+    "duree": "1 jour",
+    "ambiance": "",
+    "statut": "fait",
+    "projet": "États-Unis 2025",
+    "approche": "",
+    "descente": "",
+    "materiel": "",
+    "longueurs": [],
+    "strategie": [],
+    "retex": [],
+    "horaires": "",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1072851 (Freeway), consulté le 15/10/2026 (fiche sans description : seuls les champs structurés sont repris)",
+      "Notre sortie Camptocamp 1939705 du 18/09/2025"
+    ]
+  },
+  {
+    "id": "stone-depot-trinacious",
+    "nom": "Stone Depot – Trinacious",
+    "sous_titre": "Partie gauche du secteur Stone Depot",
+    "massif": "Caroline du Nord (États-Unis)",
+    "secteur": "Stone Depot",
+    "coordonnees": {
+      "lat": 35.2591,
+      "lon": -82.8004,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Trinacious",
+        "url": "https://www.camptocamp.org/routes/1939683"
+      }
+    ],
+    "objectif": "Voie de 4 longueurs en dalle, de difficulté modérée, partiellement équipée sur spits.",
+    "cotation_globale": "",
+    "cotation_libre_max": "5a",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "hauteur": "env. 80 m (dénivelé des difficultés)",
+    "nb_longueurs": "4",
+    "orientation": "NW",
+    "duree": "1 jour (C2C) ; approche 45 min, voie 1 à 2 h, descente 30 min",
+    "ambiance": "Dalle de granite ; équipement sur spits parfois très espacé, à compléter avec quelques protections amovibles",
+    "statut": "fait",
+    "projet": "États-Unis 2025",
+    "approche": "Suivre l'approche de Stone Depot jusqu'au pied de la falaise. Trinacious se situe sur la partie gauche du secteur. Env. 45 min.",
+    "descente": "En rappel dans la voie. Possible avec une seule corde en utilisant les relais de la voie (R4 → R2 → R1 → R0). Avec deux cordes, descente possible en deux grands rappels. Env. 30 min.",
+    "materiel": "Quelques petits coinceurs mécaniques pour compléter l'équipement en place.",
+    "longueurs": [
+      {
+        "titre": "Trinacious",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "5a",
+            "longueur": 25,
+            "cheminement": "Remonter la dalle en suivant les spits. Quelques possibilités de compléter les protections dans les fissures."
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": 18,
+            "cheminement": "Poursuivre dans la dalle. Équipement très espacé, avec seulement un spit dans la longueur ; possibilité de compléter sur protections amovibles."
+          },
+          {
+            "n": "L3",
+            "cotation": "4b",
+            "longueur": 21,
+            "cheminement": "Continuer dans la dalle en suivant la ligne de faiblesse jusqu'au relais."
+          },
+          {
+            "n": "L4",
+            "cotation": "3c",
+            "longueur": 18,
+            "cheminement": "Dernière longueur facile permettant de rejoindre le haut de la voie."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Bien que la voie soit classée « Sport » sur Mountain Project et dans le topo, l'équipement est parfois très espacé : quelques protections amovibles permettent de compléter utilement les spits, notamment dans les premières longueurs."
+    ],
+    "retex": [],
+    "horaires": "Approche 45 min ; voie 1 à 2 h ; descente 30 min",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1939683 (Trinacious), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1939684 du 10/09/2025",
+      "Lien cité par C2C : Mountain Project, https://www.mountainproject.com/route/109131619/trinacious"
+    ]
+  },
+  {
+    "id": "roche-ronde-bel-eperon-lili-john",
+    "nom": "Roche Ronde – Bel Éperon - Lili John",
+    "sous_titre": "Depuis le parking de Rabat-les-Trois-Seigneurs",
+    "massif": "Couserans - Aran N",
+    "secteur": "Roche Ronde",
+    "coordonnees": {
+      "lat": 42.86228,
+      "lon": 1.5459,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Bel Éperon - Lili John",
+        "url": "https://www.camptocamp.org/routes/1179303"
+      }
+    ],
+    "objectif": "Une voie idéale pour débuter en grande voie.",
+    "cotation_globale": "AD-",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4b",
+    "engagement": "I · équipement P1",
+    "hauteur": "env. 80 m (dénivelé des difficultés)",
+    "nb_longueurs": "3",
+    "orientation": "SE",
+    "duree": "1 jour",
+    "ambiance": "Calcaire : dalles, nervure de calcaire adhérent, dalle aux reliefs sculptés et motifs de ruissellement. Équipement en très bon état.",
+    "statut": "fait",
+    "projet": null,
+    "approche": "Depuis le parking de Rabat-les-Trois-Seigneurs, suivre le sentier qui mène au pied des voies. Quand le chemin de la Roche Ronde redescend, rester horizontal (trace sur une sorte de terrasse). Le départ de la voie Lili-John est un peu caché entre les arbres : bien suivre le chemin jusqu'aux buis touffus. La voie avant les buis, c'est du 6a/6c. Coordonnées GPS du début de la voie données par C2C : 42.861834, 1.544406.",
+    "descente": "Retour par le sentier du GRP Tour du Pic des Trois Seigneurs ou en rappel jusqu'en bas de la voie.",
+    "materiel": "8 dégaines. Relais non chaînés : anneaux sur spits.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4c",
+            "longueur": 30,
+            "cheminement": "7 goujons. La dalle en traversée ascendante qui amène au passage en gradins."
+          },
+          {
+            "n": "L2",
+            "cotation": "4b",
+            "longueur": 25,
+            "cheminement": "4 goujons. Du R1, à droite la nervure de calcaire adhérent puis la dalle aux reliefs sculptés qui se couche."
+          },
+          {
+            "n": "L3",
+            "cotation": "4b",
+            "longueur": 25,
+            "cheminement": "5 goujons. La suite de la dalle précédente aux motifs de ruissellement."
+          },
+          {
+            "n": "Sortie",
+            "cotation": "",
+            "longueur": 15,
+            "cheminement": "De R3, continuer tout droit sur 15 m par les gradins à la végétation arbustive pour rejoindre la ligne de crête et trouver le sentier balisé du GRP Tour du Pic des Trois Seigneurs."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [],
+    "horaires": "",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1179303 (Bel Éperon - Lili John), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1939666 du 13/11/2024",
+      "Ressource citée par C2C : topo et plans d'accès sur http://cafma.free.fr/roche/fr_roche.htm"
+    ]
+  },
+  {
+    "id": "barre-des-colombettes-revers-et-coup-droit",
+    "nom": "Barre des Colombettes – Revers et coup droit",
+    "sous_titre": "Depuis le parking de la Savonne, par le refuge du Ruitor",
+    "massif": "Alpes Grées - Charbonnel",
+    "secteur": "Barre des Colombettes",
+    "coordonnees": {
+      "lat": 45.62345,
+      "lon": 6.9375,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Revers et coup droit",
+        "url": "https://www.camptocamp.org/routes/131976"
+      }
+    ],
+    "objectif": "Belle escalade sympa et sans stress dans un cadre très alpin.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "I · équipement P1",
+    "hauteur": "env. 200 m (dénivelé des difficultés)",
+    "nb_longueurs": "6",
+    "orientation": "W",
+    "duree": "1 jour",
+    "ambiance": "Pilier ; rocher très sain, à l'ombre le matin. Quelques passages terreux et dans des rhododendrons (éviter la rosée du matin). Relais équipés, voie bien équipée : un spit tous les 5 ou 6 m, équipement espacé dans les zones couchées.",
+    "statut": "fait",
+    "projet": null,
+    "approche": "Du parking de la Savonne, monter au plateau de la Sassière, passer devant le refuge du Ruitor. Traverser le plateau et s'engager sur le chemin du lac du Petit jusqu'au pied d'une grande dalle moutonnée et arrondie d'un gris vert caractéristique. À 2150 m, au pied de cette dalle, traverser N (à droite en montant) dans un petit vallon secondaire jusqu'au pied d'un grand pilier noir qui descend de la barre des Colombettes. La voie attaque au plus bas de ce grand pilier (spit bien visible). 1 h 45 de la Savonne, 45 min du refuge.",
+    "descente": "En rappel : 50 m à gauche au-dessus de la sortie, vers un cairn, un rappel vertical en face NW est équipé sur chaîne (50 m tout juste). À pied (plus rapide, sans difficultés par terrain sec) : remonter une combe herbeuse sur env. 300 m jusqu'à un point haut, puis soit descendre légèrement vers la droite pour contourner un grand sommet herbeux que l'on voit en face et rejoindre ensuite le petit lac, soit descendre juste avant ce grand sommet vers la gauche en direction du torrent et du sentier que l'on voit en contrebas.",
+    "materiel": "11 dégaines, 4 sangles. Corde de 50 m, ou 2×50 m si on descend en rappel (50 m tout juste).",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4a",
+            "longueur": 30,
+            "cheminement": ""
+          },
+          {
+            "n": "L2",
+            "cotation": "4b",
+            "longueur": 40,
+            "cheminement": ""
+          },
+          {
+            "n": "L3",
+            "cotation": "4c",
+            "longueur": 50,
+            "cheminement": "Passage sur des vires herbeuses."
+          },
+          {
+            "n": "L4",
+            "cotation": "4a",
+            "longueur": 45,
+            "cheminement": "Beau passage en dalle finissant sur une arête."
+          },
+          {
+            "n": "L5",
+            "cotation": "3c",
+            "longueur": 45,
+            "cheminement": ""
+          },
+          {
+            "n": "L6",
+            "cotation": "4c",
+            "longueur": 40,
+            "cheminement": "Beau final dans un mur en 4b/4c."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [],
+    "horaires": "Approche : 1 h 45 de la Savonne, 45 min du refuge du Ruitor.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/barre-des-colombettes-revers-et-coup-droit-topo.jpg",
+        "legende": "Topo Camptocamp (photo Nicolas Schlosser, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/barre-des-colombettes-revers-et-coup-droit-topo-2.jpg",
+        "legende": "Topo Camptocamp, détail du bas de la voie (photo Nicolas Schlosser, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 131976 (Revers et coup droit), consulté le 15/10/2026",
+      "Notre sortie Camptocamp 1939653 du 07/09/2024",
+      "Topo cité par C2C : Le topo de la Vanoise - Tarentaise - Beaufortain",
+      "Ressource citée par C2C : topo de la voie, http://lerendezvousdesgrimpeurs.l.e.pic.centerblog.net/m0hn4ast.jpg",
+      "Image Camptocamp 626314 par Nicolas Schlosser (CC-BY-SA)",
+      "Image Camptocamp 626315 par Nicolas Schlosser (CC-BY-SA)"
     ]
   }
 ]
