@@ -2,6 +2,7 @@
 
 const STATUTS = {
   faisable: { libelle: "Faisable maintenant", couleur: "#2e7d32" },
+  engagee: { libelle: "Faisable mais engagée (PG13)", couleur: "#7b1fa2" },
   bientot: { libelle: "Bientôt (niveau presque là)", couleur: "#ef8f00" },
   materiel: { libelle: "Matériel manquant", couleur: "#c62828" },
   fait: { libelle: "Fait", couleur: "#1e5fa8" },

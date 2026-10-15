@@ -474,6 +474,108 @@
       "Image Camptocamp 1137784 par Inami (CC-BY-SA)",
       "Topos cités par C2C : Oisans nouveau, Oisans sauvage – Livre Ouest ; Guide du Haut-Dauphiné, tome 1 ; 6a max – Dauphiné ; Escalades faciles de Grenoble à Briançon ; Escalade plaisir – Alpes françaises du Nord",
       "Historique (C2C) : ouverture en 1998 par Gaëtan et Pascal Junique"
+    ],
+    "enchainements": [
+      {
+        "id": "aiguille-dibona-arete-n",
+        "titre": "Aiguille Dibona – Arête N (voie normale)",
+        "texte": "depuis la Brèche des Clochetons (sortie de la Voie du Nain), 2 courtes longueurs en 3b mènent au sommet de la Dibona (3131 m), retour par un rappel de 50 m ou 2 de 25 m. Enchaînement fréquent dans la même journée (env. 1 h à 2 h de plus selon les retours)."
+      }
+    ]
+  },
+  {
+    "id": "aiguille-dibona-arete-n",
+    "nom": "Aiguille Dibona – Arête N (voie normale)",
+    "sous_titre": "Voie normale et historique, courte et aérienne – depuis le refuge du Soreiller (Les Étages)",
+    "massif": "Écrins",
+    "secteur": "Aiguille Dibona – refuge du Soreiller",
+    "coordonnees": {
+      "lat": 44.96351,
+      "lon": 6.24254,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Arête N (voie normale)",
+        "url": "https://www.camptocamp.org/routes/54424"
+      }
+    ],
+    "objectif": "Sommet de l'Aiguille Dibona (3131 m) par sa voie normale : escalade courte (100 m) et aérienne. Possible l'après-midi après la montée au refuge.",
+    "cotation_globale": "PD",
+    "cotation_libre_max": "3b",
+    "cotation_obligatoire": "3b",
+    "engagement": "I · équipement P2 · exposition E1",
+    "hauteur": "env. 80 m (dénivelé des difficultés) ; escalade d'environ 100 m",
+    "nb_longueurs": "2 courtes longueurs depuis la brèche sous les Clochetons Gunneng",
+    "orientation": "N",
+    "duree": "1 à 2 jours (avec la montée au refuge)",
+    "ambiance": "Arête de granit aérienne, mais pourvue de relais larges et confortables se prêtant bien à l'initiation à l'escalade en montagne. C'est bien de l'escalade en montagne, avec toutes les précautions à prendre en ces lieux. Sommet souvent très fréquenté.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "1 h depuis le refuge. Du refuge du Soreiller, traverser vers l'W une zone de gros blocs menant à un escarpement rocheux facile permettant de franchir la crête formée par les derniers soubassements SW de la Dibona (bâton visible du refuge). Emprunter les pentes d'éboulis (sentier et cairns) jusqu'au névé issu du col W du Soreiller. En haut de ce dernier (env. 2980 m), par des vires (cairns) et un replat enneigé en début d'été, rejoindre la Brèche des Clochetons où l'on s'encorde (3048 m). Se renseigner sur l'enneigement de l'approche.",
+    "descente": "1 h 15. Du sommet, rejoindre par une courte désescalade la chaîne de rappel. Rappel de 50 m (ou 2 rappels de 25 m) jusqu'à la brèche entre l'Aiguille Dibona et les Clochetons Gunneng. Désescalade facile en traversée descendante jusqu'aux larges terrasses de la Brèche des Clochetons, puis itinéraire de montée.",
+    "materiel": "Corde 2 × 25 m, sangles, quelques coinceurs petits et moyens si on est juste dans le niveau.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "Traversée",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Depuis la Brèche des Clochetons, traversée facile sous les Clochetons Gunneng jusqu'à la brèche qui les sépare de l'aiguille."
+          },
+          {
+            "n": "L1",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Courte longueur aérienne sur l'arête (pitons, coinceurs possibles). Relais sur chaîne."
+          },
+          {
+            "n": "L2",
+            "cotation": "3b",
+            "longueur": 30,
+            "cheminement": "Courte longueur aérienne jusqu'au sommet (pitons). Longueur de 30 m selon un retour de 2026 (voir RETEX)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Ascension courte qu'il est possible d'effectuer l'après-midi après la montée au refuge.",
+      "En cas d'ascension l'après-midi, tenir compte de l'arrivée des nombreuses cordées venant de la face S : entre 14 h 30 et 16 h, le sommet et la descente peuvent être très encombrés.",
+      "Surveiller le ciel en cas de tendance orageuse : le sommet forme un bon paratonnerre."
+    ],
+    "enchainements": [
+      {
+        "id": "breche-des-clochetons-voie-du-nain",
+        "titre": "Brèche des Clochetons – Voie du Nain",
+        "texte": "la Voie du Nain (AD, 5a/4c) arrive à la Brèche des Clochetons, là où l'on s'encorde pour la voie normale de la Dibona : enchaînement fréquent dans la même journée (env. 1 h à 2 h de plus selon les retours)."
+      }
+    ],
+    "retex": [
+      "L2 : un retour indique qu'elle fait 30 m à la montée en suivant les pitons et ne passe pas avec 25 m de corde ; pas de souci à la descente, 2 rappels de 25 m « pile-poil » (sortie du 29/09/2026).",
+      "Rappel : une cordée a fait le rappel d'une traite (env. 40 m) et a coincé la corde ; elle conseille de le faire en 2 fois (sortie du 29/07/2025).",
+      "Affluence : sommet très fréquenté (plus de 10 personnes en une heure), bouchons possibles sur l'arête et dans la descente (sorties du 11/08/2026 et du 03/09/2023) ; partir tôt permet d'être seuls (sorties du 06/09/2026 et du 21/06/2026).",
+      "Neige en début de saison : en juin 2026, approche entièrement enneigée du refuge au pied de la voie, crampons, piolet et gants « impérativement » ; une glissade d'une cordée sans crampons a été observée (sorties du 11/06 et du 21/06/2026). Fin juillet 2025 : rochers à lichen gelés et glissants le matin (sortie du 29/07/2025). En septembre, névé totalement fondu (sortie du 05/09/2026).",
+      "Rocher : arête en très bon rocher (sortie du 06/09/2026).",
+      "Refuge : fin septembre 2026, refuge fermé faute d'eau, bivouac obligatoire (sortie du 29/09/2026) ; refuge plein en août 2025, bivouac à proximité (sortie du 06/08/2025).",
+      "Accès : route barrée à Saint-Christophe-en-Oisans en 2025, navette obligatoire jusqu'aux Étages (sorties du 06/08 et du 06/09/2025) — à vérifier.",
+      "Retour vers le refuge : « errance dans le pierrier scabreux » en suivant tant bien que mal traces et cairns (sortie du 06/09/2025)."
+    ],
+    "horaires": "Selon C2C : approche 1 h depuis le refuge, descente 1 h 15. Selon les retours : approche 1 h 15, voie 1 h 20, descente 1 h 15, retour 1 h (29/09/2026) ; 45 min dans la voie en corde tendue (21/06/2026) ; Les Étages → refuge du Soreiller 2 h (06/09/2025) ; aller-retour à la Dibona depuis la brèche : 2 h (07/08/2026), 1 h 25 avec bouchon (03/09/2023).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/aiguille-dibona-arete-n-topo.jpg",
+        "legende": "Voie normale de la Dibona depuis la Brèche des Clochetons (photo floriano, Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 54424 (Aiguille Dibona – Arête N, voie normale), consulté le 15/10/2026",
+      "Sorties Camptocamp 1959243 (29/09/2026), 1948754 (06/09/2026), 1948306 (05/09/2026), 1940702 (11/08/2026), 1938522 (07/08/2026), 1937046 (03/08/2026), 1929393 (20/07/2026), 1918930 (21/06/2026), 1916438 (11/06/2026), 1827972 (06/09/2025), 1820497 (06/08/2025), 1803832 (29/07/2025), 1574074 (03/09/2023), consultées le 15/10/2026",
+      "Image Camptocamp 792811 par floriano (CC-BY-SA)",
+      "Livres associés sur C2C : Oisans nouveau, Oisans sauvage – Livre Ouest ; Guide du Haut-Dauphiné, tome 1 ; Alpinisme facile dans le massif des Écrins (et autres)",
+      "Historique (C2C) : 1re ascension le 27 juin 1913 par Angelo Dibona et Guido Mayer"
     ]
   },
   {
@@ -2153,7 +2255,7 @@
     "orientation": "SW",
     "duree": "1 jour",
     "ambiance": "Gneiss. Profonde goulotte en forme de S au rocher bien poli par l'eau, puis ressauts séparés par de larges terrasses. Rocher très bon et compact, voie peu aérienne. Relais généralement sur des rings solitaires. Bruit de la route en contrebas.",
-    "statut": "faisable",
+    "statut": "engagee",
     "projet": null,
     "approche": "10 min. En venant de Vizille, se garer sur le parking situé dans la longue ligne droite de la route du Lautaret, 2 km environ après la sortie du Bourg-d'Oisans (panneau P bleu). Du bout du parking (côté amont), traverser la route un peu en biais pour repérer un petit talus de schistes noirs formant une trouée dans la végétation, 20 m à gauche d'un pylône électrique. Suivre derrière un chemin (en schistes noirs également), passer un second talus pour rejoindre le lit d'un torrent asséché que l'on remonte entièrement jusqu'à une goulotte raide qui donne le départ de la voie (balisage petits points rouges).",
     "descente": "Descendre sur la droite (S, une plaquette orange si nécessaire) la trace des chasseurs, abondamment munie de marques de peinture rouge. Vers le bas, des câbles en main courante ramènent au sol (ATTENTION : vérifier l'état des câbles !).",

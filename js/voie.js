@@ -28,6 +28,14 @@ function tableauLongueurs(groupe, niveauTitre) {
     <tbody>${corps}</tbody></table></div>`;
 }
 
+// Voies qu'on peut enchaîner avec celle-ci : lien vers leur fiche + explication.
+function blocEnchainements(voie) {
+  if (vide(voie.enchainements)) return "";
+  return "<ul>" + voie.enchainements
+    .map((e) => `<li>${e.id ? `<a href="voie.html?id=${encodeURIComponent(e.id)}">${echapper(e.titre || e.id)}</a> : ` : ""}${echapper(e.texte)}</li>`)
+    .join("") + "</ul>";
+}
+
 function section(titre, contenu) {
   if (!contenu) return "";
   return `<section class="section"><h2>${echapper(titre)}</h2>${contenu}</section>`;
@@ -81,6 +89,7 @@ function afficherFiche(voie) {
     ${section("Matériel conseillé", blocTexte(voie.materiel))}
     ${section("Longueurs", (voie.longueurs || []).map((g) => tableauLongueurs(g, "h3")).join(""))}
     ${section("Stratégie", blocTexte(voie.strategie))}
+    ${section("Enchaînement possible", blocEnchainements(voie))}
     ${section("RETEX", blocTexte(voie.retex))}
     ${section("Horaires indicatifs", blocTexte(voie.horaires))}
     ${section("Notes perso", blocTexte(voie.notes))}
@@ -148,7 +157,7 @@ function afficherA4(voie) {
     </table>
 
     <div class="colonnes">
-      ${blocA4("Stratégie conseillée", blocTexte(voie.strategie))}
+      ${blocA4("Stratégie conseillée", blocTexte([...(voie.strategie || []), ...(voie.enchainements || []).map((e) => "Enchaînable : " + e.texte)]))}
       ${blocA4("Accès et liaison", acces)}
       ${blocA4("RETEX à retenir", blocTexte(voie.retex))}
       ${blocA4("Horaires indicatifs", blocTexte(voie.horaires))}
