@@ -67,7 +67,7 @@ Règles :
 ## Profil (pour suggérer un statut)
 
 - Niveau : 6c en salle, 6a en extérieur, grandes voies jusqu'à 5b pour l'instant. Prend de la marge (a facilement peur) : rester prudent dans les suggestions.
-- Rack : friends Black Diamond en double du 0.5 au 3, plus un 0.4 ; Aliens : 1 gris, 1 rouge, 2 jaunes, 2 verts, 1 noir ; jeu complet de nuts DMM, jeu complet de nuts Black Diamond, jeu complet d'offsets DMM ; ~12 dégaines rallongeables, ~20 dégaines classiques, sangles et mousquetons en quantité. **Rien au-dessus du friend #3.**
+- Rack : friends Black Diamond en double du 0.5 au 3 (trois #2), plus un 0.4 ; 1 Omega orange ; Aliens : 1 gris, 1 rouge, 2 jaunes, 2 verts, 1 noir ; jeu complet de nuts DMM, jeu complet de nuts Black Diamond, jeu complet d'offsets DMM ; ~12 dégaines rallongeables, ~20 dégaines classiques, sangles et mousquetons en quantité. **Rien au-dessus du friend #3.**
 - Cordes : simple 70 m en 9,5 (Mammut Crag We Care, 05/2025) ; double 60 m en 8,6 (2 brins Simond, 10/2026) ; simple d'environ 30 m.
 - **Pas de matériel d'alpinisme** pour l'instant (ni crampons, ni piolet) : le signaler quand une voie en demande (approche ou descente enneigée, névés).
 

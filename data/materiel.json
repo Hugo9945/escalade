@@ -72,7 +72,7 @@
       },
       {
         "nom": "Friend",
-        "quantite": "2",
+        "quantite": "3",
         "marque": "Black Diamond",
         "details": "#2",
         "annee": "",
@@ -129,6 +129,15 @@
         "quantite": "1",
         "marque": "",
         "details": "noir",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Coinceur mécanique",
+        "quantite": "1",
+        "marque": "Omega",
+        "details": "orange",
         "annee": "",
         "etat": "",
         "notes": ""
