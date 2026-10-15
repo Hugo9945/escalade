@@ -8,7 +8,7 @@ const zone = document.getElementById("projets");
 function elementVoie(voie) {
   const details = [voie.massif, voie.cotation_globale, voie.cotation_libre_max, voie.hauteur].filter(Boolean).join(" · ");
   return `<li><a href="${lienVoie(voie)}">
-    <span><span class="nom">${echapper(voie.nom)}</span><br><span class="details">${echapper(details)}</span></span>
+    <span><span class="nom">${echapper(voie.nom)}</span> ${etoiles(voie.envie)}<br><span class="details">${echapper(details)}</span></span>
     ${badgeStatut(voie.statut)}
   </a></li>`;
 }
@@ -59,7 +59,7 @@ function afficherProjet(nom, projets, voies) {
   const estAutres = nom === AUTRES;
   const titre = estAutres ? "Autres voies" : nom;
   const p = projets.find((x) => x.nom === nom) || {};
-  const liste = voies.filter((v) => (estAutres ? !v.projet : v.projet === nom)).sort((a, b) => a.nom.localeCompare(b.nom, "fr"));
+  const liste = voies.filter((v) => (estAutres ? !v.projet : v.projet === nom)).sort((a, b) => (b.envie || 0) - (a.envie || 0) || a.nom.localeCompare(b.nom, "fr")); // plus d'envie en premier
   document.title = `${titre} – Escalade`;
   zone.innerHTML = `
     <a class="retour" href="projets.html">← Tous les projets</a>

@@ -38,6 +38,7 @@ Laisser un champ vide (`""`, `null` ou `[]`) plutôt que d'inventer. Tous les ch
 | `hauteur`, `nb_longueurs`, `orientation`, `duree` | texte | |
 | `ambiance` | texte | type de rocher, style |
 | `statut` | `faisable` / `engagee` / `bientot` / `materiel` / `fait` | `engagee` = « Faisable mais engagée (PG13) » : dans le niveau mais protection espacée, relais douteux, chutes potentiellement méchantes (échelle US G/PG/PG13/R/X) |
+| `envie` | `1` / `2` / `3` ou absent | étoiles d'envie données par le propriétaire (★ pourquoi pas, ★★ envie, ★★★ très envie) ; ne jamais l'inventer, demander |
 | `enchainements` | `[{id, titre, texte}]` (optionnel) | voie(s) qu'on peut enchaîner, avec lien vers leur fiche ; mettre le lien dans les DEUX fiches. Affiché à l'écran et dans la Stratégie de la fiche A4 |
 | `projet` | texte ou `null` | nom du projet/voyage, identique à un `nom` de `data/projets.json` (l'y ajouter s'il est nouveau) |
 | `approche`, `descente`, `materiel`, `horaires`, `notes` | texte | `notes` = notes perso, ne jamais les remplir sans demande |

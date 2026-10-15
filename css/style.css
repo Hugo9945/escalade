@@ -71,6 +71,12 @@ main { max-width: 960px; margin: 0 auto; padding: 16px; }
   flex: none;
 }
 
+/* ===== Étoiles d'envie ===== */
+.etoiles { color: #e0a100; letter-spacing: 1px; white-space: nowrap; }
+.etoiles .vides { color: #d6d2c8; }
+.envie-popup { font-weight: 600; }
+.envie-fiche { margin-left: 8px; font-weight: 600; font-size: 0.95rem; }
+
 /* ===== Page carte ===== */
 .page-carte { display: flex; flex-direction: column; height: 100vh; height: 100dvh; }
 .page-carte main { max-width: none; padding: 0; flex: 1; display: flex; flex-direction: column; min-height: 0; }

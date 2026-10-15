@@ -33,10 +33,12 @@ legende.addTo(carte);
 
 const statutsCoches = new Set(Object.keys(STATUTS));
 let projetChoisi = "";
+let envieMin = 0;
 const points = []; // { voie, marqueur }
 
 function correspondAuxFiltres(voie) {
   if (!statutsCoches.has(voie.statut)) return false;
+  if (envieMin && !((voie.envie || 0) >= envieMin)) return false;
   if (projetChoisi === SANS_PROJET) return !voie.projet;
   if (projetChoisi) return voie.projet === projetChoisi;
   return true;
@@ -57,6 +59,7 @@ function resume(voie) {
   ].filter(Boolean);
   return `<div class="popup">
     <h3>${echapper(voie.nom)}</h3>
+    ${voie.envie ? `<p class="envie-popup">${etoiles(voie.envie)} ${echapper(ENVIES[voie.envie])}</p>` : ""}
     ${badgeStatut(voie.statut)}
     ${lignes.map((l) => `<p>${echapper(l)}</p>`).join("")}
     <a class="lien-fiche" href="${lienVoie(voie)}">Voir la fiche complète →</a>
@@ -79,6 +82,11 @@ function construireFiltres(voies) {
     zone.appendChild(label);
   }
 
+  document.getElementById("filtre-envie").addEventListener("change", (e) => {
+    envieMin = Number(e.target.value);
+    appliquerFiltres();
+  });
+
   const select = document.getElementById("filtre-projet");
   const projets = [...new Set(voies.map((v) => v.projet).filter(Boolean))].sort((a, b) => a.localeCompare(b, "fr"));
   for (const p of projets) select.add(new Option(p, p));
@@ -96,12 +104,14 @@ function construireFiltres(voies) {
 chargerVoies()
   .then((voies) => {
     construireFiltres(voies);
-    for (const voie of voies) {
+    // Les voies les plus désirées sont ajoutées en dernier : elles passent au-dessus des autres.
+    const ordre = [...voies].sort((a, b) => (a.envie || 0) - (b.envie || 0));
+    for (const voie of ordre) {
       const c = voie.coordonnees;
       if (!c || c.lat == null || c.lon == null) continue;
       const couleur = STATUTS[voie.statut]?.couleur || "#777";
       const marqueur = L.circleMarker([c.lat, c.lon], {
-        radius: 9,
+        radius: 8 + 2 * (voie.envie || 0), // plus gros si on a très envie
         color: "#fff",
         weight: 2,
         fillColor: couleur,

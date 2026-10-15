@@ -36,6 +36,13 @@ function badgeStatut(cle) {
   return `<span class="badge" style="--c:${s.couleur}"><span class="pastille"></span>${echapper(s.libelle)}</span>`;
 }
 
+// Envie de faire la voie : 1 à 3 étoiles (champ « envie »), rien si non noté.
+const ENVIES = { 1: "Pourquoi pas", 2: "Envie", 3: "Très envie" };
+function etoiles(n) {
+  if (!ENVIES[n]) return "";
+  return `<span class="etoiles" title="${ENVIES[n]}" aria-label="Envie : ${n} sur 3">${"★".repeat(n)}<span class="vides">${"★".repeat(3 - n)}</span></span>`;
+}
+
 function lienVoie(voie) {
   return `voie.html?id=${encodeURIComponent(voie.id)}`;
 }
