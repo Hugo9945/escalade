@@ -5935,9 +5935,10 @@
     "sources": [
       "Camptocamp, itinéraire 1939683 (Trinacious), consulté le 15/10/2026",
       "Notre sortie Camptocamp 1939684 du 10/09/2025",
-      "Lien cité par C2C : Mountain Project, https://www.mountainproject.com/route/109131619/trinacious"
+      "Lien cité par C2C : Mountain Project, https://www.mountainproject.com/route/109131619/trinacious",
+      "Type d'équipement (semi-équipée) : indiqué par le propriétaire, pas de cote d'équipement sur C2C"
     ],
-    "equipement": null,
+    "equipement": "semi",
     "cote_equipement": ""
   },
   {
