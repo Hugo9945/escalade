@@ -5,6 +5,7 @@ Nom du site : « Sac à topos ». Style « Memphis » années 80 (turquoise, jau
 Site statique (HTML/CSS/JS, sans build) hébergé sur GitHub Pages. Tout est en français.
 Usage perso : un couple qui grimpe surtout en grandes voies et terrain d'aventure.
 Le propriétaire ne code pas : expliquer simplement ce qui est fait, poser des questions plutôt que deviner.
+**Ne jamais se fier à l'orthographe des noms donnés par le propriétaire** (matériel, voies, lieux) : vérifier le nom exact (site du fabricant, Camptocamp) avant de l'enregistrer, et signaler la correction.
 **Toujours répondre au propriétaire en français**, y compris les messages courts et les comptes rendus d'avancement.
 
 ## Fichiers
@@ -68,7 +69,7 @@ Règles :
 
 - Niveau : 6c en salle, 6a en extérieur, grandes voies jusqu'à 5b pour l'instant. Prend de la marge (a facilement peur) : rester prudent dans les suggestions.
 - Rack : friends Black Diamond en double du 0.5 au 3 (trois #2), plus un 0.4 ; 1 Omega orange ; Aliens : 1 gris, 1 rouge, 2 jaunes, 2 verts, 1 noir ; jeu complet de nuts DMM, jeu complet de nuts Black Diamond, jeu complet d'offsets DMM ; ~12 dégaines rallongeables, ~20 dégaines classiques, sangles et mousquetons en quantité. **Rien au-dessus du friend #3.**
-- Cordes : simple 70 m en 9,5 (Mammut Crag We Care, 05/2025) ; double 60 m en 8,6 (2 brins Simond, 10/2026) ; simple d'environ 30 m.
+- Cordes : simple 70 m en 9,5 (Mammut 9.5 Crag We Care Classic, 05/2025) ; double 60 m en 8,6 (2 brins Simond, 10/2026) ; simple d'environ 30 m.
 - **Pas de matériel d'alpinisme** pour l'instant (ni crampons, ni piolet) : le signaler quand une voie en demande (approche ou descente enneigée, névés).
 
 ## À traiter plus tard

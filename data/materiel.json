@@ -6,7 +6,7 @@
         "nom": "Corde à simple",
         "quantite": "1",
         "marque": "Mammut",
-        "details": "Crag We Care, 70 m, 9,5 mm",
+        "details": "9.5 Crag We Care Classic, 70 m, 9,5 mm",
         "annee": "05/2025",
         "etat": "",
         "notes": ""
@@ -136,11 +136,11 @@
       {
         "nom": "Coinceur mécanique",
         "quantite": "1",
-        "marque": "Omega",
+        "marque": "Omega Pacific",
         "details": "orange",
         "annee": "",
         "etat": "",
-        "notes": ""
+        "notes": "Modèle à préciser"
       }
     ]
   },
@@ -238,16 +238,16 @@
         "nom": "Système d'assurage (tube)",
         "quantite": "1",
         "marque": "Simond",
-        "details": "Tucan 2",
+        "details": "Toucan (modèle exact à vérifier)",
         "annee": "",
         "etat": "",
-        "notes": ""
+        "notes": "Vérifier que ce n'est pas le Toucan Light bleu rappelé par Decathlon (réf. 8495258, vendu en 2018-2019)"
       },
       {
         "nom": "Système d'assurage (tube)",
         "quantite": "1",
         "marque": "Mammut",
-        "details": "Norwand Alpine",
+        "details": "Nordwand Alpine Belay",
         "annee": "",
         "etat": "",
         "notes": ""
