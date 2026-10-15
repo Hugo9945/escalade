@@ -82,7 +82,8 @@
       "Livres associés sur C2C : Escalade dans le massif du Sancy ; Le Topo du Massif du Sancy (massif déduit de ces titres, pas de zone « massif » sur C2C)",
       "Topo cité par C2C : http://www.sports-nature-auvergne.fr/2017/03/24/la-crete-de-coq/",
       "Historique (C2C) : ouverture 1963 par B. et J.-D. Capitan, M. Domas, M. Grenet, A. Pinol"
-    ]
+    ],
+    "envie": 2
   },
   {
     "id": "crete-de-coq-voie-normale",
@@ -153,7 +154,8 @@
       "Sorties Camptocamp 1944067 (19/08/2026), 1848922 (13/11/2025), 1849096 (05/11/2025), 1818066 (17/09/2025), 1801590 (05/08/2025), 1739790 (18/02/2025), 1739780 (17/02/2025), 1634568 (06/04/2024), 1495562 (07/01/2023), consultées le 15/10/2026",
       "Livres associés sur C2C : Escalade dans le massif du Sancy ; Le Topo du Massif du Sancy (massif déduit de ces titres, pas de zone « massif » sur C2C)",
       "Historique (C2C) : auteurs inconnus"
-    ]
+    ],
+    "envie": 3
   },
   {
     "id": "pic-de-jallouvre-voie-des-cristaux",
@@ -264,7 +266,8 @@
       "Images Camptocamp 194496 (P. Sauvain / D. Bochot) et 194860 (D. Bochot), CC-BY-SA",
       "Topos cités par C2C : « Bornes Aravis – de Bonneville au Gd-Bornand » (Gilles Brunot, EKIPROC) ; topo d'Hervé Thivierge ; grandevoie.com",
       "Historique (C2C) : équipée sur goujons Petzl Longlife 12 mm par Y. Lambert, P. Vuarnier, L.-A. Würsten en automne 2004, en mémoire de Pierre-Alain Rickli"
-    ]
+    ],
+    "envie": 3
   },
   {
     "id": "pic-de-jallouvre-arete-des-bouquetins",
@@ -362,7 +365,8 @@
       "Sorties Camptocamp 1948499 (04/09/2026), 1940130 (12/08/2026), 1932513 (27/07/2026), 1957342 (24/07/2026), 1921509 (28/06/2026), 1908102 (23/05/2026), 1827524 (15/10/2025), 1825135 (06/10/2025), 1812195 (25/08/2025), 1946921 (22/08/2025), 1824781 (18/08/2025), 1771207 (17/05/2025), 1772414 (13/05/2025), consultées le 15/10/2026",
       "Image Camptocamp 194860 (plan d'accès, D. Bochot, CC-BY-SA) — pas de topo avec tracé de l'arête sur C2C",
       "Livres associés sur C2C : Sentiers du Vertige en Haute-Savoie ; Sommets autour du Mont-Blanc ; Montagnes Magazine #405"
-    ]
+    ],
+    "envie": 3
   },
   {
     "id": "aiguille-de-montaubert-brumes-de-l-automne",
@@ -513,7 +517,8 @@
       "Topo cité par C2C : « Bornes Aravis – tome 2 – La Clusaz, Thônes, Ugine » (Gilles Brunot, EKIPROC)",
       "Topo cité par C2C : topo PDF du CAF Annecy (2008 ou 2009)",
       "Historique (C2C) : ouverture les 2 et 9 octobre 2008 par Jonathan Gaud, Julian Goletto, Régis Marulier, Benoît Nourisson"
-    ]
+    ],
+    "envie": 3
   },
   {
     "id": "aiguilles-de-baulmes-grande-arete",
@@ -577,7 +582,8 @@
       "Sorties Camptocamp 1940001 (15/08/2026), 1914897 (01/06/2026), 1912598 (31/05/2026), 1782601 (18/06/2025), 1780523 (12/06/2025), 1694798 (29/09/2024), 1674539 (06/08/2024), 1670517 (17/07/2024), 1676528 (15/06/2024), 1642532 (04/05/2024), 1642321 (03/05/2024), 1595976 (25/11/2023), 1580794 (23/09/2023), 1535744 (18/05/2023), 1534957 (14/05/2023), consultées le 15/10/2026",
       "Image Camptocamp 1833826 par Sylvain Mauroux (CC-BY-SA)",
       "Historique (C2C) : équipement Marcel Demont, Daniel Cochand ; rééquipement Marcel Demont, Florent Besson"
-    ]
+    ],
+    "envie": 2
   },
   {
     "id": "aretes-de-la-bruyere-traversee",
@@ -733,7 +739,8 @@
       "Images Camptocamp 1684882 et 1684883 par Titi.rey (CC-BY-SA)",
       "Topos cités par C2C : « Le Massif des Écrins – Les 100 plus belles courses et randonnées », « Oisans Nouveau Oisans sauvage – Livre Est », « Les nouvelles escalades faciles », « Escalade plaisir – Alpes françaises du Nord », « Escalades du Briançonnais », « Guide des escalades du massif des Cerces », Montagnes Magazine n° 308 et n° 344",
       "Historique (C2C) : 1947, auteur inconnu"
-    ]
+    ],
+    "envie": 2
   },
   {
     "id": "breche-des-clochetons-voie-du-nain",
@@ -846,7 +853,8 @@
         "titre": "Aiguille Dibona – Arête N (voie normale)",
         "texte": "depuis la Brèche des Clochetons (sortie de la Voie du Nain), 2 courtes longueurs en 3b mènent au sommet de la Dibona (3131 m), retour par un rappel de 50 m ou 2 de 25 m. Enchaînement fréquent dans la même journée (env. 1 h à 2 h de plus selon les retours)."
       }
-    ]
+    ],
+    "envie": 1
   },
   {
     "id": "aiguille-dibona-arete-n",
@@ -941,7 +949,8 @@
       "Image Camptocamp 792811 par floriano (CC-BY-SA)",
       "Livres associés sur C2C : Oisans nouveau, Oisans sauvage – Livre Ouest ; Guide du Haut-Dauphiné, tome 1 ; Alpinisme facile dans le massif des Écrins (et autres)",
       "Historique (C2C) : 1re ascension le 27 juin 1913 par Angelo Dibona et Guido Mayer"
-    ]
+    ],
+    "envie": 3
   },
   {
     "id": "cervieres-les-aittes-el-boboch",
@@ -1060,7 +1069,8 @@
       "Image Camptocamp 1017772 par nico las (CC-BY-SA)",
       "Topos cités par C2C : topo originel http://brianconescalade.free.fr/TopoEperonDesAittes.pdf ; topo Briançon climbs https://www.briancon-climbs.com/aittes",
       "Historique (C2C) : itinéraire équipé en mai 2005 sur broches par les militaires de la SEM du 3e REG ; rectification en octobre 2010 (sur goujons)"
-    ]
+    ],
+    "envie": 1
   },
   {
     "id": "col-du-grand-saint-bernard-confiance-aux-tetards",
@@ -1170,7 +1180,8 @@
       "Sorties Camptocamp 1825962 (12/10/2025), 1673588 (02/08/2024), consultées le 15/10/2026",
       "Image Camptocamp 1577416 par Vincent Tornay (CC-BY-SA)",
       "Historique (C2C) : ouverture du bas en septembre 2023 par Vincent Tornay et Isabelle Godot"
-    ]
+    ],
+    "envie": 1
   },
   {
     "id": "dent-d-orlu-dalles-blanches",
@@ -1301,7 +1312,8 @@
       "Sorties Camptocamp 1922763 (03/07/2026), 1881848 (29/07/2025), 1785839 (28/06/2025), 1697354 (05/10/2024), 1681003 (20/08/2024), 1659360 (30/06/2024), 1375264 (18/07/2021), 1139564 (29/07/2019), 1113079 (10/08/2018), 1027582 (17/07/2018), 904887 (15/07/2017), 558491 (06/09/2014), 378226 (06/10/2012), 371965 (01/09/2012), 299817 (11/09/2011), consultées le 15/10/2026",
       "Image Camptocamp 30884 par cestrade (CC-BY-SA)",
       "Historique (C2C) : première tentative en 1943, première ascension inconnue"
-    ]
+    ],
+    "envie": 2
   },
   {
     "id": "grand-eulier-timtim-et-nana",
@@ -1413,7 +1425,8 @@
       "Image Camptocamp 656890 par skigrimpe (CC-BY-SA)",
       "Topo cité par C2C : « Lacs Roberts - Grand Eulier - Timtim et Nana », dans « Escalades depuis Grenoble - Le topo doux » (Florian Garibal, Fanny Audigé, éd. Aventures sans voitures, 2025)",
       "Historique (C2C) : ouverture le 28 septembre 2014 par Philippe Halot, Tim, Nana, Flo Marcelja, Tristan, Judith, Jacques"
-    ]
+    ],
+    "envie": 2
   },
   {
     "id": "grand-som-face-w",
@@ -1544,7 +1557,8 @@
       "Image Camptocamp 374027 par J Pollier (CC-BY-SA)",
       "Topo cité par C2C : « Escalades en Chartreuse »",
       "Historique (C2C) : 1re ascension le 8 juin 1913 par Jean Capdepon et Henri Constant"
-    ]
+    ],
+    "envie": 3
   },
   {
     "id": "grand-van-les-vacances-de-chloe",
@@ -1663,7 +1677,8 @@
     "sources": [
       "Camptocamp, itinéraire 1664708 (Grand Van : Les vacances de Chloé), consulté le 15/10/2026",
       "Sorties Camptocamp 1936644 (06/08/2026), 1788960 (06/07/2025), 1929319 (09/09/2023), consultées le 15/10/2026"
-    ]
+    ],
+    "envie": 2
   },
   {
     "id": "hollentorkopf-nordkante",
@@ -1823,7 +1838,8 @@
       "Sortie Camptocamp 1933111 (16/07/2026, en anglais, traduite), consultée le 15/10/2026",
       "Topos cités par C2C : Alpartig, « Höllentorkopf (2150m) via Nordkante (IV+) » https://alpartig.com/hoellentorkopf-2150m-via-nordkante-iv/ ; topo Deichjodler (cité par Alpartig comme le plus précis) ; Panico Alpinverlag, Wetterstein Nord ; Am-Berg Verlag, Kletterführer Garmisch-Partenkirchen ; Walter Pause, Im schweren Fels",
       "Historique (C2C) : première ascension en 1904 par Freudenberg, apparemment en solo"
-    ]
+    ],
+    "envie": 2
   },
   {
     "id": "index-de-la-gliere-arete-se",
@@ -1931,7 +1947,8 @@
       "Image Camptocamp 22172 par Jerome Obiols (CC-BY-SA)",
       "Topos cités par C2C : Les Aiguilles Rouges 1 – Face au Mont-Blanc ; Les Aiguilles Rouges ; Escalade plaisir – Alpes françaises du Nord ; Alpinisme – Des premiers pas aux grandes courses ; topo sur passion-alpes.com",
       "Historique (C2C) : ouverture le 16 août 1913 par Alice Agussol, H. Bonin, Maurice Damesme, Jacques et Tom de Lépiney, en 1 h 30"
-    ]
+    ],
+    "envie": 1
   },
   {
     "id": "la-draye-pets-des-rupricaprins",
@@ -2108,7 +2125,8 @@
       "Sorties Camptocamp 1945544 (25/08/2026), 1702960 (30/10/2024), 1687590 (04/09/2024), 1651861 (01/06/2024), 1569579 (20/08/2023), 1478320 (27/10/2022), 1348492 (07/09/2021), 1450054 (20/08/2021), 1374267 (05/08/2021), 1346519 (02/08/2021), 1338268 (25/07/2021), 1331245 (15/07/2021), 1325053 (30/06/2021), 1541885 (18/07/2020), 1401014 (03/06/2020), consultées le 15/10/2026",
       "Topos cités par C2C : « Oisans Nouveau Oisans sauvage – Livre Est », « Escalades autour d'Ailefroide », « Escalades faciles de Grenoble à Briançon », « Escalade plaisir – Alpes du Sud, Provence »",
       "Historique (C2C) : ouverture en 1997 par Jean-Michel Cambon ; rééquipement géré par la mairie de Vallouise-Pelvoux, coordonné par le bureau des guides des Écrins avec l'association ONOS"
-    ]
+    ],
+    "envie": 3
   },
   {
     "id": "orpierre-ascle-maitre-de-la-danse",
@@ -2211,7 +2229,8 @@
       "Camptocamp, itinéraire 57594 (Le maître de la danse), consulté le 15/10/2026",
       "Sorties Camptocamp 1954333 et 1954125 (22/09/2026), 1958014 (20/09/2026), 1906470 (15/05/2026), 1904735 (08/05/2026), 1892353 (07/04/2026), 1891171 (05/04/2026), 1885590 (21/03/2026), 1921096 (13/11/2025), 1782719 (19/06/2025), 1777832 (01/06/2025), 1695610 (03/10/2024), 1647611 (19/05/2024), 1645647 (12/05/2024), 1644253 (09/05/2024), consultées le 15/10/2026",
       "Image Camptocamp 178232 par Bruno Besson, Pierrot (CC-BY-SA)"
-    ]
+    ],
+    "envie": 1
   },
   {
     "id": "perrons-de-vallorcine-traversee-e-w",
@@ -2334,7 +2353,8 @@
       "Image Camptocamp 26221 par Luc Gential (CC-BY-SA)",
       "Topos cités par C2C : Guide Chaîne franco-suisse – Du col des Montets au lac Léman ; Par-delà les cimes ; Les Aiguilles Rouges 2 light – L'eau noire ; The Aiguilles Rouges 2 ; Montagnes Magazine #391 et #408 ; topo sur passion-alpes.com (Robin Bonnet)",
       "Historique (C2C) : première traversée complète E-W par Émile-Robert Blanchet et Kaspar Mooser le 28 septembre 1931"
-    ]
+    ],
+    "envie": 2
   },
   {
     "id": "pointes-de-la-blonniere-arete-a-marion",
@@ -2494,7 +2514,8 @@
       "Image Camptocamp 141366 par piolet15 (CC-BY-SA)",
       "Topos cités par C2C : Bornes Aravis – tome 2 – La Clusaz, Thônes, Ugine (Gilles Brunot, association EKIPROC) ; Escalade Massif Bornes-Aravis",
       "Historique (C2C) : 1re ascension par Michel Poencet avec un ami (date inconnue, sans corde) ; équipement été-automne 2001 par P. Chatenay, J.F. Exertier, F. Goutard, T. Guinot, D. Meynet, J.M. Thomet"
-    ]
+    ],
+    "envie": 3
   },
   {
     "id": "roche-fendue-traversee-des-3-pointes",
@@ -2591,7 +2612,8 @@
       "Camptocamp, itinéraire 800683 (Traversée des 3 Pointes), consulté le 15/10/2026",
       "Sorties Camptocamp 1486774 (27/11/2022), 1433224 (19/06/2022), 1361269 (24/10/2021), 1250853 (18/09/2020), 1208956 (22/05/2020), 800762 (09/09/2016), consultées le 15/10/2026",
       "Images Camptocamp 800690 et 800699 par JulBont (CC-BY-SA)"
-    ]
+    ],
+    "envie": 2
   },
   {
     "id": "rochers-d-armentier-voie-du-s",
@@ -2715,7 +2737,8 @@
       "Image Camptocamp 803188 par JulBont (CC-BY-SA)",
       "Topo cité par C2C : « Escalades faciles de Grenoble à Briançon »",
       "Historique (C2C) : ouverture en 2000 par B. Castillo et Thierry Margueritat ; rééquipement en juillet 2011 par Thierry Margueritat (40 points ajoutés ou remplacés)"
-    ]
+    ],
+    "envie": 1
   },
   {
     "id": "torrent-de-meollion-les-poas-chiches",
@@ -2841,7 +2864,8 @@
       "Sorties Camptocamp 1936340 (05/08/2026, titrée Les poas-son cuits), 1828021 (16/10/2025, titrée Les poas-lus), 1798818 (30/07/2025), consultées le 15/10/2026",
       "Images Camptocamp 1796108 et 1796109 par jojo05 (CC-BY-SA), topo des ouvreurs daté du 12/07/2022",
       "Historique (C2C) : Poas-sons cuits équipée en septembre 2018 ; Poas-chiche équipée pour moitié en septembre 2018 puis en août 2019 (Jo et Al) ; Poas-lus équipée en août 2019 puis juillet 2020"
-    ]
+    ],
+    "envie": 2
   },
   {
     "id": "tete-de-la-maye-escalade-au-village",
@@ -2956,7 +2980,8 @@
       "Historique (C2C) : équipement 2022 par le Bureau des Guides de la Bérarde Meije Écrins",
       "Livre associé sur C2C : Oisans nouveau, Oisans sauvage – Livre Ouest",
       "Topo cité par C2C : livret « villages alpinisme » des Hautes Vallées, https://www.hautesvallees.com/content/uploads/sites/2/2025/02/livret-topo-villages-alpinisme_web.pdf"
-    ]
+    ],
+    "envie": 2
   },
   {
     "id": "pic-de-la-mouliniere-eperon-des-moulinettes",
@@ -3105,7 +3130,8 @@
       "Sorties Camptocamp 1949769 (06/09/2026), 1938328 (10/08/2026), 1930667 (19/07/2026), 1926991 (14/07/2026), 1921831 (28/06/2026), 1918612 et 1918251 (20/06/2026), 1916396 (28/05/2026), consultées le 15/10/2026",
       "Image Camptocamp 1916386 par Nikky mansuy (CC-BY-SA), infos du Bureau des guides de Serre-Chevalier",
       "Historique (C2C) : premier parcours en 2025 par Olivier François, Jean-Pierre Bazet, Hubert Fievet ; équipement mai 2026 par le Bureau des guides de Serre-Chevalier"
-    ]
+    ],
+    "envie": 2
   },
   {
     "id": "charmant-som-dalles-e",
