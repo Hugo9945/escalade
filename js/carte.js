@@ -111,7 +111,7 @@ chargerVoies()
       if (!c || c.lat == null || c.lon == null) continue;
       const couleur = STATUTS[voie.statut]?.couleur || "#777";
       const marqueur = L.circleMarker([c.lat, c.lon], {
-        radius: 8 + 2 * (voie.envie || 0), // plus gros si on a très envie
+        radius: 9,
         color: "#fff",
         weight: 2,
         fillColor: couleur,
