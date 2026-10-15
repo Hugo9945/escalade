@@ -1,5 +1,120 @@
 [
   {
+    "id": "tete-de-la-maye-escalade-au-village",
+    "nom": "Tête de la Maye – Escalade au Village",
+    "sous_titre": "Terrain école en granit au-dessus de La Bérarde, pour grimper en grosses chaussures et s'entraîner à poser du matériel",
+    "massif": "Écrins",
+    "secteur": "La Bérarde – Tête de la Maye",
+    "coordonnees": {
+      "lat": 44.94392,
+      "lon": 6.28912,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Escalade au Village",
+        "url": "https://www.camptocamp.org/routes/1810737"
+      }
+    ],
+    "objectif": "Grande voie de type montagne sur le flanc de la Tête de la Maye, au départ de La Bérarde : terrain école adapté pour grimper en grosses chaussures et s'entraîner à poser du matériel.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "4b",
+    "engagement": "I · équipement P2 · exposition E3",
+    "hauteur": "env. 280 m (dénivelé des difficultés)",
+    "nb_longueurs": "8 décrites sur C2C (+ 2 lignes vides en début de tableau, à vérifier)",
+    "orientation": "S, SE",
+    "duree": "1 jour",
+    "ambiance": "Granit, face ; terrain école entre 1700 et 2360 m. Prend le soleil dès le matin. Jonctions à pied entre certaines longueurs (suivre les cairns).",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Env. 50 min. Depuis La Bérarde, prendre le sentier de la Maye ; attaque à 2080 m, 80 m avant les premiers câbles.",
+    "descente": "Env. 1 h, par le sentier de la Draye.",
+    "materiel": "5-6 dégaines, quelques sangles, friends et câblés moyens.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Ligne vide dans le tableau C2C (à vérifier)."
+          },
+          {
+            "n": "L2",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Ligne sans description dans le tableau C2C (à vérifier)."
+          },
+          {
+            "n": "L3",
+            "cotation": "3c",
+            "longueur": 15,
+            "cheminement": "Sur 80 m, viser le flanc E de l'éperon 10 m sous le pin (cairn au pied), escalade en dièdres, puis dalle."
+          },
+          {
+            "n": "L4",
+            "cotation": "4b",
+            "longueur": 30,
+            "cheminement": "Après 100 m de jonction vers la droite en suivant les cairns jusqu'à un raide couloir, partir droit jusqu'à un piton, rejoindre une lunule sous un pilier puis finir dans un dièdre."
+          },
+          {
+            "n": "L5",
+            "cotation": "3b",
+            "longueur": 25,
+            "cheminement": "Partir à gauche sur la terre puis remonter un petit dièdre et ressortir sur l'éperon jusqu'à un pin."
+          },
+          {
+            "n": "L6",
+            "cotation": "3b",
+            "longueur": 30,
+            "cheminement": "Passer au travers du sapin (branches coupées), remonter dans le gradin (10 m légèrement à gauche)."
+          },
+          {
+            "n": "L7",
+            "cotation": "4b",
+            "longueur": 35,
+            "cheminement": "Droit jusqu'au piton puis oblique droite, dièdre et enfin passer un ressaut."
+          },
+          {
+            "n": "L8",
+            "cotation": "4b",
+            "longueur": 30,
+            "cheminement": "Oblique gauche vers mur fissuré, dalle et écaille."
+          },
+          {
+            "n": "L9",
+            "cotation": "4b",
+            "longueur": 30,
+            "cheminement": "Oblique droite sur 10 m, suivre une écaille et finir dans la fissure à gauche. Relais sur le pin."
+          },
+          {
+            "n": "L10",
+            "cotation": "3c",
+            "longueur": 30,
+            "cheminement": "Après une jonction de 80 m en restant proche des parois, partir tout droit en passant près d'un arbuste, passer dans une niche pour arriver au relais final."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Seul retour publié (19/08/2025) : première grande voie de type montagne pour la cordée, avec pose de coinceurs et de sangles ; itinéraire « conforme au topo », permet de bien appréhender un terrain montagne.",
+      "Ce même jour : ciel très couvert puis pluie pendant la descente."
+    ],
+    "horaires": "Selon C2C : approche 50 min, voie 2 h 30, descente 1 h. Exemple (sortie du 19/08/2025) : parking 7h15, approche 1 h 30, sommet de la voie 13h, parking 14h20.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1810737 (Escalade au Village), consulté le 15/10/2026",
+      "Sortie Camptocamp 1810747 (19/08/2025), consultée le 15/10/2026",
+      "Historique (C2C) : équipement 2022 par le Bureau des Guides de la Bérarde Meije Écrins",
+      "Livre associé sur C2C : Oisans nouveau, Oisans sauvage – Livre Ouest",
+      "Topo cité par C2C : livret « villages alpinisme » des Hautes Vallées, https://www.hautesvallees.com/content/uploads/sites/2/2025/02/livret-topo-villages-alpinisme_web.pdf"
+    ]
+  },
+  {
     "id": "pic-de-la-mouliniere-eperon-des-moulinettes",
     "nom": "Pic de la Moulinière – Éperon des Moulinettes",
     "sous_titre": "Terrain d'aventure « école » sur quartzite, 12 à 14 petites longueurs – depuis le Pont de l'Alpe / refuge du Clot des Vaches",
