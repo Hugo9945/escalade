@@ -1,5 +1,154 @@
 [
   {
+    "id": "pic-de-la-mouliniere-eperon-des-moulinettes",
+    "nom": "Pic de la Moulinière – Éperon des Moulinettes",
+    "sous_titre": "Terrain d'aventure « école » sur quartzite, 12 à 14 petites longueurs – depuis le Pont de l'Alpe / refuge du Clot des Vaches",
+    "massif": "Cerces - Thabor - Mont-Cenis",
+    "secteur": "Pic de la Moulinière – refuge du Clot des Vaches",
+    "coordonnees": {
+      "lat": 45.05078,
+      "lon": 6.49007,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Éperon des Moulinettes",
+        "url": "https://www.camptocamp.org/routes/1916385"
+      }
+    ],
+    "objectif": "Voie de 13/14 petites longueurs dans un cadre montagnard, accessible depuis le refuge du Clot des Vaches ; idéale pour apprendre à poser des protections. Échappatoires possibles en cours de L7 et à R10.",
+    "cotation_globale": "AD-",
+    "cotation_libre_max": "4b selon C2C (L5 notée 4c dans le tableau C2C, IV+ sur le topo du Bureau des guides)",
+    "cotation_obligatoire": "4b",
+    "engagement": "II · équipement P2 · exposition E4",
+    "hauteur": "env. 220 m (dénivelé des difficultés, C2C) ; 250 m selon le topo du Bureau des guides",
+    "nb_longueurs": "12 décrites sur C2C (« 13/14 petites longueurs » selon le résumé)",
+    "orientation": "S, SE",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, éperon et pilier entre 2600 et 2820 m, cadre montagnard. Équipement type terrain d'aventure école : relais sur 1 goujon à compléter (becquet, friend), peu de points en place. Rocher décrit comme beau et de bonne qualité, mais voie récente : une importante purge a été faite et il convient de ne pas se jeter sur toutes les prises.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Depuis le refuge du Clot des Vaches, suivre le sentier balisé (GR 57) et le quitter vers 2300 m par une sente bien marquée (non indiquée sur IGN) qui mène directement au pied de la voie en passant par le petit lac (point coté 2394 m). Compter 2 h depuis le Pont de l'Alpe et 45 min depuis le refuge. L'attaque se situe au pied d'un éperon blanc ; un cairn et un piton avec une cordelette marquent le départ.",
+    "descente": "Du sommet, à pied : rejoindre facilement le sentier qui descend du col des Béraudes, puis reprendre le chemin de l'aller jusqu'au refuge (45 min) puis au Pont de l'Alpe (1 h de plus).",
+    "materiel": "Corde 30 m, 1 jeu de friends du #0.3 au #2, 5 dégaines, 2 sangles, de quoi faire les relais. (Topo du Bureau des guides : corde 25/30 m, friends jusqu'au #2, 4 dégaines.)",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Remonter l'éperon blanc (1 piton et 1 goujon). R1 : 1 goujon + piton."
+          },
+          {
+            "n": "L2",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Départ légèrement à droite puis au mieux (1 piton et 1 goujon). R2 : goujon + becquet."
+          },
+          {
+            "n": "L3",
+            "cotation": "2",
+            "longueur": null,
+            "cheminement": "Suivre l'arête, nombreux becquets. R3 : 1 goujon + friend moyen."
+          },
+          {
+            "n": "L4",
+            "cotation": "2",
+            "longueur": 15,
+            "cheminement": "Facile vers la gauche. R4 : 1 goujon + BD #2 jaune."
+          },
+          {
+            "n": "L5",
+            "cotation": "4c",
+            "longueur": 15,
+            "cheminement": "Au-dessus du relais puis à gauche, 1 piton. R5 : 1 goujon + friend moyen."
+          },
+          {
+            "n": "L6",
+            "cotation": "4b",
+            "longueur": 25,
+            "cheminement": "Rejoindre le fil d'une arête (ne pas aller dans le couloir à gauche), 1 goujon. R6 : 1 goujon + becquet."
+          },
+          {
+            "n": "L7",
+            "cotation": "2",
+            "longueur": null,
+            "cheminement": "Arête facile puis monter droit au milieu du pilier, 1 goujon + friend BD 0.5 violet. Réchappe possible à R7."
+          },
+          {
+            "n": "L8",
+            "cotation": "4b",
+            "longueur": 20,
+            "cheminement": "Droit au-dessus. R8 : 1 goujon + 1 piton."
+          },
+          {
+            "n": "L9",
+            "cotation": "4b",
+            "longueur": 15,
+            "cheminement": "Court passage athlétique droit au-dessus. R9 : 1 goujon + friend moyen."
+          },
+          {
+            "n": "L10",
+            "cotation": "4b",
+            "longueur": 15,
+            "cheminement": "D'abord de la marche puis suivre une petite arête, 1 goujon visible depuis R9. R10 : becquet + friend moyen. Réchappe possible à R10."
+          },
+          {
+            "n": "L11",
+            "cotation": "3b",
+            "longueur": 20,
+            "cheminement": "Au-dessus. R11 : 1 goujon + friend BD 0.5 violet."
+          },
+          {
+            "n": "L12",
+            "cotation": "3b",
+            "longueur": 20,
+            "cheminement": "1 goujon. R12 : 1 goujon + becquet."
+          },
+          {
+            "n": "Sortie",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "La suite est facile pour sortir au sommet (1 goujon)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Le découpage des longueurs est indicatif : corde tendue possible dans la partie basse et sur la fin ; dans les parties plus grimpantes, cela risquerait de provoquer beaucoup de tirage.",
+      "Deux échappatoires : en cours de L7 (à R7) et à R10.",
+      "Quartzite qui se prête très bien à la pose de protections (et à l'apprentissage) ; tester les prises, la voie demande encore à être parcourue.",
+      "En dormant au refuge du Clot des Vaches, on peut combiner avec la traversée des arêtes de la Bruyère la veille ou le lendemain."
+    ],
+    "retex": [
+      "Attaque : repérable de loin grâce à la dalle blanchie ; sangle rouge + cordelette au premier piton (sortie du 10/08/2026).",
+      "L4 : très courte ; ne pas s'engager sur la vire en roche jaune, R4 est sur la gauche immédiatement au début de la roche jaune (sortie du 20/06/2026).",
+      "Rocher : un retour le décrit « très fracturé », adapté aux friends, câblés et becquets ; d'autres signalent des écailles et prises sur lesquelles on n'a pas envie de tirer, et une cordée devant qui purgeait (sorties des 20/06, 10/08 et 06/09/2026).",
+      "Chutes de pierres : attention particulière signalée dans les dernières longueurs faciles (sortie du 10/08/2026).",
+      "Relais : un grimpeur n'a pas trouvé tous les goujons de relais mentionnés et a fait plusieurs relais sur becquet (sortie du 14/07/2026). Un autre juge l'équipement « ni trop ni trop peu » (sortie du 19/07/2026).",
+      "Passages en 4/4+ : courts, pas très difficiles mais un peu malcommodes (sortie du 20/06/2026).",
+      "Fin de voie : ne pas partir sur le fil qui paraît dur ; aller un peu à droite sur une vire descendante (qui ressemble à une réchappe) : un goujon après quelques mètres, puis un autre jusqu'au large replat final (sortie du 20/06/2026). Variante décrite le 14/07/2026 : après R10, petit bout d'arête vers une rampe en 2 (1 goujon), puis reprendre à gauche vers l'arête terminale (1 goujon).",
+      "Approche : traverse de nombreuses zones humides (sortie du 28/06/2026). En juin, quelques névés à la descente (sortie du 20/06/2026).",
+      "Bivouac près du point 2394 : un renard a volé toute la nourriture d'une cordée pendant la nuit (sortie du 10/08/2026)."
+    ],
+    "horaires": "Approche : 2 h depuis le Pont de l'Alpe (1 h 30 « en étant efficace » selon un retour), 45 min depuis le refuge. Dans la voie, selon les retours : 1 h 50 (cordée expérimentée, corde tendue), 2 h 45, 3 h 30, jusqu'à 4 h 30-5 h 15 (initiation à la pose de points). Descente : 45 min jusqu'au refuge + 1 h jusqu'au Pont de l'Alpe. Exemple (10/08/2026) : attaque 9h50, sommet 13h20, parking 16h.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/pic-de-la-mouliniere-eperon-des-moulinettes-topo.jpg",
+        "legende": "Topo du Bureau des guides de Serre-Chevalier publié sur Camptocamp (photo Nikky mansuy, CC-BY-SA) : 250 m, 4+ max, L5 en IV+"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 1916385 (Éperon des Moulinettes), consulté le 15/10/2026",
+      "Sorties Camptocamp 1949769 (06/09/2026), 1938328 (10/08/2026), 1930667 (19/07/2026), 1926991 (14/07/2026), 1921831 (28/06/2026), 1918612 et 1918251 (20/06/2026), 1916396 (28/05/2026), consultées le 15/10/2026",
+      "Image Camptocamp 1916386 par Nikky mansuy (CC-BY-SA), infos du Bureau des guides de Serre-Chevalier",
+      "Historique (C2C) : premier parcours en 2025 par Olivier François, Jean-Pierre Bazet, Hubert Fievet ; équipement mai 2026 par le Bureau des guides de Serre-Chevalier"
+    ]
+  },
+  {
     "id": "charmant-som-dalles-e",
     "nom": "Charmant Som – Dalles de la face E",
     "sous_titre": "Intégrale possible : dalles inférieures (option) + dalles de la face E (objectif certain) – depuis les Bergeries / Col de Porte",
