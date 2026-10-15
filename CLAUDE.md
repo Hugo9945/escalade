@@ -8,13 +8,17 @@ Le propriétaire ne code pas : expliquer simplement ce qui est fait, poser des q
 
 - `index.html` + `js/carte.js` : carte Leaflet (OpenTopoMap / Plan IGN), filtres statut + projet, légende.
 - `voie.html?id=<id>` + `js/voie.js` : fiche détaillée à l'écran ET fiche A4 (affichée seulement à l'impression, voir `@media print` dans `css/style.css`).
-- `projets.html` + `js/projets.js` : voies regroupées par projet de voyage.
+- `projets.html` + `js/projets.js` : un dossier par projet de voyage (`projets.html?projet=<nom>` ouvre le dossier) + dossier « Autres voies » pour les voies sans projet.
+- `data/projets.json` : liste des projets `[{nom, periode, description}]` ; un projet peut exister sans voie (dossier vide). Le `nom` doit être identique au champ `projet` des voies.
+- `js/verrou.js` : écran de code à 4 chiffres (chargé dans le `<head>` de chaque page). Seule l'empreinte SHA-256 de `escalade:<code>` est stockée ; ne jamais écrire le code en clair dans le dépôt. Protection de confort seulement : le dépôt est public.
 - `js/commun.js` : statuts (libellés + couleurs), chargement des données, outils.
 - `data/voies.json` : toutes les voies (tableau JSON).
 - `images/` : topos, croquis, photos. Nom de fichier : `<id-de-la-voie>-<description>.jpg`.
 - `modeles/` : PDF modèle de la fiche A4.
 
 Tester en local : `python3 -m http.server 8000` puis http://localhost:8000 (ouvrir le fichier directement ne marche pas, le JSON ne se charge pas).
+
+Publication : dépôt https://github.com/Hugo9945/escalade (GitHub Pages, branche main) → https://hugo9945.github.io/escalade/. GitHub CLI : `~/.local/bin/gh` (connecté au compte Hugo9945). Après chaque modification : commit + push, le site se met à jour en 1-2 min.
 
 ## Format d'une voie (`data/voies.json`)
 
@@ -33,7 +37,7 @@ Laisser un champ vide (`""`, `null` ou `[]`) plutôt que d'inventer. Tous les ch
 | `hauteur`, `nb_longueurs`, `orientation`, `duree` | texte | |
 | `ambiance` | texte | type de rocher, style |
 | `statut` | `faisable` / `bientot` / `materiel` / `fait` | |
-| `projet` | texte ou `null` | nom du projet/voyage, identique entre voies d'un même projet |
+| `projet` | texte ou `null` | nom du projet/voyage, identique à un `nom` de `data/projets.json` (l'y ajouter s'il est nouveau) |
 | `approche`, `descente`, `materiel`, `horaires`, `notes` | texte | `notes` = notes perso, ne jamais les remplir sans demande |
 | `longueurs` | `[{titre, lignes:[{n, cotation, longueur, cheminement}]}]` | un ou plusieurs tableaux (ex. option bas / objectif haut) ; `longueur` en m (nombre) ou `null` |
 | `strategie`, `retex` | liste de textes | une puce par élément |

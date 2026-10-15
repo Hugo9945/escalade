@@ -178,6 +178,29 @@ table.longueurs td.court { white-space: nowrap; }
 .sources { font-size: 0.85rem; color: var(--doux); }
 
 /* ===== Page projets ===== */
+.dossiers { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
+.dossier {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  height: 100%;
+  background: var(--carte);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+  padding: 14px 16px;
+  text-decoration: none;
+  color: var(--texte);
+}
+.dossier:hover { border-color: var(--vert); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); }
+.dossier .icone { font-size: 2.2rem; line-height: 1; }
+.dossier .contenu { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.dossier .titre { font-weight: 700; font-size: 1.1rem; color: var(--vert); }
+.dossier .periode, .dossier .nb { color: var(--doux); font-size: 0.9rem; }
+.dossier .statuts { display: flex; flex-wrap: wrap; gap: 4px 10px; margin-top: 4px; }
+.mini-statut { display: inline-flex; align-items: center; gap: 4px; font-size: 0.8rem; color: var(--doux); }
+.retour { display: inline-block; margin: 4px 0 8px; font-weight: 600; text-decoration: none; }
+p.periode { color: var(--doux); margin-top: -8px; }
+
 .projet { margin-bottom: 20px; }
 .projet h2 { color: var(--vert); margin: 8px 0; font-size: 1.25rem; }
 .projet h2 .nb { color: var(--doux); font-weight: 400; font-size: 0.95rem; }
