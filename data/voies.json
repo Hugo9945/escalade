@@ -1,5 +1,214 @@
 [
   {
+    "id": "pic-de-jallouvre-voie-des-cristaux",
+    "nom": "Pic de Jallouvre – Voie des Cristaux",
+    "sous_titre": "Voie d'initiation entièrement équipée (aussi appelée « Voie des Criquets ») – depuis le col de la Colombière",
+    "massif": "Bornes - Aravis",
+    "secteur": "Pic de Jallouvre – face S, col de la Colombière",
+    "coordonnees": {
+      "lat": 45.99145,
+      "lon": 6.46294,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Voie des Cristaux",
+        "url": "https://www.camptocamp.org/routes/56081"
+      }
+    ],
+    "objectif": "Voie limite randonnée – escalade – alpinisme qui mène au départ de l'arête des Bouquetins : enchaînement initiatique de plus de 800 m de dénivelé dans un cadre sauvage et aérien.",
+    "cotation_globale": "AD-",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "4a",
+    "engagement": "I · équipement P1 · exposition E1",
+    "hauteur": "env. 400 m jusqu'au câble de retour de la via ferrata (+ env. 400 m pour l'arête des Bouquetins)",
+    "nb_longueurs": "16 (la 15e est de la marche ; les deux dernières sont évitables)",
+    "orientation": "SE",
+    "duree": "1 jour",
+    "ambiance": "Calcaire très sculpté : dalles, cannelures inclinées, vires herbeuses et rares ressauts verticaux. Orientation idéale été comme hiver. Se parcourt facilement en chaussures légères d'alpinisme.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "10 min. De la petite carrière adjacente à la seconde épingle à cheveux en versant S du col de la Colombière, remonter une pente herbeuse (cairns). La voie démarre au sommet de la pente herbeuse, 10 m à gauche du ravinement de la carrière : écriture « Cristaux » en bleu bien visible.",
+    "descente": "Par le chemin de descente de la via ferrata : beaucoup d'attention quand le câble est désinstallé (hiver), rocher patiné par endroits, plaques de neige possibles jusqu'en milieu de printemps. Un gros névé raide peut être présent sur le sentier de descente au pied de la face N du Jallouvre et du col du Rasoir (si on enchaîne les Bouquetins).",
+    "materiel": "Corde de 50 m, 10 dégaines, sangles. En début de saison, piolet et/ou crampons légers (névés raides à la descente).",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "Départ",
+            "cotation": "3b, pas de 4a",
+            "longueur": null,
+            "cheminement": "De l'attaque (nom peint en bleu « Cristaux »), s'élever par des dalles qui se couchent de plus en plus : ensemble de 3b sur 5 longueurs avec quelques pas de 4a max."
+          },
+          {
+            "n": "Marche",
+            "cotation": "-",
+            "longueur": null,
+            "cheminement": "15 min de marche en longeant l'évident système de dalles par la droite sans y monter ; cairns peu évidents sauf le dernier, volumineux. Herbes glissantes au début du printemps. Retour possible en regagnant à droite le chemin vers le col de la Colombière."
+          },
+          {
+            "n": "L5 →",
+            "cotation": "3 à 4b",
+            "longueur": null,
+            "cheminement": "Au gros cairn, attaquer L5 et les suivantes dans un système de cannelures inclinées à 50° (3e degré), de vires herbeuses et de rares ressauts verticaux jusqu'au 4b."
+          },
+          {
+            "n": "L15",
+            "cotation": "marche",
+            "longueur": null,
+            "cheminement": "Section de marche qui mène sous un petit surplomb (en haut d'un raide couloir barré d'un bloc coincé)."
+          },
+          {
+            "n": "L16",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Passage de 3 m en 4b, puis dernière superbe longueur dans des cannelures tortueuses. Arrivée au câble de retour de la via ferrata (câble désinstallé en hiver), au départ de l'arête des Bouquetins (balisage rouge)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Itinéraire évident et équipement en place : les longueurs les plus faciles étant équipées, ne pas trouver de points signifie que l'on n'est plus dans la voie.",
+      "Enchaînement avec l'arête des Bouquetins vivement conseillé par C2C (800 m au total, 6 à 8 h) ; on peut toujours s'échapper."
+    ],
+    "enchainements": [
+      {
+        "id": "pic-de-jallouvre-arete-des-bouquetins",
+        "titre": "Pic de Jallouvre – Arête des Bouquetins",
+        "texte": "la voie des Cristaux arrive au câble de retour de la via ferrata, au départ de l'arête des Bouquetins (balisage rouge, 1er point rouge à 5 m du dernier relais selon un retour) : enchaînement vivement conseillé par C2C jusqu'au sommet du Jallouvre (800 m au total, 6 à 8 h). Échappatoire possible par le sentier de retour de la via ferrata."
+      }
+    ],
+    "retex": [
+      "Corde tendue : la voie s'y prête très bien, longueurs doublées ou triplées après les premières longueurs et la transition herbeuse (sorties du 12/08/2026, 22/08/2025, 30/05/2025 avec 16 dégaines).",
+      "Rocher et équipement : très bon équipement, proche dans les difficultés ; le rocher commence à être un peu patiné dans les pas plus difficiles (sortie du 12/08/2026). Dans les premières longueurs, quelques plaquettes ont pris des pierres mais restent clippables (sortie du 28/06/2026).",
+      "Relais : certains reliés par une cordelette en bon état, d'autres à compléter (sortie du 30/05/2025) ; relais de sortie de L4 au niveau de la prairie non trouvé, fait sur becquet (sortie du 18/08/2025).",
+      "Itinéraire : vers L13, attention à ne pas partir trop à gauche dans la voie voisine « Les Miss » — une cordée s'est retrouvée dans un passage de 5b (sortie du 13/09/2025).",
+      "Chaussures : certains font tout en chaussures, d'autres trouvent les chaussons plus efficaces dans les pas patinés (sorties du 02/08/2026 et du 12/08/2026).",
+      "Affluence : course très fréquentée, bien choisir son jour et son heure de départ (sorties du 22/08/2025 et du 18/08/2025).",
+      "Raccourci possible : monter par le sentier de descente de la via ferrata et attaquer directement au R4bis en haut de la prairie (sortie du 18/08/2025).",
+      "Saison : neige sur le retour de la via en novembre, rester encordé (sortie du 10/11/2025) ; route du col ouverte en novembre 2025 malgré Google Maps, vérifier sur inforoute74.",
+      "Chaleur : très très chaud en canicule, partir bien plus tôt (sortie du 28/06/2026)."
+    ],
+    "horaires": "Selon C2C : 6 à 8 h pour l'enchaînement avec les Bouquetins. Selon les retours : Cristaux 2 h en corde tendue (30/05/2025) ; Cristaux 2 h + Bouquetins 2 h (25/08/2025) ; parking 8h30, pied 9h, haut des Cristaux 14h, voiture 15h (02/08/2026) ; enchaînement 7 h en prenant le temps (22/08/2025) ; départ 8h30, sommet du Jallouvre vers 16h (18/08/2025).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/pic-de-jallouvre-voie-des-cristaux-topo.jpg",
+        "legende": "Face S du Jallouvre : Voie des Cristaux à droite (photo Pascal Sauvain, tracés David Bochot, Camptocamp, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/pic-de-jallouvre-acces.jpg",
+        "legende": "Plan d'accès au Jallouvre depuis le col de la Colombière (David Bochot, Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 56081 (Voie des Cristaux), consulté le 15/10/2026",
+      "Sorties Camptocamp 1940130 (12/08/2026), 1934822 (02/08/2026), 1921509 (28/06/2026), 1834336 (10/11/2025), 1816611 (13/09/2025), 1812195 (25/08/2025), 1946921 (22/08/2025), 1824781 (18/08/2025), 1786728 (27/06/2025), 1775813 (30/05/2025), 1772414 (13/05/2025), consultées le 15/10/2026",
+      "Images Camptocamp 194496 (P. Sauvain / D. Bochot) et 194860 (D. Bochot), CC-BY-SA",
+      "Topos cités par C2C : « Bornes Aravis – de Bonneville au Gd-Bornand » (Gilles Brunot, EKIPROC) ; topo d'Hervé Thivierge ; grandevoie.com",
+      "Historique (C2C) : équipée sur goujons Petzl Longlife 12 mm par Y. Lambert, P. Vuarnier, L.-A. Würsten en automne 2004, en mémoire de Pierre-Alain Rickli"
+    ]
+  },
+  {
+    "id": "pic-de-jallouvre-arete-des-bouquetins",
+    "nom": "Pic de Jallouvre – Arête des Bouquetins",
+    "sous_titre": "Arête facile et aérienne balisée en rouge jusqu'au sommet du Jallouvre – depuis le col de la Colombière",
+    "massif": "Bornes - Aravis",
+    "secteur": "Pic de Jallouvre – col de la Colombière",
+    "coordonnees": {
+      "lat": 45.99363,
+      "lon": 6.45719,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Arête des Bouquetins",
+        "url": "https://www.camptocamp.org/routes/55769"
+      }
+    ],
+    "objectif": "Sommet du Pic de Jallouvre (2408 m) par une arête esthétique, facile à protéger, où les difficultés ne sont jamais longues. Bonne préparation pour des objectifs futurs en haute montagne : on peut apprendre à poser des coinceurs dans des fissures évidentes en toute sécurité.",
+    "cotation_globale": "PD",
+    "cotation_libre_max": "3b",
+    "cotation_obligatoire": "3b",
+    "engagement": "I · équipement P2 · exposition E1",
+    "hauteur": "env. 400 m (dénivelé des difficultés)",
+    "nb_longueurs": "",
+    "orientation": "SE",
+    "duree": "1 jour",
+    "ambiance": "Calcaire : nombreux ressauts jamais difficiles et passages en dalles cannelées, quelques passages bien aériens. Assez vite en condition et bien ensoleillé. Approche courte et retour rapide.",
+    "statut": "faisable",
+    "projet": null,
+    "approche": "Deux possibilités : (1) faire la via ferrata du Jallouvre et suivre le sentier de retour qui traverse jusqu'au pied de l'arête — départ indiqué par des marques rouges qui montent à gauche, au début des câbles de la vire à bouquetins finale ; (2) du col de la Colombière, suivre le chemin normal du Pic de Jallouvre, passer sous le site d'escalade, rejoindre le sentier de retour de la via ferrata (câbles, flèches rouges) et suivre les câbles jusqu'au départ indiqué en gros en rouge. Ou par la Voie des Cristaux (voir enchaînement).",
+    "descente": "Rejoindre la Cravate par un chemin un peu raide (face W) et légèrement exposé, puis le col du Rasoir par une traversée qui peut être enneigée et dangereuse selon la saison, jusqu'au pied de la Pointe Blanche. Redescendre la combe jusqu'au col de la Colombière. Le passage de la Cravate reste longtemps enneigé.",
+    "materiel": "Corde pour l'assurage, quelques coinceurs, sangles, 5 ou 6 dégaines, casque ; matériel de via ferrata selon l'approche choisie ; piolet pour le passage de la Cravate selon la saison.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "Arête",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Suivre les marques rouges : nombreux ressauts jamais difficiles et passages en dalles cannelées."
+          },
+          {
+            "n": "Croisement",
+            "cotation": "-",
+            "longueur": null,
+            "cheminement": "Aux trois quarts de la voie, croisement indiqué : option facile (marques rouges) ou option difficile."
+          },
+          {
+            "n": "Option difficile",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Plus de marquage mais itinéraire évident : cheminée protégée par deux spits, puis s'orienter au mieux, plutôt sur le versant du col du Rasoir ; dès qu'on s'éloigne de l'itinéraire, passages scabreux en très mauvais rocher avec des pierres qui roulent. On retrouve ensuite l'itinéraire facile."
+          },
+          {
+            "n": "Arête finale",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Suivre l'arête plus ou moins effilée jusqu'au sommet."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Arête où il est très facile de protéger : bon terrain pour apprendre à poser des coinceurs.",
+      "Au croisement aux trois quarts de la voie : l'option facile suit les marques rouges ; l'option difficile n'est plus balisée et devient scabreuse si on s'écarte de l'itinéraire."
+    ],
+    "enchainements": [
+      {
+        "id": "pic-de-jallouvre-voie-des-cristaux",
+        "titre": "Pic de Jallouvre – Voie des Cristaux",
+        "texte": "approche en escalade par la Voie des Cristaux (AD-, 4b, 400 m, très bien équipée), qui arrive au câble de retour de la via ferrata, au départ de l'arête : enchaînement vivement conseillé par C2C (800 m au total, 6 à 8 h)."
+      }
+    ],
+    "retex": [
+      "Cheminement : bien suivre les points rouges, sinon 2 ou 3 erreurs d'itinéraire possibles (sortie du 12/08/2026) ; ne pas partir trop à gauche, aller vers la via puis suivre les marques rouges et le fil (sortie du 24/07/2026). Balisage jugé très bon (sortie du 06/10/2025).",
+      "Équipement : quelques spits sur l'arête et points rouges réguliers (sortie du 12/08/2026) ; beaucoup moins équipée que les Cristaux mais se protège très bien avec des sangles (sortie du 22/08/2025).",
+      "Terrain : nombreuses vires, un peu de « jardinage », attention aux cailloux (sortie du 24/07/2026) ; terrain un peu gras le matin (sortie du 27/07/2026).",
+      "Descente : contourner le sommet par la Cravate puis le col du Rasoir, puis longue descente dans un pierrier désagréable et le chemin de retour de la via ferrata (sortie du 12/08/2026).",
+      "Neige et Cravate : au printemps, Cravate entièrement enneigée, crampons et piolet fortement conseillés (sorties du 17/05/2025 et du 13/05/2025) ; un groupe sans piolet ni crampons fin mai a dû trouver un itinéraire bis pour rentrer (sortie du 23/05/2026) ; Cravate semblant verglacée début octobre (sortie du 06/10/2025).",
+      "Initiation : très bonne initiation à l'arête, tout se protège facilement et on profite de l'ambiance aérienne sans souci (sortie du 23/05/2026).",
+      "Affluence : sur l'enchaînement, plusieurs cordées dans les Cristaux mais seuls ensuite sur l'arête (sortie du 18/08/2025)."
+    ],
+    "horaires": "Selon les retours : arête 1 h depuis le haut de la via (04/09/2026) ; 1 h 10 (15/10/2025) ; 2 h après les Cristaux (25/08/2025) ; descente 1 h (15/10/2025).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/pic-de-jallouvre-acces.jpg",
+        "legende": "Plan d'accès au Jallouvre depuis le col de la Colombière (David Bochot, Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 55769 (Arête des Bouquetins), consulté le 15/10/2026",
+      "Sorties Camptocamp 1948499 (04/09/2026), 1940130 (12/08/2026), 1932513 (27/07/2026), 1957342 (24/07/2026), 1921509 (28/06/2026), 1908102 (23/05/2026), 1827524 (15/10/2025), 1825135 (06/10/2025), 1812195 (25/08/2025), 1946921 (22/08/2025), 1824781 (18/08/2025), 1771207 (17/05/2025), 1772414 (13/05/2025), consultées le 15/10/2026",
+      "Image Camptocamp 194860 (plan d'accès, D. Bochot, CC-BY-SA) — pas de topo avec tracé de l'arête sur C2C",
+      "Livres associés sur C2C : Sentiers du Vertige en Haute-Savoie ; Sommets autour du Mont-Blanc ; Montagnes Magazine #405"
+    ]
+  },
+  {
     "id": "aiguille-de-montaubert-brumes-de-l-automne",
     "nom": "Aiguille de Montaubert – Les brumes de l'automne",
     "sous_titre": "Longue voie de dalles calcaires (13 longueurs) entrecoupées de vires herbeuses – accès par La Molloire et le chalet des Trois Vargnes",
