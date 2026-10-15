@@ -1,6 +1,6 @@
 # Sac à topos — site perso d'escalade
 
-Nom du site : « Sac à topos ». Style « affiche vintage » (crème, bleu nuit, ocre, rouille ; titres Alfa Slab One, texte Work Sans). Les couleurs de statut de la carte ne changent pas ; la fiche A4 reste en noir et blanc, police système.
+Nom du site : « Sac à topos ». Style « Memphis » années 80 (turquoise, jaune, rose, violet, contours noirs épais ; titres Bungee, texte Rubik). Les couleurs de statut de la carte ne changent pas ; la fiche A4 reste en noir et blanc, police système.
 
 Site statique (HTML/CSS/JS, sans build) hébergé sur GitHub Pages. Tout est en français.
 Usage perso : un couple qui grimpe surtout en grandes voies et terrain d'aventure.

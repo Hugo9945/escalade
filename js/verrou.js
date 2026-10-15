@@ -21,15 +21,16 @@
   const style = document.createElement("style");
   style.textContent = `
     html.verrouille body > *:not(#verrou) { display: none !important; }
-    #verrou { position: fixed; inset: 0; z-index: 10000; background: #1f2a44; color: #f6ecd6;
+    #verrou { position: fixed; inset: 0; z-index: 10000; background: #2ec4b6; color: #1b1b1b;
       display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px;
       padding: 16px; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; text-align: center; }
-    #verrou h1 { margin: 0; font-family: "Alfa Slab One", Georgia, serif; font-weight: 400; font-size: 2rem; color: #e2a03f; letter-spacing: 1px; }
+    #verrou h1 { margin: 0; font-family: "Bungee", "Arial Black", sans-serif; font-weight: 400; font-size: 2.2rem; color: #fff; text-shadow: 3px 3px 0 #1b1b1b; letter-spacing: 1px; }
     #verrou p { margin: 0; opacity: 0.85; }
     #verrou input { width: 9ch; font-size: 2rem; letter-spacing: 0.4em; text-align: center; padding: 8px 4px 8px 0.4em;
-      border-radius: 10px; border: 2px solid #fff; background: rgba(255,255,255,0.1); color: #fff; }
-    #verrou input:focus { outline: 3px solid #f2c94c; }
-    #verrou .erreur-code { min-height: 1.4em; color: #ffd4cc; font-weight: 600; }
+      border-radius: 0; border: 3px solid #1b1b1b; background: #fff; color: #1b1b1b; box-shadow: 4px 4px 0 #ff5d8f; }
+    #verrou input:focus { outline: 3px solid #ffd23f; }
+    #verrou .erreur-code { min-height: 1.4em; color: #1b1b1b; background: #ffd23f; padding: 0 6px; font-weight: 600; }
+    #verrou .erreur-code:empty { background: none; }
     #verrou.secoue input { animation: secoue 0.3s; }
     @keyframes secoue { 25% { transform: translateX(-8px); } 75% { transform: translateX(8px); } }
   `;
