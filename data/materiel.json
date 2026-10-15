@@ -224,7 +224,35 @@
   },
   {
     "categorie": "Assurage et descente",
-    "articles": []
+    "articles": [
+      {
+        "nom": "Assureur à freinage assisté",
+        "quantite": "1",
+        "marque": "Petzl",
+        "details": "GriGri 2",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Système d'assurage (tube)",
+        "quantite": "1",
+        "marque": "Simond",
+        "details": "Tucan 2",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Système d'assurage (tube)",
+        "quantite": "1",
+        "marque": "Mammut",
+        "details": "Norwand Alpine",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      }
+    ]
   },
   {
     "categorie": "Baudriers et casques",
