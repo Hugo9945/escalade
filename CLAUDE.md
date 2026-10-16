@@ -74,5 +74,5 @@ Règles :
 
 ## À traiter plus tard
 
-- **Maroc** : 28 voies ajoutées le 16/10/2026 avec le statut `a_etudier` et une suggestion. Le propriétaire les étudie avec le topo papier : ensuite, lui envoyer le questionnaire voie par voie (statut, suggestion présélectionnée, puis étoiles). À lui proposer : relier Tête du Lion – Arête du Lion et « Are we there yet ? » (départ alternatif de l'arête).
+- **Maroc** : 28 voies ajoutées le 16/10/2026 avec le statut `a_etudier` et une suggestion. Le propriétaire les étudie avec le topo papier : ensuite, lui envoyer le questionnaire voie par voie (statut, suggestion présélectionnée, puis étoiles).
 - **Enchaînements repérés, non encore proposés en détail** : Arêtes de la Bruyère + Éperon des Moulinettes (refuge du Clot des Vaches) ; Index de la Glière + Mani pulite (C2C 54601) ; Brumes de l'automne + traversée Montaubert–Beccaz–Mouche (C2C 56812) ; Baulmes Grande Arête + Petite Arête (C2C 658103) ; Orpierre + Merci M'sieur (C2C 57749) ; Roche Fendue + Dents du Loup (C2C 57077).

@@ -7731,7 +7731,14 @@
       "Historique (C2C) : Tiffany Caprarella et Danny Woodward, décembre 2008"
     ],
     "equipement": "trad",
-    "cote_equipement": "P4+"
+    "cote_equipement": "P4+",
+    "enchainements": [
+      {
+        "id": "tete-du-lion-arete-du-lion",
+        "titre": "Tête du Lion – Arête du Lion",
+        "texte": "la voie rejoint l'Arête du Lion (D+, 5b+, engagement IV) à sa dernière longueur : C2C la présente comme un départ alternatif de l'arête, qu'on continue ensuite."
+      }
+    ]
   },
   {
     "id": "tete-du-lion-arete-du-lion",
@@ -7789,7 +7796,14 @@
       "Historique (C2C) : Lee Brown, Claude Davis, Derek Walker et Pete Turnbull en 1997"
     ],
     "equipement": "trad",
-    "cote_equipement": "P4+"
+    "cote_equipement": "P4+",
+    "enchainements": [
+      {
+        "id": "tete-du-lion-are-we-there-yet",
+        "titre": "Tête du Lion – Are we there yet ?",
+        "texte": "« Are we there yet ? » (AD+, 5a, exposition E4) est présentée par C2C comme un départ alternatif de l'Arête du Lion : sa dernière longueur rejoint l'arête, où l'on continue par la classique."
+      }
+    ]
   },
   {
     "id": "tifghalt-lower-harbinger",
