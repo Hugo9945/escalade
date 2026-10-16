@@ -141,6 +141,51 @@
         "annee": "",
         "etat": "",
         "notes": "Modèle à préciser"
+      },
+      {
+        "nom": "Alien offset (hybride)",
+        "quantite": "1",
+        "marque": "",
+        "details": "vert / bleu",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Alien offset (hybride)",
+        "quantite": "1",
+        "marque": "",
+        "details": "jaune / gris",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Alien offset (hybride)",
+        "quantite": "1",
+        "marque": "",
+        "details": "vert / jaune",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Alien offset (hybride)",
+        "quantite": "1",
+        "marque": "",
+        "details": "rouge / jaune",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Alien offset (hybride)",
+        "quantite": "1",
+        "marque": "",
+        "details": "rouge / gris",
+        "annee": "",
+        "etat": "",
+        "notes": ""
       }
     ]
   },
@@ -148,27 +193,45 @@
     "categorie": "Coinceurs câblés",
     "articles": [
       {
-        "nom": "Jeu complet de nuts",
+        "nom": "Jeu de nuts",
         "quantite": "1",
         "marque": "DMM",
-        "details": "",
+        "details": "Wallnut",
         "annee": "",
         "etat": "",
         "notes": ""
       },
       {
-        "nom": "Jeu complet de nuts",
+        "nom": "Jeu de nuts",
         "quantite": "1",
         "marque": "Black Diamond",
         "details": "",
         "annee": "",
         "etat": "",
-        "notes": ""
+        "notes": "Tailles intermédiaires en double"
       },
       {
-        "nom": "Jeu complet d'offsets",
+        "nom": "Jeu d'offsets",
         "quantite": "1",
         "marque": "DMM",
+        "details": "Offset",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Lot de nuts en vrac",
+        "quantite": "lot",
+        "marque": "plusieurs marques",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Décoinceur",
+        "quantite": "2",
+        "marque": "",
         "details": "",
         "annee": "",
         "etat": "",
@@ -177,11 +240,11 @@
     ]
   },
   {
-    "categorie": "Dégaines et sangles",
+    "categorie": "Dégaines",
     "articles": [
       {
-        "nom": "Dégaine rallongeable",
-        "quantite": "env. 12",
+        "nom": "Dégaine alpine (rallongeable)",
+        "quantite": "12",
         "marque": "",
         "details": "",
         "annee": "",
@@ -189,19 +252,10 @@
         "notes": ""
       },
       {
-        "nom": "Dégaine classique",
-        "quantite": "env. 20",
+        "nom": "Dégaine",
+        "quantite": "21",
         "marque": "",
         "details": "",
-        "annee": "",
-        "etat": "",
-        "notes": ""
-      },
-      {
-        "nom": "Sangles",
-        "quantite": "en quantité",
-        "marque": "",
-        "details": "longueurs à préciser",
         "annee": "",
         "etat": "",
         "notes": ""
@@ -209,13 +263,212 @@
     ]
   },
   {
-    "categorie": "Mousquetons, relais et cordelettes",
+    "categorie": "Sangles",
     "articles": [
       {
-        "nom": "Mousquetons",
-        "quantite": "en quantité",
+        "nom": "Sangle 60 cm",
+        "quantite": "10",
         "marque": "",
-        "details": "à vis / simples à préciser",
+        "details": "avec mousqueton orange",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Sangle 60 cm",
+        "quantite": "3",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Sangle 120 cm",
+        "quantite": "6",
+        "marque": "",
+        "details": "avec mousqueton orange",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Sangle 120 cm pour relais",
+        "quantite": "3",
+        "marque": "",
+        "details": "avec un mousqueton chacune",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Sangle « boucle » pour relais",
+        "quantite": "1",
+        "marque": "",
+        "details": "avec mousqueton",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Sangle 180 cm",
+        "quantite": "1",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Sangle épaisse 60 cm",
+        "quantite": "6",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": "Utilisée pour le rangement, dispo si besoin"
+      },
+      {
+        "nom": "Sangle fine 60 cm",
+        "quantite": "4",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": "Utilisée pour le rangement, dispo si besoin"
+      }
+    ]
+  },
+  {
+    "categorie": "Mousquetons",
+    "articles": [
+      {
+        "nom": "Mousqueton à vis",
+        "quantite": "10",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Mousqueton unidirectionnel",
+        "quantite": "2",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Mousqueton à doigt fil",
+        "quantite": "18",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": "Utilisés pour le rangement, dispo si besoin"
+      }
+    ]
+  },
+  {
+    "categorie": "Relais, cordelettes et autosecours",
+    "articles": [
+      {
+        "nom": "Prusik fait maison",
+        "quantite": "2",
+        "marque": "",
+        "details": "avec mousqueton",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Prusik",
+        "quantite": "2",
+        "marque": "Simond",
+        "details": "avec mousqueton",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "HollowBlock",
+        "quantite": "1",
+        "marque": "Sterling",
+        "details": "avec mousqueton",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "HollowBlock",
+        "quantite": "1",
+        "marque": "Sterling",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Cordelette",
+        "quantite": "1",
+        "marque": "",
+        "details": "20 pieds (env. 6 m)",
+        "annee": "",
+        "etat": "usée",
+        "notes": ""
+      },
+      {
+        "nom": "Cordelette",
+        "quantite": "2",
+        "marque": "",
+        "details": "20 pieds (env. 6 m), 2 mousquetons en D chacune",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Bout de cordelette",
+        "quantite": "2",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Longe de relais",
+        "quantite": "2",
+        "marque": "Metolius",
+        "details": "PAS 22",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Poignée d'ascension (bloqueur)",
+        "quantite": "1",
+        "marque": "",
+        "details": "avec mousqueton",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Bloqueur de pied",
+        "quantite": "1",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Poulie bloqueur",
+        "quantite": "1",
+        "marque": "Petzl",
+        "details": "Nano Traxion, avec mousqueton",
         "annee": "",
         "etat": "",
         "notes": ""
@@ -256,7 +509,53 @@
   },
   {
     "categorie": "Baudriers et casques",
-    "articles": []
+    "articles": [
+      {
+        "nom": "Baudrier",
+        "quantite": "1",
+        "marque": "Black Diamond",
+        "details": "Technician",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Baudrier",
+        "quantite": "1",
+        "marque": "Mammut",
+        "details": "Comfort Fast Adjust",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Baudrier",
+        "quantite": "2",
+        "marque": "Petzl",
+        "details": "Tour",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Casque",
+        "quantite": "1",
+        "marque": "Climbing Technology",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": "Modèle à préciser"
+      },
+      {
+        "nom": "Casque",
+        "quantite": "1",
+        "marque": "Mammut",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": "Modèle à préciser"
+      }
+    ]
   },
   {
     "categorie": "Alpinisme (crampons, piolets…)",
@@ -265,10 +564,116 @@
   },
   {
     "categorie": "Chaussures",
-    "articles": []
+    "articles": [
+      {
+        "nom": "Chaussures d'approche",
+        "quantite": "1",
+        "marque": "Scarpa",
+        "details": "Rapid XT, pointure 42",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Chaussures de randonnée / approche",
+        "quantite": "1",
+        "marque": "Merrell",
+        "details": "Capra 2 GTX, pointure 36",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Chaussons",
+        "quantite": "1",
+        "marque": "La Sportiva",
+        "details": "Miura, pointure 41",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Chaussons",
+        "quantite": "1",
+        "marque": "Five Ten",
+        "details": "Anasazi, pointure 42",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Chaussons",
+        "quantite": "1",
+        "marque": "Tenaya",
+        "details": "Indalo, pointure 36,5",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Chaussons",
+        "quantite": "1",
+        "marque": "La Sportiva",
+        "details": "Finale, pointure 36,5",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      }
+    ]
   },
   {
-    "categorie": "Bivouac et divers",
-    "articles": []
+    "categorie": "Sacs",
+    "articles": [
+      {
+        "nom": "Sac à dos",
+        "quantite": "1",
+        "marque": "Mammut",
+        "details": "Trion 28",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Sac à dos",
+        "quantite": "1",
+        "marque": "Simond",
+        "details": "Alpinism 22",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Sac à dos",
+        "quantite": "1",
+        "marque": "Black Diamond",
+        "details": "Bullet",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "categorie": "Divers",
+    "articles": [
+      {
+        "nom": "Talkie-walkie",
+        "quantite": "2",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": ""
+      },
+      {
+        "nom": "Lampe frontale",
+        "quantite": "3",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "notes": "Dont une cassée"
+      }
+    ]
   }
 ]
