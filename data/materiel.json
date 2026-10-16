@@ -352,13 +352,13 @@
         "notes": ""
       },
       {
-        "nom": "Mousqueton unidirectionnel",
+        "nom": "Mousqueton d'assurage (anti-retournement)",
         "quantite": "2",
-        "marque": "",
-        "details": "",
+        "marque": "Black Diamond",
+        "details": "GridLock",
         "annee": "",
         "etat": "",
-        "notes": ""
+        "notes": "Version Screwgate ou Triple Lock à préciser"
       },
       {
         "nom": "Mousqueton à doigt fil",
@@ -541,19 +541,19 @@
         "nom": "Casque",
         "quantite": "1",
         "marque": "Climbing Technology",
-        "details": "",
+        "details": "Eclipse",
         "annee": "",
         "etat": "",
-        "notes": "Modèle à préciser"
+        "notes": ""
       },
       {
         "nom": "Casque",
         "quantite": "1",
         "marque": "Mammut",
-        "details": "",
+        "details": "Crag Sender",
         "annee": "",
         "etat": "",
-        "notes": "Modèle à préciser"
+        "notes": ""
       }
     ]
   },
