@@ -134,13 +134,13 @@
         "notes": ""
       },
       {
-        "nom": "Coinceur mécanique",
+        "nom": "Link Cam",
         "quantite": "1",
         "marque": "Omega Pacific",
-        "details": "orange",
+        "details": "orange, taille #2 a priori",
         "annee": "",
         "etat": "",
-        "notes": "Modèle à préciser"
+        "notes": "Taille à confirmer"
       },
       {
         "nom": "Alien offset (hybride)",
@@ -355,10 +355,10 @@
         "nom": "Mousqueton d'assurage (anti-retournement)",
         "quantite": "2",
         "marque": "Black Diamond",
-        "details": "GridLock",
+        "details": "GridLock Screwgate (ancienne version)",
         "annee": "",
         "etat": "",
-        "notes": "Version Screwgate ou Triple Lock à préciser"
+        "notes": "Ancien modèle : c'est le doigt lui-même qui bloque le pontet (pas de fil intérieur)"
       },
       {
         "nom": "Mousqueton à doigt fil",
