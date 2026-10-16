@@ -266,8 +266,12 @@ p.periode { color: var(--doux); margin-top: -8px; }
 table.inventaire { min-width: 0; }
 .a-completer { color: var(--doux); font-style: italic; }
 .note-cat { font-weight: 600; }
-.section.achats { background: #fff7d1; box-shadow: 4px 4px 0 var(--rose); }
-.puce-cat.achats-puce { background: var(--jaune); }
+.section.achats { background: #fff7d1; }
+.onglets { display: flex; gap: 0; margin: 4px 0 18px; border-bottom: 3px solid var(--texte); }
+.onglets a { padding: 8px 16px; border: 3px solid var(--texte); border-bottom: 0; margin-right: -3px; background: #fff; color: var(--texte); text-decoration: none; font-weight: 700; }
+.onglets a.actif { background: var(--jaune); }
+.onglets a:hover { background: #c9f3ee; }
+.onglets .nb { font-weight: 400; font-size: 0.85rem; }
 
 /* ===== THÈME « MEMPHIS » (années 80) ===== */
 h1, h2, .fiche-titre h1, .section h2, .dossier .titre, .popup h3 { font-family: var(--titre); font-weight: 400; letter-spacing: 0.3px; }

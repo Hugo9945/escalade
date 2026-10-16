@@ -5,24 +5,24 @@
     "note": "Liste d'envies et de besoins. Quand un article est acheté, il passe dans l'inventaire.",
     "articles": [
       {
-        "nom": "Friend #4",
+        "nom": "Friend",
         "quantite": "1",
-        "marque": "",
-        "details": "taille au-dessus du #3",
+        "marque": "Black Diamond",
+        "details": "Camalot #4",
         "annee": "",
         "etat": "",
         "priorite": "Haute",
-        "notes": "Pour High Sierra Dome – Dièdre sud-ouest (Maroc, camalots 1 à 4) et Wide Sierra (fissures larges)"
+        "notes": ""
       },
       {
         "nom": "Mousqueton à doigt fil",
-        "quantite": "au fur et à mesure",
+        "quantite": "",
         "marque": "CAMP",
         "details": "Nano 22, orange",
         "annee": "",
         "etat": "",
         "priorite": "Haute",
-        "notes": "En racheter régulièrement, pas de quantité fixe"
+        "notes": ""
       },
       {
         "nom": "Chaussons",

@@ -28,33 +28,55 @@ function tableau(articles) {
   </table></div>`;
 }
 
+// Deux onglets : l'inventaire (par défaut) et la liste « À acheter » (materiel.html#a-acheter).
+function afficher(categories) {
+  const achats = categories.filter((c) => c.achats);
+  const inventaire = categories.filter((c) => !c.achats);
+  const nbArticles = inventaire.reduce((n, c) => n + c.articles.length, 0);
+  const nbAchats = achats.reduce((n, c) => n + c.articles.length, 0);
+  const ongletAchats = location.hash === "#a-acheter";
+
+  const onglets = `<nav class="onglets">
+    <a href="#inventaire" class="${ongletAchats ? "" : "actif"}">Inventaire <span class="nb">${nbArticles}</span></a>
+    <a href="#a-acheter" class="${ongletAchats ? "actif" : ""}">🛒 À acheter <span class="nb">${nbAchats}</span></a>
+  </nav>`;
+
+  const bloc = (c) => `<section class="section${c.achats ? " achats" : ""}" id="${ancre(c.categorie)}">
+      <h2>${echapper(c.categorie)}</h2>
+      ${c.note ? `<p class="note-cat">${echapper(c.note)}</p>` : ""}
+      ${c.articles.length ? tableau(c.articles) : c.achats ? `<p class="a-completer">Rien pour l'instant.</p>` : c.note ? "" : `<p class="a-completer">À compléter</p>`}
+    </section>`;
+
+  let contenu;
+  if (ongletAchats) {
+    contenu = achats.map(bloc).join("");
+  } else {
+    const sommaire = inventaire
+      .map((c) => `<a class="puce-cat" href="#${ancre(c.categorie)}">${echapper(c.categorie)} <span class="nb">${c.articles.length}</span></a>`)
+      .join("");
+    contenu = `<p class="intro-materiel">Pour ajouter ou modifier du matériel, envoie la liste à Claude.</p>
+      <nav class="sommaire">${sommaire}</nav>
+      ${inventaire.map(bloc).join("")}`;
+  }
+  zone.innerHTML = `<h1>Notre matériel</h1>${onglets}${contenu}`;
+}
+
 fetch("data/materiel.json", { cache: "no-cache" })
   .then((r) => {
     if (!r.ok) throw new Error("Impossible de lire data/materiel.json");
     return r.json();
   })
   .then((categories) => {
-    // La liste « À acheter » est affichée en premier et n'est pas comptée dans l'inventaire.
-    const achats = categories.filter((c) => c.achats);
-    const inventaire = categories.filter((c) => !c.achats);
-    const nbArticles = inventaire.reduce((n, c) => n + c.articles.length, 0);
-    categories = [...achats, ...inventaire];
-    const sommaire = categories
-      .map((c) => `<a class="puce-cat${c.achats ? " achats-puce" : ""}" href="#${ancre(c.categorie)}">${echapper(c.categorie)} <span class="nb">${c.articles.length}</span></a>`)
-      .join("");
-    const blocs = categories
-      .map(
-        (c) => `<section class="section${c.achats ? " achats" : ""}" id="${ancre(c.categorie)}">
-          <h2>${c.achats ? "🛒 " : ""}${echapper(c.categorie)}</h2>
-          ${c.note ? `<p class="note-cat">${echapper(c.note)}</p>` : ""}
-          ${c.articles.length ? tableau(c.articles) : c.achats ? `<p class="a-completer">Rien pour l'instant.</p>` : c.note ? "" : `<p class="a-completer">À compléter</p>`}
-        </section>`
-      )
-      .join("");
-    zone.innerHTML = `
-      <h1>Notre matériel</h1>
-      <p class="intro-materiel">${nbArticles} lignes d'inventaire. Pour ajouter ou modifier du matériel, envoie la liste à Claude.</p>
-      <nav class="sommaire">${sommaire}</nav>
-      ${blocs}`;
+    afficher(categories);
+    // Changer d'onglet sans recharger ; les liens du sommaire (#cat-…) restent dans l'inventaire.
+    window.addEventListener("hashchange", () => {
+      const avant = zone.querySelector(".onglets .actif")?.getAttribute("href");
+      const maintenant = location.hash === "#a-acheter" ? "#a-acheter" : "#inventaire";
+      if (avant !== maintenant) {
+        afficher(categories);
+        if (!location.hash.startsWith("#cat-")) window.scrollTo(0, 0);
+        else document.querySelector(location.hash)?.scrollIntoView();
+      }
+    });
   })
   .catch((e) => afficherErreur(zone, e.message));
