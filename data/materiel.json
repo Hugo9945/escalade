@@ -1,5 +1,11 @@
 [
   {
+    "categorie": "À acheter",
+    "achats": true,
+    "note": "Liste d'envies et de besoins. Quand un article est acheté, il passe dans l'inventaire.",
+    "articles": []
+  },
+  {
     "categorie": "Cordes",
     "articles": [
       {

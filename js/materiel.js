@@ -10,6 +10,7 @@ const COLONNES = [
   ["marque", "Marque"],
   ["annee", "Année"],
   ["etat", "État"],
+  ["priorite", "Priorité"],
   ["notes", "Notes"],
 ];
 
@@ -33,16 +34,20 @@ fetch("data/materiel.json", { cache: "no-cache" })
     return r.json();
   })
   .then((categories) => {
-    const nbArticles = categories.reduce((n, c) => n + c.articles.length, 0);
+    // La liste « À acheter » est affichée en premier et n'est pas comptée dans l'inventaire.
+    const achats = categories.filter((c) => c.achats);
+    const inventaire = categories.filter((c) => !c.achats);
+    const nbArticles = inventaire.reduce((n, c) => n + c.articles.length, 0);
+    categories = [...achats, ...inventaire];
     const sommaire = categories
-      .map((c) => `<a class="puce-cat" href="#${ancre(c.categorie)}">${echapper(c.categorie)} <span class="nb">${c.articles.length}</span></a>`)
+      .map((c) => `<a class="puce-cat${c.achats ? " achats-puce" : ""}" href="#${ancre(c.categorie)}">${echapper(c.categorie)} <span class="nb">${c.articles.length}</span></a>`)
       .join("");
     const blocs = categories
       .map(
-        (c) => `<section class="section" id="${ancre(c.categorie)}">
-          <h2>${echapper(c.categorie)}</h2>
+        (c) => `<section class="section${c.achats ? " achats" : ""}" id="${ancre(c.categorie)}">
+          <h2>${c.achats ? "🛒 " : ""}${echapper(c.categorie)}</h2>
           ${c.note ? `<p class="note-cat">${echapper(c.note)}</p>` : ""}
-          ${c.articles.length ? tableau(c.articles) : c.note ? "" : `<p class="a-completer">À compléter</p>`}
+          ${c.articles.length ? tableau(c.articles) : c.achats ? `<p class="a-completer">Rien pour l'instant.</p>` : c.note ? "" : `<p class="a-completer">À compléter</p>`}
         </section>`
       )
       .join("");
