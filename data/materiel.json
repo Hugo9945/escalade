@@ -3,7 +3,18 @@
     "categorie": "À acheter",
     "achats": true,
     "note": "Liste d'envies et de besoins. Quand un article est acheté, il passe dans l'inventaire.",
-    "articles": []
+    "articles": [
+      {
+        "nom": "Friend #4",
+        "quantite": "1",
+        "marque": "",
+        "details": "taille au-dessus du #3",
+        "annee": "",
+        "etat": "",
+        "priorite": "Haute",
+        "notes": "Pour High Sierra Dome – Dièdre sud-ouest (Maroc, camalots 1 à 4) et Wide Sierra (fissures larges)"
+      }
+    ]
   },
   {
     "categorie": "Cordes",
