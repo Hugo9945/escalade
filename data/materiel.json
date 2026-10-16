@@ -15,13 +15,23 @@
         "notes": "Pour High Sierra Dome – Dièdre sud-ouest (Maroc, camalots 1 à 4) et Wide Sierra (fissures larges)"
       },
       {
+        "nom": "Mousqueton à doigt fil",
+        "quantite": "au fur et à mesure",
+        "marque": "CAMP",
+        "details": "Nano 22, orange",
+        "annee": "",
+        "etat": "",
+        "priorite": "Haute",
+        "notes": "En racheter régulièrement, pas de quantité fixe"
+      },
+      {
         "nom": "Chaussons",
         "quantite": "1",
         "marque": "La Sportiva",
         "details": "TC Pro",
         "annee": "",
         "etat": "",
-        "priorite": "",
+        "priorite": "Moyenne",
         "notes": "Pour Hugo ; taille à déterminer (à essayer)"
       },
       {
@@ -31,18 +41,18 @@
         "details": "Finale ou équivalent",
         "annee": "",
         "etat": "",
-        "priorite": "",
+        "priorite": "Moyenne",
         "notes": "Pour Hugo ; taille à déterminer (à essayer)"
       },
       {
-        "nom": "Mousqueton à doigt fil",
-        "quantite": "",
-        "marque": "CAMP",
-        "details": "Nano 22, orange",
+        "nom": "Alien",
+        "quantite": "1",
+        "marque": "",
+        "details": "noir",
         "annee": "",
         "etat": "",
-        "priorite": "",
-        "notes": "Quantité à préciser"
+        "priorite": "Moyenne",
+        "notes": "En plus de celui qu'on a déjà"
       },
       {
         "nom": "Corde à simple",
@@ -51,7 +61,7 @@
         "details": "40 ou 50 m, fine",
         "annee": "",
         "etat": "",
-        "priorite": "",
+        "priorite": "Basse",
         "notes": ""
       },
       {
@@ -61,7 +71,7 @@
         "details": "Totem Cam noir (0.50)",
         "annee": "",
         "etat": "",
-        "priorite": "",
+        "priorite": "Basse",
         "notes": ""
       },
       {
@@ -71,18 +81,8 @@
         "details": "Totem Cam bleu (0.65)",
         "annee": "",
         "etat": "",
-        "priorite": "",
+        "priorite": "Basse",
         "notes": ""
-      },
-      {
-        "nom": "Alien",
-        "quantite": "1",
-        "marque": "",
-        "details": "noir",
-        "annee": "",
-        "etat": "",
-        "priorite": "",
-        "notes": "En plus de celui qu'on a déjà"
       },
       {
         "nom": "Sac de couchage",
@@ -91,7 +91,7 @@
         "details": "",
         "annee": "",
         "etat": "",
-        "priorite": "",
+        "priorite": "Basse",
         "notes": "Pour Hugo"
       },
       {
@@ -101,7 +101,7 @@
         "details": "",
         "annee": "",
         "etat": "",
-        "priorite": "",
+        "priorite": "Basse",
         "notes": "Pour Marine"
       },
       {
@@ -111,7 +111,7 @@
         "details": "",
         "annee": "",
         "etat": "",
-        "priorite": "",
+        "priorite": "Basse",
         "notes": "Pour Hugo"
       },
       {
@@ -121,7 +121,7 @@
         "details": "",
         "annee": "",
         "etat": "",
-        "priorite": "",
+        "priorite": "Basse",
         "notes": "Pour Marine"
       },
       {
@@ -131,7 +131,7 @@
         "details": "",
         "annee": "",
         "etat": "",
-        "priorite": "",
+        "priorite": "Basse",
         "notes": ""
       },
       {
@@ -141,7 +141,7 @@
         "details": "",
         "annee": "",
         "etat": "",
-        "priorite": "",
+        "priorite": "Basse",
         "notes": ""
       },
       {
@@ -151,7 +151,7 @@
         "details": "Blow 2",
         "annee": "",
         "etat": "",
-        "priorite": "",
+        "priorite": "Basse",
         "notes": ""
       }
     ]
