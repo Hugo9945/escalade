@@ -6116,5 +6116,1955 @@
     ],
     "equipement": "equipee",
     "cote_equipement": "P1"
+  },
+  {
+    "id": "adrar-iffran-lone-tree-rib",
+    "nom": "Adrar Iffran – Lone Tree Rib",
+    "sous_titre": "Courte voie de 3 longueurs sur quartzite – Tafraout (Anti-Atlas)",
+    "massif": "Maroc",
+    "secteur": "Adrar Iffran",
+    "coordonnees": {
+      "lat": 29.83046,
+      "lon": -9.00593,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Lone Tree Rib",
+        "url": "https://www.camptocamp.org/routes/1740329"
+      }
+    ],
+    "objectif": "Voie courte de 3 longueurs (4a, 4a, 4b) sur une arête puis une fissure.",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "4b",
+    "engagement": "II · exposition E3",
+    "hauteur": "90 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "3",
+    "orientation": "E, NE, N",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, face et pilier.",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "Niveau 4b facile pour toi, mais exposition E3 annoncée et L1 jugée engagée par le seul retour.",
+    "projet": "Maroc",
+    "approche": "Approche courte, à vue.",
+    "descente": "Sur l'autre versant, par un couloir facile.",
+    "materiel": "",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "À gauche d'un couloir, sur une arête peu marquée."
+          },
+          {
+            "n": "L2",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Sortir du triangle."
+          },
+          {
+            "n": "L3",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Fissure majeure à gauche."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "L1 jugée engagée ; rocher excellent ; voie belle mais trop courte, dans un coin un peu reculé ; à l'ombre et froid ce jour-là (sortie du 03/02/2025, dernier retour sur C2C)."
+    ],
+    "horaires": "2 h selon un retour (sortie du 03/02/2025).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1740329 (Adrar Iffran : Lone Tree Rib), consulté le 16/10/2026",
+      "Sorties Camptocamp 1740330 (03/02/2025), consultées le 16/10/2026",
+      "Topo cité par C2C : Vertical Pirate Escalade (verticalpirate-escalade.com, « Lone Tree Rib – Adrar Iffran »)",
+      "Historique (C2C) : Marion et Ben Wintringham, Mike Mortimer, octobre 2009"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "adrar-umlil-1-noir-c-est-noir",
+    "nom": "Adrar Umlil 1 – Adrar Asmit : Noir c'est noir",
+    "sous_titre": "Wild Country (3 premières longueurs) puis variante « canyon » – Tafraout (Anti-Atlas)",
+    "massif": "Maroc",
+    "secteur": "Adrar Umlil 1",
+    "coordonnees": {
+      "lat": 29.81943,
+      "lon": -9.01648,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Adrar Asmit - Noir c'est noir",
+        "url": "https://www.camptocamp.org/routes/1851086"
+      }
+    ],
+    "objectif": "Variante « canyon » des 3 dernières longueurs de « Wild Country » : début basique, fin très classe (résumé C2C). On grimpe les 3 premières longueurs de Wild Country puis la variante.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "5a",
+    "cotation_obligatoire": "5a",
+    "engagement": "I",
+    "hauteur": "145 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "6 (3 de Wild Country + 3 de la variante)",
+    "orientation": "NO",
+    "duree": "1 jour",
+    "ambiance": "Paroi d'abord « globalement tout droit » (Wild Country, non détaillée sur C2C), puis canyon étroit caché derrière la paroi. Au soleil l'après-midi, à l'ombre le matin.",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "5a dans ta limite, mais le crux est un mur de 10 m décrit sans protections et la sortie est peu protégeable ; une large fissure de 10 m est aussi signalée.",
+    "projet": "Maroc",
+    "approche": "1 h.",
+    "descente": "",
+    "materiel": "Un seul jeu de friends jusqu'au #3 peut suffire.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1 à L3",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Les 3 premières longueurs de Wild Country (non détaillées sur C2C, voir le topo papier ; « globalement c'est tout droit »)."
+          },
+          {
+            "n": "L4",
+            "cotation": "",
+            "longueur": 15,
+            "cheminement": "Traversée-montée en ascendance à droite pour rejoindre une plateforme avec 2 arbres (un à gauche, un bien à droite). Prendre celui de droite pour aller chercher le canyon caché bien derrière la paroi à droite."
+          },
+          {
+            "n": "L5",
+            "cotation": "5a",
+            "longueur": 30,
+            "cheminement": "Cheminée large (protection à gauche), mur à droite de 10-15 m (peu protégeable, crux), puis canyon facile, re-mur-cheminée, et en sortir à gauche sur une petite plateforme confortable."
+          },
+          {
+            "n": "L6",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Sortir tout droit au plus facile."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Retour des ouvreurs de la variante (sortie du 07/11/2025, seul et dernier retour sur C2C) : ils jugent que Wild Country ne mérite pas ses 3 étoiles, sauf peut-être par sa sortie du « Black Groove » qu'ils n'ont pas prise.",
+      "R1 : Totem rouge + friend #3. La corde passe dans un petit éboulis juste au-dessus du relayeur : placer un Totem jaune dans la fissure à gauche avant les 3 m de traversée sur la vire pour écarter la corde de l'éboulis (sortie du 07/11/2025).",
+      "R2 sur bloc, R3 sur arbre à gauche, R4 sur l'arbre de droite pour Noir c'est noir (sortie du 07/11/2025).",
+      "Crux de la variante : départ en opposition puis mur à droite, 10 m un peu fins sans protections, puis couloir, large fissure de 10 m et vire à gauche pour le relais (sur bloc) (sortie du 07/11/2025).",
+      "Dernière longueur : mur facile mais peu protégeable ; bon rocher (sortie du 07/11/2025)."
+    ],
+    "horaires": "Approche 1 h (C2C). Petite journée selon un retour (sortie du 07/11/2025).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1851086 (Adrar Umlil 1 : Adrar Asmit - Noir c'est noir), consulté le 16/10/2026",
+      "Sorties Camptocamp 1851087 (07/11/2025), consultées le 16/10/2026",
+      "Livre cité par C2C : Steve Broadbent, « TAFRAOUT – Rock Climbing in Morocco's Anti-Atlas (Volume 2) », Oxford Alpine Club, 2013 (C2C conseille surtout la 3e édition)",
+      "Historique (C2C) : Wild Country par Steve et Katia Broadbent, octobre 2008 ; Noir c'est noir par Arnaud Pasquer et Emilie Guilleman, 7 novembre 2025"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "adrar-umlil-5-south-ridge",
+    "nom": "Adrar Umlil 5 – South Ridge",
+    "sous_titre": "Arête facile sur quartzite – Tafraout (Anti-Atlas)",
+    "massif": "Maroc",
+    "secteur": "Adrar Umlil 5",
+    "coordonnees": {
+      "lat": 29.81795,
+      "lon": -9.01661,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "South Ridge",
+        "url": "https://www.camptocamp.org/routes/1849985"
+      }
+    ],
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "4a",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "hauteur": "165 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "",
+    "orientation": "",
+    "duree": "1 jour",
+    "ambiance": "Quartzite. C2C précise : à la tour 5 et non à la tour 3.",
+    "statut": "a_etudier",
+    "statut_suggere": "faisable",
+    "raison_suggestion": "Seulement 4a et décrite facile, mais la fiche C2C est presque vide (pas de longueurs, pas de matériel) : choix prudent à confirmer avec un topo.",
+    "projet": "Maroc",
+    "approche": "",
+    "descente": "Selon un retour : par la jolie rampe (à protéger) qui coupe la montagne en deux (sortie du 11/11/2025).",
+    "materiel": "",
+    "longueurs": [],
+    "strategie": [],
+    "retex": [
+      "South Ridge : « facile, ça déroule » (sortie du 11/11/2025, seul et dernier retour sur C2C).",
+      "Descente par une rampe à protéger qui coupe la montagne en deux (sortie du 11/11/2025)."
+    ],
+    "horaires": "",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1849985 (Adrar Umlil 5 : South Ridge), consulté le 16/10/2026",
+      "Sorties Camptocamp 1849986 (11/11/2025), consultées le 16/10/2026"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "akida-alabama-buttress",
+    "nom": "Akida – Alabama Buttress",
+    "sous_titre": "Voie sur quartzite – Tafraout (Anti-Atlas)",
+    "massif": "Maroc",
+    "secteur": "Anti-Atlas de Tafraout – Akida",
+    "coordonnees": {
+      "lat": 29.75675,
+      "lon": -9.00715,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Akida:Alabama buttress",
+        "url": "https://www.camptocamp.org/routes/1849844"
+      }
+    ],
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "5a",
+    "cotation_obligatoire": "4c",
+    "engagement": "",
+    "hauteur": "110 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "",
+    "orientation": "SO",
+    "duree": "1 jour",
+    "ambiance": "Quartzite. Fiche C2C très succincte : « mieux que la voisine Mojo ».",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "Libre 5a dans ta limite, mais L1 décrite peu protégeable et relais sur petits coinceurs (Totems, que tu n'as pas ; tes Aliens pourraient peut-être les remplacer, à vérifier).",
+    "projet": "Maroc",
+    "approche": "",
+    "descente": "Selon un retour : par le 1er couloir à droite, puis rive gauche (sortie du 06/11/2025).",
+    "materiel": "",
+    "longueurs": [],
+    "strategie": [],
+    "retex": [
+      "Voie jugée homogène (sortie du 06/11/2025, seul et dernier retour sur C2C).",
+      "L1 peu protégeable. R1 sur microfriend et Totem bleu à droite de l'axe de L2, ou sur un pontet en faisant un contrepoids dans la veine de droite ; R1 est aussi accessible par la droite (possibilité d'échappatoire) (sortie du 06/11/2025).",
+      "R2 sur friend #0.3 + Totems bleu, orange, rouge (sortie du 06/11/2025).",
+      "L4 : fissure à droite puis tout droit (sortie du 06/11/2025)."
+    ],
+    "horaires": "Une matinée selon un retour (sortie du 06/11/2025).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1849844 (Anti-Atlas de Tafraout : Akida:Alabama buttress), consulté le 16/10/2026",
+      "Sorties Camptocamp 1849845 (06/11/2025), consultées le 16/10/2026"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "amzkhssan-wall-amzkhssan-wall",
+    "nom": "Amzkhssan Wall – Amzkhssan Wall",
+    "sous_titre": "Première voie du mur, au centre",
+    "massif": "Maroc",
+    "secteur": "Amzkhssan wall",
+    "coordonnees": {
+      "lat": 29.86079,
+      "lon": -9.03094,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Amzkhssan wall",
+        "url": "https://www.camptocamp.org/routes/1077045"
+      }
+    ],
+    "objectif": "Première voie, au centre du mur (C2C).",
+    "cotation_globale": "D-",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "",
+    "engagement": "II",
+    "hauteur": "110 m (dénivelé des difficultés, C2C) ; sommet à 1400 m",
+    "nb_longueurs": "4",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, face.",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "4c max sur 110 m, dans le niveau, mais équipement P4+ et le seul retour la décrit « facile mais engagée ».",
+    "projet": "Maroc",
+    "approche": "",
+    "descente": "",
+    "materiel": "",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L3",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L4",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": ""
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Un seul retour (sortie du 04/01/2019) : « belle voie facile mais engagée », rocher super. Pas de retour plus récent sur C2C."
+    ],
+    "horaires": "Exemple (04/01/2019) : 1 h 30.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1077045 (Amzkhssan wall), consulté le 16/10/2026",
+      "Sorties Camptocamp 1077046 (04/01/2019), consultées le 16/10/2026",
+      "Topo cité dans la sortie : blog Vertical Pirate, https://verticalpirate-escalade.com/topos-escalade/maroc/tafraout/amzkhssan-wall/"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "amzkhssan-wall-logan-lovin",
+    "nom": "Amzkhssan Wall – Logan Lovin",
+    "sous_titre": "Trois longueurs avec un final aérien",
+    "massif": "Maroc",
+    "secteur": "Amzkhssan wall",
+    "coordonnees": {
+      "lat": 29.86079,
+      "lon": -9.03094,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Logan Lovin",
+        "url": "https://www.camptocamp.org/routes/1077047"
+      }
+    ],
+    "objectif": "Une très belle voie avec un final aérien (C2C).",
+    "cotation_globale": "D-",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "",
+    "engagement": "II",
+    "hauteur": "100 m (dénivelé des difficultés, C2C) ; sommet à 1400 m",
+    "nb_longueurs": "3",
+    "orientation": "",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, face.",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "4c max sur 100 m, dans le niveau, mais équipement P4+ et un retour récent signale très peu de protections possibles (1 à 5 points par longueur).",
+    "projet": "Maroc",
+    "approche": "",
+    "descente": "",
+    "materiel": "",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L3",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": ""
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Peut-être la plus belle voie du mur, finissant sur une proue aérienne majeure ; rocher superbe ; variantes au plus beau et direct (sortie du 04/01/2019).",
+      "Escalade facile mais peu de protections possibles : « 1, 2, 3 ou 5 points posés max par longueur » ; voie jugée la plus sympa des trois faites ce jour-là (sortie du 04/11/2025, enchaînée avec Trick or treat et Amzkhssan rib, retour à pied entre chaque).",
+      "Conditions : trop chaud début novembre, mur plein sud (sortie du 04/11/2025)."
+    ],
+    "horaires": "Exemple (04/01/2019) : 1 h 30.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1077047 (Logan Lovin), consulté le 16/10/2026",
+      "Sorties Camptocamp 1835659 (04/11/2025), 1077048 (04/01/2019), consultées le 16/10/2026",
+      "Topo cité par C2C : blog Vertical Pirate, https://verticalpirate-escalade.com/topos-escalade/maroc/tafraout/amzkhssan-wall/",
+      "Historique (C2C) : ouverture en février 2012 par W. Benfold et S. Broadbent"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "anti-atlas-tafraout-honeycomb-buttress",
+    "nom": "Anti-Atlas de Tafraout – Honeycomb buttress",
+    "sous_titre": "Beau pilier proche du col menant au sommet",
+    "massif": "Anti-Atlas (Maroc)",
+    "secteur": "Anti-Atlas de Tafraout",
+    "coordonnees": {
+      "lat": 29.75431,
+      "lon": -8.9825,
+      "repere": "Point général du secteur sur Camptocamp, commun à plusieurs voies (pas le pied de la voie) : position à vérifier"
+    },
+    "camptocamp": [
+      {
+        "titre": "Anti-Atlas de Tafraout : Honeycomb buttress",
+        "url": "https://www.camptocamp.org/routes/1060867"
+      }
+    ],
+    "objectif": "",
+    "cotation_globale": "AD-",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "hauteur": "135 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, pilier ; terrain d'aventure (aucun équipement en place indiqué sur C2C). Altitude max. env. 2000 m.",
+    "statut": "a_etudier",
+    "statut_suggere": "faisable",
+    "raison_suggestion": "4b max, 135 m, décrite comme pas dure ; mais fiche C2C sans description ni matériel, un seul retour (2018).",
+    "projet": "Maroc",
+    "approche": "",
+    "descente": "",
+    "materiel": "",
+    "longueurs": [],
+    "strategie": [],
+    "retex": [
+      "Très beau pilier, pas dur au vu de la raideur, continu ; « une bonne surprise », un peu court (sortie du 30/11/2018).",
+      "Cotation : le grimpeur dirait 3+/4 selon les endroits, 4b max (sortie du 30/11/2018).",
+      "Accès : village en travaux, attention au bas de caisse (trous et bosses), puis route en terre en construction au-dessus (sortie du 30/11/2018, sans doute plus d'actualité, à vérifier).",
+      "Même jour, la cordée a enchaîné l'après-midi avec Manzakuneen (sortie du 30/11/2018). Dernier retour C2C : 30/11/2018."
+    ],
+    "horaires": "2 h (sortie du 30/11/2018).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1060867 (Anti-Atlas de Tafraout : Honeycomb buttress), consulté le 16/10/2026",
+      "Sortie Camptocamp 1060869 (30/11/2018), consultée le 16/10/2026",
+      "Historique (C2C) : Steve et Katja Broadbent, avril 2008"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "anti-atlas-tafraout-manzakuneen",
+    "nom": "Anti-Atlas de Tafraout – Manzakuneen",
+    "sous_titre": "Pilier peu marqué à gauche du couloir, face W",
+    "massif": "Anti-Atlas (Maroc)",
+    "secteur": "Anti-Atlas de Tafraout",
+    "coordonnees": {
+      "lat": 29.75431,
+      "lon": -8.9825,
+      "repere": "Point général du secteur sur Camptocamp, commun à plusieurs voies (pas le pied de la voie) : position à vérifier"
+    },
+    "camptocamp": [
+      {
+        "titre": "Anti-Atlas de Tafraout : Manzakuneen",
+        "url": "https://www.camptocamp.org/routes/1060871"
+      }
+    ],
+    "objectif": "",
+    "cotation_globale": "PD+",
+    "cotation_libre_max": "3c",
+    "cotation_obligatoire": "3c",
+    "engagement": "",
+    "hauteur": "",
+    "nb_longueurs": "5 selon le topo cité dans un retour (faite en 4 par une cordée, sortie du 30/11/2018)",
+    "orientation": "W",
+    "duree": "",
+    "ambiance": "Quartzite, pilier ; terrain d'aventure (aucun équipement en place indiqué sur C2C). Altitude max. env. 2000 m.",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "Niveau très facile (3c) mais terrain d'aventure peu documenté, et un retour dit qu'elle se protège moins bien (départ en dalle, petits murs).",
+    "projet": "Maroc",
+    "approche": "",
+    "descente": "",
+    "materiel": "",
+    "longueurs": [],
+    "strategie": [],
+    "retex": [
+      "Voie jugée « gentillette », pas merveilleuse malgré 3 étoiles dans le topo ; difficile à coter, on peut passer au plus dur ou au plus facile (sortie du 30/11/2018).",
+      "Se protège un peu moins bien que Honeycomb buttress : quelques petits murs et départ en dalle (sortie du 30/11/2018).",
+      "Découpage : plusieurs vires dans la partie haute prêtent à confusion, sans conséquences ; on peut découper de différentes façons (sortie du 30/11/2018).",
+      "Conditions : quasiment toujours à l'ombre malgré l'orientation, frais au départ (sortie du 30/11/2018).",
+      "Accès : route en travaux sous le secteur à l'époque (retour de 2018, sans doute plus d'actualité, à vérifier). Dernier retour C2C : 30/11/2018."
+    ],
+    "horaires": "1 h dans la voie, en réversible, « sans traîner ni surprotéger » (sortie du 30/11/2018).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1060871 (Anti-Atlas de Tafraout : Manzakuneen), consulté le 16/10/2026",
+      "Sortie Camptocamp 1060875 (30/11/2018), consultée le 16/10/2026",
+      "Historique (C2C) : Steve et Katja Broadbent, février 2008"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "gorge-de-tizgut-superi",
+    "nom": "Gorge de Tizgut, face E – Superi",
+    "sous_titre": "Voie la plus abordable de la face E – départ à gauche d'un arbre",
+    "massif": "Maroc",
+    "secteur": "Gorge de Tizgut - Face E",
+    "coordonnees": {
+      "lat": 29.76161,
+      "lon": -8.90462,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Superi",
+        "url": "https://www.camptocamp.org/routes/1062034"
+      }
+    ],
+    "objectif": "La voie la plus abordable de la face E de la gorge de Tizgut : plusieurs possibilités, de jolis passages (150 m).",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "",
+    "hauteur": "150 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "Non indiqué par C2C (env. 6 selon la seule sortie)",
+    "orientation": "E",
+    "duree": "",
+    "ambiance": "Quartzite, face (C2C). Terrain d'aventure (P4+). Selon la seule sortie : passages en dalle qui se protègent mal, les passages raides se protègent mieux ; une belle fissure de 10 m.",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "4c donc dans le niveau, mais dalles peu protégeables selon le seul retour, « gros friends » sans taille précisée, infos de 2018.",
+    "projet": "Maroc",
+    "approche": "Départ à gauche d'un arbre (C2C). Pas d'autre info.",
+    "descente": "Rien sur la fiche C2C. Selon la sortie du 07/12/2018 : suivre les cairns à droite ; on remonte à un petit col pour passer derrière la grande aiguille et rejoindre la gorge (« assez long »).",
+    "materiel": "",
+    "longueurs": [],
+    "strategie": [],
+    "retex": [
+      "Passages en dalle qui ne se protègent pas très bien ; les pas plus raides se protègent mieux (sortie du 07/12/2018, seul et dernier retour sur C2C).",
+      "Découpage suivi : L1 jusqu'à une terrasse (40 m) ; L2 dans la fissure droit dessus puis un peu à gauche sous le surplomb, puis à droite au-dessus d'un petit couloir-cheminée large (joli passage raide, bien prisu mais peu protégeable) jusqu'à une petite terrasse ; L3 cheminée et dalle (« gros friends ») ; L4 droit vers la fissure (crux), relais en sortie ou 20 m plus haut en sortie des dalles (becquet en proue au-dessus du genévrier) ; puis 2 longueurs de petits ressauts et dalles en 3+ (sortie du 07/12/2018).",
+      "La fissure de 10 m (sangle décolorée blanche en sortie) est jugée la plus belle partie ; ensuite, passer au plus dur sinon c'est du « scrambling » (sortie du 07/12/2018).",
+      "Fin de voie couchée et assez longue jusqu'à la vire (le plus haut de ce que l'on voit), petit cairn 10 m à droite (sortie du 07/12/2018).",
+      "À l'ombre pour les 2 premières longueurs avec un départ à 11 h 30 (sortie du 07/12/2018)."
+    ],
+    "horaires": "3 h 30 à trois grimpeurs (sortie du 07/12/2018).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1062034 (Superi), consulté le 16/10/2026",
+      "Sorties Camptocamp 1062038 (07/12/2018), consultées le 16/10/2026",
+      "Historique (C2C) : Claude Davies et Trevor Jones, 1993"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "gorges-azemmour-voie-des-choupissons",
+    "nom": "Gorges d'Azemmour – Voie des Choupissons",
+    "sous_titre": "Jolie voie facile dans un cadre sauvage, au sud de Tafraout",
+    "massif": "Anti-Atlas (Maroc)",
+    "secteur": "Gorges d'Azemmour",
+    "coordonnees": {
+      "lat": 29.5481,
+      "lon": -9.01223,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Gorges d'Azemmour : Voie des Choupissons",
+        "url": "https://www.camptocamp.org/routes/1740256"
+      }
+    ],
+    "objectif": "Voie de 6 longueurs, facile et abordable mais engagée selon C2C, dans un cadre sauvage.",
+    "cotation_globale": "D-",
+    "cotation_libre_max": "5a",
+    "cotation_obligatoire": "",
+    "engagement": "II · exposition E3",
+    "hauteur": "180 m (dénivelé des difficultés, C2C) ; 195 m en additionnant les longueurs",
+    "nb_longueurs": "6",
+    "orientation": "N",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, face dans un canyon ; terrain d'aventure (P4+), relais à construire (fissures, terrasses). Cadre plus sauvage que la plupart des secteurs, pas de route ni de village en vue (sortie du 31/01/2025).",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "5a max dans le niveau, mais C2C la dit « engagée » (E3, II), en terrain d'aventure sans équipement et avec un seul retour (l'ouverture).",
+    "projet": "Maroc",
+    "approche": "15 min : depuis Azemmour, au S de Tafraout, remonter le fond du canyon jusqu'au pied de la face.",
+    "descente": "",
+    "materiel": "Jeu de friends complet en doublant les tailles moyennes, câblés, sangles.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4a",
+            "longueur": 40,
+            "cheminement": "Dièdre à droite, à quelques mètres du point le plus bas de la paroi. Le remonter jusqu'à une vire puis traverser à gauche pour rejoindre le dièdre."
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": 20,
+            "cheminement": "Remonter le dièdre. À son sommet, traverser à gauche et faire relais sur une large terrasse en contrebas."
+          },
+          {
+            "n": "L3",
+            "cotation": "4c",
+            "longueur": 35,
+            "cheminement": "Gravir une dalle en direction d'une petite écaille verticale que l'on remonte, pour aller faire relais dans une fissure horizontale sur une micro-terrasse."
+          },
+          {
+            "n": "L4",
+            "cotation": "5a",
+            "longueur": 30,
+            "cheminement": "Partir en ascendance à droite pour arriver dans un dièdre que l'on remonte, en poursuivant facilement jusqu'à faire relais à l'aplomb d'un bloc caractéristique (avec des écailles pointant vers le bas) formant un vague dièdre en ascendance à gauche."
+          },
+          {
+            "n": "L5",
+            "cotation": "5a",
+            "longueur": 30,
+            "cheminement": "Remonter ce dièdre puis monter jusqu'à une large terrasse où l'on fait relais."
+          },
+          {
+            "n": "L6",
+            "cotation": "4a",
+            "longueur": 40,
+            "cheminement": "En ascendance vers le sommet, en contournant un mur par la gauche."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Retour des ouvreurs : très jolie voie, belle surprise ; escalade agréable et engagée, dans un secteur où tout semble à faire ; rocher excellent (sortie du 31/01/2025).",
+      "Conditions : froid à l'ombre fin janvier (face N) (sortie du 31/01/2025). Seul retour C2C : 31/01/2025 (ouverture)."
+    ],
+    "horaires": "« Petite journée » (sortie d'ouverture du 31/01/2025).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1740256 (Gorges d'Azemmour : Voie des Choupissons), consulté le 16/10/2026",
+      "Sortie Camptocamp 1740263 (31/01/2025), consultée le 16/10/2026",
+      "Topo cité par C2C : Vertical Pirate Escalade, https://verticalpirate-escalade.com/topos-escalade/maroc/tafraout/voie-des-choupissons-azemmour-gorge/ (non consulté)",
+      "Historique (C2C) : Noémie Laugero et Nicolas Gay, 31/01/2025"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "great-rock-labyrinth-ridge",
+    "nom": "Great Rock (Aylim) – Labyrinth Ridge",
+    "sous_titre": "Grande arête de la route au plateau sommital, environ 800 m de développé",
+    "massif": "Maroc",
+    "secteur": "Great Rock (Aylim) - Knight's peak",
+    "coordonnees": {
+      "lat": 29.86582,
+      "lon": -9.00163,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Labyrinth Ridge",
+        "url": "https://www.camptocamp.org/routes/1851890"
+      }
+    ],
+    "objectif": "Grande arête qui démarre de la route et termine sur le plateau sommital (environ 800 m de développé).",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "5b",
+    "cotation_obligatoire": "",
+    "engagement": "IV",
+    "hauteur": "500 m (dénivelé des difficultés, C2C) ; environ 800 m de développé",
+    "nb_longueurs": "",
+    "orientation": "N, NW",
+    "duree": "",
+    "ambiance": "Quartzite. Fiche C2C à l'état d'ébauche (description « à compléter »). Activités indiquées : escalade et alpinisme.",
+    "statut": "a_etudier",
+    "statut_suggere": "bientot",
+    "raison_suggestion": "Arête de 500 m de dénivelé (800 m de développé) en terrain d'aventure, engagement IV et 5b max : au-dessus de vos grandes voies actuelles, même si l'unique retour la trouve plus facile que prévu.",
+    "projet": "Maroc",
+    "approche": "",
+    "descente": "Pas décrite sur C2C. Un retour : retour à pied par les nombreux lacets de la route, un peu long mais tranquille ; on peut en couper quelques-uns mais pas beaucoup (sortie du 30/11/2025).",
+    "materiel": "Jeu simple de friends du 0.3 au 3, quelques câblés, des sangles. Faisable en baskets de montagne ou en grosses chaussures (C2C).",
+    "longueurs": [],
+    "strategie": [],
+    "retex": [
+      "Un seul retour sur C2C (sortie du 30/11/2025) : itinéraire jugé « très survendu » par le topo ; pas de passage plus dur que des pas de 5b selon cette cordée, grimpé entièrement en baskets.",
+      "Itinéraire : selon ce retour, la tour isolée séparée de la paroi par un vide de 2 m (fissure déversante en A1 ou 6a+) annoncée par le topo n'existe pas ; toute l'arête se suit normalement jusqu'au plateau. Ce retour indique que les premiers parcoureurs auraient fait une erreur d'itinéraire (sortie du 30/11/2025).",
+      "Cordée expérimentée : beaucoup de passages en solo et quelques grandes longueurs sur un seul brin ; partis avec un double jeu de friends et deux brins de 50 m, la deuxième corde est restée dans le sac, beaucoup trop de matériel selon eux (sortie du 30/11/2025).",
+      "Rocher : très bonne quartzite tout du long, voie jugée intéressante et à conseiller ; endroit décrit comme exceptionnel, sauvage et tranquille (sortie du 30/11/2025).",
+      "Retour à pied par la route : pas de circulation, ne pas compter sur le stop (sortie du 30/11/2025).",
+      "Conditions : très beau mais froid le matin, 2 °C au départ fin novembre (sortie du 30/11/2025)."
+    ],
+    "horaires": "Exemple d'une cordée expérimentée (30/11/2025) : départ voiture 7h50, sortie sur le plateau 10h50, retour voiture 12h15. Cette cordée avait prévu une attaque de nuit à la frontale et une journée de reconnaissance de l'approche la veille.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1851890 (Labyrinth Ridge), consulté le 16/10/2026",
+      "Sorties Camptocamp 1851891 (30/11/2025), consultées le 16/10/2026"
+    ],
+    "equipement": null,
+    "cote_equipement": ""
+  },
+  {
+    "id": "high-sierra-dome-diedre-sud-ouest",
+    "nom": "High Sierra Dome – Dièdre sud-ouest",
+    "sous_titre": "Petite voie facile et esthétique, granite – Tafraout (Anti-Atlas)",
+    "massif": "Maroc",
+    "secteur": "High Sierra Dome",
+    "coordonnees": {
+      "lat": 29.69643,
+      "lon": -8.98041,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Dièdre sud ouest",
+        "url": "https://www.camptocamp.org/routes/1893930"
+      }
+    ],
+    "objectif": "Une jolie petite voie facile et esthétique (résumé C2C), 4 longueurs dont un grand dièdre évident en L3.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "",
+    "engagement": "exposition E1",
+    "hauteur": "120 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "4",
+    "orientation": "SO",
+    "duree": "1 jour",
+    "ambiance": "Granite, dalle puis grand dièdre et petite fissure finale. Jugée « franchement sympa et très esthétique » sur C2C.",
+    "statut": "a_etudier",
+    "statut_suggere": "materiel",
+    "raison_suggestion": "Cotation 4c dans tes cordes, mais la fiche demande des Camalots jusqu'au #4 et un jeu de Totems, que tu n'as pas.",
+    "projet": "Maroc",
+    "approche": "Comme toutes les voies de High Sierra : contourner le sommet par la gauche. Départ dans l'axe du grand dièdre de L3, bien visible, à droite d'une gorge (cairn au départ).",
+    "descente": "Continuer vers le nord puis rejoindre à gauche le vallon qui redescend et passe au pied d'Arc Royal.",
+    "materiel": "Un jeu de Totems ; Camalots du #1 au #4.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4c",
+            "longueur": 30,
+            "cheminement": "Attaquer par l'angle gauche de la dalle ; après un buisson, partir à droite et sortir sur une crête (la continuation de la dalle est pourrie) ; la remonter et revenir à gauche au-dessus d'un buisson. Une dernière petite dalle mène au relais (becquets)."
+          },
+          {
+            "n": "L2",
+            "cotation": "3",
+            "longueur": 20,
+            "cheminement": "Remonter par la gauche jusqu'au pied du dièdre."
+          },
+          {
+            "n": "L3",
+            "cotation": "4a",
+            "longueur": 35,
+            "cheminement": "Remonter le dièdre évident et faire relais sous un gros bloc."
+          },
+          {
+            "n": "L4",
+            "cotation": "4b",
+            "longueur": 35,
+            "cheminement": "Aller chercher une jolie petite fissure qui mène aux terrasses du sommet."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "« Facile et esthétique », sans autre détail (sortie du 26/03/2026, dernier retour sur C2C)."
+    ],
+    "horaires": "",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1893930 (High Sierra Dome : Dièdre sud ouest), consulté le 16/10/2026",
+      "Sorties Camptocamp 1893931 (26/03/2026), consultées le 16/10/2026",
+      "Topo cité par C2C : « Climb Tafraout » de Steve Broadbent"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "high-sierra-dome-wide-sierra",
+    "nom": "High Sierra Dome – Wide Sierra",
+    "sous_titre": "Voie courte en fissures, granite – Tafraout (Anti-Atlas)",
+    "massif": "Maroc",
+    "secteur": "High Sierra Dome",
+    "coordonnees": {
+      "lat": 29.69643,
+      "lon": -8.98041,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Wide Sierra",
+        "url": "https://www.camptocamp.org/routes/1740320"
+      }
+    ],
+    "objectif": "Jolie voie facile en fissures (résumé C2C) : 4 longueurs jusqu'au sommet, plus une 5e longueur facultative (« sortie de High Sierra »).",
+    "cotation_globale": "D-",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "II · exposition E1",
+    "hauteur": "120 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "4 (+ 1 longueur de sortie facultative)",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Granite, voie de fissures en style « large » (fissure large, cheminée horizontale, fissure à mains). C2C précise : cotations sèches.",
+    "statut": "a_etudier",
+    "statut_suggere": "materiel",
+    "raison_suggestion": "Niveau 4c dans tes cordes, mais la fiche demande des friends « dont des larges » (fissure large, cheminée) et ton rack s'arrête au #3.",
+    "projet": "Maroc",
+    "approche": "",
+    "descente": "À pied depuis le sommet (après L4). Si l'on fait la L5 (sortie de High Sierra) : descente en rappel.",
+    "materiel": "Friends dont des larges, câblés, sangles.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Dièdre puis dalle, puis traversée vers la droite en cheminée horizontale au-dessus d'une crevasse. Relais sur une large terrasse."
+          },
+          {
+            "n": "L2",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Fissure large à gauche du relais, puis traversée sur la vire vers la droite."
+          },
+          {
+            "n": "L3",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Longue fissure avec un passage plus raide."
+          },
+          {
+            "n": "L4",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": "Droit jusqu'au sommet avec une courte fissure à mains. Relais équipé. Descente à pied possible d'ici."
+          },
+          {
+            "n": "L5",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Sortie de High Sierra (facultatif). Descente en rappel."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Les cotations sont annoncées « sèches » (C2C)."
+    ],
+    "retex": [
+      "Voie décrite comme superbe, facile, en style « large », mais courte ; rocher jugé « super » ; réalisée en une demi-journée (sortie du 29/01/2025, dernier retour sur C2C).",
+      "Au retour, le même grimpeur conseille la cheminée « Titan » (E2, 5b), qu'il décrit comme improtégeable (sortie du 29/01/2025)."
+    ],
+    "horaires": "Demi-journée selon un retour (sortie du 29/01/2025).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1740320 (High Sierra Dome : Wide Sierra), consulté le 16/10/2026",
+      "Sorties Camptocamp 1740321 (29/01/2025), consultées le 16/10/2026",
+      "Topo cité par C2C : Vertical Pirate Escalade (verticalpirate-escalade.com, « Wide Sierra – High Sierra Dome »)",
+      "Historique (C2C) : Jonty Mills, Alex Cowan, Henry Day, janvier 2018"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "lower-eagle-crag-curved-ridge",
+    "nom": "Azrou el Doutoumdah (Lower Eagle Crag) – Curved Ridge",
+    "sous_titre": "Itinéraire facile sur quartzite – Tafraout (Anti-Atlas)",
+    "massif": "Maroc",
+    "secteur": "Azrou el Doutoumdah (Lower Eagle Crag)",
+    "coordonnees": {
+      "lat": 29.81536,
+      "lon": -9.06148,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Curved Ridge",
+        "url": "https://www.camptocamp.org/routes/1849860"
+      }
+    ],
+    "objectif": "Itinéraire facile mais très plaisant (résumé C2C).",
+    "cotation_globale": "",
+    "cotation_libre_max": "3c",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "hauteur": "270 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "",
+    "orientation": "NO",
+    "duree": "1 jour",
+    "ambiance": "Quartzite.",
+    "statut": "a_etudier",
+    "statut_suggere": "faisable",
+    "raison_suggestion": "Seulement 3c, décrite facile par le seul retour, mais la fiche C2C est presque vide (ni matériel ni descente) : à compléter avec un topo.",
+    "projet": "Maroc",
+    "approche": "",
+    "descente": "",
+    "materiel": "",
+    "longueurs": [],
+    "strategie": [],
+    "retex": [
+      "Approche, retour et voie faciles ; vue superbe (sortie du 09/11/2025, seul et dernier retour sur C2C).",
+      "Le même retour signale qu'il manque un relais sur « le dessin » (topo non joint à la fiche C2C) et indique des longueurs d'environ 30 m et 60 m, la seconde facile et pouvant se finir en corde tendue (sortie du 09/11/2025)."
+    ],
+    "horaires": "Petite journée selon un retour (sortie du 09/11/2025).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1849860 (Azrou el Doutoumdah (Lower Eagle Crag) : Curved Ridge), consulté le 16/10/2026",
+      "Sorties Camptocamp 1849861 (09/11/2025), consultées le 16/10/2026"
+    ],
+    "equipement": null,
+    "cote_equipement": ""
+  },
+  {
+    "id": "middle-eagle-eperon-e",
+    "nom": "Middle Eagle – Éperon E",
+    "sous_titre": "Petite voie très facile d'initiation à la pose de points",
+    "massif": "Maroc",
+    "secteur": "Middle eagle",
+    "coordonnees": {
+      "lat": 29.80644,
+      "lon": -9.07153,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Eperon E",
+        "url": "https://www.camptocamp.org/routes/1894552"
+      }
+    ],
+    "objectif": "Petite voie très facile qui permet d'atteindre ce joli sommet ; typiquement une bonne voie d'initiation à l'escalade et à la pose facile des points.",
+    "cotation_globale": "PD+",
+    "cotation_libre_max": "4a",
+    "cotation_obligatoire": "",
+    "engagement": "exposition E1",
+    "hauteur": "100 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "4",
+    "orientation": "E",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, pilier. À la limite de la randonnée et de l'escalade ; escalade pas forcément très belle mais la balade (montée + descente) est plutôt jolie (C2C).",
+    "statut": "a_etudier",
+    "statut_suggere": "faisable",
+    "raison_suggestion": "4a max sur 100 m, exposition E1, voie d'initiation à la pose de points ; C2C conseille un jeu de Totems, a priori remplaçable par vos friends et Aliens (à confirmer).",
+    "projet": "Maroc",
+    "approche": "À vue depuis la route ; quelques cairns.",
+    "descente": "Ne pas rater la tour de guet au sommet ; par la gauche, passer une première diaclase et se diriger globalement vers le col entre Middle et Upper. Descendre alors vers ce col par un couloir facile.",
+    "materiel": "Un jeu de Totems (C2C).",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "Départ",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "On démarre sur une terrasse 5 m au-dessus du point le plus bas."
+          },
+          {
+            "n": "L1",
+            "cotation": "3b",
+            "longueur": 25,
+            "cheminement": "Remonter les dalles faciles en leur centre ; relais sous une partie plus raide."
+          },
+          {
+            "n": "L2",
+            "cotation": "3c",
+            "longueur": 25,
+            "cheminement": "Remonter les dalles un peu plus raides par une fissure évidente ; relais quand ça se couche."
+          },
+          {
+            "n": "L3",
+            "cotation": "4a",
+            "longueur": 45,
+            "cheminement": "Traverser la partie plane, passer un bombement par la droite puis revenir franchement à gauche, franchir un petit dièdre et rejoindre une belle terrasse."
+          },
+          {
+            "n": "L4",
+            "cotation": "3a",
+            "longueur": 15,
+            "cheminement": "Remonter la petite cheminée ; relais au sommet dans des blocs."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Un seul retour sur C2C, très bref : « jolie balade » (sortie du 29/03/2026, groupe de 6)."
+    ],
+    "horaires": "",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1894552 (Eperon E), consulté le 16/10/2026",
+      "Sorties Camptocamp 1894555 (29/03/2026), consultées le 16/10/2026",
+      "Topo cité par C2C : « Morocco Rock » de Paul Donnithorne, éd. 2013, p. 196 (jugé « mauvais » par l'auteur de la fiche, l'édition 2020 « pas mieux »)",
+      "Historique (C2C) : 2007, Davies, Walker et Turnbull ; « il se dit » que c'est la première voie ouverte dans la vallée"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "tafraout-dawn",
+    "nom": "Anti-Atlas de Tafraout – Dawn",
+    "sous_titre": "Triangles au-dessus du village de Tandelt, à gauche d'un grand couloir – départ de la mosquée la plus haute",
+    "massif": "Anti-Atlas (Maroc)",
+    "secteur": "Anti-Atlas de Tafraout",
+    "coordonnees": {
+      "lat": 29.75431,
+      "lon": -8.9825,
+      "repere": "Point général du secteur sur Camptocamp, commun à plusieurs voies (pas le pied de la voie) : position à vérifier"
+    },
+    "camptocamp": [
+      {
+        "titre": "Dawn",
+        "url": "https://www.camptocamp.org/routes/1062710"
+      }
+    ],
+    "objectif": "Suite de triangles bordant à gauche un grand couloir, légèrement à droite au-dessus du village de Tandelt, à l'aplomb de deux maisons cubiques isolées : 230 m de grimpe continue jusqu'à une pointe (rappel de 10 m), puis 100 m de marche-escalade jusqu'au replat final.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "4b",
+    "engagement": "",
+    "hauteur": "230 m (dénivelé des difficultés, C2C), puis env. 100 m de marche-escalade",
+    "nb_longueurs": "",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, pilier (C2C). Terrain d'aventure : aucun équipement signalé. Beaux passages de grimpe, jamais trop durs mais souvent continus (pas de passage de marche dans la voie) ; plusieurs gendarmes à passer. Voie ouverte en décembre 2018, une seule sortie sur C2C (celle des ouvreurs).",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "4b donc dans le niveau, mais terrain d'aventure intégral (P4+), un rappel surplombant et un seul retour (celui des ouvreurs, 2018).",
+    "projet": "Maroc",
+    "approche": "Se garer près de la mosquée la plus haute (village de Tandelt), monter l'escalier qui la longe, puis un ancien chemin jusqu'à un gros palmier au-dessus. De là, traverser à droite vers le pied de la paroi et monter de 20 m dans le couloir jusqu'à la paroi foncée qui marque le début de la voie (niche-grotte bien visible à gauche au-dessus). Env. 100 m de dénivelé.",
+    "descente": "Grand crochet à droite (E) par des pentes faciles jusqu'à un replat terreux au niveau du bas du couloir. De là, une rampe descendante coupée par une courte remontée ramène vers l'ouest au chemin d'approche, puis à la mosquée.",
+    "materiel": "",
+    "longueurs": [
+      {
+        "titre": "Cheminement décrit sur C2C (pas de découpage en longueurs)",
+        "lignes": [
+          {
+            "n": "Départ",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Au pied, à droite de la dalle noire / marron foncé, viser un dièdre bien marqué situé à droite d'une niche-grotte caractéristique visible de loin. Le grand couloir est à droite (150 m au-dessus, une dalle avec une grande tache blanche sert de repère)."
+          },
+          {
+            "n": "Corps de la voie",
+            "cotation": "4b max",
+            "longueur": null,
+            "cheminement": "Viser le dièdre puis continuer tout droit. Plusieurs gendarmes, dont un évitable par la droite par une belle traversée. Un petit sommet semble détaché de la paroi suivante, mais ça communique facilement par la gauche."
+          },
+          {
+            "n": "Rappel",
+            "cotation": "",
+            "longueur": 10,
+            "cheminement": "Au bout de 230 m de dénivelé, pointe qui ne passe plus : rappel surplombant de 10 m (les ouvreurs ont laissé une cordelette en 2018)."
+          },
+          {
+            "n": "Sortie",
+            "cotation": "marche-escalade",
+            "longueur": null,
+            "cheminement": "Un mur blanc à gauche permet de contourner un gros nid d'arbustes et de gagner un petit cirque, d'où l'on rejoint à droite le fil de l'arête. Env. 100 m de marche-escalade, anneaux à la main, jusqu'à un replat qui marque la fin de la voie."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Repère pour le départ : une niche-grotte visible de loin, à gauche du dièdre d'attaque ; et une dalle avec une grande tache blanche 150 m au-dessus du grand couloir (voir photos C2C).",
+      "Prévoir de quoi faire un rappel surplombant de 10 m (la cordelette laissée en 2018 est à vérifier ou remplacer).",
+      "Fin de voie en marche-escalade, « anneaux à la main » selon la fiche (corde raccourcie)."
+    ],
+    "retex": [
+      "Bons relais confortables, souvent à l'ombre derrière des gendarmes (sortie des ouvreurs du 10/12/2018, dernier retour sur C2C).",
+      "Les ouvreurs décrivent une grimpe « au feeling » (sortie du 10/12/2018)."
+    ],
+    "horaires": "9 h – 16 h voiture-voiture, avec un point d'interrogation (sortie du 10/12/2018).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/tafraout-dawn-topo.jpg",
+        "legende": "Tracé et points caractéristiques (flèches : repères) (photo lashemale, Camptocamp, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/tafraout-dawn-topo-2.jpg",
+        "legende": "L'arête vue de profil depuis le retour (photo lashemale, Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 1062710 (Dawn), consulté le 16/10/2026",
+      "Sorties Camptocamp 1062731 (10/12/2018), consultées le 16/10/2026",
+      "Image Camptocamp 1062729 par lashemale (CC-BY-SA)",
+      "Image Camptocamp 1062730 par lashemale (CC-BY-SA)",
+      "Historique (C2C) : ouverture le 10 décembre 2018 par Bernard Amy, Bernard Fontan, Arnaud Pasquer"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "tafraout-donkey-serenades",
+    "nom": "Anti-Atlas de Tafraout – Donkey Serenades",
+    "sous_titre": "Rampe et dalles, à gauche de Pink Lady et à droite de Curved Ridge",
+    "massif": "Anti-Atlas (Maroc)",
+    "secteur": "Anti-Atlas de Tafraout",
+    "coordonnees": {
+      "lat": 29.75431,
+      "lon": -8.9825,
+      "repere": "Point général du secteur sur Camptocamp, commun à plusieurs voies (pas le pied de la voie) : position à vérifier"
+    },
+    "camptocamp": [
+      {
+        "titre": "Donkey Serenades",
+        "url": "https://www.camptocamp.org/routes/1061893"
+      }
+    ],
+    "objectif": "Rampe et dalles dans la face, à gauche de Pink Lady et à droite de Curved Ridge (245 m).",
+    "cotation_globale": "PD+",
+    "cotation_libre_max": "3c",
+    "cotation_obligatoire": "3c",
+    "engagement": "",
+    "hauteur": "245 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "Non indiqué par C2C (au moins 8 d'après la seule sortie, qui cite un R8)",
+    "orientation": "NO",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, face (C2C). Terrain d'aventure (P4+). Selon la seule sortie : dalle facile qui ne se protège pas très bien, belles terrasses, peu de gaz, rocher plutôt moussu.",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "Très facile (3c) mais dalle qui se protège mal selon le seul retour (2018), relais à construire sur gros friends.",
+    "projet": "Maroc",
+    "approche": "Rien sur la fiche C2C. Selon la sortie du 06/12/2018 : pas vraiment de parking, chemin peu identifiable, approche « touffue » mais courte.",
+    "descente": "Rien sur la fiche C2C. Selon la sortie du 06/12/2018 : descente cairnée « impeccable ».",
+    "materiel": "",
+    "longueurs": [],
+    "strategie": [],
+    "retex": [
+      "Grimpe facile en dalle, qui ne se protège pas très bien ; belles terrasses et peu de gaz ; rocher plutôt moussu (sortie du 06/12/2018, seul et dernier retour sur C2C).",
+      "Pas besoin du gros friend #4, mais de gros friends quand même pour les relais (sortie du 06/12/2018).",
+      "L2 fait presque 50 m ; L3 et L4 peuvent se regrouper en une longueur de 50 m ; variante possible de L7 dans une cheminée pour rejoindre R8 – le grimpeur a suivi le topo et l'a regretté (sortie du 06/12/2018).",
+      "Voie restée à l'ombre de 10 h à 13 h (sortie du 06/12/2018)."
+    ],
+    "horaires": "3 h à trois grimpeurs en prenant le temps des photos (sortie du 06/12/2018).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1061893 (Donkey Serenades), consulté le 16/10/2026",
+      "Sorties Camptocamp 1061901 (06/12/2018), consultées le 16/10/2026",
+      "Historique (C2C) : Sheshadri Nadathur et Caroline Culwick, avril 2008"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "tafraout-northwest-buttress",
+    "nom": "Anti-Atlas de Tafraout – Northwest Buttress",
+    "sous_titre": "Petit dôme en face des rochers peints – voie équipée (spits)",
+    "massif": "Anti-Atlas (Maroc)",
+    "secteur": "Anti-Atlas de Tafraout",
+    "coordonnees": {
+      "lat": 29.75431,
+      "lon": -8.9825,
+      "repere": "Point général du secteur sur Camptocamp, commun à plusieurs voies (pas le pied de la voie) : position à vérifier"
+    },
+    "camptocamp": [
+      {
+        "titre": "Northwest Buttress",
+        "url": "https://www.camptocamp.org/routes/1061880"
+      }
+    ],
+    "objectif": "Petit dôme en face des rochers peints, voie spitée de 3 longueurs (115 m).",
+    "cotation_globale": "PD+",
+    "cotation_libre_max": "4b (IV)",
+    "cotation_obligatoire": "4b",
+    "engagement": "I",
+    "hauteur": "115 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "3",
+    "orientation": "NO",
+    "duree": "1 jour",
+    "ambiance": "Granite selon C2C (« vrai beau granit à gros grains » selon une sortie), face. Voie équipée de spits (P1+), mais points espacés selon un retour (6 points sur 50 m).",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "Facile (IV) et équipée, mais spits très espacés selon un retour (6 points sur 50 m) : à la limite de « faisable ».",
+    "projet": "Maroc",
+    "approche": "Rien sur la fiche C2C (« au pied de la voie… » selon la sortie du 06/12/2018).",
+    "descente": "À pied par la gauche (E), plus facile mais un peu plus longue que par la droite (O). Rappels possibles dans la voie.",
+    "materiel": "6 dégaines, 2 sangles.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "IV",
+            "longueur": 33,
+            "cheminement": ""
+          },
+          {
+            "n": "L2",
+            "cotation": "III",
+            "longueur": 35,
+            "cheminement": ""
+          },
+          {
+            "n": "L3",
+            "cotation": "IV",
+            "longueur": 47,
+            "cheminement": ""
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Descente à pied par la gauche (E) : plus facile ; par la droite (O) : plus court. Rappels possibles dans la voie."
+    ],
+    "retex": [
+      "« En France, il y aurait 3 fois plus de spits » : 6 points sur 50 m, mais c'est tout droit et pas trop dur ; un peu plus simple que Freeway (sortie du 06/12/2018).",
+      "Grimpe agréable dans le niveau, pas « la voie du siècle » ; faite en une seule longueur, second à corde tendue en baskets (sortie du 23/03/2019, dernier retour sur C2C).",
+      "Descente par la gauche jugée tranquille, même sur rocher trempé par la pluie (sortie du 23/03/2019)."
+    ],
+    "horaires": "1 h 15 (sortie du 06/12/2018) ; 20 min en une seule longueur, corde tendue (sortie du 23/03/2019).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1061880 (Northwest Buttress), consulté le 16/10/2026",
+      "Sorties Camptocamp 1100208 (23/03/2019), 1061881 (06/12/2018), consultées le 16/10/2026",
+      "Historique (C2C) : Steve Broadbent, Daniyal Mueenuddin et Zoe Bouras, décembre 2016"
+    ],
+    "equipement": "equipee",
+    "cote_equipement": "P1+"
+  },
+  {
+    "id": "tafraout-spacewalk",
+    "nom": "Anti-Atlas de Tafraout – Spacewalk",
+    "sous_titre": "Lignes de faiblesse de la face SO de Crag W",
+    "massif": "Anti-Atlas (Maroc)",
+    "secteur": "Anti-Atlas de Tafraout",
+    "coordonnees": {
+      "lat": 29.75431,
+      "lon": -8.9825,
+      "repere": "Point général du secteur sur Camptocamp, commun à plusieurs voies (pas le pied de la voie) : position à vérifier"
+    },
+    "camptocamp": [
+      {
+        "titre": "Spacewalk",
+        "url": "https://www.camptocamp.org/routes/1061512"
+      }
+    ],
+    "objectif": "Ligne qui exploite les lignes de faiblesse de la face SO de Crag W (240 m).",
+    "cotation_globale": "",
+    "cotation_libre_max": "5a selon la cotation C2C (mais la description cite deux passages en 5b, et une option en 5b/c)",
+    "cotation_obligatoire": "5a",
+    "engagement": "",
+    "hauteur": "240 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "Non indiqué par C2C (une sortie parle d'une L7)",
+    "orientation": "SO",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, face (C2C). Terrain d'aventure (P4+). Selon les retours : ligne pas toujours très claire, quelques mètres dans la végétation (cactus au relais), protection pas évidente dans le haut et un gros bloc très branlant dans le mur marron.",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "Passages en 5b (sa limite) en terrain d'aventure, protection difficile dans le haut et rocher branlant signalé par un retour.",
+    "projet": "Maroc",
+    "approche": "Du bord de la route, monter à vue vers le col puis longer à flanc jusqu'à la falaise. La voie commence à la frontière entre la face SE et la face SO (30-40 min).",
+    "descente": "À pied, en longeant la face SE pour revenir au pied de la voie.",
+    "materiel": "",
+    "longueurs": [
+      {
+        "titre": "Découpage de la description C2C (indicatif)",
+        "lignes": [
+          {
+            "n": "1",
+            "cotation": "5b",
+            "longueur": 30,
+            "cheminement": "Courte rampe blanche, en sortir par un petit mur (5b) pour basculer dans le canyon ; le remonter puis rampe en ascendance gauche jusqu'à un pilier blanc."
+          },
+          {
+            "n": "2",
+            "cotation": "5b",
+            "longueur": 25,
+            "cheminement": "Traversée à gauche, passer une première arête puis, par une traversée plus fine (5b), rejoindre la seconde arête."
+          },
+          {
+            "n": "3",
+            "cotation": "IV+ (ou 5b/c)",
+            "longueur": null,
+            "cheminement": "Continuer à traverser vers la gauche pour revenir en ascendance à droite après une terrasse végétale (IV+), ou poursuivre dans le mur marron au-dessus du relais (5b/c)."
+          },
+          {
+            "n": "4",
+            "cotation": "IV/IV+",
+            "longueur": null,
+            "cheminement": "Système de rampes vers la gauche, passer à gauche d'une tache noire, poursuivre en ascendance gauche jusqu'à un amphithéâtre."
+          },
+          {
+            "n": "5",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Sortir de l'amphithéâtre par la rampe en ascendance gauche puis suivre la ligne facile jusqu'au sommet."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Au 3e passage, préférer la traversée à gauche en IV+ plutôt que le mur marron en 5b/c au-dessus du relais (option donnée par la fiche)."
+    ],
+    "retex": [
+      "Approche évidente : monter vers le petit col bien visible depuis le parking ; ne pas essayer de le contourner par la gauche à flanc, « ça n'passe pas » (sortie du 02/04/2019, dernier retour sur C2C).",
+      "Le mur marron au-dessus du relais (option 5b/c) : raide, agréable à grimper mais peu protégeable dans le haut ; le second n'avait comme protection qu'un gros bloc très branlant (sortie du 02/04/2019).",
+      "Ligne pas toujours très claire, grimpe jugée « très balade », un peu décevante malgré l'engagement annoncé ; jolie traversée un peu aérienne à gauche (sortie du 02/04/2019).",
+      "Pas la plus belle du séjour, quelques mètres dans la végétation, traces de magnésie ; traversée facile en L2, belle L4 puis plus facile (sortie du 03/12/2018).",
+      "Variante à L7 : partir à gauche pour un petit surplomb (pas de 5c/5c+) (sortie du 03/12/2018).",
+      "Auto-stop difficile au col (peu de voitures) (sortie du 03/12/2018)."
+    ],
+    "horaires": "1 h 30 dans la voie (sortie du 02/04/2019) ; 3 h 30 – 4 h ? (sortie du 03/12/2018). Approche 30-40 min (C2C).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1061512 (Spacewalk), consulté le 16/10/2026",
+      "Sorties Camptocamp 1100225 (02/04/2019), 1061513 (03/12/2018), consultées le 16/10/2026",
+      "Historique (C2C) : Joe Brown, Derek Walker et Chris Bonington, 2001"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "tafraout-the-great-slab",
+    "nom": "Anti-Atlas de Tafraout – The Great Slab",
+    "sous_titre": "Dalle en forme de tremplin au-dessus du village d'Oumsnat",
+    "massif": "Anti-Atlas (Maroc)",
+    "secteur": "Anti-Atlas de Tafraout",
+    "coordonnees": {
+      "lat": 29.75431,
+      "lon": -8.9825,
+      "repere": "Point général du secteur sur Camptocamp, commun à plusieurs voies (pas le pied de la voie) : position à vérifier"
+    },
+    "camptocamp": [
+      {
+        "titre": "The Great Slab",
+        "url": "https://www.camptocamp.org/routes/1062396"
+      }
+    ],
+    "objectif": "Belle dalle en forme de tremplin au-dessus du village d'Oumsnat (150 m).",
+    "cotation_globale": "AD-",
+    "cotation_libre_max": "3c",
+    "cotation_obligatoire": "3c",
+    "engagement": "",
+    "hauteur": "150 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "Non indiqué par C2C (4 longueurs selon la seule sortie)",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, dalle (C2C). Terrain d'aventure (P4+). Selon la seule sortie : grande voie en dalle peu protégeable, relais pas faciles à confectionner.",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "Facile (3c) mais dalle décrite comme peu protégeable avec des relais difficiles à construire, et très peu d'infos.",
+    "projet": "Maroc",
+    "approche": "Rien sur la fiche C2C. Selon la sortie du 09/12/2018 : pas vraiment de sente trouvée ; il serait plus pratique de se garer dans le village d'Oumsnat (plus court) que de partir de la grande route.",
+    "descente": "Rien sur la fiche C2C. Selon la sortie du 09/12/2018 : par le couloir, « assez longue et peu commode ».",
+    "materiel": "",
+    "longueurs": [],
+    "strategie": [],
+    "retex": [
+      "Voie choisie en solo par ce grimpeur car « peu protégeable, relais pas facile à confectionner » (sortie du 09/12/2018, seul et dernier retour sur C2C).",
+      "L1 facile, jusqu'à la petite terrasse à droite du surplomb de la paroi de gauche ; L2 agréable en suivant une sorte de fissure à droite sur la dalle ; L3 idem, sensation de « toboggan » en regardant derrière ; puis rejoindre le fil de l'arête qui se redresse ; L4 sur l'arête finale, plus facile qu'elle n'en a l'air de loin (sortie du 09/12/2018).",
+      "Au sommet, vue sur « Agony Arête » au-dessus (sortie du 09/12/2018).",
+      "Retour à Tafraout en auto-stop, jugé facile (sortie du 09/12/2018)."
+    ],
+    "horaires": "Selon la sortie du 09/12/2018 (en solo) : 30 min dans la voie ; départ de Tafraout vers 10 h 20, pied de la voie à 12 h, sommet à 12 h 30, retour à Tafraout à 14 h 45.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1062396 (The Great Slab), consulté le 16/10/2026",
+      "Sorties Camptocamp 1062398 (09/12/2018), consultées le 16/10/2026",
+      "Historique (C2C) : Paul Ross et Trevor Jones, 1995"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "tagmout-lyin-eyes-bishops-balcony",
+    "nom": "Tagmout (Robin Hood Rocks) – Lyin' Eyes + Bishop's Balcony",
+    "sous_titre": "Deux courtes longueurs enchaînées (deux voies en une fiche C2C) – départ au bord de la route",
+    "massif": "Maroc",
+    "secteur": "Tafraout",
+    "coordonnees": {
+      "lat": 29.72165,
+      "lon": -8.97274,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Tafraout : Tagmout (Robin hood Rocks) Lyin' Eyes + Bishop's balcony",
+        "url": "https://www.camptocamp.org/routes/725872"
+      }
+    ],
+    "objectif": "Voie courte en fissures, bien pour une première approche du rocher : Lyin' Eyes (L1) puis Bishop's Balcony (L2).",
+    "cotation_globale": "",
+    "cotation_libre_max": "5a",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "hauteur": "35 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "2",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Fissure qui raye une dalle puis fissure avec un toit ; terrain d'aventure. Type de rocher non précisé sur C2C.",
+    "statut": "a_etudier",
+    "statut_suggere": "faisable",
+    "raison_suggestion": "35 m, 5a max, fissures qui se protègent bien selon C2C, matériel demandé (friends jusqu'au #3) couvert par notre rack.",
+    "projet": "Maroc",
+    "approche": "Nulle : départ au bord de la route.",
+    "descente": "À pied par la gauche (+ un petit rappel équipé sangles + maillon), puis regagner le petit couloir.",
+    "materiel": "2 jeux de Camalot C4 jusqu'au #3, 1 jeu de C3.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "",
+            "longueur": 15,
+            "cheminement": "Lyin' Eyes : fissure qui raye une dalle. Relais sur la vire au-dessus (« très sympa »). Plus dure que L2, se protège bien."
+          },
+          {
+            "n": "L2",
+            "cotation": "",
+            "longueur": 20,
+            "cheminement": "Bishop's Balcony : la fissure et le toit à passer juste au-dessus (« plus facile qu'il n'y paraît »)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "L1 plus dure que L2, mais se protège bien.",
+      "Voie courte, bien pour une première approche du rocher."
+    ],
+    "retex": [],
+    "horaires": "",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 725872 (Tafraout : Tagmout (Robin hood Rocks) Lyin' Eyes + Bishop's balcony), consulté le 16/10/2026",
+      "Aucune sortie sur Camptocamp (consulté le 16/10/2026)",
+      "Topo cité par C2C : Steve Broadbent, « Tafraout, Rock Climbing in Morocco's Anti-Atlas », vol. 1 (The south side of Jebel El Kest and the Ameln Valley), Oxford Alpine Club (disponible à Tafraout, hôtel Les Amandiers ou restaurant La Kasbah, selon C2C)"
+    ],
+    "equipement": null,
+    "cote_equipement": ""
+  },
+  {
+    "id": "tazka-second-dome-freeway",
+    "nom": "Tazka second dome – Freeway",
+    "sous_titre": "Grande voie courte équipée (spits) menant au sommet d'un dôme",
+    "massif": "Anti-Atlas (Maroc)",
+    "secteur": "Tazka second dome",
+    "coordonnees": {
+      "lat": 29.75431,
+      "lon": -8.9825,
+      "repere": "Point général du secteur sur Camptocamp, commun à plusieurs voies (pas le pied de la voie) : position à vérifier"
+    },
+    "camptocamp": [
+      {
+        "titre": "Tazka second dome : Freeway",
+        "url": "https://www.camptocamp.org/routes/1060476"
+      }
+    ],
+    "objectif": "Une des grandes (courtes) voies spitées de Tafraout, menant au sommet d'un dôme. Trois lignes d'une longueur plus dures à côté.",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "",
+    "hauteur": "120 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "",
+    "orientation": "SE",
+    "duree": "1 jour",
+    "ambiance": "Granite, dalle en friction ; voie équipée de spits (P1+ sur C2C) mais points espacés par endroits selon un retour. Altitude max. env. 2000 m.",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "Niveau OK (4c) mais un retour signale un départ exposé au crux (1er point à 5-6 m) et 15 m sans point en L3.",
+    "projet": "Maroc",
+    "approche": "",
+    "descente": "À pied (sortie du 27/11/2018).",
+    "materiel": "Rien d'indiqué sur la fiche C2C. Un retour : 8 dégaines, et un tout petit friend « style Totem Cam » pour trou utile en L3 (sortie du 27/11/2018).",
+    "longueurs": [],
+    "strategie": [],
+    "retex": [
+      "Très belle voie facile en dalle, en friction, vivement recommandée pour le niveau (sortie du 31/12/2018).",
+      "L1 : attention à la cotation ; départ exposé (1er point à 5-6 m, 2e loin aussi), et c'est le passage clé ; ensuite plus facile (sortie du 27/11/2018).",
+      "L3 : crochet droite-gauche, passage par la cheminée ; suite bien exposée (1er point 15 m au-dessus du relais, un spit à gauche sur le bloc avant la cheminée n'a pas été vu) ; un tout petit friend pour trou est utile pour protéger ce passage. Ensuite ça se couche jusqu'au sommet (sortie du 27/11/2018).",
+      "Une voie inachevée croise Freeway en L1 ; pas de relais en haut à gauche (sortie du 31/12/2018). Dernier retour C2C : 31/12/2018."
+    ],
+    "horaires": "1 h 30 dans la voie (sorties du 27/11 et du 31/12/2018).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1060476 (Tazka second dome : Freeway), consulté le 16/10/2026",
+      "Sorties Camptocamp 1077034 (31/12/2018), 1060477 (27/11/2018), consultées le 16/10/2026",
+      "Topo cité dans une sortie C2C : Vertical Pirate Escalade, https://verticalpirate-escalade.com/topos-escalade/maroc/tafraout/tazka-second-dome/ (non consulté)",
+      "Historique (C2C) : Steve Broadbent et Anna Pietrowski, octobre 2013"
+    ],
+    "equipement": "equipee",
+    "cote_equipement": "P1+"
+  },
+  {
+    "id": "tete-du-lion-are-we-there-yet",
+    "nom": "Tête du Lion – Are we there yet ?",
+    "sous_titre": "Départ alternatif de l'Arête du Lion, plus facile mais très peu protégeable",
+    "massif": "Maroc",
+    "secteur": "Tête du Lion",
+    "coordonnees": {
+      "lat": 29.78505,
+      "lon": -8.96598,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Are we there yet ?",
+        "url": "https://www.camptocamp.org/routes/1161456"
+      }
+    ],
+    "objectif": "Alternative au départ de l'Arête du Lion : 150 à 180 m plus facile mais très peu protégeable, qui rejoint la voie classique sur l'arête.",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "5a",
+    "cotation_obligatoire": "5a",
+    "engagement": "IV · exposition E4",
+    "hauteur": "150 m (dénivelé des difficultés, C2C), entre 1400 et 1600 m",
+    "nb_longueurs": "4",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, face. Très peu protégeable ; on reste globalement à droite d'un profond couloir herbeux. Topo de Tafraout très peu précis, « mais ça passe partout » (C2C).",
+    "statut": "a_etudier",
+    "statut_suggere": "bientot",
+    "raison_suggestion": "5a dans le niveau mais exposition E4, très peu protégeable et engagement IV, et la sortie se fait par l'Arête du Lion (5b+).",
+    "projet": "Maroc",
+    "approche": "Attaque 30 m à droite du départ de l'Arête du Lion.",
+    "descente": "",
+    "materiel": "",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "3b",
+            "longueur": 30,
+            "cheminement": "Remonter des rampes vers la droite jusqu'à se poser sur un éperon."
+          },
+          {
+            "n": "L2",
+            "cotation": "4b",
+            "longueur": 30,
+            "cheminement": "Légère ascendance à droite. Relais moyen sur une sangle."
+          },
+          {
+            "n": "L3",
+            "cotation": "4b",
+            "longueur": 30,
+            "cheminement": "Droit au-dessus, protection un peu meilleure. Relais sur becquet."
+          },
+          {
+            "n": "L4",
+            "cotation": "4b",
+            "longueur": 40,
+            "cheminement": "Légèrement à gauche en montant. Relais sur l'arête, où on rejoint la classique (Arête du Lion)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Cette voie rejoint l'Arête du Lion (C2C 1092775) : voir sa fiche pour la suite et la descente."
+    ],
+    "retex": [
+      "Un seul retour (sortie du 12/11/2019, enchaînée avec l'Arête du Lion) : approche instable (« loose ») ; montés trop haut dans le couloir, deux longueurs tirées pour retrouver le départ.",
+      "Voie jugée « paumatoire » et « passe-partout » : passer au mieux, « c'est l'aventure Tafraout » (sortie du 12/11/2019).",
+      "Arête finale magnifique ; descente « bavante » ; trop chaud et pas assez d'eau (sortie du 12/11/2019)."
+    ],
+    "horaires": "Exemple (12/11/2019) : 4 h pour la voie (avec l'arête finale).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1161456 (Are we there yet ?), consulté le 16/10/2026",
+      "Sorties Camptocamp 1161457 (12/11/2019), consultées le 16/10/2026",
+      "Livre cité par C2C : « Tafraout Pocket Guides vol 1 »",
+      "Historique (C2C) : Tiffany Caprarella et Danny Woodward, décembre 2008"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "tete-du-lion-arete-du-lion",
+    "nom": "Tête du Lion – Arête du Lion",
+    "sous_titre": "Arête de 400 m sur ce sommet remarquable de Tafraout",
+    "massif": "Maroc",
+    "secteur": "Tête du Lion",
+    "coordonnees": {
+      "lat": 29.77944,
+      "lon": -8.96858,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Arête du Lion",
+        "url": "https://www.camptocamp.org/routes/1092775"
+      }
+    ],
+    "objectif": "Belle voie sur ce sommet remarquable (C2C).",
+    "cotation_globale": "D+",
+    "cotation_libre_max": "5b+",
+    "cotation_obligatoire": "",
+    "engagement": "IV",
+    "hauteur": "400 m (dénivelé des difficultés, C2C) ; 1000 m de dénivelé d'accès ; sommet à 1700 m",
+    "nb_longueurs": "",
+    "orientation": "W",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, arête. Voie peu soutenue, avec par endroits des passages de 5 (C2C). Rocher « souvent parfait » selon un retour.",
+    "statut": "a_etudier",
+    "statut_suggere": "bientot",
+    "raison_suggestion": "Cotation libre 5b+ (au-dessus de votre 5b en grande voie), engagement IV et équipement P4+ sur 400 m.",
+    "projet": "Maroc",
+    "approche": "Remonter le couloir sous la face. Partir sous un dièdre (C2C).",
+    "descente": "« Assez évidente » selon C2C. Un retour la juge « bavante » (sortie du 12/11/2019) ; un autre trouve le retour un peu long (sortie du 13/02/2019).",
+    "materiel": "",
+    "longueurs": [],
+    "strategie": [
+      "Départ alternatif plus facile (mais très peu protégeable) : « Are we there yet ? » (C2C 1161456), qui rejoint l'arête (voir sa fiche)."
+    ],
+    "retex": [
+      "Rocher souvent parfait, escalade agréable malgré des longueurs moins difficiles ; voie jugée « pas si dure » et conforme au topo ; approche « vraiment amusante » ; face pas si raide (sortie du 13/02/2019).",
+      "Approche : terrain instable (« loose ») ; une cordée est montée trop haut dans le couloir et a dû tirer deux longueurs pour retrouver le départ (sortie du 12/11/2019, par « Are we there yet ? »).",
+      "Arête finale « magnifique » (sortie du 12/11/2019).",
+      "Conditions : trop chaud et pas assez d'eau à la mi-novembre (sortie du 12/11/2019).",
+      "Pas de retour plus récent que 2019 sur C2C."
+    ],
+    "horaires": "Exemple (13/02/2019) : 8h–16h de voiture à voiture.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1092775 (Arête du Lion), consulté le 16/10/2026",
+      "Sorties Camptocamp 1161457 (12/11/2019), 1092785 (13/02/2019), consultées le 16/10/2026",
+      "Livre cité par C2C : « Tafraout Pocket Guides vol 1 »",
+      "Topo Vertical Pirate (lien noté par le propriétaire) : https://verticalpirate-escalade.com/topos-escalade/maroc/tafraout/lions-face-ridge/",
+      "Historique (C2C) : Lee Brown, Claude Davis, Derek Walker et Pete Turnbull en 1997"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "tifghalt-lower-harbinger",
+    "nom": "Tifghalt Lower – Harbinger",
+    "sous_titre": "Une des lignes de faiblesse de gauche de la face S",
+    "massif": "Maroc",
+    "secteur": "Tifghalt lower",
+    "coordonnees": {
+      "lat": 29.75056,
+      "lon": -8.9228,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Harbinger",
+        "url": "https://www.camptocamp.org/routes/1061259"
+      }
+    ],
+    "objectif": "Ligne de faiblesse à gauche de la face S du Tifghalt Lower, avec de nombreuses possibilités dans le haut (300 m).",
+    "cotation_globale": "D-",
+    "cotation_libre_max": "5a",
+    "cotation_obligatoire": "4c",
+    "engagement": "III",
+    "hauteur": "300 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "Non indiqué par C2C (7 à 9 selon une sortie)",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, face (C2C). Vrai terrain d'aventure (P4+) : face complexe où il est difficile de savoir si l'on est dans la voie ; dièdres, cheminées, fissures et écailles avec de belles terrasses entre les difficultés ; pas mal de plantes, rocher souvent correct selon les retours.",
+    "statut": "a_etudier",
+    "statut_suggere": "materiel",
+    "raison_suggestion": "Un retour dit que les friends #3 et #4 ont vraiment manqué (pas de #4 chez nous), en plus d'un grand TA de 300 m (engagement III) difficile à suivre.",
+    "projet": "Maroc",
+    "approche": "",
+    "descente": "Rien sur la fiche C2C. Selon la sortie du 02/12/2018 : rampe jusqu'à 10 m au-dessus du col en suivant l'arête ; au bout de l'arête, partir à droite et, par un système de vires et de désescalade, gagner la brèche, puis rejoindre le grand couloir entre le Tifghalt Lower et l'Upper. Itinéraire de descente pas certain.",
+    "materiel": "Rien sur la fiche C2C. Selon la sortie du 02/12/2018 : un petit jeu de coinceurs, un bon jeu de friends au moins jusqu'au #2 (« le 3 et le 4 m'ont vraiment manqué »), sangles, 2-3 hexcentriques.",
+    "longueurs": [],
+    "strategie": [
+      "Variante de départ « Maroc and Wall » en 5c (trois longueurs : 5c, 5a, 5c) : départ plus bas à gauche derrière un arganier, à l'aplomb d'un couloir ; mur en mauvais rocher puis arête (rive gauche du couloir) ; traversée à droite en fin de 3e longueur pour retrouver la voie normale. À éviter pour nous (5c, mauvais rocher)."
+    ],
+    "retex": [
+      "« Du vrai terrain d'aventure » : face complexe, difficile de dire si on est dans la voie ; suivre dièdres, cheminées et fissures (5 à 10 m chacun) en légère ascendance à gauche ; à mi-parcours, un couloir à suivre en grimpant sur ses flancs, en évitant la partie végétale (sortie du 02/12/2018).",
+      "Se protège bien ; tout dans le 4+, quelques pas de 5a ; cheminées, fissures, écailles ; arrivée au sommet qui se dévoile au dernier moment (sortie du 02/12/2018).",
+      "Matériel : friends #3 et #4 « vraiment manqué » à ce grimpeur (sortie du 02/12/2018).",
+      "Départ fait trop à gauche (ouverture de la variante « Maroc and Wall », départ en mauvais rocher) ; ensuite la voie serait un peu plus à gauche (une dizaine de mètres) que le tracé du topo ; pas mal de plantes, rocher souvent correct ; itinéraire intéressant pour l'aventure, grimpe pas mémorable (sortie du 01/01/2019, dernier retour sur C2C)."
+    ],
+    "horaires": "4 h dans la voie (sortie du 02/12/2018) ; 5 h avec la variante de départ (sortie du 01/01/2019).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1061259 (Harbinger), consulté le 16/10/2026",
+      "Sorties Camptocamp 1075457 (01/01/2019), 1061275 (02/12/2018), consultées le 16/10/2026",
+      "Historique (C2C) : D. W. Walker, L. Brown et A. P. Turnbull, 1997 ; variante « Maroc and Wall » le 01/01/2019 par Sandrine, Sébastien Vives et Nicolas Gay",
+      "Article cité par la sortie 1075457 : Vertical Pirate Escalade, « Harbinger / Maroc and Wall » (non consulté)"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "tizgut-right-again-a-la-louche",
+    "nom": "Tizgut – Right Again à la louche",
+    "sous_titre": "Face ouest de la gorge de Tizgut, départ en fissure fine puis itinéraire peu défini sur 200 m",
+    "massif": "Maroc",
+    "secteur": "Tizgut",
+    "coordonnees": {
+      "lat": 29.75395,
+      "lon": -8.9073,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Right Again à la louche",
+        "url": "https://www.camptocamp.org/routes/1363683"
+      }
+    ],
+    "objectif": "Bel itinéraire en bon rocher, peu défini sauf le départ en fissure fine sur 30 m, qui s'étage ensuite sur 200 m. Du 3 et du 4 (C2C).",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "5a",
+    "cotation_obligatoire": "5a",
+    "engagement": "III",
+    "hauteur": "environ 200 m (résumé C2C)",
+    "nb_longueurs": "",
+    "orientation": "W",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, pilier ; bon rocher. Ligne peu définie : « ça passe un peu partout » selon un retour.",
+    "statut": "a_etudier",
+    "statut_suggere": "engagee",
+    "raison_suggestion": "Dans le niveau (5a obligatoire, du 3 et du 4) mais terrain d'aventure P4 sur une ligne peu définie, avec une descente paumatoire en désescalade.",
+    "projet": "Maroc",
+    "approche": "Depuis Tizgut, suivre le chemin de la gorge de Tizgut. La voie est tout en haut du secteur, à main gauche. Départ tout en haut de la gorge, quand elle se referme, en face de « Salus » (voir topo).",
+    "descente": "Décrite comme « paumatoire » sur C2C : sur la gauche (rive gauche), passer un collet puis au mieux vers la gauche de la gorge, toujours descendre vers la gauche en passant une chatière et un peu de désescalade. On aboutit à une vire plate équipée de sangle (arbre ou becquet) pour un rappel final de 25 m. Quelques cairns.",
+    "materiel": "",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "1",
+            "cotation": "",
+            "longueur": 30,
+            "cheminement": "Prendre la fissure fine et la remonter sur 30 m."
+          },
+          {
+            "n": "2",
+            "cotation": "5a",
+            "longueur": 25,
+            "cheminement": "Deux mètres à gauche, tourner un vague angle et remonter une dalle raide sur 25 m."
+          },
+          {
+            "n": "3",
+            "cotation": "",
+            "longueur": 40,
+            "cheminement": "Tirer légèrement à droite pour rejoindre une fissure et un gros arbre à 40 m."
+          },
+          {
+            "n": "4",
+            "cotation": "",
+            "longueur": 40,
+            "cheminement": "En ascendance à gauche sur 40 m."
+          },
+          {
+            "n": "5",
+            "cotation": "",
+            "longueur": 100,
+            "cheminement": "Corde tendue au-dessus sur 100 m ; sortie sur un éperon."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Un seul retour sur C2C (sortie du 25/10/2021) : belle voie facile, bon rocher, ça passe un peu partout ; il faut un peu de sens de l'itinéraire pour la descente. Conditions chaudes fin octobre."
+    ],
+    "horaires": "",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/tizgut-right-again-a-la-louche-topo.jpg",
+        "legende": "La voie (photo TI_BOOL, Camptocamp, CC-BY-SA)"
+      },
+      {
+        "fichier": "images/tizgut-right-again-a-la-louche-topo-2.jpg",
+        "legende": "L1, la fissure fine du départ (photo TI_BOOL, Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 1363683 (Right Again à la louche), consulté le 16/10/2026",
+      "Sorties Camptocamp 1363684 (25/10/2021), consultées le 16/10/2026",
+      "Images Camptocamp 1363689 et 1363688 par TI_BOOL (CC-BY-SA)",
+      "Livres cités par C2C : « Moroccan Anti-Atlas - Tafraoute and Jebel El Kest » ; « TAFRAOUT - Rock Climbing in Morocco's Anti-Atlas (Volume 1) »",
+      "Historique (C2C) : ouverture de « Right Again » par Claude Davis et Roger Salisbury en 1998 ; pas de ligne définie, d'où une répétition ou ouverture par Marie D, Jean Maugein et Rémi Songeon en octobre 2021"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4"
+  },
+  {
+    "id": "tizi-amanouz-arete-beldi",
+    "nom": "Tizi Amanouz – Arête Beldi",
+    "sous_titre": "Longue arête depuis Tizi Amanouz (route d'Aoukerda, à 20 min de Tafraout)",
+    "massif": "Maroc",
+    "secteur": "Tizi Amanouz",
+    "coordonnees": {
+      "lat": 29.5217,
+      "lon": -9.00781,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Tizi Amanouz : Arête Beldi",
+        "url": "https://www.camptocamp.org/routes/1737898"
+      }
+    ],
+    "objectif": "Arête aux paysages superbes, pour s'initier à la pose de protections et à la gestion de corde. Tous les ressauts peuvent être évités facilement (F+ pour faire le sommet par cet itinéraire) ; en les prenant tous, « un bon AD avec de beaux passages ». Possibilité de continuer jusqu'au sommet (1950 m), au-dessus.",
+    "cotation_globale": "AD (F+ en évitant les ressauts)",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "2",
+    "engagement": "I · exposition E1",
+    "hauteur": "350 m (dénivelé des difficultés), 400 m de dénivelé positif ; arête d'environ 1500 m de long",
+    "nb_longueurs": "",
+    "orientation": "W",
+    "duree": "1 jour",
+    "ambiance": "Quartzite, arête de terrain montagne ; terrain d'aventure (P4+). Les 300 derniers mètres sont de la randonnée.",
+    "statut": "a_etudier",
+    "statut_suggere": "faisable",
+    "raison_suggestion": "Arête AD (2 obligatoire, E1), ressauts évitables et descente possible à tout moment, mais longue (env. 1500 m) et sans retour de sortie.",
+    "projet": "Maroc",
+    "approche": "De Tafraout, prendre la route d'Aoukerda (environ 20 min). Se garer juste après Tizi Amanouz, au croisement d'une autre route goudronnée ; l'arête est bien visible sur la gauche. Approche 10 min : remonter le goudron jusqu'en face du départ et traverser l'oued.",
+    "descente": "Facile et à vue jusqu'au village pour retrouver la voiture. On peut redescendre à tout moment rapidement sans rappel.",
+    "materiel": "Un petit jeu de friends et câblés, sangles ; encordement 25 m suffisant.",
+    "longueurs": [],
+    "strategie": [
+      "Commencer au point le plus bas de l'arête et rester toujours sur le fil.",
+      "Premier tiers (jusqu'à un agadir) : les parties les plus intéressantes sont sur la gauche ; deuxième tiers sur la droite ; dernier tiers un peu des deux côtés.",
+      "Tous les ressauts peuvent être évités facilement ; on peut redescendre à tout moment rapidement sans rappel.",
+      "Un peu long en soi : l'arête fait environ 1500 m de longueur."
+    ],
+    "retex": [],
+    "horaires": "",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1737898 (Tizi Amanouz : Arête Beldi), consulté le 16/10/2026",
+      "Aucune sortie sur Camptocamp (consulté le 16/10/2026)",
+      "Historique (C2C) : parcourue le 17/02/2025 par l'auteur de la fiche (avec Julie)"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
+  },
+  {
+    "id": "wildcat-wall-corneflake",
+    "nom": "Wildcat Wall – Corneflake",
+    "sous_titre": "Belle voie courte en fissures, à 10 min de la route",
+    "massif": "Maroc",
+    "secteur": "Wildcat Wall",
+    "coordonnees": {
+      "lat": 29.70582,
+      "lon": -8.96875,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Wildcat Wall : Corneflake",
+        "url": "https://www.camptocamp.org/routes/1740323"
+      }
+    ],
+    "objectif": "Voie de 2 longueurs en fissures. Variantes de départ plus difficiles à droite.",
+    "cotation_globale": "D-",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4b",
+    "engagement": "II · exposition E2",
+    "hauteur": "65 m (dénivelé des difficultés, C2C)",
+    "nb_longueurs": "2",
+    "orientation": "W",
+    "duree": "1 jour",
+    "ambiance": "Granite, face en fissures ; terrain d'aventure (P4+). Rocher décrit comme exceptionnel (sortie du 02/02/2025).",
+    "statut": "a_etudier",
+    "statut_suggere": "faisable",
+    "raison_suggestion": "65 m en 4b/4c, fissures qui se protègent avec notre rack, descente en 2 rappels ; un passage de fissure fragile signalé en L1.",
+    "projet": "Maroc",
+    "approche": "10 min en suivant les cairns depuis la route.",
+    "descente": "2 rappels, à droite en regardant la paroi.",
+    "materiel": "Jeux de friends, coinceurs.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": ""
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Très belle voie, trop courte ; rocher exceptionnel (sortie du 02/02/2025).",
+      "L1 : une fissure fragile sur un passage (sortie du 02/02/2025). Seul retour C2C : 02/02/2025."
+    ],
+    "horaires": "1 h dans la voie, avec variantes de départ (sortie du 02/02/2025).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1740323 (Wildcat Wall : Corneflake), consulté le 16/10/2026",
+      "Sortie Camptocamp 1740324 (02/02/2025), consultée le 16/10/2026",
+      "Topo cité par C2C : Vertical Pirate Escalade, https://verticalpirate-escalade.com/topos-escalade/maroc/tafraout/cornflake-wildcat-wall/ (non consulté)",
+      "Historique (C2C) : Steve et Katja Broadbent, avril 2018"
+    ],
+    "equipement": "trad",
+    "cote_equipement": "P4+"
   }
 ]

@@ -41,7 +41,7 @@ Laisser un champ vide (`""`, `null` ou `[]`) plutôt que d'inventer. Tous les ch
 | `cotation_globale`, `cotation_libre_max`, `cotation_obligatoire`, `engagement` | texte | |
 | `hauteur`, `nb_longueurs`, `orientation`, `duree` | texte | |
 | `ambiance` | texte | type de rocher, style |
-| `statut` | `faisable` / `engagee` / `bientot` / `materiel` / `fait` | `engagee` = « Faisable mais engagée (PG13) » : dans le niveau mais protection espacée, relais douteux, chutes potentiellement méchantes (échelle US G/PG/PG13/R/X) |
+| `statut` | `faisable` / `engagee` / `bientot` / `materiel` / `fait` / `a_etudier` | `a_etudier` (gris) = pas encore étudié par le propriétaire ; mettre alors `statut_suggere` (une des autres valeurs) et `raison_suggestion` (une phrase), affichés comme « Suggestion de Claude » ; quand il valide, remplacer `statut` et supprimer la suggestion. `engagee` = « Faisable mais engagée (PG13) » : dans le niveau mais protection espacée, relais douteux, chutes potentiellement méchantes (échelle US G/PG/PG13/R/X) |
 | `equipement`, `cote_equipement` | `equipee` / `semi` / `trad` ou null ; texte | tirés de `equipment_rating` C2C : P1/P1+ → equipee, P2/P2+ → semi, P3 à P4+ → trad ; `cote_equipement` = la cote brute (ex. « P2+ »). Forme du point sur la carte : rond / losange / triangle |
 | `envie` | `1` / `2` / `3` ou absent | étoiles d'envie données par le propriétaire (★ pourquoi pas, ★★ envie, ★★★ très envie) ; ne jamais l'inventer, demander |
 | `enchainements` | `[{id, titre, texte}]` (optionnel) | voie(s) qu'on peut enchaîner, avec lien vers leur fiche ; mettre le lien dans les DEUX fiches. Affiché à l'écran et dans la Stratégie de la fiche A4 |
@@ -74,5 +74,5 @@ Règles :
 
 ## À traiter plus tard
 
-- **Maroc** (repérées dans les onglets du propriétaire le 15/10/2026, à traiter quand il le demandera, statut à demander voie par voie, dossier « Maroc ») : itinéraires C2C 1740320 (High Sierra Dome – Wide Sierra), 1893930 (High Sierra Dome – Dièdre sud-ouest), 1740329 (Adrar Iffran – Lone Tree Rib), 1849844 (Tafraout – Akida : Alabama buttress), 1849860 (Azrou el Doutoumdah – Curved Ridge), 1849985 (Adrar Umlil 5 – South Ridge), 1851086 (Adrar Umlil 1 – Noir c'est noir), 1851890 (Great Rock – Labyrinth Ridge), 1894552 (Middle Eagle – Éperon E).
+- **Maroc** : 28 voies ajoutées le 16/10/2026 avec le statut `a_etudier` et une suggestion. Le propriétaire les étudie avec le topo papier : ensuite, lui envoyer le questionnaire voie par voie (statut, suggestion présélectionnée, puis étoiles). À lui proposer : relier Tête du Lion – Arête du Lion et « Are we there yet ? » (départ alternatif de l'arête).
 - **Enchaînements repérés, non encore proposés en détail** : Arêtes de la Bruyère + Éperon des Moulinettes (refuge du Clot des Vaches) ; Index de la Glière + Mani pulite (C2C 54601) ; Brumes de l'automne + traversée Montaubert–Beccaz–Mouche (C2C 56812) ; Baulmes Grande Arête + Petite Arête (C2C 658103) ; Orpierre + Merci M'sieur (C2C 57749) ; Roche Fendue + Dents du Loup (C2C 57077).

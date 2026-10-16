@@ -71,6 +71,7 @@ function resume(voie) {
     <h3>${echapper(voie.nom)}</h3>
     ${voie.envie ? `<p class="envie-popup">${etoiles(voie.envie)} ${echapper(ENVIES[voie.envie])}</p>` : ""}
     ${badgeStatut(voie.statut)}
+    ${blocSuggestion(voie)}
     <p class="equipement-popup">${formeSVG(voie.equipement, STATUTS[voie.statut]?.couleur || "#777", 14)} Équipement : ${echapper(texteEquipement(voie))}</p>
     ${lignes.map((l) => `<p>${echapper(l)}</p>`).join("")}
     <a class="lien-fiche" href="${lienVoie(voie)}">Voir la fiche complète →</a>
@@ -122,9 +123,22 @@ chargerVoies()
     construireFiltres(voies);
     // Les voies les plus désirées sont ajoutées en dernier : elles passent au-dessus des autres.
     const ordre = [...voies].sort((a, b) => (a.envie || 0) - (b.envie || 0));
+    // Plusieurs voies au même point exact (point général d'un secteur sur Camptocamp) :
+    // on les écarte un peu en cercle, pour l'affichage seulement, afin de toutes les voir.
+    const memePoint = {};
+    for (const v of voies) {
+      const c = v.coordonnees;
+      if (c && c.lat != null) (memePoint[`${c.lat},${c.lon}`] ||= []).push(v.id);
+    }
     for (const voie of ordre) {
-      const c = voie.coordonnees;
-      if (!c || c.lat == null || c.lon == null) continue;
+      const c0 = voie.coordonnees;
+      if (!c0 || c0.lat == null || c0.lon == null) continue;
+      const groupe = memePoint[`${c0.lat},${c0.lon}`];
+      let c = c0;
+      if (groupe.length > 1) {
+        const angle = (2 * Math.PI * groupe.indexOf(voie.id)) / groupe.length;
+        c = { lat: c0.lat + 0.0025 * Math.cos(angle), lon: c0.lon + 0.0032 * Math.sin(angle) };
+      }
       const couleur = STATUTS[voie.statut]?.couleur || "#777";
       // Couleur = statut, forme = type d'équipement (rond, losange, triangle).
       const icone = L.divIcon({

@@ -84,6 +84,10 @@ main { max-width: 960px; margin: 0 auto; padding: 16px; }
 .legende svg, .equipement-popup svg, .forme svg { vertical-align: -2px; margin-right: 4px; }
 .equipement-popup { margin: 4px 0 !important; }
 
+/* ===== Suggestion de statut (voies « À étudier ») ===== */
+.suggestion { margin: 8px 0 0; padding: 6px 10px; background: #f3f0ff; border: 2px dashed var(--violet); font-size: 0.9rem; }
+.suggestion .raison { color: var(--doux); }
+
 /* ===== Étoiles d'envie ===== */
 .etoiles { color: #e0a100; letter-spacing: 1px; white-space: nowrap; }
 .etoiles .vides { color: #d6d2c8; }

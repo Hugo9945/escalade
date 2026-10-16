@@ -69,6 +69,7 @@ function afficherFiche(voie) {
       ${voie.sous_titre ? `<p class="sous-titre">${echapper(voie.sous_titre)}</p>` : ""}
       ${lieu ? `<p class="lieu">${echapper(lieu)}</p>` : ""}
       ${badgeStatut(voie.statut)}
+      ${blocSuggestion(voie)}
       ${voie.envie ? `<span class="envie-fiche">${etoiles(voie.envie)} ${echapper(ENVIES[voie.envie])}</span>` : ""}
     </div>
 

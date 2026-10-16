@@ -6,7 +6,16 @@ const STATUTS = {
   bientot: { libelle: "Bientôt (niveau presque là)", couleur: "#ef8f00" },
   materiel: { libelle: "Matériel manquant", couleur: "#c62828" },
   fait: { libelle: "Fait", couleur: "#1e5fa8" },
+  a_etudier: { libelle: "À étudier", couleur: "#8a8a8a" },
 };
+
+// Suggestion de statut faite par Claude pour une voie « À étudier » (à valider par le propriétaire).
+function blocSuggestion(voie) {
+  if (voie.statut !== "a_etudier" || !STATUTS[voie.statut_suggere]) return "";
+  return `<p class="suggestion">💡 Suggestion de Claude : ${badgeStatut(voie.statut_suggere)}${
+    voie.raison_suggestion ? ` <span class="raison">${echapper(voie.raison_suggestion)}</span>` : ""
+  }</p>`;
+}
 
 async function chargerVoies() {
   const reponse = await fetch("data/voies.json", { cache: "no-cache" });
