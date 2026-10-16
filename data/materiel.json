@@ -153,6 +153,16 @@
         "etat": "",
         "priorite": "Basse",
         "notes": ""
+      },
+      {
+        "nom": "Matériel d'alpinisme",
+        "quantite": "",
+        "marque": "",
+        "details": "crampons, piolet…",
+        "annee": "",
+        "etat": "",
+        "priorite": "Selon voyage",
+        "notes": "À acheter si un projet en a besoin"
       }
     ]
   },
