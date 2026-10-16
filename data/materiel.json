@@ -13,6 +13,146 @@
         "etat": "",
         "priorite": "Haute",
         "notes": "Pour High Sierra Dome – Dièdre sud-ouest (Maroc, camalots 1 à 4) et Wide Sierra (fissures larges)"
+      },
+      {
+        "nom": "Chaussons",
+        "quantite": "1",
+        "marque": "La Sportiva",
+        "details": "TC Pro",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": "Pour Hugo ; taille à déterminer (à essayer)"
+      },
+      {
+        "nom": "Chaussons",
+        "quantite": "1",
+        "marque": "La Sportiva",
+        "details": "Finale ou équivalent",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": "Pour Hugo ; taille à déterminer (à essayer)"
+      },
+      {
+        "nom": "Mousqueton à doigt fil",
+        "quantite": "",
+        "marque": "CAMP",
+        "details": "Nano 22, orange",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": "Quantité à préciser"
+      },
+      {
+        "nom": "Corde à simple",
+        "quantite": "1",
+        "marque": "",
+        "details": "40 ou 50 m, fine",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": ""
+      },
+      {
+        "nom": "Coinceur mécanique",
+        "quantite": "1",
+        "marque": "Totem",
+        "details": "Totem Cam noir (0.50)",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": ""
+      },
+      {
+        "nom": "Coinceur mécanique",
+        "quantite": "1",
+        "marque": "Totem",
+        "details": "Totem Cam bleu (0.65)",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": ""
+      },
+      {
+        "nom": "Alien",
+        "quantite": "1",
+        "marque": "",
+        "details": "noir",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": "En plus de celui qu'on a déjà"
+      },
+      {
+        "nom": "Sac de couchage",
+        "quantite": "1",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": "Pour Hugo"
+      },
+      {
+        "nom": "Sac de couchage",
+        "quantite": "1",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": "Pour Marine"
+      },
+      {
+        "nom": "Matelas",
+        "quantite": "1",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": "Pour Hugo"
+      },
+      {
+        "nom": "Matelas",
+        "quantite": "1",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": "Pour Marine"
+      },
+      {
+        "nom": "Réchaud",
+        "quantite": "1",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": ""
+      },
+      {
+        "nom": "Popote",
+        "quantite": "1",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": ""
+      },
+      {
+        "nom": "Tente 2 places",
+        "quantite": "1",
+        "marque": "Ferrino",
+        "details": "Blow 2",
+        "annee": "",
+        "etat": "",
+        "priorite": "",
+        "notes": ""
       }
     ]
   },
