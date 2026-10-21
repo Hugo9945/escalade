@@ -74,5 +74,7 @@ Règles :
 
 ## À traiter plus tard
 
+- **Vraie protection (en pause, décision du propriétaire le 21/10/2026)** : migration vers Cloudflare Pages + dépôt GitHub privé. `functions/_middleware.js` (page de connexion côté serveur, mot de passe dans le secret Cloudflare `SITE_PASSWORD`) est prêt et testé mais inactif sur GitHub Pages. Le propriétaire a un compte Cloudflare ; il reste à créer le projet Pages `sac-a-topos` relié au dépôt, saisir le mot de passe, tester, puis passer le dépôt en privé et retirer `js/verrou.js`. En attendant : **ne pas publier de scans de topos de livres** (site public) ; s'en servir seulement pour remplir les fiches, en citant le livre.
+
 - **Maroc** : 28 voies ajoutées le 16/10/2026 avec le statut `a_etudier` et une suggestion. Le propriétaire les étudie avec le topo papier : ensuite, lui envoyer le questionnaire voie par voie (statut, suggestion présélectionnée, puis étoiles).
 - **Enchaînements repérés, non encore proposés en détail** : Arêtes de la Bruyère + Éperon des Moulinettes (refuge du Clot des Vaches) ; Index de la Glière + Mani pulite (C2C 54601) ; Brumes de l'automne + traversée Montaubert–Beccaz–Mouche (C2C 56812) ; Baulmes Grande Arête + Petite Arête (C2C 658103) ; Orpierre + Merci M'sieur (C2C 57749) ; Roche Fendue + Dents du Loup (C2C 57077).
