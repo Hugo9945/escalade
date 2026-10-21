@@ -1,5 +1,104 @@
 [
   {
+    "id": "cap-canaille-vire-des-immortelles",
+    "nom": "Cap Canaille – Vire des Immortelles",
+    "sous_titre": "Traversée de vires aériennes entre le sémaphore et la villa Teychéné – falaises Soubeyranes, La Ciotat",
+    "massif": "Calanques",
+    "secteur": "Cap Canaille – Immortelles / Grands Ducs",
+    "coordonnees": {
+      "lat": 43.1732,
+      "lon": 5.57633,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Vire des Immortelles",
+        "url": "https://www.camptocamp.org/routes/443879"
+      }
+    ],
+    "objectif": "Traversée sur des vires aériennes faciles, entre le sémaphore et la villa Teychéné (ce n'est pas la villa Speany). Deux itinéraires : classique (vers les Grands Ducs, en contrebas) ou supérieur (env. 4c/5a).",
+    "cotation_globale": "PD",
+    "cotation_libre_max": "4b (itinéraire supérieur : env. 4c/5a)",
+    "cotation_obligatoire": "",
+    "engagement": "II · exposition E2",
+    "hauteur": "traversée (falaise entre 115 et 340 m d'altitude)",
+    "nb_longueurs": "",
+    "orientation": "SW",
+    "duree": "1 jour",
+    "ambiance": "Vires aériennes au-dessus de la mer, calcaire, poudingue et grès ; beaucoup d'équipement en place (plaquettes, scellements). Abrité du mistral selon un retour.",
+    "statut": "faisable",
+    "envie": 1,
+    "projet": null,
+    "approche": "Se garer au parking du sémaphore. Deux possibilités : (1) par le sentier Philémon : du parking, sentier jaune puis noir vers le S jusqu'à un ressaut à désescalader (3b, broches) ; longer la vire inférieure vers le N (quelques broches et plaquettes) jusqu'à un goulet caractéristique que l'on descend en 2 rappels de 30 m (relais plaquettes) ; sur la large vire du bas, repartir plein S et passer sous des surplombs jusqu'au départ de la traversée. (2) par le cirque du 14 Juillet (plus long) : sentier jaune vers le N, descendre dans le cirque par 3 rappels (15, 25, 50 m), puis sentier vers le S jusqu'au départ (fin de la large vire). Le départ a lieu lorsque la vire se rétrécit.",
+    "descente": "De la villa Teychéné, rejoindre le sémaphore par les crêtes (peu tracé), ou descendre et remonter vers La Ciotat jusqu'à la maison en ruine, suivre le sentier qui rejoint la route puis le sentier jaune qui remonte le vallon par la droite jusqu'au sémaphore.",
+    "materiel": "Sangles pour allonger ; pas mal d'équipement en place (plaquettes, scellements) ; coinceurs inutiles pour l'itinéraire classique. Corde pour les rappels d'approche (2 × 30 m, ou jusqu'à 50 m par le cirque du 14 Juillet).",
+    "longueurs": [
+      {
+        "titre": "Itinéraire classique (vers les Grands Ducs)",
+        "lignes": [
+          {
+            "n": "Départ",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Remonter la vire sableuse une vingtaine de mètres puis ~4 m verticalement jusqu'à la vire supérieure ; traverser à droite jusqu'à une terrasse. Relais 1 broche + 1 goujon inox (c'est là que se séparent les 2 itinéraires)."
+          },
+          {
+            "n": "Vire",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Suivre la vire EN CONTREBAS jusqu'à une autre terrasse (si l'on monte après le relais, on part dans la traversée supérieure, env. 4c et partie verticale)."
+          },
+          {
+            "n": "Cascade",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Traverser la cascade (possibilité de descendre en rappel jusqu'à la mer sous la cascade, 110 m)."
+          },
+          {
+            "n": "Traversée",
+            "cotation": "facile",
+            "longueur": 150,
+            "cheminement": "Succession de marche et de quelques passages d'escalade facile sur 150 m. Du jardin, possibilité de rejoindre l'itinéraire supérieur en repartant vers la gauche."
+          },
+          {
+            "n": "Sortie",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Petite désescalade ou rappel de 4 m, puis grande vire ascendante pour sortir de la falaise et rejoindre la villa."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "⚠️ Ne pas grimper la partie E de la traversée (après la possibilité de remonter en grande voie) du 15 novembre au 15 juin : nidification du hibou grand-duc (arrêté du Parc national des Calanques, https://www.calanques-parcnational.fr/fr/actualites/calendrier-des-fermetures-temporaires-de-voies-descalade).",
+      "L'itinéraire peut se faire en corde tendue ; quelques relais en place. Attention au tirage.",
+      "Itinéraire supérieur : au relais 1 broche + 1 goujon inox, rejoindre la vire du haut (5 m d'escalade, goujons inox), traverser, remonter l'éperon en 4c/5a, marcher jusqu'à la barre de rocher blanc et le sentier Philémon ; ressaut de 10 m en 3 (broches) puis balisage noir vers le sémaphore."
+    ],
+    "retex": [
+      "« Super ratio ambiance / difficulté » ; chaussons inutiles, corde tendue avec assurage en mouvement recommandable ; équipement « très abondant et bien pensé » (sortie du 03/01/2026).",
+      "Approche : une cordée s'est trompée en descendant trop tôt avant le bout de l'éperon blanc ; un rappel de 40 m depuis la conque au bord du poudingue l'a ramenée sur le sentier noir (sortie du 03/01/2026).",
+      "Rappel de 25 m sur le sentier Philémon (par l'E) : longueur limite qui permet de justesse de reprendre pied sous le surplomb, nœuds en bout de corde indispensables (sortie du 25/11/2025).",
+      "Quelques sangles et 2 ou 3 friends moyens peuvent compléter pour rassurer en corde tendue avec un encordement à 20 m (sortie du 25/11/2025) ; un autre retour n'a pas utilisé de coinceurs (sortie du 07/09/2024).",
+      "Terrain : « chipseux et sableux » (sortie du 02/11/2025) ; poudingue très bon et très solide (sortie du 21/12/2024).",
+      "Un grimpeur seul a fait demi-tour au passage clé, par manque de confiance et méconnaissance du cheminement (sortie du 21/12/2024).",
+      "Itinéraire supérieur faisable en baskets avec 7 dégaines (sortie du 11/11/2024) ; une seule longueur vraiment grimpante (sortie du 07/09/2024).",
+      "Route des crêtes fermée certains jours : une cordée est montée à pied au sémaphore (sortie du 02/11/2025)."
+    ],
+    "horaires": "Selon les retours : 3 h (08/05/2026) ; 4 h 30 voiture-voiture à deux cordées avec enfants (03/01/2026) ; boucle 10h30 → 14h30 (25/11/2025) ; 3 h 30 (21/12/2024) ; boucle 16 h → 19 h (07/09/2024).",
+    "notes": "",
+    "images": [],
+    "equipement": "equipee",
+    "cote_equipement": "P1",
+    "sources": [
+      "Camptocamp, itinéraire 443879 (Cap Canaille – Vire des Immortelles), consulté le 21/10/2026",
+      "Sorties Camptocamp 1917437 et 1908618 (08/05/2026), 1860705 (03/01/2026), 1864727 (02/01/2026), 1852048 (25/11/2025), 1849469 (02/11/2025), 1723757 (21/12/2024), 1709907 (11/11/2024), 1705211 (31/10/2024), 1688628 (07/09/2024), consultées le 21/10/2026",
+      "Livres associés sur C2C : Calanques Escalade – De Marseille à la Ciotat ; Escalade – La Ciotat ; 100 plus belles grandes voies de Provence ; Escalade Cassis / La Ciotat ; La Ciotat : Grimpe en falaise et terrain d'aventure Rando Verticale",
+      "Cité par C2C : Cascades et Canyons Littoraux à la Ciotat, C. et J-C. Fait, 2009, Éditions de Falaises",
+      "Historique (C2C) : ouverte par M. Boulery et D. Quet en 1976",
+      "Fermeture saisonnière : Parc national des Calanques, calendrier des fermetures temporaires de voies d'escalade"
+    ]
+  },
+  {
     "id": "aiguille-de-sugiton-arete-du-vallon",
     "nom": "Aiguille de Sugiton – Arête du Vallon",
     "sous_titre": "Arête aérienne de 4 longueurs sur broches scellées, au-dessus de la calanque de Sugiton – depuis Luminy ou le port de Morgiou",
