@@ -1,5 +1,66 @@
 [
   {
+    "id": "banne-d-ordanche-arete-se",
+    "nom": "La Banne d'Ordanche – Arête SE",
+    "sous_titre": "Course d'arête en terrain d'aventure jusqu'au sommet (1512 m) – depuis le parking de la Banne d'Ordanche",
+    "massif": "Puy-de-Dôme",
+    "secteur": "La Banne d'Ordanche",
+    "coordonnees": {
+      "lat": 45.61158,
+      "lon": 2.77242,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Arête SE",
+        "url": "https://www.camptocamp.org/routes/674863"
+      }
+    ],
+    "objectif": "Monter au sommet de la Banne d'Ordanche par son arête SE ; plusieurs itinéraires possibles selon l'inspiration, en restant entre le 3 et le 4.",
+    "cotation_globale": "PD+",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "3c",
+    "engagement": "I · exposition E3",
+    "hauteur": "env. 200 m (dénivelé des difficultés)",
+    "nb_longueurs": "",
+    "orientation": "SE",
+    "duree": "1 jour",
+    "ambiance": "Course d'arête, aucun équipement en place selon un retour ; rocher souvent moussu, parfois douteux.",
+    "statut": "faisable",
+    "envie": 3,
+    "projet": null,
+    "equipement": "trad",
+    "cote_equipement": "P4",
+    "approche": "Du parking, continuer sur la D609 qui monte à la Banne d'Ordanche jusqu'à l'intersection avec la piste forestière qui part vers l'E (1260 m, à côté de la source captée indiquée sur la carte). Monter par la route forestière sur env. 1 km et, avant le virage en épingle, traverser plein N la forêt pour rejoindre le pierrier. Remonter le pierrier jusqu'à l'arête SE.",
+    "descente": "Par le chemin de l'arête SW.",
+    "materiel": "Corde de 20 ou 25 m, coinceurs, sangles ; pitons éventuellement sur l'un des relais (pas possible d'y mettre autre chose).",
+    "longueurs": [],
+    "strategie": [
+      "Progresser en corde tendue si possible, sinon faire de petites longueurs de 20 m de préférence."
+    ],
+    "retex": [
+      "Approche : par la forêt puis le pierrier ; viser un grand sapin, l'arête commence 100 m derrière (sortie du 29/10/2015).",
+      "Matériel : « 20 m de corde et 3 friends moyens » ont suffi à une cordée ; aucun équipement en place (sortie du 29/10/2015).",
+      "Rocher : souvent moussu ; certaines prises mal scellées ou qui cassent, bien tester (sorties du 05/06/2017 et du 27/12/2023) ; « globalement assez bon » selon un retour (05/06/2017).",
+      "Protection : difficile à poser dans la face en seconde partie, pour une cordée qui y est passée (sortie du 27/12/2023). Un « pas sympa » sous la sortie (sortie du 29/10/2015).",
+      "Un retour conseille d'être 2, en corde tendue, par sécurité (sortie du 05/06/2017).",
+      "Descente alternative : versant N vers le sentier du Tenon puis le point 1390 m, puis descente directe versant S vers la route forestière et le parking (sortie du 05/06/2017)."
+    ],
+    "horaires": "Environ 2 h en tout selon un retour (05/06/2017) ; « une petite demi-journée » (29/10/2015).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/banne-d-ordanche-arete-se-topo.jpg",
+        "legende": "Itinéraire de l'arête SE (photo Benoit Asselin, Camptocamp, CC-BY-SA)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 674863 (La Banne d'Ordanche – Arête SE), consulté le 30/10/2026",
+      "Sorties Camptocamp 1602372 (27/12/2023), 892332 (05/06/2017), 690114 (29/10/2015), consultées le 30/10/2026",
+      "Image Camptocamp 674864 par Benoit Asselin (CC-BY-SA)"
+    ]
+  },
+  {
     "id": "cap-canaille-vire-des-immortelles",
     "nom": "Cap Canaille – Vire des Immortelles",
     "sous_titre": "Traversée de vires aériennes entre le sémaphore et la villa Teychéné – falaises Soubeyranes, La Ciotat",
