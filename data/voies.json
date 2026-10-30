@@ -1,5 +1,118 @@
 [
   {
+    "id": "roc-d-hozieres-bulle-d-hozieres",
+    "nom": "Roc d'Hozières – Bulle d'Hozières",
+    "sous_titre": "« La plus grande voie d'Auvergne » (240 m) sur prismes de phonolite – depuis la D680, sous le Pas de Peyrol",
+    "massif": "Cantal",
+    "secteur": "Roc d'Hozières",
+    "coordonnees": {
+      "lat": 45.11429,
+      "lon": 2.65755,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Bulle d'Hozières",
+        "url": "https://www.camptocamp.org/routes/235060"
+      }
+    ],
+    "objectif": "Grande voie équipée de 8 longueurs, la plus grande d'Auvergne selon C2C : première moitié raide (dans le 5), seconde moitié plus facile (dans le 4).",
+    "cotation_globale": "D",
+    "cotation_libre_max": "5c",
+    "cotation_obligatoire": "5b",
+    "engagement": "I",
+    "hauteur": "env. 240 m (dénivelé des difficultés)",
+    "nb_longueurs": "8",
+    "orientation": "E",
+    "duree": "1 jour",
+    "ambiance": "Belle escalade sur des prismes de phonolite évoquant des pavés incrustés ; se prête bien à l'escalade en grosses chaussures.",
+    "statut": "bientot",
+    "envie": 2,
+    "projet": null,
+    "equipement": "equipee",
+    "cote_equipement": "P1",
+    "approche": "Un petit panneau jaune indique le site d'escalade après un petit pont, sur la gauche en descendant du Pas de Peyrol, sur la route de Salers (D680). On peut stationner juste avant ce pont, à droite de la route. Suivre le sentier et monter à gauche dans la forêt en suivant les cairns, puis longer la falaise vers la gauche en dépassant plusieurs secteurs. Une corde fixe est en place dans un passage un peu pourri, juste avant le pied de la voie, signalé par un petit cairn ; le nom est peint 2 m au-dessus du sentier.",
+    "descente": "Du sommet, partir à gauche vers un collet (SSW) et descendre la pente herbeuse vers le SE (traces) pour revenir au pied des voies.",
+    "materiel": "Corde de 60 m pratique.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "5b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L2",
+            "cotation": "5c",
+            "longueur": null,
+            "cheminement": "Un pas athlétique en surplomb au départ du relais, puis petit mur raide."
+          },
+          {
+            "n": "L3",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L4",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L5",
+            "cotation": "5b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L6",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L7",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L8",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": ""
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Avec une corde de 60 m, il est recommandé de shunter R3.",
+      "À partir de L5, possibilité de tout faire en corde tendue."
+    ],
+    "retex": [
+      "L2 : « pas si facile », un pas un peu bloc (sortie du 22/08/2026) ; cotations ressenties par une autre cordée : L1 5b, L2 5c+, L3 5a, L4 5b (sortie du 14/06/2025). Pour L2, « traverser à droite » (sortie du 09/06/2025).",
+      "Équipement correct mais assez éloigné dans les passages faciles (sortie du 22/08/2026) ; « espacé, bien pensé », longueurs de 30-40 m (sortie du 14/06/2025). Relais chaînés jusqu'à R4 inclus (sortie du 20/08/2025).",
+      "Après un orage : L3-L4 avec des passages mouillés (11/08/2026) ; L4 en dalle ruisselante, bien plus dure que prévu avec des points espacés (20/08/2025).",
+      "Stationnement : un retour dit que se garer le long de la route est normalement interdit en pleine saison ; départ du Pas de Peyrol = environ 2 h d'approche (20/08/2025). D'autres signalent 3 places le long de la D680 et 20 min d'approche (14/06/2025).",
+      "Approche : un premier cairn induit en erreur ; aller jusqu'à un gros cairn au bord du chemin avant de s'engager dans le bois (sortie du 22/06/2025). Le nom peint au pied commence à s'effacer (20/08/2025).",
+      "Affluence : du monde en début d'après-midi en juin (14/06/2025) ; chaleur dès 9 h fin mai, partir tôt (30/05/2025).",
+      "Descente par le col entre le Roc d'Hozières et la Roche Taillade (sortie du 14/06/2025)."
+    ],
+    "horaires": "Selon les retours : 3 h dans la voie (11/08/2026 et 14/06/2025) ; 2 h 10 (13/07/2024) ; départ 9h, sommet 13h40, retour 15h05 (30/05/2025) ; initiation : départ 14h, sommet 18h30 (20/08/2025).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 235060 (Roc d'Hozières – Bulle d'Hozières), consulté le 30/10/2026",
+      "Sorties Camptocamp 1944324 (22/08/2026), 1938523 (11/08/2026), 1808422 (20/08/2025), 1784196 et 1783603 (22/06/2025), 1782136 et 1780902 (14/06/2025), 1801419 (09/06/2025), 1780649 (30/05/2025), 1762876 (26/04/2025), 1699362 (13/07/2024), consultées le 30/10/2026",
+      "Topo cité par C2C : FFME Cantal (cantalpinisme.com) ; topo « Grimper dans le Cantal » cité dans une sortie",
+      "Historique (C2C) : ouverte par Denis Collangettes, Pallandre et Mager"
+    ]
+  },
+  {
     "id": "banne-d-ordanche-arete-se",
     "nom": "La Banne d'Ordanche – Arête SE",
     "sous_titre": "Course d'arête en terrain d'aventure jusqu'au sommet (1512 m) – depuis le parking de la Banne d'Ordanche",
