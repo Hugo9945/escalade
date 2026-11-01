@@ -1,5 +1,137 @@
 [
   {
+    "id": "roche-tuiliere-1er-mai",
+    "nom": "Roche Tuilière – 1er Mai",
+    "sous_titre": "Deuxième voie de la face E, à droite de l'Arête (départ un peu plus haut) – 2 longueurs",
+    "massif": "Massif du Sancy",
+    "secteur": "Roche Tuilière – face E",
+    "coordonnees": {
+      "lat": 45.62972,
+      "lon": 2.81389,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "1er Mai",
+        "url": "https://www.camptocamp.org/routes/1954112"
+      }
+    ],
+    "objectif": "Voie de 2 longueurs en 4c dans la face E, juste à droite de l'Arête.",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "",
+    "hauteur": "env. 80 m (dénivelé des difficultés)",
+    "nb_longueurs": "2",
+    "orientation": "E",
+    "duree": "",
+    "ambiance": "Face ; relais chaînés, équipement rapproché ; se protège sur coinceurs sauf 1 ou 2 passages un peu compacts.",
+    "statut": "faisable",
+    "envie": 2,
+    "projet": null,
+    "equipement": "equipee",
+    "cote_equipement": "P1",
+    "approche": "Départ un peu plus haut que celui de l'Arête, à sa droite.",
+    "descente": "Descendre en 2 rappels dans la voie. On peut aussi continuer après R2 pour arriver tout en haut et descendre à pied vers le SW.",
+    "materiel": "Corde de 40 m minimum pour grimper ; pour les rappels, 2 × 40 m ou 70 m.",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": ""
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": ""
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [],
+    "horaires": "",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1954112 (Roche Tuilière – 1er Mai), consulté le 01/11/2026",
+      "Sortie Camptocamp 1954113 (21/09/2026, sans compte rendu), consultée le 01/11/2026",
+      "Livre associé sur C2C : Escalade dans le massif du Sancy"
+    ]
+  },
+  {
+    "id": "roche-tuiliere-l-arete",
+    "nom": "Roche Tuilière – L'Arête",
+    "sous_titre": "Première voie de la face E, sur la ligne évidente entre les faces S et E – 2 longueurs",
+    "massif": "Massif du Sancy",
+    "secteur": "Roche Tuilière – face E",
+    "coordonnees": {
+      "lat": 45.62972,
+      "lon": 2.81389,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "L'Arête",
+        "url": "https://www.camptocamp.org/routes/1954109"
+      }
+    ],
+    "objectif": "Courte voie d'arête en 2 longueurs ; « super école de terrain d'aventure » selon C2C.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "",
+    "hauteur": "env. 50 m (dénivelé des difficultés)",
+    "nb_longueurs": "2",
+    "orientation": "E, SE",
+    "duree": "",
+    "ambiance": "Arête entre les faces S et E ; relais chaînés, équipement rapproché ; se protège bien sur coinceurs.",
+    "statut": "fait",
+    "projet": null,
+    "equipement": "equipee",
+    "cote_equipement": "P1",
+    "approche": "",
+    "descente": "Descendre en 2 rappels dans la voie. On peut aussi continuer après R2 pour arriver tout en haut et descendre à pied vers le SW.",
+    "materiel": "",
+    "longueurs": [
+      {
+        "titre": "",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Un peu plus dur si l'on reste dans les fissures de gauche."
+          },
+          {
+            "n": "L2",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Partir à droite au R1 pour la suite ; sinon, en face, on récupère la L2 en 6a de la Ratti."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Au R1, partir à droite : tout droit, on rejoint la L2 en 6a de la voie Ratti."
+    ],
+    "retex": [],
+    "horaires": "",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1954109 (Roche Tuilière – L'Arête), consulté le 01/11/2026",
+      "Sortie Camptocamp 1954113 (21/09/2026, sans compte rendu), consultée le 01/11/2026",
+      "Livre associé sur C2C : Escalade dans le massif du Sancy",
+      "Faite le 31/10/2026 (indiqué par le propriétaire)"
+    ]
+  },
+  {
     "id": "roc-d-hozieres-bulle-d-hozieres",
     "nom": "Roc d'Hozières – Bulle d'Hozières",
     "sous_titre": "« La plus grande voie d'Auvergne » (240 m) sur prismes de phonolite – depuis la D680, sous le Pas de Peyrol",
