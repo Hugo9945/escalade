@@ -1,5 +1,101 @@
 [
   {
+    "id": "pilatus-galtigenturme",
+    "nom": "Pilatus – Galtigentürme I-IV",
+    "sous_titre": "Arête de 4 tours sur le versant S du Pilatus, au-dessus du lac des Quatre-Cantons – accès par le train à crémaillère (arrêt Ämsigen), fin au Rosegg (1975 m) puis au sommet du Pilatus",
+    "massif": "Alpes uranaises – Pilatus (Obwald, Suisse)",
+    "secteur": "Galtigentürme / Mattalp",
+    "coordonnees": {
+      "lat": 46.96406,
+      "lon": 8.26178,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Pilatus : Galtigentürme I-IV",
+        "url": "https://www.camptocamp.org/routes/696782"
+      }
+    ],
+    "objectif": "Les 4 tours de l'arête jusqu'au Rosegg, puis sentier jusqu'au sommet du Pilatus. Option pour l'approche : grimper une voie de la dalle de Mattalpplatte (Pilatusdrache 4a, 3 longueurs) avant l'arête. Sortie possible par la face E de l'Esel (voir descente).",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4c",
+    "cotation_obligatoire": "4c",
+    "engagement": "",
+    "hauteur": "370 m de dénivelé de difficultés (1750 → 2129 m selon C2C)",
+    "nb_longueurs": "4 tours, environ 11 longueurs avec des passages à pied entre elles",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Calcaire « beau et sain », très peu patiné (retours de 2017 et 2024). Course d'arête facile mais « avec du gaz de chaque côté », vue sur le lac des Quatre-Cantons. Bon choix pour s'initier aux arêtes (C2C). Très fréquentée le week-end, sommet très touristique.",
+    "statut": "faisable",
+    "envie": 2,
+    "projet": null,
+    "equipement": "semi",
+    "cote_equipement": "P2",
+    "approche": "Train de Lucerne à Alpnachstad, puis train à crémaillère du Pilatus jusqu'à la station intermédiaire Ämsigen (1359 m, arrêt sur demande). Traverser les rails vers la droite (E) et suivre le sentier balisé rouge et blanc jusqu'au plateau de Mattalp (2 chalets, 1600 m). Passer à droite des chalets, monter dans l'éboulis le long de la dalle sur 50-100 m jusqu'à une grande ligne de faiblesse qui part à droite (panneau sur les zones protégées) : pied des voies de Mattalpplatte. Option 1 : suivre le sentier de cette ligne de faiblesse sur 100-150 m jusqu'à une crête, puis la sente raide à gauche dans les arbres jusqu'à un ressaut marqué en vert (longueur de liaison Waldmandli 4a, à grimper ou à éviter par la droite) : départ de la tour I. Option 2 : grimper Pilatusdrache 4a (3 longueurs) puis Waldmandli 4a. Environ 45 min (C2C).",
+    "descente": "Du Rosegg, sentier à flanc vers la gauche jusqu'au sommet du Pilatus (environ 20 min), puis retour en train à crémaillère vers Alpnachstad, ou téléphérique et télécabine vers Kriens (moins de monde selon un retour de 2017). Un retour de 2018 signale un passage d'herbe exposée, glissante si mouillée, entre la fin de la voie et le sommet (marques bleues). Variante : sortie par la face E de l'Esel, « terrain à chamois » en T5 très exposé, à proscrire si c'est mouillé (retours de 2017 et 2024).",
+    "materiel": "Corde, dégaines et quelques sangles : « coinceurs, sangles et friends superflus, pas mal de spits » (C2C). Plusieurs retours confirment que les coinceurs sont inutiles.",
+    "longueurs": [
+      {
+        "titre": "Les 4 tours (C2C)",
+        "lignes": [
+          {
+            "n": "Tour I",
+            "cotation": "3b, 3b, 3b, 3a",
+            "longueur": null,
+            "cheminement": "Bien équipée, plein de spits. Puis passage herbeux : descendre à gauche par la sente."
+          },
+          {
+            "n": "Tour II",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": "Traversée à gauche puis sur le fil. Continuer à pied tout droit quelques dizaines de mètres jusqu'au pied de la tour III."
+          },
+          {
+            "n": "Tour III",
+            "cotation": "4a, 3-4",
+            "longueur": null,
+            "cheminement": "Traversée à droite puis tout droit, plusieurs spits ; une autre longueur en 3-4. Puis arête facile et aérienne à pied (pieux d'assurage), descendre à droite dans l'herbe jusqu'à la tour IV."
+          },
+          {
+            "n": "Tour IV",
+            "cotation": "4c, 4b, 3",
+            "longueur": null,
+            "cheminement": "Cheminée bien grimpante en L1 (spits visibles) ; spits tous les 2-3 m selon un retour. Puis arête aérienne à pied jusqu'au Rosegg (1975 m)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Surtout en grosses chaussures et en corde tendue ; tirer des longueurs sur la tour IV (4c) selon le niveau (C2C).",
+      "On peut s'échapper après presque chaque tour (retour de 2017).",
+      "Partir tôt ou éviter le week-end : trains bondés (jusqu'à 1-2 h d'attente) et plusieurs cordées dans la voie.",
+      "Train à crémaillère fermé l'hiver (retour de novembre 2020 : fermeture hivernale, montée par le haut) : vérifier les dates d'ouverture. Le billet jusqu'à Ämsigen coûtait 61 CHF en 2016."
+    ],
+    "retex": [
+      "14/07/2024 : beau calcaire sain, après les dalles de Mattalpplatte ; sortie par la face E de l'Esel (sente à chamois exposée, marques bleues). 12 h Ämsigen, 18 h Esel.",
+      "25/07/2022 : approche par une 4a de Mattalpplatte (4 longueurs), plus long que prévu à cause de 2 cordées devant ; la première longueur dalleuse est rude sans bonnes chaussures. Tours I et II ludiques, tour IV « plus corsée » : 4c vertical mais à prises franches. Tours en 3 h (13 h 10 – 16 h 05). « Bien équipé ».",
+      "10/11/2020 : conditions excellentes, presque personne ; parties en terre un peu grasses. Rocher sec, équipement suffisant et de bonne qualité, facile d'ajouter une sangle. 3 h dans la voie avec les pauses.",
+      "15/09/2018 : la voie se suit facilement ; après la voie, passage exposé sur herbe mouillée jusqu'au sommet (marques bleues), à éviter si c'est trop mouillé.",
+      "11/06/2017 : idéal pour grimper sans se faire peur, équipement parfait, coinceurs inutiles ; 4 autres cordées devant un dimanche. Attaque 12 h 15, sortie 14 h 45.",
+      "07/08/2016 : équipement excellent, pas besoin de coinceurs ; surtout en corde tendue. 1 h d'attente pour le train à la montée et à la descente.",
+      "16/11/2015 : voie facile et relax, plein de spits, approche et sortie évidentes. Départ de la voie 11 h 30, fin de l'arête 14 h."
+    ],
+    "horaires": "Approche 45 min, voie 2-3 h (C2C) ; environ 20 min du Rosegg au sommet du Pilatus. Exemple 2022 : Alpnachstad 9 h 35, Ämsigen 9 h 47, sommet 16 h 55 (avec une voie de Mattalpplatte et de l'attente).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/pilatus-galtigenturme-trace.jpg",
+        "legende": "Les 4 tours (I à IV) avec le tracé de l'arête ; photo Camptocamp (image 786181, licence collaborative)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 696782 (Pilatus : Galtigentürme I-IV), consulté le 06/11/2026",
+      "Camptocamp, sorties 1663752 (14/07/2024), 1447688 (25/07/2022), 1448144 (30/08/2021), 1262256 (10/11/2020), 1041670 (15/09/2018), 1536346 (09/07/2018), 894803 (11/06/2017), 786179 (07/08/2016), 696784 (16/11/2015), consultées le 06/11/2026",
+      "Image Camptocamp 786181 (licence collaborative)",
+      "Livre cité par C2C, non consulté : « Schweiz Plaisir Ost »"
+    ]
+  },
+  {
     "id": "sarner-scharte-holzer-kante",
     "nom": "Sarner Scharte – Holzer Kante (arête Holzer)",
     "sous_titre": "Forcella Sarentina, Spigolo Holzer : l'arête la plus à droite de la paroi de porphyre, 8 longueurs – départ du maso Riedl au-dessus de Sarentino (Sarntal)",
