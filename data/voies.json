@@ -1,5 +1,89 @@
 [
   {
+    "id": "pic-de-raco-gros-eperon-sw",
+    "nom": "Pic de Racó Gros – Via Banzo-Font-Martinez (éperon SW)",
+    "sous_titre": "Voie alpine de 1978 en 10 longueurs sur l'éperon SW (sommet 2779 m) – départ de Prats-Balaguer, retour par le Pas del Porc",
+    "massif": "Puigmal - Canigou - Albères",
+    "secteur": "Pic de Racó Gros",
+    "coordonnees": {
+      "lat": 42.43222,
+      "lon": 2.18694,
+      "repere": "Point de l'itinéraire sur Camptocamp (position approximative, à vérifier)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Via Banzo Font Martinez – Éperon SW",
+        "url": "https://www.camptocamp.org/routes/789498"
+      }
+    ],
+    "objectif": "Éperon SW du Pic de Racó Gros (2779 m) en 10 longueurs, à gauche de la « canal des Français ».",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "hauteur": "env. 350 m (dénivelé des difficultés)",
+    "nb_longueurs": "10",
+    "orientation": "SW",
+    "duree": "1 jour",
+    "ambiance": "Voie d'ambiance haute montagne : ressauts et dalles couchées, dalles blanches au milieu « comme un livre ouvert », passages herbeux (gispet), éperon final « fantastique » (blog de 2012). « Excellent rocher » selon un retour de 2016.",
+    "statut": "faisable",
+    "envie": 2,
+    "projet": null,
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "Selon C2C : départ de Prats-Balaguer (au-dessus de Fontpédrouse, en se déviant de la N116). La route se poursuit par une piste en mauvais état sur 5 km jusqu'à un parking devant un bassin artificiel (Cortal Calvet, 1626 m) ; si l'on laisse la voiture à Prats, compter 1 h 15 à 1 h 30 de plus. Variante côté Espagne décrite dans un blog (2012) : depuis Núria, 2 h jusqu'à un bivouac dans la Coma dels Racons, sous le coll de Nou Fonts, puis traversée de la Coma dels Racons et descente raide dans les éboulis jusqu'au pied de la voie.",
+    "descente": "Retour par le Pas del Porc (C2C). Le blog de 2012 décrit la descente par l'arête S jusqu'au Pas del Porc.",
+    "materiel": "",
+    "longueurs": [
+      {
+        "titre": "Cheminement d'après le récit de 2012 (pas de longueurs détaillées)",
+        "lignes": [
+          {
+            "n": "1re partie",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Ressauts et dalles couchées, avec quelques passages d'herbe."
+          },
+          {
+            "n": "2e partie",
+            "cotation": "5 (selon le blog)",
+            "longueur": null,
+            "cheminement": "Dalles blanches du milieu ; la 5e longueur est une traversée « spectaculaire » en adhérence sur le flanc de la dalle. « Pas aussi difficile qu'il n'y paraît, mais attention à ne pas tomber. »"
+          },
+          {
+            "n": "3e partie",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Plus « moche », avec beaucoup de passages herbeux."
+          },
+          {
+            "n": "4e partie",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Éperon final « fantastique », ambiance de haute montagne ; beaucoup de vent ce jour-là."
+          }
+        ]
+      }
+    ],
+    "strategie": [],
+    "retex": [
+      "Seul retour sur C2C (14/08/2016) : « juste tripant », excellent rocher, mais pas mal de traversées de gispet ; 3 h 50 dans la voie pour une première (cordée « un peu lente »).",
+      "Récit de blog (ascension des 14-15/07/2012, en catalan) : face SW peu ensoleillée le matin, vent glacial ; troisième partie « moche » et très herbeuse ; traversée en adhérence de la 5e longueur spectaculaire ; voie qui vaut le détour, mais approche et retour jugés peu engageants depuis Núria.",
+      "Un lecteur du blog dit l'avoir faite deux fois, en été et en hiver, au début des années 1980 (commentaire du 20/07/2012).",
+      "Aucune information sur l'équipement en place (relais, pitons, spits) : prévoir de quoi tout protéger et faire les relais."
+    ],
+    "horaires": "3 h 50 dans la voie selon le retour du 14/08/2016. Depuis Núria (blog 2012) : 2 h jusqu'au bivouac de la Coma dels Racons ; retour au bivouac 1 h 30, puis 1 h 10 jusqu'à Núria.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 789498 (Pic de Racó Gros – Via Banzo Font Martinez, éperon SW), consulté le 06/11/2026",
+      "Sortie Camptocamp 789500 (14/08/2016), consultée le 06/11/2026",
+      "Camptocamp, points de passage 186396 (Pic de Racó Gros) et 186426 (Prats-Balaguer – Cortal Calvet)",
+      "Blog « El col·leccionista de vies » (Joan Prunera), « Via Banzo-Font-Martinez a l'Esperó SW del Pic del Racó Gros », 17/07/2012 : https://elcoleccionistadevies.blogspot.com/2012/07/via-banzo-font-martinez-lespero-sw-del.html",
+      "Historique (C2C) : voie de 1978 ; le blog cite un tracé dans la revue « Excursionisme » et une fiche du « Vèrtex » n° 206"
+    ]
+  },
+  {
     "id": "roche-tuiliere-1er-mai",
     "nom": "Roche Tuilière – 1er Mai",
     "sous_titre": "Deuxième voie de la face E, à droite de l'Arête (départ un peu plus haut) – 2 longueurs",
