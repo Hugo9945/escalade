@@ -1,5 +1,132 @@
 [
   {
+    "id": "sarner-scharte-holzer-kante",
+    "nom": "Sarner Scharte – Holzer Kante (arête Holzer)",
+    "sous_titre": "Forcella Sarentina, Spigolo Holzer : l'arête la plus à droite de la paroi de porphyre, 8 longueurs – départ du maso Riedl au-dessus de Sarentino (Sarntal)",
+    "massif": "Alpes de Sarntal (Haut-Adige, Italie)",
+    "secteur": "Sarner Scharte / Forcella Sarentina (2458 m d'après C2C, 2468 m d'après Sassbaloss)",
+    "coordonnees": {
+      "lat": 46.64989,
+      "lon": 11.40863,
+      "repere": "Sommet de la Sarner Scharte (point C2C). Parking Riedelsberg sur C2C : 46.64196, 11.38387 (une vingtaine de places)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Sarner Scharte – Holzer Kante",
+        "url": "https://www.camptocamp.org/routes/1475699"
+      }
+    ],
+    "objectif": "Arête Holzer jusqu'au sommet de la Sarner Scharte : « la voie la plus facile » de la paroi (C2C). Fin de voie au banc, puis environ 30 m de prés jusqu'au sentier du sommet.",
+    "cotation_globale": "AD-",
+    "cotation_libre_max": "4a (C2C) – IV+, avec un pas de V UIAA au petit toit de L6, selon Sassbaloss",
+    "cotation_obligatoire": "3c (C2C)",
+    "engagement": "",
+    "hauteur": "450 m de dénivelé de difficultés (C2C) ; 360 m de développement + 30 m jusqu'au sommet (Sassbaloss)",
+    "nb_longueurs": "8",
+    "orientation": "SW (C2C) / Ouest (Sassbaloss)",
+    "duree": "1 jour",
+    "ambiance": "Porphyre, arête et pilier (C2C donne « granit », Sassbaloss et le livre « Porfidi Perfidi » parlent de porphyre). Rocher « presque toujours excellent » mais souvent couvert de lichen : attention s'il est mouillé (Sassbaloss). Passages herbeux. Banc au sommet de la voie avec une petite boîte en bois et un grappa aux herbes pour les grimpeurs (Sassbaloss, 2015). Ouverte par Heini Holzer en solo en 1969 (C2C).",
+    "statut": "bientot",
+    "envie": 2,
+    "projet": null,
+    "equipement": "semi",
+    "cote_equipement": "P2",
+    "approche": "Depuis la sortie Bolzano Sud de l'A22, suivre la Val Sarentina. Juste avant l'embranchement qui descend à gauche vers Sarentino, prendre à droite une route goudronnée (hameau de Stretto) qui monte vers la Sarner Scharte en passant plusieurs fermes. Ignorer un premier embranchement à droite ; au suivant, panneau « Sarner Scharte » à gauche. Passer les fermes Thalgrub et Steet ; au maso Riedl, tourner à droite (panneau CAI sentier n° 3) et se garer peu après (env. 1638 m ; fontaine au parking). Le sentier mène à une clairière avec un petit lac, puis monte plus raide le long d'une buvette en bois. Au crucifix, ne pas suivre le sentier principal (c'est la descente) : passer la barrière derrière le crucifix et suivre les marques blanc/rouge jusque sous la paroi. Après la verticale de la croix sommitale, monter le couloir raide (quelques ressauts rocheux) et, avant qu'il devienne vertical, partir à droite par une trace légère qui contourne une arête et mène à un cône herbeux. Le remonter presque jusque sous une belle dalle compacte (vieux spits visibles), puis aller à droite vers l'arête. Ne pas l'attaquer au point le plus bas : viser une dalle couchée à sa gauche, avec à la base une petite terrasse herbeuse et un spit (arbres en haut de la dalle). Fin d'approche difficile à trouver (Sassbaloss, environ 1 h 20). C2C : panneaux « Sarner Scharte » depuis le parking (sentier 3, ou 3B puis 3A) ; attaque sur une dalle qui descend jusqu'au sentier, un spit à 1 m du sol et un autre 8 m plus haut.",
+    "descente": "Sentier n° 3 depuis le sommet vers le sud jusqu'à la brèche (bivouac), puis à droite jusqu'à un embranchement, à gauche (toujours sentier 3) jusqu'au crucifix et au parking : environ 1 h 30 (Sassbaloss). C2C : soit au plus court par le col « Schartl », soit vers le N par la via ferrata, plus long et plus aventureux (pas de matériel de via ferrata dans notre inventaire : à vérifier).",
+    "materiel": "Quelques friends, câblés et dégaines (C2C). Friends et cordelettes pour compléter, relais tous équipés mais points très rares dans les longueurs (Sassbaloss). Relais à installer en haut de L7 (selle) et L8 (près du banc).",
+    "longueurs": [
+      {
+        "titre": "D'après Sassbaloss (sortie du 02/08/2015, cotations UIAA)",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "III, IV",
+            "longueur": 55,
+            "cheminement": "Monter la dalle ; aux arbres, aller à droite vers l'arête. Passer un dièdre fissuré. Relais spit + scellement. 1 spit."
+          },
+          {
+            "n": "L2",
+            "cotation": "II, III",
+            "longueur": 55,
+            "cheminement": "Ressauts herbeux sur le fil de l'arête. Relais spit + scellement."
+          },
+          {
+            "n": "L3",
+            "cotation": "II, IV",
+            "longueur": 55,
+            "cheminement": "Ressauts jusqu'à une dalle plus compacte sous le relais (scellement + spit + 2 pitons)."
+          },
+          {
+            "n": "L4",
+            "cotation": "III, IV",
+            "longueur": 50,
+            "cheminement": "À droite, remonter le petit couloir, puis revenir à gauche sur le fil. Relais (2 scellements + chaîne) juste avant un petit pilier au rocher délicat. 1 spit."
+          },
+          {
+            "n": "L5",
+            "cotation": "II, IV+",
+            "longueur": 20,
+            "cheminement": "Courte mais délicate : passer le petit pilier (à gauche ou à droite, même difficulté). Relais 2 scellements + chaîne. 2 spits."
+          },
+          {
+            "n": "L6",
+            "cotation": "V, IV+, IV",
+            "longueur": 50,
+            "cheminement": "Passer le petit toit et suivre le fil jusqu'où l'arête se couche. Relais 2 scellements + chaîne. Relais intermédiaire (2 pitons + scellement + anneau de corde). « Très belle longueur »."
+          },
+          {
+            "n": "L7",
+            "cotation": "III, IV, II",
+            "longueur": 55,
+            "cheminement": "Rejoindre la brèche, ignorer le relais (2 scellements + chaîne) et monter tout droit, rocher puis herbe. Relais à installer à la selle."
+          },
+          {
+            "n": "L8",
+            "cotation": "III, III+",
+            "longueur": 20,
+            "cheminement": "À droite, passer le petit mur facile ; relais à installer près du banc. 1 scellement. Puis environ 30 m de prés jusqu'au sentier du sommet."
+          }
+        ]
+      },
+      {
+        "titre": "D'après C2C (pas de longueurs détaillées)",
+        "lignes": [
+          {
+            "n": "Début",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "L1 part à gauche pour rejoindre le fil du pilier ; pas de dalle bien protégé."
+          },
+          {
+            "n": "Suite",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "L'arête se redresse peu à peu, points et relais « par-ci par-là ». Un autre pas plus vertical en 4a, lui aussi bien protégé."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Deux sources qui ne disent pas la même chose : C2C donne 4a max et des pas bien protégés ; Sassbaloss (2015) donne IV+/V UIAA et des points très rares entre les relais. À vérifier dans le topo « Red Rocks » (gratuit en ligne, cité par C2C) avant d'y aller.",
+      "Fin d'approche difficile à trouver : repérer l'arête depuis le bas (attaque sur une dalle couchée à gauche du pied de l'arête, terrasse herbeuse avec un spit).",
+      "Éviter le rocher mouillé (lichen).",
+      "Bivouac sous le sommet, à la brèche (Sassbaloss)."
+    ],
+    "retex": [
+      "Aucune sortie publiée sur C2C (consulté le 06/11/2026).",
+      "Sassbaloss, 02/08/2015 : journée nuageuse, départ en milieu de matinée en comptant sur l'amélioration annoncée. 1 h 20 d'approche, 4 h dans la voie, 1 h 30 de descente. Appréciation de la course : « correcte ». Début du sentier bien balisé, dernier tronçon facile à perdre. Descente par un sentier facile.",
+      "Eau : fontaine au parking, et une buvette environ 10 min après le départ (Sassbaloss, 2015, à vérifier)."
+    ],
+    "horaires": "Approche 1 h 20, voie 4 h (+10 min jusqu'au sommet), descente 1 h 30 (Sassbaloss, 2015). Dénivelé d'approche : 500 m (C2C).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1475699 (Sarner Scharte – Holzer Kante) et points 1475688 (sommet) / 1475695 (Riedelsberg), consultés le 06/11/2026 ; aucune sortie publiée",
+      "Sassbaloss, « Forcella Sarentina – Spigolo Holzer (Holzerkante) », sortie du 02/08/2015, https://www.sassbaloss.com/pagine/uscite/forcellasarentina/forcellasarentina.htm, consulté le 06/11/2026 (photo du tracé non reprise : contenu protégé)",
+      "Topo « Red Rocks » (Alpenverein Südtirol), cité par C2C, non consulté ; livre « Porfidi Perfidi » (Roberto Iacopelli), cité par Sassbaloss, non consulté"
+    ]
+  },
+  {
     "id": "pic-de-raco-gros-eperon-sw",
     "nom": "Pic de Racó Gros – Via Banzo-Font-Martinez (éperon SW)",
     "sous_titre": "Voie alpine de 1978 en 10 longueurs sur l'éperon SW (sommet 2779 m) – départ de Prats-Balaguer, retour par le Pas del Porc",
