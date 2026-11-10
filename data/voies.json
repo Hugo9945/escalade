@@ -1,5 +1,111 @@
 [
   {
+    "id": "brueggler-highway",
+    "nom": "Brüggler – Highway",
+    "sous_titre": "7 longueurs sur les grandes dalles calcaires de la face S du Brüggler (1777 m), au-dessus du Schwändital – départ du parking au-dessus de Näfels",
+    "massif": "Alpes glaronaises (canton de Glaris, Suisse)",
+    "secteur": "Brüggler, face S",
+    "coordonnees": {
+      "lat": 47.11739,
+      "lon": 8.98551,
+      "repere": "Point de la voie sur theCrag (pied de voie approximatif). Sommet du Brüggler sur C2C : 47.1175, 8.98379"
+    },
+    "camptocamp": [
+      {
+        "titre": "Brüggler : Highway",
+        "url": "https://www.camptocamp.org/routes/1003908"
+      }
+    ],
+    "objectif": "Les 7 longueurs jusqu'à la sortie, environ 200 m à droite de la croix sommitale, puis descente à pied.",
+    "cotation_globale": "D-",
+    "cotation_libre_max": "5b",
+    "cotation_obligatoire": "5a",
+    "engagement": "I (C2C) ; risque X2, exposition E2",
+    "hauteur": "200 m de dénivelé (C2C) ; 215-220 m de longueur (theCrag)",
+    "nb_longueurs": "7",
+    "orientation": "S",
+    "duree": "1 jour",
+    "ambiance": "Grandes dalles de calcaire lisses avec fissures et cannelures, parsemées de pins, assez raides dans l'ensemble. Soleil toute la journée. Niveau très homogène, « ça grimpe tout du long » (retour de 2024). Voie classique du topo « Schweiz Plaisir Selection », souvent parcourue.",
+    "statut": "bientot",
+    "envie": 2,
+    "projet": null,
+    "equipement": "equipee",
+    "cote_equipement": "P1+",
+    "approche": "Depuis Näfels (vallée de la Linth), monter en voiture par une route très étroite dans la forêt jusqu'au parking (payant : 6 CHF par jour en 2024, enveloppe à déposer ; toilettes ; nuit possible pour 10 CHF par véhicule + 4 CHF par personne, en espèces). Suivre le chemin carrossable interdit à la circulation. À la deuxième ferme (Stattboden, 1448 m), prendre le sentier qui monte le long de la lisière W de la forêt jusqu'au pied du grand dièdre à l'aplomb du sommet. Départ à peu près au milieu des grandes dalles : nom de la voie écrit au pied et flèche bleue. 350 m de dénivelé, environ 1 h (C2C).",
+    "descente": "À pied : rejoindre la croix, descendre le sentier vers l'W sur environ 200 m, passer la crête vers le S puis l'E et rejoindre le sentier d'approche (15 min selon C2C ; 45-60 min selon theCrag). Un retour de 2018 a perdu la trace au col entre les deux sommets et s'est embêté dans les pentes d'herbe : il fallait continuer pour trouver le sentier normal. Descente en rappel possible jusqu'à R5 ; plus haut, la corde risque de se coincer dans les pins (C2C).",
+    "materiel": "Voie équipée (spits) : dégaines et sangles. Un retour de 2024 a ajouté un friend en L6. Attention au tirage en L3.",
+    "longueurs": [
+      {
+        "titre": "D'après C2C (cotations) et theCrag (longueurs)",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "5a",
+            "longueur": 25,
+            "cheminement": "Petit mur vertical, puis se décaler légèrement à gauche (ne pas suivre la ligne de spits tout droit, marquée d'un point rouge). Très patinée selon un retour de 2020."
+          },
+          {
+            "n": "L2",
+            "cotation": "5a",
+            "longueur": 25,
+            "cheminement": "Courte longueur sur cannelures, droit au-dessus."
+          },
+          {
+            "n": "L3",
+            "cotation": "5b",
+            "longueur": 35,
+            "cheminement": "Grande et belle longueur sur cannelures, plus facile dans la deuxième moitié ; attention au tirage. Passages en adhérence (retour de 2018)."
+          },
+          {
+            "n": "L4",
+            "cotation": "4c (C2C) / 5a (theCrag)",
+            "longueur": 25,
+            "cheminement": "Traversée un peu fine à droite, puis remonter le dièdre."
+          },
+          {
+            "n": "L5",
+            "cotation": "5a",
+            "longueur": 25,
+            "cheminement": "Droit au-dessus sur cannelures."
+          },
+          {
+            "n": "L6",
+            "cotation": "5a",
+            "longueur": 30,
+            "cheminement": "Petit mur plus raide au début, puis droit au-dessus entre les pins. Ignorer le premier relais et continuer sur la vire 5 m plus haut à gauche : deuxième relais plus confortable, qui laisse assez de corde pour L7."
+          },
+          {
+            "n": "L7",
+            "cotation": "5a",
+            "longueur": 50,
+            "cheminement": "Dernière longueur, toujours au milieu des arbres. Sortie environ 200 m à droite de la croix sommitale."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Les longueurs cotées 5a ont chacune un pas plutôt « 5+ » en L5, L6 et L7, avec des points qui semblent loin (retour de 2018). theCrag propose 5b à 5c pour la cotation de la voie (12 avis). Il faut être à l'aise dans le 5.",
+      "Face plein S, soleil toute la journée : éviter les jours de grosse chaleur ou partir tôt.",
+      "Échappatoire : descente en rappel possible jusqu'à R5.",
+      "Une autre voie plus facile au Brüggler, Sonntagsweg (C2C 814468), pourrait servir de mise en jambe. Non étudiée."
+    ],
+    "retex": [
+      "18/07/2024 : « jamais trop dur, très homogène », mais ça grimpe tout du long et mieux vaut avoir de la marge. Friend ajouté en L6 ; sortie de L7 par la Direkte Plattenwand. Parking 9 h 45, départ 11 h, sommet 14 h 30, retour 17 h. Boissons fraîches en libre-service à Winteregg.",
+      "29/07/2020 : demi-tour après le premier spit de L2, l'équipement était trop espacé pour cette cordée. Descente sans problème depuis le relais. L1 très patinée.",
+      "29/07/2018 (Camptocamp et récit sur nedved.free.fr) : superbe face calcaire. Pas d'environ 5+ en L5, L6 et L7 avec des points loin ; passé en tirant sur les dégaines et avec un anneau de corde comme pédale en L3. Départ 10 h, sommet 15 h.",
+      "26/05/2018 : belle reprise de grande voie, plus appréciée que le Mattstock dans le même style. Environ 3 h. Plus de neige ni à l'approche ni à la descente."
+    ],
+    "horaires": "Approche environ 1 h ; voie 3 à 5 h selon les retours ; descente 15 min (C2C) à 45-60 min (theCrag).",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 1003908 (Brüggler : Highway) et sorties 1665553 (18/07/2024), 1233288 (29/07/2020), 1024163 (29/07/2018), 1003909 (26/05/2018), consultés le 10/11/2026",
+      "theCrag, voie 241720641 (Highway, Brüggler), consultée le 10/11/2026",
+      "Récit « Brüggler, Highway » du 29/07/2018, http://nedved.free.fr/contributions/2018/bruggler/highway.htm, consulté le 10/11/2026",
+      "Livres cités par C2C, non consultés : « Schweiz Plaisir Ost », « Schweiz Plaisir Selection », « Kletterführer Glarnerland »"
+    ]
+  },
+  {
     "id": "pilatus-galtigenturme",
     "nom": "Pilatus – Galtigentürme I-IV",
     "sous_titre": "Arête de 4 tours sur le versant S du Pilatus, au-dessus du lac des Quatre-Cantons – accès par le train à crémaillère (arrêt Ämsigen), fin au Rosegg (1975 m) puis au sommet du Pilatus",
