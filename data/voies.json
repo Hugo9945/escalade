@@ -1,5 +1,160 @@
 [
   {
+    "id": "moulette-voie-de-la-poire",
+    "nom": "Vallon de la Moulette, 1re Tour – Voie de la Poire",
+    "sous_titre": "Voie historique de 1956 sur l'éperon de la 1re Tour, au-dessus du Monêtier-les-Bains – départ de la piste du col de Buffère (route du Granon) ou du Monêtier",
+    "massif": "Cerces – Thabor – Mont-Cenis (Hautes-Alpes)",
+    "secteur": "Vallon de la Moulette, 1re Tour (2767 m)",
+    "coordonnees": {
+      "lat": 44.99606,
+      "lon": 6.53723,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Parking piste du col de Buffère sur C2C : 44.96325, 6.5775 ; Le Monêtier-les-Bains : 44.97593, 6.50962"
+    },
+    "camptocamp": [
+      {
+        "titre": "Vallon de la Moulette - 1ère Tour : Voie de la Poire",
+        "url": "https://www.camptocamp.org/routes/55099"
+      }
+    ],
+    "objectif": "Les 13 longueurs de la voie jusqu'au sommet de l'arête, puis descente à pied par la sente.",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "4c (IV+)",
+    "cotation_obligatoire": "4c",
+    "engagement": "II",
+    "hauteur": "340 m de dénivelé de difficultés (C2C)",
+    "nb_longueurs": "13 (12 selon une ancienne version C2C)",
+    "orientation": "S, SW (et NW sur la fin)",
+    "duree": "1 jour",
+    "ambiance": "Calcaire, éperon (« pilier ») ; rocher sain selon la plupart des retours, « un peu délicat par moments » selon un retour de 2015. Patine dans les 2 premières longueurs. Terrain montagne, « parfait pour une initiation » (retour de 2016) ; le début est le plus grimpant, la suite plus facile avec des passages à pied. Cadre grandiose face aux Écrins. La voie ne prend le soleil que vers 11 h (retour de 2022). Ouverte en août 1956 par Edmond Martin et Maurice Vaillot. Entretenue par l'association ONOS depuis 2021.",
+    "statut": "bientot",
+    "envie": 2,
+    "projet": null,
+    "equipement": "semi",
+    "cote_equipement": "P2",
+    "approche": "Par la route du col du Granon (D234 depuis Saint-Chaffrey) : au lacet à droite à 2171 m (ancienne buvette du Granon), prendre à gauche une mauvaise piste sur 1 km et se garer avant la barrière (déco parapente) ; attention aux voitures basses. À pied, suivre la piste jusqu'au col de Buffère (3,5 km) ; à 10 m du col, prendre le sentier horizontal « Col de Roche Noire par la sente des grimpeurs » (panneau jaune) jusqu'au vallon de la Moulette (2,5 km). Autre accès : du Monêtier-les-Bains (parking à l'entrée du village en venant du Lautaret), par le sentier de la Cime des Conchiers ou du Puy du Cros jusqu'à la source captée de la Moulette (environ 900 m de dénivelé, 2 h 15). Puis monter à vue vers le pied de la 1re Tour, suivre le pied de la paroi vers la gauche, franchir le ravin qui fait suite au profond couloir entre la 1re Tour et la Poire. Attaque en rive droite du couloir, au pied d'un dièdre-cheminée herbeux, 10 m à gauche de la ligne de plaquettes de Poire blette. Approche de 1 h 10 à plus de 2 h selon les retours.",
+    "descente": "Poursuivre sur l'arête par des gendarmes jusqu'à un cairn ; environ 10 m de désescalade (2b-3b, équipée de 2 sangles pour un rappel selon un retour de 2026), puis un petit couloir qui rejoint une sente à flanc au-dessus des couloirs jusqu'à un replat herbeux. Vers le Monêtier : descendre le couloir à droite jusqu'au pied de la face. Vers le col de Buffère : continuer la sente jusqu'à la sente de niveau et au col. Couloirs très glissants (retour de 2026) ; en 2025, une cordée n'a pas trouvé la trace derrière le cairn (ressauts de 5-10 m sans protection) et est sortie en traversant vers le S. Retour long à ne pas sous-estimer.",
+    "materiel": "Corde de 40 m minimum (C2C), une dizaine de dégaines (retour de 2025), quelques sangles et coinceurs : plusieurs retours conseillent de quoi compléter, surtout sur le haut et pour les relais.",
+    "longueurs": [
+      {
+        "titre": "D'après C2C (cotations UIAA)",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Remonter la cheminée en oblique, patinée."
+          },
+          {
+            "n": "L2",
+            "cotation": "IV+",
+            "longueur": null,
+            "cheminement": "Même cheminée, avec un pas un peu patiné. Relais sur une vire, 5 m après une chaîne de rappel (relais plus confortable)."
+          },
+          {
+            "n": "L3",
+            "cotation": "IV+",
+            "longueur": null,
+            "cheminement": "Départ facile, puis belle dalle."
+          },
+          {
+            "n": "L4",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Départ en rocher moyen (II), puis cheminée sous un bloc coincé (IV)."
+          },
+          {
+            "n": "L5",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Revenir sur le fil de l'éperon et le remonter."
+          },
+          {
+            "n": "L6",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Plutôt sur la gauche de l'éperon, puis traverser à droite un petit couloir qu'on remonte."
+          },
+          {
+            "n": "L7",
+            "cotation": "III+",
+            "longueur": null,
+            "cheminement": "L'éperon se couche et « tourne à droite »."
+          },
+          {
+            "n": "L8",
+            "cotation": "III+",
+            "longueur": null,
+            "cheminement": "Suivre au mieux le fil de l'éperon, pas très raide."
+          },
+          {
+            "n": "L9",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Petite dalle vers la gauche, puis facile jusqu'à une vire caillouteuse. Relais sur la vire (1 vieille plaquette)."
+          },
+          {
+            "n": "L10",
+            "cotation": "II (III)",
+            "longueur": null,
+            "cheminement": "Suivre la vire environ 20 m à pied ; elle finit par des gradins (III). Relais plaquette + piton."
+          },
+          {
+            "n": "L11",
+            "cotation": "IV+",
+            "longueur": null,
+            "cheminement": "Cheminée en opposition (IV+), puis dalles couchées (III). Relais sur 1 spit."
+          },
+          {
+            "n": "L12",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Tout droit vers une brèche bien marquée (marche, 2 pitons), puis cheminée (III, 1 piton). Relais au pied d'une belle dalle (1 spit), à la brèche : évite le tirage dans la dalle."
+          },
+          {
+            "n": "L13",
+            "cotation": "IV+",
+            "longueur": null,
+            "cheminement": "Dalle, puis fissure et fil de l'arête jusqu'au sommet de l'arête (plusieurs spits et pitons)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Ne pas se tromper de départ : Poire blette (C2C 1230589), 10 m à droite avec une ligne de plaquettes, est plus dure (5b à 5c+, un pas de 6a selon un retour de 2026). Plusieurs cordées s'y sont engagées par erreur ; une autre a pris une vieille fissure-cheminée entre la 1re Tour et la Poire.",
+      "À partir de R8 environ, les relais sont sur un seul point ou difficiles à trouver ; l'équipement devient plus « terrain d'aventure ». Prévoir sangles et quelques friends pour les relais.",
+      "La fin est facile et se fait souvent en corde tendue, sauf la dalle finale bien protégée.",
+      "Ne pas partir trop tôt : soleil sur la voie vers 11 h. Il peut faire très chaud l'après-midi.",
+      "Approche longue (et retour aussi) : prévoir une grosse journée. Idée d'un retour de 2022 : louer un VTT électrique au Monêtier (à vérifier).",
+      "Choisir une journée de météo sûre."
+    ],
+    "retex": [
+      "03/09/2026 : approche depuis le Granon ; « agréablement surpris par l'intérêt de cette voie dans ce niveau » ; 5 h dans la voie. Les plaquettes orientent maintenant vers de beaux piliers et des dalles compactes.",
+      "13/08/2026 : cordée passée par Poire blette puis la fin de la Poire ; 1 h 45 d'approche, 7 h jusqu'au sommet en cordée de trois ; désescalade de 10 m équipée pour un rappel sur 2 sangles.",
+      "08/08/2026 : voie très patinée par endroits ; « style grande voie full équipée jusqu'à L8, puis plus typée terrain d'aventure » ; plus de relais sur deux points à partir de R8 ; descente dans des couloirs très glissants. Parking 8 h, départ voie 10 h 30, début descente 18 h, voiture 20 h 30.",
+      "16/08/2025 : voie claire et bien équipée ; sortie délicate (trace introuvable derrière le cairn, ressauts sans protection), sortis en traversant plein S.",
+      "05/07/2024 : 2 h 10 d'approche ; première longueur « à l'ancienne » ; R9 et R10 sur de vieux points ; quelques pas « un peu sous-cotés » ; bien d'avoir de quoi compléter. 4 h 45 dans la voie.",
+      "20/08/2022 : « pile poil dans notre niveau » ; relais non chaînés sauf le 1er. Parking 8 h 15, voie 10 h 15-15 h 15 (cordée de 3), voiture 18 h.",
+      "23/09/2021 : longueurs sur les 6 premières puis corde tendue ; « rien n'est dur mais c'est assez grimpant », très bon rocher ; complété avec quelques friends.",
+      "01/08/2017 : début le plus grimpant ; relais difficiles à trouver après R9, quasiment aucun équipement avant la brèche de la dalle finale (2 pitons pour 70 m).",
+      "19/08/2016 : terrain montagne parfait pour une initiation, rocher sain ; patine des 2 premières longueurs moins gênante que prévu. 2 h 15 d'approche depuis le Monêtier, 5 h dans la voie.",
+      "31/08/2015 : équipement « plutôt aéré mais suffisant » ; à partir de R8 (sauf R9), relais sur un seul spit."
+    ],
+    "horaires": "Approche 1 h 10 à 2 h 15 selon le départ ; 2 h 30 à 5 h dans la voie (7 h en cordée de trois par Poire blette) ; journées de 7 à 12 h selon les retours.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/moulette-voie-de-la-poire-trace.jpg",
+        "legende": "La 1re Tour avec le tracé de la voie ; photo Camptocamp (image 25018, Jean Bernard, licence personnelle)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 55099 (Vallon de la Moulette - 1ère Tour : Voie de la Poire) et points d'accès 177019 (piste du col de Buffère) / 104575 (Le Monêtier-les-Bains), consultés le 12/11/2026",
+      "Camptocamp, sorties 1951529 (03/09/2026), 1940527 (13/08/2026), 1943241 (08/08/2026), 1806246 (16/08/2025), 1660965 (05/07/2024), 1458866 (20/08/2022), 1432862 (17/06/2022), 1352838 (23/09/2021), 1235750 (25/07/2020), 1032313 (12/08/2018), 912378 (01/08/2017), 791771 (19/08/2016), 671051 (31/08/2015), 373250 et 373247 (08/09/2012), consultées le 12/11/2026",
+      "Image Camptocamp 25018 (licence personnelle)",
+      "Livres cités par C2C, non consultés : « Escalades faciles de Grenoble à Briançon », « Oisans Nouveau Oisans sauvage – Livre Est », « Escalades du Briançonnais », « Guide des escalades du massif des Cerces », « Escalade plaisir – Alpes françaises du Nord », « Le Massif des Écrins – Les 100 plus belles courses »"
+    ]
+  },
+  {
     "id": "brueggler-highway",
     "nom": "Brüggler – Highway",
     "sous_titre": "7 longueurs sur les grandes dalles calcaires de la face S du Brüggler (1777 m), au-dessus du Schwändital – départ du parking au-dessus de Näfels",
