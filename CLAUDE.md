@@ -70,7 +70,7 @@ Règles :
 1. Vérifier qu'elle n'est pas déjà dans `data/voies.json` (chercher l'id C2C dans les URL `camptocamp`) ; si oui, le dire avec son statut/étoiles actuels.
 2. Si le lien est une **sortie** (`/outings/…`), retrouver l'itinéraire associé (`associations.routes`).
 3. Récupérer l'itinéraire + jusqu'à 15 sorties récentes (RETEX daté, formulé comme des retours).
-4. Demander au propriétaire, **avec le questionnaire à cliquer**, le statut (suggestion en premier, avec la raison) et les étoiles d'envie ; demander le projet seulement s'il n'est pas évident (Europe → « Autres voies » par défaut s'il l'a dit).
+4. Demander au propriétaire, **avec le questionnaire à cliquer**, le statut (suggestion en premier, avec la raison ; proposer toujours **Faisable**, **Engagée** et **Bientôt**, plus « Matériel manquant » si du matériel manque, sinon « Fait ») et les étoiles d'envie ; demander le projet seulement s'il n'est pas évident (Europe → « Autres voies » par défaut s'il l'a dit).
 5. Image : seulement une photo/croquis C2C **avec le tracé** et en licence collaborative/personal (sinon pas d'image). Jamais de scan de livre en ligne.
 6. Remplir aussi `equipement`/`cote_equipement`, vérifier la fiche A4 (1 page de texte idéalement), publier (commit + push) et confirmer en ligne.
 7. Signaler les points de vigilance (fermetures saisonnières, accès, matériel absent du rack, névés) et proposer les enchaînements sans les ajouter d'office.
