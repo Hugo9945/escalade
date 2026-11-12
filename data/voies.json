@@ -1,5 +1,149 @@
 [
   {
+    "id": "tour-germaine-spigolo-boccalatte",
+    "nom": "Tour Germaine – Spigolo Boccalatte",
+    "sous_titre": "Arête SSW de la Tour Germaine (Torre Germana, 2189 m), voie historique de 1935 en Vallée Étroite – départ du parking face à la bergerie (1711 m)",
+    "massif": "Cerces – Thabor – Mont-Cenis (Hautes-Alpes)",
+    "secteur": "Vallée Étroite, Tour Germaine",
+    "coordonnees": {
+      "lat": 45.06766,
+      "lon": 6.63835,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Les Granges de la Vallée Étroite sur C2C : 45.06721, 6.62877"
+    },
+    "camptocamp": [
+      {
+        "titre": "Tour Germaine : Spigolo Boccalatte",
+        "url": "https://www.camptocamp.org/routes/56111"
+      }
+    ],
+    "objectif": "Les 11 longueurs de l'arête jusqu'à la madone du sommet, avec un rappel de 15 m dans une brèche en cours de voie, puis descente en rappel et à pied.",
+    "cotation_globale": "D",
+    "cotation_libre_max": "5c",
+    "cotation_obligatoire": "4c",
+    "engagement": "II ; risque X2, exposition E2",
+    "hauteur": "200 m de dénivelé, environ 250 m d'escalade (C2C)",
+    "nb_longueurs": "11 longueurs courtes (25 m max) + 1 rappel de 15 m en cours de voie",
+    "orientation": "SSW (S, SW)",
+    "duree": "1 jour",
+    "ambiance": "Calcaire en excellent rocher, sauf dans les passages les plus faciles (terrain délité). Pas « durs » athlétiques sur rocher raide et très prisu, plus ou moins patiné. Beaux dièdres-fissures. Ambiance « dolomitique », avec du gaz (retours de 2025-2026). Ouverte en 1935 par Gabriele Boccalatte, Mario Piolti et Michele Rivero ; première du gendarme par Giusto Gervasutti en 1936.",
+    "statut": "bientot",
+    "envie": 2,
+    "projet": null,
+    "equipement": "semi",
+    "cote_equipement": "P2",
+    "approche": "Parking en face de la bergerie (1711 m) en Vallée Étroite. Accès en transports (C2C) : gare de Bardonecchia, bus gratuit l'été jusqu'à Pian del Colle, puis navette payante jusqu'aux Granges de la Vallée Étroite (horaires à vérifier). Traverser le torrent par le pont et prendre le sentier qui longe la rive gauche vers le S ; environ 50 à 100 m après le pont, avant que le chemin principal remonte, prendre à gauche le sentier cairné (début discret, reste de poteau scié). Au cairn de l'embranchement, prendre à gauche (à droite, barré de pierres : c'est le retour par le pierrier). Monter dans les bois puis les éboulis vers la Tour Germaine jusqu'à la brèche entre une petite tour en forme de « Mante religieuse » et la Tour Germaine. Attention : un glissement de terrain récent a créé une ravine dans la traversée finale vers l'attaque, passage délicat sur une vingtaine de mètres (petits pas marqués, sans trop prendre de hauteur). Environ 45 min à 1 h.",
+    "descente": "Rester encordés. Du sommet, rejoindre un collet au NE, descendre quelques mètres dans un couloir à droite, puis franchir une brèche entre deux gros blocs (cairn) pour trouver la chaîne de rappel. Attention aux nombreux cairns inutiles au sommet (retour de 2026). Rappel de 30 m jusqu'à une vire suivie à gauche (cairns) ; faisable avec une corde de 50 m à simple, mais on arrive sur une petite vire et il faut désescalader environ 4 m jusqu'à la grande vire. Franchir un angle, désescalader un petit mur jusqu'au col au N de la tour (rappel possible de 10 m sur spit + maillon). Descendre le couloir à gauche d'un énorme bloc coincé, raide et délicat, jusqu'à la traversée de l'approche ; ou descendre tout droit dans un éboulis mouvant, puis une sente à droite vers la fin du sentier d'approche. 1 h 15 à 2 h jusqu'au parking selon les retours.",
+    "materiel": "Relais sur spits, une ou deux plaquettes par longueur, quelques vieux pitons. Compléter avec 1 jeu de friends du #0.4 au #2 (le #3 utile selon un retour de 2025) et des coinceurs ; 2 à 3 sangles ; 6 à 8 dégaines dont la moitié rallongeables. Corde de 60 m à utiliser en double conseillée (rocher coupant, rappel du sommet) ; une cordée l'a faite avec une corde de 50 m pliée en deux.",
+    "longueurs": [
+      {
+        "titre": "D'après C2C",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "2b (3)",
+            "longueur": null,
+            "cheminement": "À la brèche, petit mur à gauche (3), puis traversée à droite, facile mais un peu exposée (se protéger sur les pins), jusqu'au pied du dièdre-cheminée. Relais sur 1 spit peu visible (fissure pour un petit friend), à droite du départ de L2 signalé par un cairn."
+          },
+          {
+            "n": "L2",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Dièdre sur 10 m (1 spit), puis la dalle à sa gauche jusqu'au relais (petit cairn au-dessus)."
+          },
+          {
+            "n": "L3",
+            "cotation": "5a",
+            "longueur": null,
+            "cheminement": "Belle ligne de fissure, puis pas athlétique sur un bloc (1 plaquette)."
+          },
+          {
+            "n": "L4",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Court ressaut (4c), puis dalles un peu à droite puis droit (3c) jusqu'à un replat entre 2 gendarmes ; relais de rappel à droite. Bien partir sur le replat à droite (retour de 2026)."
+          },
+          {
+            "n": "Rappel",
+            "cotation": "",
+            "longueur": 15,
+            "cheminement": "Rappel de 15 m sur chaîne dans la brèche. Après ce rappel, plus de retraite facile."
+          },
+          {
+            "n": "L5",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Dalles tout droit puis un peu à gauche jusqu'au relais sur le fil. Ne pas suivre la rampe-dièdre jusqu'au gendarme (retour de 2025)."
+          },
+          {
+            "n": "L6",
+            "cotation": "5c",
+            "longueur": null,
+            "cheminement": "Mur raide en ascendance à droite (5c, 2 spits) jusqu'au relais tout proche ; on peut enchaîner L6 et L7 en gérant le tirage."
+          },
+          {
+            "n": "L7",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Superbe dièdre-fissure."
+          },
+          {
+            "n": "L8",
+            "cotation": "5a",
+            "longueur": null,
+            "cheminement": "Petit mur à droite du fil (5a), puis soit le fil de l'arête effilée (1 spit) jusqu'à une terrasse, soit un peu à droite une superbe fissure (4c, vieux coin de bois)."
+          },
+          {
+            "n": "L9",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Mur raide (4c, 2 plaquettes), puis superbe dièdre-fissure (4b)."
+          },
+          {
+            "n": "L10",
+            "cotation": "2b",
+            "longueur": null,
+            "cheminement": "Longueur de transition en traversée à droite."
+          },
+          {
+            "n": "L11",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Magnifique dièdre-fissure jusqu'à la madone du sommet (relais)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Avoir de la marge : cotations « montagne », pas durs athlétiques et patinés. Un grimpeur de 2023 conseille plutôt les cotations du topo italien des guides du Val Susa (altox.it).",
+      "Point de non-retour : après le rappel de la brèche (fin de L4), on ne peut plus facilement redescendre. Une cordée de 2026 a hésité à renoncer à ce moment-là.",
+      "Le 1er point est parfois à 5 m au-dessus du relais : prévoir de quoi se protéger tôt (friends).",
+      "Certains relais sont reliés par des cordelettes pas toutes en bon état : vérifier.",
+      "Voie fréquentée (cordées de militaires de la paroi voisine) : partir tôt."
+    ],
+    "retex": [
+      "31/10/2026 : voie magnifique, rocher excellent, quelques pas un peu patinés. Seconde hésitante en haut de L4, juste avant le rappel ; le crux de L6 s'est révélé bien protégé. Parking 9 h 40, voie 10 h 30, sommet 14 h 30, fin de descente 16 h 30.",
+      "12/09/2026 : caillou « pas mal patiné, même les prises de main » ; descente à faire avec vigilance jusqu'au sentier, puis pierrier agréable. Départ 9 h 45, sommet 14 h, en bas vers 16 h 15.",
+      "06/09/2026 : voie « bien grimpante », content d'avoir quelques friends ; traversée vers l'attaque délicate à cause du glissement de terrain.",
+      "13/08/2026 : rocher excellent, patiné par endroits ; zéro à un coinceur ajouté par longueur, « sans en mettre ça fait bien expo quand même ». Encordés à 25 m sur une 50 m pliée : toutes les longueurs et le rappel passent. 3 h 35 de grimpe, 1 h 15 du sommet au parking.",
+      "19/07/2026 : approche et retour « les plus intenses de ma vie », bas de voie difficile à trouver.",
+      "03/06/2026 : pas durs bien protégés, relais sur deux points, voie un peu patinée.",
+      "25/08/2025 : passages durs juste au-dessus des relais ; un pas de bloc en L8 passé en tirant sur le point. Friends utiles, le #3 aussi.",
+      "11/08/2025 : équipement « pas abondant mais suffisant », 1er point parfois 5 m au-dessus du relais ; rocher plutôt bon, quelques sections délitées. 45 min d'approche, 3 h dans la voie, 2 h de retour.",
+      "19/05/2024 : petit névé au début de la descente (passage sur les bords). Quelques prises qui bougent dans le haut.",
+      "07/10/2023 : surtout du 4, avec 3 petits passages en 5b/5c.",
+      "20/08/2023 : 3e parcours en 40 ans ; équipement au minimum. 8 h parking, 9 h attaque, 14 h sommet, 16 h voiture."
+    ],
+    "horaires": "Approche 45 min à 1 h ; 3 à 5 h dans la voie ; descente 1 h 15 à 2 h.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 56111 (Tour Germaine : Spigolo Boccalatte) et point d'accès 104600 (Les Granges de la Vallée Étroite), consultés le 12/11/2026",
+      "Camptocamp, sorties 1964289 (31/10/2026), 1960585 (16/10/2026), 1951589 (12/09/2026), 1949345 (06/09/2026), 1941266 (13/08/2026), 1947547 (19/07/2026), 1943672 (03/06/2026), 1811366 (25/08/2025), 1803979 (11/08/2025), 1647718 (19/05/2024), 1586640 (07/10/2023), 1578696 (11/09/2023), 1570257 (20/08/2023), 1562916 (03/08/2023), consultées le 12/11/2026",
+      "Topos italiens cités par C2C, non consultés : altox.it (Torre Germana) et scuolaguidodellatorre.it",
+      "Livres cités par C2C, non consultés : « Escalades du Briançonnais », « Oisans Nouveau Oisans sauvage – Livre Est », « Escalade plaisir – Alpes du Sud, Provence », « Briançon Climbs »"
+    ]
+  },
+  {
     "id": "moulette-voie-de-la-poire",
     "nom": "Vallon de la Moulette, 1re Tour – Voie de la Poire",
     "sous_titre": "Voie historique de 1956 sur l'éperon de la 1re Tour, au-dessus du Monêtier-les-Bains – départ de la piste du col de Buffère (route du Granon) ou du Monêtier",
