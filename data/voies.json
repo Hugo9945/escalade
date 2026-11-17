@@ -1,5 +1,185 @@
 [
   {
+    "id": "grand-laus-le-bonheur-est-dans-le-pre",
+    "nom": "Aiguille du Grand Laus – Le bonheur est dans le pré",
+    "sous_titre": "Grande course de 18 longueurs face au glacier des Violettes et au Pelvoux – départ du Pont du Ban, au-dessus d'Ailefroide",
+    "massif": "Écrins (Hautes-Alpes)",
+    "secteur": "Aiguille du Grand Laus (2801 m), arête dominant le ravin des Violettes",
+    "coordonnees": {
+      "lat": 44.90557,
+      "lon": 6.4204,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Départ : Pont du Ban, sur la route du Pré de Madame Carle"
+    },
+    "camptocamp": [
+      {
+        "titre": "Aiguille du Grand Laus : Le bonheur est dans le pré",
+        "url": "https://www.camptocamp.org/routes/53828"
+      }
+    ],
+    "objectif": "Les 18 longueurs jusqu'à l'arête sommitale, puis la longue descente à pied par le vallon des Violettes.",
+    "cotation_globale": "D",
+    "cotation_libre_max": "5b",
+    "cotation_obligatoire": "5b",
+    "engagement": "II ; risque X2, exposition E3",
+    "hauteur": "500 m d'escalade (C2C) ; 450 m d'approche",
+    "nb_longueurs": "18",
+    "orientation": "NE",
+    "duree": "1 grosse journée (9 h 30 à 14 h de voiture à voiture selon les retours)",
+    "ambiance": "Vraie course de montagne, « une voie d'ampleur à l'ambiance extraordinaire » face au glacier des Violettes et au Pelvoux. Gneiss lichéneux (granit sur la fin, rochers brisés au sommet) selon un retour de 2023 ; C2C indique granit. Rocher jugé très correct à excellent par la plupart des retours. Escalade entre III et V, peu soutenue mais très longue, finale sur une magnifique arête. Voie surtout à l'ombre (à moitié au soleil le matin). Ouverte en 1998 par Jean-Michel et Sylvain Cambon et Gilles Crespi ; entretenue par l'association ONOS.",
+    "statut": "bientot",
+    "envie": 3,
+    "projet": null,
+    "equipement": "equipee",
+    "cote_equipement": "P1+",
+    "approche": "Environ 1 h 30 à 2 h. Se garer avant le Pont du Ban (3-4 places ; péage du Pré de Madame Carle juste avant, libre très tôt le matin selon un retour de 2022). Passer le pont et suivre la rive droite du torrent, remonter le névé des Militaires, ou mieux par la bordure en rive droite (fondue ces dernières années, crampons inutiles en 2020, 2022, 2025 et 2026). Au niveau d'un gros bloc surplombant, partir à droite (cairn au bord droit du bloc, puis sente à chamois) sur un éperon couvert de vernes ; ne PAS prendre le bon sentier qui monte à gauche (c'est celui de la descente). Monter 50 m puis traverser un petit ravin équipé d'une vieille corde fixe et d'un câble, avec un passage exposé pour les atteindre (s'encorder est utile). Suivre ensuite en légère ascendance, sur plusieurs centaines de mètres, des vires à chamois et des dalles polies vers l'arête qui domine le ravin des Violettes. Départ un peu avant cette arête : 2 plaquettes peu visibles au bas de la dalle inclinée. Plusieurs cordées se sont perdues dans les vernes : un retour conseille de reconnaître l'accès la veille.",
+    "descente": "Paumatoire. Descendre quelques mètres sans prendre tout de suite le ravin à gauche (ravin de la Neyre) : traverser à l'horizontale jusqu'à la crête suivante, puis suivre les cairns. Descendre le versant SE de la crête ; à un bon cairn, suivre un éperon vers le vallon du torrent des Violettes, en louvoyant dans des dalles moutonnées et de petites barres, puis dans le vallon (névés en tout début de saison, pierrailles, pentes d'herbe) jusqu'à l'origine du ravin. Rejoindre sa rive gauche par des pentes d'herbe entre des dalles (quelques cairns). Quand la trace devient bien marquée et part à droite vers la traversée du Pelvoux, ne pas la suivre : remonter la pente d'environ 200 m à gauche (arbres sur la crête), qui ramène après une traversée dans les vernes au névé des Militaires. En 2023, une cordée qui a suivi la trace de droite a fini par les vires d'Ailefroide (au moins 1 h 30 de plus). En 2018, une cordée a erré jusqu'à 21 h 15 sans trouver la descente. 1 h 30 à 3 h 20.",
+    "materiel": "7-8 dégaines (une dizaine de rallongeables selon un retour) ; quelques friends ou coinceurs « au cas où », utiles quand on ne trouve pas les points. Crampons et piolet pour le névé des Militaires selon l'enneigement (on peut les laisser en haut du névé) : nous n'en avons pas, à vérifier avant d'y aller. Chaussures de randonnée pour l'approche et la descente, « les baskets ne sont en aucun cas suffisantes » (C2C).",
+    "longueurs": [
+      {
+        "titre": "D'après C2C",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Ressaut (4c) puis dalle (3c)."
+          },
+          {
+            "n": "L2",
+            "cotation": "3a",
+            "longueur": null,
+            "cheminement": "Dalle vers la droite."
+          },
+          {
+            "n": "L3",
+            "cotation": "marche",
+            "longueur": null,
+            "cheminement": "Herbe vers la droite."
+          },
+          {
+            "n": "L4",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Pas de bloc contournable, puis ressaut raide."
+          },
+          {
+            "n": "L5",
+            "cotation": "5a",
+            "longueur": null,
+            "cheminement": "Dalle puis ressaut ; relais à droite du fil."
+          },
+          {
+            "n": "L6",
+            "cotation": "5b",
+            "longueur": null,
+            "cheminement": "Ascendance vers la droite jusqu'à une terrasse."
+          },
+          {
+            "n": "L7",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Transition dans l'herbe, dalle puis ressaut prisu."
+          },
+          {
+            "n": "L8",
+            "cotation": "5b",
+            "longueur": null,
+            "cheminement": "Droit (5b), puis légèrement à gauche d'un éperon, puis retour à droite (4b)."
+          },
+          {
+            "n": "L9",
+            "cotation": "5b",
+            "longueur": null,
+            "cheminement": "Dans la paroi en face de l'éperon de R9 : viser une fissure et un tout petit mélèze."
+          },
+          {
+            "n": "L10",
+            "cotation": "5b",
+            "longueur": null,
+            "cheminement": "En ascendance vers la droite (4b puis 5b)."
+          },
+          {
+            "n": "L11",
+            "cotation": "5b",
+            "longueur": null,
+            "cheminement": "Ressauts puis joli dièdre."
+          },
+          {
+            "n": "L12",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "En ascendance vers la droite. Relais difficile à voir : 15-20 m tout droit après le dernier point (retour de 2025)."
+          },
+          {
+            "n": "L13",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "En ascendance vers la droite."
+          },
+          {
+            "n": "L14",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "En ascendance vers la droite."
+          },
+          {
+            "n": "L15",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Rampe vers la droite, puis tout droit dans le raide. « Fantastique longueur » en bon rocher face au Pelvoux."
+          },
+          {
+            "n": "L16",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Droit, puis depuis une vire, traverser en ascendance la facette qui surplombe. Relais dans une niche."
+          },
+          {
+            "n": "L17",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Droit, puis sur l'éperon qui le surplombe."
+          },
+          {
+            "n": "L18",
+            "cotation": "3b",
+            "longueur": null,
+            "cheminement": "Entre les becquets et les blocs de l'arête sommitale ; assurage naturel, pas besoin de coinceurs. Arête instable « style château de cartes » (retour de 2016) ; relais final parfois introuvable (retour de 2018 : relais sur coinceurs)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "C2C : « si le niveau annoncé ne dépasse pas le 5b, les points sont souvent loin et l'escalade très longue […]. Un niveau de 5c bien confirmé en grande voie semble un minimum. »",
+      "Points espacés (souvent 6-7 m dans le 4, parfois 10 m) et plaquettes de la couleur du rocher, difficiles à repérer, surtout à partir de L9. Équipement de plus en plus aéré vers le haut.",
+      "Beaucoup de cordées grimpent en corde tendue sauf dans les 5b : environ 4 h dans la voie au lieu de 7 h.",
+      "Ne pas y aller si la météo est incertaine : vires d'approche « casse-gueule » si humides, rocher lichéneux glissant mouillé, descente dangereuse sur terrain mouillé.",
+      "Partir très tôt (6 h 30 au Pont du Ban). Reconnaître l'accès dans les vernes la veille.",
+      "Avoir le topo Cambon (Oisans Nouveau Oisans Sauvage – Livre Est) : ses photos et dessins aident pour l'approche et la descente."
+    ],
+    "retex": [
+      "14/07/2026 : « une vraie voie montagne, et non une GV falaise », niveau modeste « mais quel voyage ». Approche longue et parfois exposée (environ 400 m de traversée, dalles dangereuses si humides). Névé fondu en rive droite, crampons inutiles. Approche 2 h 05, voie 7 h 40, descente 2 h 40.",
+      "17/07/2025 : névé petit, sentier sur le côté dégagé. Deux cordées devant, 1 h d'attente. Voie bien équipée, recherche du relais vers L12-L13. 5 h 30 dans la voie (corde tendue sauf dans les 5b), 2 h 30 de descente ; journée 7 h 30 – 19 h 30.",
+      "01/08/2023 : pris sous la pluie dans le haut ; 4c sur gneiss lichéneux trempé avec un point tous les 10-12 m, « bien plus dur qu'un 6b ». Descente « suicidaire sur terrain mou ». Attaque 8 h 40, 7 h 30 dans la voie, 3 h 20 de descente.",
+      "16/07/2022 : 4 h 30 d'escalade en corde tendue. Il faut de la réserve « quand le dernier spit est à 10 m derrière vous et que vous ne trouvez pas le suivant ». Accès reconnu la veille. Névé inexistant (canicule). 9 h 30 de voiture à voiture.",
+      "24/07/2022 : perdus dans les vernes en montant trop haut au-dessus des câbles. Bon rocher, quelques prises qui bougent. 6 h 30 – 19 h 30.",
+      "10/07/2021 : première « voie montagne » d'une cordée ; recherche d'itinéraire dans les sections faciles, passages raides « ressenti 5c parfois ». Autre cordée : névé tracé au piolet, mieux vaut serrer en rive droite ; coinceurs pas utiles si on est à l'aise dans le 5.",
+      "21/06/2021 : névé avec crampons (laissés en haut) ; passage délicat sur dalle mouillée sur la vire d'accès ; cairns de descente peu nombreux. Parking 7 h 30 – 19 h 40.",
+      "16/07/2020 : spits souvent difficiles à trouver dans la paroi lichéneuse à partir de L9 ; coinceurs utilisés 2-3 fois quand les points restaient introuvables. 6 h 45 – 19 h 15.",
+      "19/07/2020 : approche « courte, mais dure et pénible, exposée » ; équipement « aéré, puis très aéré et enfin inexistant » ; topo Cambon indispensable.",
+      "10/07/2018 : sortie de la voie à 17 h 45, descente introuvable, errance jusqu'à 21 h 15 ; 18 h au total.",
+      "19/08/2016 : approche aux cordes fixes exposée, encordés ; corde fixe très ancienne. Une grimpeuse évacuée en hélicoptère depuis R6 (cause non précisée dans le retour)."
+    ],
+    "horaires": "Approche 1 h à 2 h ; voie 4 h à 7 h 40 ; descente 1 h 30 à 3 h 20. Prévoir 10 à 13 h de voiture à voiture.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 53828 (Aiguille du Grand Laus : Le bonheur est dans le pré), consulté le 17/11/2026",
+      "Camptocamp, sorties 1929279 (14/07/2026), 1802334 (17/07/2025), 1562237 (01/08/2023), 1446916 (24/07/2022), 1444448 (16/07/2022), 1341840 et 1338809 (10/07/2021), 1323414 (21/06/2021), 1232314 (19/07/2020), 1227530 (16/07/2020), 1822008 (15/07/2020), 1032017 (12/08/2018), 1345127 (10/07/2018), 798328 (03/09/2016), 792114 (19/08/2016), consultées le 17/11/2026",
+      "Livres cités par C2C, non consultés : « Oisans Nouveau Oisans sauvage – Livre Est » (Cambon), « Grimper n° 166 – Les 50 plus belles voies faciles & insolites de France »"
+    ]
+  },
+  {
     "id": "la-draye-spit-on-cup",
     "nom": "La Draye – Spit On Cup",
     "sous_titre": "Petite grande voie bien équipée sur les dalles de granit de la Draye, juste à gauche du Dernier Néandertalien – depuis le pont d'Ailefroide",
