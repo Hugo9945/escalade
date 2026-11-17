@@ -649,10 +649,19 @@
         "nom": "Assureur à freinage assisté",
         "quantite": "1",
         "marque": "Petzl",
-        "details": "GriGri 2",
+        "details": "GRIGRI 2",
         "annee": "",
         "etat": "",
         "notes": ""
+      },
+      {
+        "nom": "Assureur à freinage assisté",
+        "quantite": "1",
+        "marque": "Petzl",
+        "details": "GRIGRI +",
+        "annee": "",
+        "etat": "",
+        "notes": "Récupéré en novembre 2026"
       },
       {
         "nom": "Système d'assurage (tube)",
