@@ -1,5 +1,132 @@
 [
   {
+    "id": "la-draye-spit-on-cup",
+    "nom": "La Draye – Spit On Cup",
+    "sous_titre": "Petite grande voie bien équipée sur les dalles de granit de la Draye, juste à gauche du Dernier Néandertalien – depuis le pont d'Ailefroide",
+    "massif": "Écrins (Hautes-Alpes)",
+    "secteur": "Vallée d'Ailefroide, La Draye",
+    "coordonnees": {
+      "lat": 44.88615,
+      "lon": 6.45342,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Vallée d'Ailefroide - La Draye : Spit On Cup",
+        "url": "https://www.camptocamp.org/routes/232551"
+      }
+    ],
+    "objectif": "Les 7 longueurs (et la nouvelle L0 en 4b) jusqu'au sommet de la paroi, puis descente en 2 rappels.",
+    "cotation_globale": "D-",
+    "cotation_libre_max": "5b",
+    "cotation_obligatoire": "5a",
+    "engagement": "I ; risque X1, exposition E1",
+    "hauteur": "200 m de dénivelé (C2C)",
+    "nb_longueurs": "7 (+ L0 en 4b et une longueur de liaison)",
+    "orientation": "S",
+    "duree": "1/2 journée",
+    "ambiance": "Dalles de granit, difficultés modérées et équipement rapproché : « idéale pour se lancer en tête » (C2C). Relais confortables, la plupart doublés ou triplés. Ouverture « familiale » en 2009 (Pierre-Olivier Blanc, Christiane Bonhomme, famille Guigliarelli, Carine Maze). Voie très fréquentée.",
+    "statut": "faisable",
+    "envie": 2,
+    "projet": null,
+    "equipement": "equipee",
+    "cote_equipement": "P1",
+    "approche": "15 min depuis le pont d'Ailefroide. Prendre le chemin de la Tête de la Draye (SE, rive gauche du torrent). Peu après le secteur école des « petites dalles », quitter le sentier de la Draye pour prendre à droite, à l'horizontale, le GR vers Chambran (fléché sentier de la Galerie, pancarte en bois) sur environ 80 pas. Cairn juste après un long tas de grosses pierres. Monter en ascendance un peu à droite sur 50 m jusqu'au pied de la paroi (petit ressaut en 2 à la fin, vire d'accès). Les initiales des voies sont peintes en rouge et s'effacent ; en 2026, le nom n'était plus sur le cairn : la voie part à gauche du « Dernier Néandertalien » (écrit en blanc sur un bloc). L1 : 2 spits + maillons au départ. La voie reste toujours à gauche du Dernier Néandertalien (relais parfois à quelques mètres) : partir vers les points les plus à gauche.",
+    "descente": "Sentier à gauche à l'horizontale puis en descente raide vers la sortie des premières voies (quelques cairns ; pas besoin d'être encordé selon un retour de 2025). Premier rappel de 10 m (commun à trois voies) près d'un gros arbre, jusqu'à une plateforme ; second rappel de 50 m pile, presque en fil d'araignée, jusqu'à un chemin au pied de la falaise. Autre option : à droite, par les 2 rappels du Dernier Néandertalien (2 × 50 m, 45 m peuvent suffire) ; le topo Cambon 2024 serait inexact pour cette descente (C2C). Bouchons possibles aux rappels.",
+    "materiel": "Dégaines (équipement « impeccable et abondant »). Rappels de 45 à 50 m : prendre la corde à double de 60 m (la 70 m à simple ne permet que des rappels de 35 m).",
+    "longueurs": [
+      {
+        "titre": "D'après C2C",
+        "lignes": [
+          {
+            "n": "L0",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Nouvelle longueur sous la vire d'accès (topo 2022) ; relais sur 2 spits + maillons, déplacé de quelques mètres à gauche ; traverser ensuite quelques mètres à droite pour retrouver le tracé d'origine."
+          },
+          {
+            "n": "L1",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Suivre l'éperon sur son fil, puis relais vers la gauche."
+          },
+          {
+            "n": "L2",
+            "cotation": "5a",
+            "longueur": null,
+            "cheminement": "Courte traversée à gauche, petit mur, puis dalle couchée en traversée à gauche. Bien gérer le tirage."
+          },
+          {
+            "n": "L3",
+            "cotation": "5b",
+            "longueur": null,
+            "cheminement": "Fissure « pas si commode », un peu morpho, qui passe en A0, avec de bonnes prises. Rétablissement, puis facile en 4a."
+          },
+          {
+            "n": "L4",
+            "cotation": "3b",
+            "longueur": 10,
+            "cheminement": "Très courte, facile et jolie ; on peut continuer directement vers le relais suivant (25 m de marche)."
+          },
+          {
+            "n": "Liaison",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Longueur de liaison jusqu'à la base d'une belle dalle vers la droite."
+          },
+          {
+            "n": "L5",
+            "cotation": "5b",
+            "longueur": null,
+            "cheminement": "Dalle très noire, assez raide, quelques pas techniques. Cotation jugée « relativement gentille » par un retour de 2025."
+          },
+          {
+            "n": "L6",
+            "cotation": "4c",
+            "longueur": null,
+            "cheminement": "Dalle facile, puis petit mur plus raide."
+          },
+          {
+            "n": "L7",
+            "cotation": "2",
+            "longueur": null,
+            "cheminement": "Dernière longueur facile, mieux vaut rester encordés."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Y aller tôt ou hors saison : voie très fréquentée et seulement deux descentes en rappel pour plusieurs voies, d'où des bouchons à la montée comme à la descente.",
+      "Bonne voie pour réviser les manips de grande voie et de rappel, ou pour se lancer en tête.",
+      "Se fait en demi-journée : peut se combiner avec une autre voie de la Draye le même jour."
+    ],
+    "retex": [
+      "07/09/2026 : première grande voie facile pour un des grimpeurs, très bon choix ; quelques passages grimpants, le reste « vraiment rando ». 3 h.",
+      "09/08/2026 : partis dans une voie vide, heureusement : itinéraire très fréquenté et seulement deux descentes pour plusieurs voies, bouchons possibles aussi à la descente. 3 h dans la voie.",
+      "07/08/2026 : le nom n'est plus écrit sur le cairn ; L0 mène à un relais sur 2 spits relié par une cordelette bleue, avec « Spit » écrit en rouge rosé. Voie parfaite pour s'initier à la grande voie et aux rappels.",
+      "13/07/2026 : première « grande » voie avec deux enfants de 6 et 8 ans ; relais ultra-confortables ; descente par les rappels de gauche. Départ 7 h 45, sommet 10 h 30, retour au pied 11 h 45. Y aller tôt, « TRÈS fréquenté ».",
+      "22/08/2025 : très très bien équipée, idéale pour un débutant en tête ; nombreux relais doublés (non reliés). 2 h 30 dans la voie.",
+      "14/07/2025 : escalade plaisante tout du long ; première partie en baskets, chaussons pour L5. 2 h dans la voie.",
+      "03/07/2025 : quelques pas un peu plus corsés que dans les autres voies du secteur ; descente rapide par les rappels de droite.",
+      "28/06/2025 : équipement impeccable et abondant. 3 h 30.",
+      "12/10/2024 : petite voie tranquille dans le 4, un pas un peu plus dur en L3 (belle fissure)."
+    ],
+    "horaires": "Approche 15 min ; 2 à 3 h 30 dans la voie ; descente rapide (2 rappels).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/la-draye-spit-on-cup-trace.jpg",
+        "legende": "Voie en rouge, les 2 rappels de descente en bleu ; photo Camptocamp (image 1549793, licence collaborative)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 232551 (Vallée d'Ailefroide - La Draye : Spit On Cup), consulté le 17/11/2026",
+      "Camptocamp, sorties 1951164 (07/09/2026), 1944200 (19/08/2026), 1944140 (09/08/2026), 1937442 (07/08/2026), 1930246 (21/07/2026), 1931787 (13/07/2026), 1811618 et 1810704 (22/08/2025), 1793870 (14/07/2025), 1787815 (03/07/2025), 1786602 (28/06/2025), 1698163 (12/10/2024), 1686405 (01/09/2024), consultées le 17/11/2026",
+      "Image Camptocamp 1549793 (licence collaborative)",
+      "Livres cités par C2C, non consultés : « Escalades autour d'Ailefroide » (topo Cambon), « Escalade plaisir – Alpes du Sud, Provence »"
+    ]
+  },
+  {
     "id": "tour-germaine-spigolo-boccalatte",
     "nom": "Tour Germaine – Spigolo Boccalatte",
     "sous_titre": "Arête SSW de la Tour Germaine (Torre Germana, 2189 m), voie historique de 1935 en Vallée Étroite – départ du parking face à la bergerie (1711 m)",
