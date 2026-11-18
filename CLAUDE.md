@@ -11,6 +11,7 @@ Le propriétaire ne code pas : expliquer simplement ce qui est fait, poser des q
 ## Fichiers
 
 - `index.html` + `js/carte.js` : carte Leaflet (OpenTopoMap / Plan IGN), filtres statut + projet, légende.
+- `meteo.html` + `js/meteo.js` : onglet Météo, carte Windy intégrée (embed.windy.com, gratuit) avec boutons de couche (pluie, nuages, température, vent, nouvelle neige) et choix de zone ; le choix est mémorisé dans le navigateur. Le navigateur intégré de l'app peut mettre quelques secondes à afficher l'iframe.
 - `voie.html?id=<id>` + `js/voie.js` : fiche détaillée à l'écran ET fiche A4 (affichée seulement à l'impression, voir `@media print` dans `css/style.css`).
 - `projets.html` + `js/projets.js` : un dossier par projet de voyage (`projets.html?projet=<nom>` ouvre le dossier) + dossier « Autres voies » pour les voies sans projet.
 - `data/projets.json` : liste des projets `[{nom, periode, description}]` ; un projet peut exister sans voie (dossier vide). Le `nom` doit être identique au champ `projet` des voies.
@@ -23,7 +24,7 @@ Le propriétaire ne code pas : expliquer simplement ce qui est fait, poser des q
 
 Tester en local : `python3 -m http.server 8000` puis http://localhost:8000 (ouvrir le fichier directement ne marche pas, le JSON ne se charge pas).
 
-Publication : dépôt https://github.com/Hugo9945/escalade (GitHub Pages, branche main) → https://hugo9945.github.io/escalade/. GitHub CLI : `~/.local/bin/gh` (connecté au compte Hugo9945). Après chaque modification : commit + push, le site se met à jour en 1-2 min. GitHub Pages fait garder les fichiers 10 min par les navigateurs : quand on modifie un fichier `js/` ou `css/`, augmenter le numéro `?v=N` dans les 3 pages HTML.
+Publication : dépôt https://github.com/Hugo9945/escalade (GitHub Pages, branche main) → https://hugo9945.github.io/escalade/. GitHub CLI : `~/.local/bin/gh` (connecté au compte Hugo9945). Après chaque modification : commit + push, le site se met à jour en 1-2 min. GitHub Pages fait garder les fichiers 10 min par les navigateurs : quand on modifie un fichier `js/` ou `css/`, augmenter le numéro `?v=N` dans toutes les pages HTML (index, voie, projets, materiel, meteo).
 
 ## Format d'une voie (`data/voies.json`)
 

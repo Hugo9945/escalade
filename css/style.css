@@ -351,6 +351,20 @@ table.longueurs tr:nth-child(even) td { background: #fdf3e0; }
 .etoiles { color: var(--rose); }
 .etoiles .vides { color: #e5dccb; }
 
+/* Onglet Météo : barre de choix + carte Windy en plein écran. */
+.meteo-barre { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; }
+.meteo-couche { font: inherit; font-size: 0.85rem; color: var(--texte); }
+.meteo-couche.actif { background: var(--jaune); font-weight: 600; }
+.meteo-lien { font-size: 0.85rem; font-weight: 600; margin-left: auto; }
+#meteo-carte { flex: 1; width: 100%; min-height: 300px; border: 0; display: block; }
+@media (max-width: 700px) {
+  .meteo-barre { gap: 6px 10px; }
+  .meteo-barre legend { display: none; }
+  .meteo-couche { padding: 3px 8px; font-size: 0.8rem; }
+  .meteo-lien { margin-left: 0; }
+  .meteo-barre select { max-width: 150px; }
+}
+
 @media (max-width: 600px) {
   .entete { min-height: 72px; padding: 10px 12px 26px; }
   .entete .logo { font-size: 1.3rem; }
