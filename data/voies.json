@@ -1,5 +1,118 @@
 [
   {
+    "id": "pic-du-glacier-blanc-arete-s",
+    "nom": "Pic du Glacier Blanc – Arête S",
+    "sous_titre": "Classique course d'arête de 1936 au-dessus du Glacier Blanc, avec 2 petits rappels – depuis le refuge du Glacier Blanc (sentier de moraine aux points blancs) ou le refuge des Écrins",
+    "massif": "Écrins (Hautes-Alpes)",
+    "secteur": "Pic du Glacier Blanc (3525 m), Glacier Blanc",
+    "coordonnees": {
+      "lat": 44.95286,
+      "lon": 6.39151,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Refuge du Glacier Blanc (2542 m) : 44.93756, 6.41161 ; Pré de Madame Carle : 44.91717, 6.41619"
+    },
+    "camptocamp": [
+      {
+        "titre": "Pic du Glacier Blanc : Arête S",
+        "url": "https://www.camptocamp.org/routes/54117"
+      }
+    ],
+    "objectif": "L'arête S jusqu'au sommet (avec 2 rappels de 20 et 15 m en cours de route), puis descente facile par l'arête E vers le refuge du Glacier Blanc.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4b (dièdre de départ en IV)",
+    "cotation_obligatoire": "",
+    "engagement": "II",
+    "hauteur": "300 m de dénivelé de difficultés ; 700 m d'approche depuis le refuge du Glacier Blanc (C2C)",
+    "nb_longueurs": "Non détaillé (1re longueur de 40 m, puis arête surtout en corde tendue)",
+    "orientation": "S",
+    "duree": "1 jour (nuit au refuge la veille, ou très longue journée depuis le Pré)",
+    "ambiance": "« Très belle course d'arête en haute montagne, dans le cadre magnifique du Glacier Blanc » (C2C), vue sur le Dôme et la Barre des Écrins. Migmatite, rocher très bon et sain la plupart du temps (moins bon versant W après le 2e rappel). Arête aérienne, passage en fil de rasoir. « Jamais difficile, se protège bien, parfait pour l'initiation » (retour de mai 2026). Course très fréquentée en été. Surtout au soleil mais frais à l'ombre. Première ascension en septembre 1936 par Henri Salin et Jean Vernet.",
+    "statut": "materiel",
+    "envie": 2,
+    "projet": null,
+    "equipement": "trad",
+    "cote_equipement": "P3",
+    "approche": "Environ 2 h depuis le refuge du Glacier Blanc (2542 m), qu'on rejoint en 1 h 30 depuis le Pré de Madame Carle. Prendre le chemin du refuge des Écrins. En début de saison, sur le Glacier Blanc par la combe en rive gauche jusqu'au plateau (vers 3000 m) puis le sentier de moraine. En fin de saison, suivre le sentier de moraine balisé de points blancs (cairns au début), qui part environ 50 m avant que le sentier ne rejoigne le glacier : couloir de pierrailles sur 60 m, rochers en rive droite, traversée horizontale. Attention : après la 1re barre, à un bloc avec un point et une flèche, prendre la sente qui descend et non celle, bien marquée, qui monte (erreur signalée en 2025). À un emplacement de bivouac sous le col du Glacier Blanc, rejoindre la base de l'arête par pierriers et névés, en contournant une petite barre (par la gauche selon C2C ; par la droite selon un retour de 2026, qui a trouvé la gauche « infâme »). Depuis le refuge des Écrins : à flanc vers l'E jusqu'à la base de l'arête (pas vraiment plus court).",
+    "descente": "Vers le refuge du Glacier Blanc, environ 2 h : facilement par l'arête E, qui commence par un névé suspendu (piolet conseillé ; crampons mis par certains, « une glissade ne pardonnerait pas »), puis névés et pierriers (cairns) jusqu'au sentier. Vers le refuge des Écrins : déconseillée en milieu et fin de saison (vires à cailloux branlants) ; par l'arête NW vers la Brèche Cordier, rappel de 40 m (ou 24 + 16 m) puis, sans neige, 2 rappels de plus ; nouveaux relais depuis août 2026 (topo à vérifier).",
+    "materiel": "Corde à simple de 50 m (nos cordes de 70 m ou 60 m conviennent). Friends jusqu'au #2 et beaucoup de sangles (becquets) ; 3 pitons dans la 1re longueur, quelques autres plus haut. Piolet pour le névé suspendu (absent de notre inventaire). En début de saison, approche par le glacier : crampons, piolet et matériel de glacier. Chaussures d'approche suffisantes en fin de saison selon un retour de 2025.",
+    "longueurs": [
+      {
+        "titre": "D'après C2C (arête, cotations UIAA)",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "IV",
+            "longueur": 40,
+            "cheminement": "Attaque versant E, 10 m à droite de la base de l'arête : dièdre fissuré bien marqué (1 piton, cairn sans neige), sortir vite à gauche sur le fil (2e piton), puis tout droit (pitons, becquets, fissures). Relais sur un gros becquet. Principale difficulté. Variantes déconseillées : dièdre versant W (sortie IV+) ou dièdre-cheminée 40 m à droite (V)."
+          },
+          {
+            "n": "Arête",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Arête jusqu'à une brèche, puis soit versant E par des vires pour éviter les gendarmes, soit sur le fil presque partout (plus esthétique, passage en fil de rasoir). Rejoindre le fil, grimper à droite versant soleil (gaz) jusqu'à une pointe, courte désescalade jusqu'à l'ancrage de rappel."
+          },
+          {
+            "n": "Rappel 1",
+            "cotation": "",
+            "longueur": 20,
+            "cheminement": "Rappel de 20 m dans la brèche. Plus d'échappatoire versant W depuis cette brèche."
+          },
+          {
+            "n": "Mur",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Mur à écailles en oblique à droite, puis fil du gendarme suivant jusqu'à un nouvel ancrage. Longueur qui « demande un peu plus d'attention » (retour de 2026)."
+          },
+          {
+            "n": "Rappel 2",
+            "cotation": "",
+            "longueur": 15,
+            "cheminement": "Rappel de 15 m dans la brèche suivante."
+          },
+          {
+            "n": "Sommet",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Fissures en oblique à gauche, puis rampes et vires versant NW près du fil jusqu'au sommet (ou le fil, ou de jolis passages versant SE). Rochers instables versant NW selon un retour de 2026."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Meilleure période pour nous : 2e partie de saison (août-septembre), par le sentier de moraine sans passer sur le glacier. Prévoir quand même un piolet pour le névé suspendu.",
+      "Course très fréquentée : partir tôt pour être devant (le dièdre de départ est au soleil vers 7 h début août).",
+      "La difficulté est surtout dans le dièdre de départ ; le reste se fait souvent en corde tendue, mais l'arête est longue.",
+      "Neige tôt en automne : demi-tour en octobre 2026 avec 10 cm de neige au refuge."
+    ],
+    "retex": [
+      "09/10/2026 : demi-tour, neige récente (jusqu'aux hanches vers le col) ; rocher impraticable ce jour-là, mais ça fond vite.",
+      "24/07/2026 : seuls sur l'arête ; « ça grimpe quand même » sur le fil, assez expo avec quelques pierres branlantes (les vires sont plus tranquilles). Petite barre contournée par la droite. Pas besoin de piolet ni de crampons à la descente, névé creusé par la trace. 6 h avec de grosses pauses.",
+      "13/07/2026 : longue arête relativement facile ; seules la 1re longueur et celle après le 1er rappel demandent plus d'attention. Refuge 6 h, pied de voie 8 h 45, sommet 14 h, refuge 17 h.",
+      "27/06/2026 : départ 5 h, 2 h 30 d'approche (petit détour par le glacier), 5 h 30 sur l'arête, 2 h de descente.",
+      "18/06/2026 : le dièdre d'accès est la seule vraie difficulté ; plus facile à droite de l'arête ; quelques pitons dans L1 et dans la dalle après le 1er rappel.",
+      "24/05/2026 (depuis le refuge des Écrins) : « jamais difficile, se protège bien, parfait pour l'initiation » ; neige molle à l'approche et au retour.",
+      "31/08/2025 : bon rocher, de beaux passages, se protège bien. 1 h 45 d'approche, 5 h dans la voie.",
+      "18/08/2025 : crampons pas indispensables, névés de descente en neige dure ; piolet apprécié pour le névé suspendu. Faite en chaussures d'approche. 2 h d'approche, 5 h de voie, 2 h 30 de descente au refuge.",
+      "02-03/08/2025 : tout en corde tendue sauf L1 et une mini-longueur après le 1er rappel ; névé suspendu passé sans crampons avec un piolet. 4 autres cordées dans la voie.",
+      "18/07/2025 : rocher splendide ; peu d'équipement sauf L1 (3 points) ; prévoir sangles et 3-4 friends ; crampons utiles sur le glacier.",
+      "11/07/2025 : erreur d'itinéraire sur l'approche (sente qui monte vers un dièdre orangé exposé) ; crampons mis à la descente pour le névé suspendu ; mauvais rocher versant W après le 2e rappel. 10 h en tout.",
+      "19/06/2025 : 12 h aller-retour depuis le Pré de Madame Carle à la journée ; groupe de 10 devant, un peu d'attente."
+    ],
+    "horaires": "Approche 1 h 45 à 2 h 45 depuis le refuge du Glacier Blanc ; arête 4 à 5 h 30 ; descente 2 h jusqu'au refuge, puis 1 h 20 à 1 h 30 jusqu'au Pré. À la journée depuis le Pré : environ 12 h.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/pic-du-glacier-blanc-arete-s-croquis.jpg",
+        "legende": "Croquis de l'arête S avec le tracé, le dièdre de départ et les 2 rappels ; image Camptocamp 143530, licence collaborative"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 54117 (Pic du Glacier Blanc : Arête S) et point 104143 (refuge du Glacier Blanc), consultés le 18/11/2026",
+      "Camptocamp, sorties 1959160 (09/10/2026), 1931846 (24/07/2026), 1927140 (13/07/2026), 1921777 (27/06/2026), 1920824 (18/06/2026), 1910219 (24/05/2026), 1812648 (31/08/2025), 1808077 (18/08/2025), 1800761 (02-03/08/2025), 1794747 (18/07/2025), 1794886 (11/07/2025), 1789495 (19/06/2025), consultées le 18/11/2026",
+      "Image Camptocamp 143530 (licence collaborative)",
+      "Livres cités par C2C, non consultés : « Guide du Haut-Dauphiné, tome 2 », « Le Massif des Écrins – Les 100 plus belles courses », « Oisans Nouveau Oisans sauvage – Livre Est », « L'alpinisme – Des premiers pas aux grandes ascensions », « Montagnes Magazine n° 344 »"
+    ]
+  },
+  {
     "id": "pointe-louise-arete-se",
     "nom": "Pointe Louise – Arête SE (dite arête S)",
     "sous_titre": "Course d'arête de 1952 face à la Barre des Écrins, au-dessus du Glacier Blanc – depuis le refuge des Écrins (ou du Glacier Blanc), descente par le versant S en neige",
