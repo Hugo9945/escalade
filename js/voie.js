@@ -36,6 +36,15 @@ function blocEnchainements(voie) {
     .join("") + "</ul>";
 }
 
+// Sites de couenne : tableau des secteurs [{nom, nb_voies, cotations, description}].
+function tableauSecteurs(voie) {
+  if (vide(voie.secteurs)) return "";
+  const lignes = voie.secteurs
+    .map((s) => `<tr><td class="court"><strong>${echapper(s.nom || "")}</strong></td><td class="court">${echapper(s.nb_voies || "")}</td><td class="court">${echapper(s.cotations || "")}</td><td>${echapper(s.description || "")}</td></tr>`)
+    .join("");
+  return `<div class="defile"><table class="longueurs"><thead><tr><th>Secteur</th><th>Voies</th><th>Cotations</th><th>Remarques</th></tr></thead><tbody>${lignes}</tbody></table></div>`;
+}
+
 function section(titre, contenu) {
   if (!contenu) return "";
   return `<section class="section"><h2>${echapper(titre)}</h2>${contenu}</section>`;
@@ -156,7 +165,7 @@ function afficherFiche(voie) {
       <h1>${echapper(voie.nom)}</h1>
       ${voie.sous_titre ? `<p class="sous-titre">${echapper(voie.sous_titre)}</p>` : ""}
       ${lieu ? `<p class="lieu">${echapper(lieu)}</p>` : ""}
-      ${badgeStatut(voie.statut)}
+      ${estCouenne(voie) ? badgeCouenne() : badgeStatut(voie.statut)}
       ${blocSuggestion(voie)}
       ${voie.envie ? `<span class="envie-fiche">${etoiles(voie.envie)} ${echapper(ENVIES[voie.envie])}</span>` : ""}
     </div>
@@ -170,6 +179,9 @@ function afficherFiche(voie) {
     </div>
 
     <dl class="infos">
+      ${info("Nombre de voies", voie.nb_voies)}
+      ${info("Cotations", voie.cotations)}
+      ${info("Saison", voie.saison)}
       ${info("Cotation globale", voie.cotation_globale)}
       ${info("Libre max", voie.cotation_libre_max)}
       ${info("Obligatoire", voie.cotation_obligatoire)}
@@ -188,6 +200,7 @@ function afficherFiche(voie) {
     ${section("Approche", blocTexte(voie.approche))}
     ${section("Descente", blocTexte(voie.descente))}
     ${section("Matériel conseillé", blocTexte(voie.materiel))}
+    ${section("Secteurs", tableauSecteurs(voie))}
     ${section("Longueurs", (voie.longueurs || []).map((g) => tableauLongueurs(g, "h3")).join(""))}
     ${section("Stratégie", blocTexte(voie.strategie))}
     ${section("Enchaînement possible", blocEnchainements(voie))}
@@ -250,6 +263,8 @@ function afficherA4(voie) {
 
     <table class="cles">
       ${ligneCle("Objectif", voie.objectif)}
+      ${estCouenne(voie) ? ligneCle("Site de couenne", voie.nb_voies, "Cotations", voie.cotations) : ""}
+      ${ligneCle("Saison", voie.saison)}
       ${ligneCle("Cotation", cotation, "Engagement", voie.engagement)}
       ${ligneCle("Hauteur", voie.hauteur, "Longueurs", voie.nb_longueurs)}
       ${ligneCle("Durée", voie.duree, "Orientation", voie.orientation)}
@@ -264,6 +279,7 @@ function afficherA4(voie) {
       ${blocA4("Horaires indicatifs", blocTexte(voie.horaires))}
     </div>
 
+    ${vide(voie.secteurs) ? "" : `<div class="tableau"><h2>Secteurs</h2>${tableauSecteurs(voie)}</div>`}
     ${(voie.longueurs || []).map((g) => `<div class="tableau">${tableauLongueurs(g, "h2")}</div>`).join("")}
 
     ${voie.notes ? `<div class="notes"><strong>Notes perso :</strong> ${echapper(voie.notes)}</div>` : ""}

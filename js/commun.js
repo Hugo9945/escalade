@@ -53,14 +53,24 @@ const EQUIPEMENTS = {
   trad: { libelle: "Trad", detail: "P3 à P4", forme: "triangle" },
 };
 
-// Petit dessin SVG (rond, losange ou triangle) rempli de la couleur du statut.
+// Sites de couenne (une longueur) : champ type = "couenne", sans statut ni envie, carré brun sur la carte.
+const COULEUR_COUENNE = "#7a5a3a";
+function estCouenne(voie) {
+  return voie.type === "couenne";
+}
+function badgeCouenne() {
+  return `<span class="badge" style="--c:${COULEUR_COUENNE}"><span class="pastille" style="border-radius:2px"></span>Site de couenne</span>`;
+}
+
+// Petit dessin SVG (rond, losange, triangle, ou carré pour la couenne) rempli de la couleur du statut.
 function formeSVG(cleEquipement, couleur, taille = 22) {
-  const forme = EQUIPEMENTS[cleEquipement]?.forme || "rond";
+  const forme = cleEquipement === "couenne" ? "carre" : EQUIPEMENTS[cleEquipement]?.forme || "rond";
   const contour = `fill="${couleur}" stroke="#fff" stroke-width="2" stroke-linejoin="round"`;
   const dessin = {
     rond: `<circle cx="11" cy="11" r="8.5" ${contour}/>`,
     losange: `<polygon points="11,1.5 20.5,11 11,20.5 1.5,11" ${contour}/>`,
     triangle: `<polygon points="11,1.5 21,19.5 1,19.5" ${contour}/>`,
+    carre: `<rect x="3" y="3" width="16" height="16" rx="2" ${contour}/>`,
   }[forme];
   return `<svg width="${taille}" height="${taille}" viewBox="0 0 22 22" aria-hidden="true">${dessin}</svg>`;
 }

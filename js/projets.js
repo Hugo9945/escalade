@@ -6,6 +6,13 @@ const AUTRES = "__autres__";
 const zone = document.getElementById("projets");
 
 function elementVoie(voie) {
+  if (estCouenne(voie)) {
+    const det = [voie.massif, voie.nb_voies, voie.cotations, voie.hauteur].filter(Boolean).join(" · ");
+    return `<li><a href="${lienVoie(voie)}">
+    <span><span class="forme" title="Site de couenne">${formeSVG("couenne", COULEUR_COUENNE, 14)}</span> <span class="nom">${echapper(voie.nom)}</span><br><span class="details">${echapper(det)}</span></span>
+    ${badgeCouenne()}
+  </a></li>`;
+  }
   const details = [voie.massif, voie.cotation_globale, voie.cotation_libre_max, voie.hauteur].filter(Boolean).join(" · ");
   return `<li><a href="${lienVoie(voie)}">
     <span><span class="forme" title="${echapper(texteEquipement(voie))}">${formeSVG(voie.equipement, STATUTS[voie.statut]?.couleur || "#777", 14)}</span> <span class="nom">${echapper(voie.nom)}</span> ${etoiles(voie.envie)}<br><span class="details">${echapper(details)}</span></span>
@@ -19,7 +26,9 @@ function lienProjet(nom) {
 
 // Petites pastilles « 3 Fait · 1 Bientôt » sur chaque dossier.
 function resumeStatuts(voies) {
-  return Object.entries(STATUTS)
+  const nbCouenne = voies.filter(estCouenne).length;
+  const couenne = nbCouenne ? `<span class="mini-statut"><span class="pastille" style="background:${COULEUR_COUENNE};border-radius:2px"></span>${nbCouenne} couenne</span>` : "";
+  return couenne + Object.entries(STATUTS)
     .map(([cle, s]) => [s, voies.filter((v) => v.statut === cle).length])
     .filter(([, n]) => n)
     .map(([s, n]) => `<span class="mini-statut"><span class="pastille" style="background:${s.couleur}"></span>${n} ${echapper(s.libelle.split(" (")[0])}</span>`)

@@ -34,7 +34,8 @@ legende.onAdd = () => {
     `<hr>` +
     Object.entries(EQUIPEMENTS)
       .map(([cle, e]) => `<div>${formeSVG(cle, "#8a8f8b", 14)}${echapper(e.libelle)}</div>`)
-      .join("");
+      .join("") +
+    `<div>${formeSVG("couenne", COULEUR_COUENNE, 14)}Site de couenne</div>`;
   return div;
 };
 legende.addTo(carte);
@@ -48,6 +49,7 @@ let zoneChoisie = "";
 let cotationMax = null;
 let orientationChoisie = "";
 let dureeChoisie = "";
+let typeChoisi = ""; // "" / "gv" / "couenne"
 const points = []; // { voie, marqueur }
 
 /* ---------- Outils pour les nouveaux filtres ---------- */
@@ -157,7 +159,10 @@ function pictoMeteo(code) {
 }
 
 function correspondAuxFiltres(voie) {
-  if (!statutsCoches.has(voie.statut)) return false;
+  const couenne = estCouenne(voie);
+  if (typeChoisi === "gv" && couenne) return false;
+  if (typeChoisi === "couenne" && !couenne) return false;
+  if (!couenne && !statutsCoches.has(voie.statut)) return false;
   if (meteoJour && meteoDonnees && !meteoConvient(meteoDe(voie))) return false;
   if (envieMin && !((voie.envie || 0) >= envieMin)) return false;
   if (equipementChoisi && voie.equipement !== equipementChoisi) return false;
@@ -165,7 +170,7 @@ function correspondAuxFiltres(voie) {
   if (projetChoisi && projetChoisi !== SANS_PROJET && voie.projet !== projetChoisi) return false;
   if (zoneChoisie && zoneDe(voie) !== zoneChoisie) return false;
   if (cotationMax !== null) {
-    const v = valeurCotation(voie.cotation_libre_max);
+    const v = valeurCotation(couenne ? voie.cotations : voie.cotation_libre_max); // couenne : la plus facile du site
     if (v === null || v > cotationMax) return false;
   }
   if (orientationChoisie && !orientationsDe(voie).has(orientationChoisie)) return false;
@@ -191,7 +196,7 @@ function appliquerFiltres() {
   }
   document.getElementById("nb-visibles").textContent = texte;
   // Nombre de menus réglés dans « Plus de filtres » (pour ne pas oublier un filtre actif quand c'est replié).
-  const actifs = [equipementChoisi, envieMin, projetChoisi, zoneChoisie, cotationMax !== null, orientationChoisie, dureeChoisie, meteoJour].filter(Boolean).length;
+  const actifs = [typeChoisi, equipementChoisi, envieMin, projetChoisi, zoneChoisie, cotationMax !== null, orientationChoisie, dureeChoisie, meteoJour].filter(Boolean).length;
   document.getElementById("nb-filtres-actifs").textContent = actifs ? String(actifs) : "";
 }
 
@@ -222,7 +227,24 @@ function rafraichirBulles() {
   for (const { voie, marqueur } of points) marqueur.setPopupContent(resume(voie));
 }
 
+function resumeCouenne(voie) {
+  const lignes = [
+    voie.nb_voies && `Voies : ${voie.nb_voies}`,
+    voie.cotations && `Cotations : ${voie.cotations}`,
+    voie.hauteur && `Hauteur : ${voie.hauteur}`,
+    voie.orientation && `Orientation : ${voie.orientation}`,
+  ].filter(Boolean);
+  return `<div class="popup">
+    <h3>${echapper(voie.nom)}</h3>
+    ${badgeCouenne()}
+    ${lignes.map((l) => `<p>${echapper(l)}</p>`).join("")}
+    ${lignePopupMeteo(voie)}
+    <a class="lien-fiche" href="${lienVoie(voie)}">Voir la fiche complète →</a>
+  </div>`;
+}
+
 function resume(voie) {
+  if (estCouenne(voie)) return resumeCouenne(voie);
   const lignes = [
     voie.cotation_globale && `Cotation : ${voie.cotation_globale}`,
     voie.cotation_libre_max && `Libre max : ${voie.cotation_libre_max}`,
@@ -288,6 +310,10 @@ function construireFiltres(voies) {
     if (zoneChoisie) cadrerSurVisibles();
   });
 
+  document.getElementById("filtre-type").addEventListener("change", (e) => {
+    typeChoisi = e.target.value;
+    appliquerFiltres();
+  });
   document.getElementById("filtre-cotation").addEventListener("change", (e) => {
     cotationMax = e.target.value ? valeurCotation(e.target.value) : null;
     appliquerFiltres();
@@ -370,11 +396,11 @@ chargerVoies()
         const angle = (2 * Math.PI * groupe.indexOf(voie.id)) / groupe.length;
         c = { lat: c0.lat + 0.0025 * Math.cos(angle), lon: c0.lon + 0.0032 * Math.sin(angle) };
       }
-      const couleur = STATUTS[voie.statut]?.couleur || "#777";
-      // Couleur = statut, forme = type d'équipement (rond, losange, triangle).
+      const couleur = estCouenne(voie) ? COULEUR_COUENNE : STATUTS[voie.statut]?.couleur || "#777";
+      // Couleur = statut, forme = type d'équipement (rond, losange, triangle) ; carré brun = site de couenne.
       const icone = L.divIcon({
         className: "point-voie",
-        html: formeSVG(voie.equipement, couleur),
+        html: formeSVG(estCouenne(voie) ? "couenne" : voie.equipement, couleur),
         iconSize: [22, 22],
         iconAnchor: [11, 11],
         popupAnchor: [0, -10],

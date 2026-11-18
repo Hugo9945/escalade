@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
-  <script src="js/verrou.js?v=29"></script>
+  <script src="js/verrou.js?v=30"></script>
   <title>Carte des voies – Sac à topos</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -16,7 +16,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
-  <link rel="stylesheet" href="css/style.css?v=29">
+  <link rel="stylesheet" href="css/style.css?v=30">
 </head>
 <body class="page-carte">
   <header class="entete">
@@ -40,6 +40,13 @@
       <details class="plus-filtres" id="plus-filtres">
         <summary>Plus de filtres <span id="nb-filtres-actifs"></span></summary>
         <div class="plus-filtres-contenu">
+      <label class="projet">Type
+        <select id="filtre-type">
+          <option value="">Tout</option>
+          <option value="gv">Grandes voies</option>
+          <option value="couenne">Sites de couenne</option>
+        </select>
+      </label>
       <label class="projet">Équipement
         <select id="filtre-equipement">
           <option value="">Tous</option>
@@ -110,8 +117,8 @@
     <div id="carte"></div>
   </main>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="js/commun.js?v=29"></script>
-  <script src="js/carte.js?v=29"></script>
-  <script src="js/hors-ligne.js?v=29"></script>
+  <script src="js/commun.js?v=30"></script>
+  <script src="js/carte.js?v=30"></script>
+  <script src="js/hors-ligne.js?v=30"></script>
 </body>
 </html>

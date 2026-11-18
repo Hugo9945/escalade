@@ -56,6 +56,14 @@ Laisser un champ vide (`""`, `null` ou `[]`) plutôt que d'inventer. Tous les ch
 | `images` | `[{fichier, legende}]` | la 1re image = page 2 de la fiche A4 (pleine page) ; les suivantes = pages en plus |
 | `sources` | liste de textes | toujours remplir, avec la date de consultation |
 
+## Sites de couenne (`"type": "couenne"`)
+
+Depuis le 18/11/2026, `data/voies.json` contient aussi des sites de couenne (falaises d'une longueur), choisis par le propriétaire pour profiter du filtre météo.
+- **Pas de `statut` ni d'`envie`** (décision du propriétaire) : ne pas poser le questionnaire statut/étoiles ; demander seulement le projet s'il n'est pas évident.
+- Sur la carte : carré brun (`COULEUR_COUENNE` dans `js/commun.js`), toujours affiché quel que soit le filtre de statut ; filtre « Type » (Tout / Grandes voies / Sites de couenne) ; le filtre de cotation compare la cotation la plus facile du site (début de `cotations`).
+- Champs propres : `type: "couenne"`, `nb_voies` (texte, ex. « env. 120 voies »), `cotations` (texte « 3c à 7b »), `saison` (texte, meilleures périodes), `secteurs` (`[{nom, nb_voies, cotations, description}]`, optionnel). Champs communs réutilisés : `id`, `nom` (« Site » ou « Site – secteur »), `sous_titre`, `massif`, `secteur`, `coordonnees` (pied des voies ou parking), `parkings`, `camptocamp`, `hauteur`, `orientation`, `ambiance` (rocher, style), `equipement`/`cote_equipement`, `approche` (avec le temps de marche), `materiel` (longueur de corde, nombre de dégaines), `strategie` (bon à savoir : pluie, chaleur, enfants, restrictions), `retex`, `images`, `notes`, `sources`, `projet`. Laisser vides `longueurs`, `cotation_*`, `duree`, `nb_longueurs`, `descente`.
+- Sur Camptocamp, un site de couenne est un point (`/waypoints/<id>?cook=fr`, `waypoint_type` = `climbing_outdoor`) : `routes_quantity`, `climbing_rating_min/max`, `height_min/max/median`, `orientations`, `best_periods`, `rock_types`, `climbing_styles`, `access_time`, `equipment_ratings`, `rain_proof`, `children_proof` ; les points d'accès sont dans `associations.waypoints` (type `access`). Sorties récentes : `https://api.camptocamp.org/outings?w=<id>&limit=15`.
+
 ## Ajouter une voie depuis Camptocamp
 
 API publique : `https://api.camptocamp.org/routes/<id>?cook=fr` (itinéraire), `https://api.camptocamp.org/outings?r=<id>&limit=20` (sorties récentes), puis `https://api.camptocamp.org/outings/<id>?cook=fr` pour le détail.
