@@ -155,14 +155,34 @@
         "notes": ""
       },
       {
-        "nom": "Matériel d'alpinisme",
-        "quantite": "",
+        "nom": "Piolet",
+        "quantite": "2",
         "marque": "",
-        "details": "crampons, piolet…",
+        "details": "Rando glaciaire ou un peu plus technique (ex. Petzl SUMMIT EVO, 52, 59 ou 66 cm)",
         "annee": "",
         "etat": "",
-        "priorite": "Selon voyage",
-        "notes": "À acheter si un projet en a besoin"
+        "priorite": "Basse",
+        "notes": "Un chacun ; longueur selon la taille, à essayer en magasin"
+      },
+      {
+        "nom": "Chaussures d'alpinisme",
+        "quantite": "2",
+        "marque": "",
+        "details": "Semi-rigides (catégorie B2/C2), compatibles crampons semi-automatiques",
+        "annee": "",
+        "etat": "",
+        "priorite": "Basse",
+        "notes": "Une paire pour Hugo, une pour Marine ; pointures à essayer"
+      },
+      {
+        "nom": "Crampons",
+        "quantite": "2",
+        "marque": "",
+        "details": "Semi-automatiques, acier, 12 pointes",
+        "annee": "",
+        "etat": "",
+        "priorite": "Basse",
+        "notes": "À choisir avec les chaussures (compatibilité de l'étrier arrière)"
       }
     ]
   },
