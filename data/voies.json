@@ -1,5 +1,95 @@
 [
   {
+    "id": "pointe-fourastier-voie-du-triangle",
+    "nom": "Pointe Fourastier – Voie du Triangle (face N)",
+    "sous_titre": "Voie de 1966 sur l'éperon du « Triangle », face N de l'Ailefroide au-dessus du Glacier Noir – départ du Pré de Madame Carle",
+    "massif": "Écrins (Hautes-Alpes)",
+    "secteur": "Ailefroide Centrale, Pointe Fourastier (3908 m), face N",
+    "coordonnees": {
+      "lat": 44.88815,
+      "lon": 6.36262,
+      "repere": "Sommet de la Pointe Fourastier (point Camptocamp 43053), pas le pied de voie. Départ : Pré de Madame Carle (44.91717, 6.41619)"
+    },
+    "camptocamp": [],
+    "objectif": "La Voie du Triangle jusqu'au sommet de la Pointe Fourastier.",
+    "cotation_globale": "D",
+    "cotation_libre_max": "5",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "hauteur": "800 m",
+    "nb_longueurs": "Non détaillé (voie décrite par sections)",
+    "orientation": "N",
+    "duree": "6 à 8 h pour la voie (selon le livre)",
+    "ambiance": "« Une belle escalade, sans équipement, qui n'est guère plus parcourue » (livre). Rocher bon dans les parties inférieures et supérieures, très douteux dans la partie médiane ; dans le haut, les conditions (neige, verglas) sont déterminantes. L'itinéraire suit un éperon assez saillant : on y est à peu près à l'abri des chutes de pierres, et le soleil arrive pas trop tard dans la matinée. Ouverte en 1966 par Joël Coquegniot, Jacques et Philippe Kelle et Roger Mandin.",
+    "statut": "materiel",
+    "envie": 2,
+    "projet": null,
+    "equipement": "trad",
+    "cote_equipement": "",
+    "approche": "Non décrite sur la page du livre. Par le Glacier Noir depuis le Pré de Madame Carle (comme les autres voies de la face N de l'Ailefroide sur C2C : moraine du Glacier Noir puis le glacier, environ 3-4 h). Le livre décrit le Glacier Noir comme « très aminci et presque toujours l'été recouvert de pierres, ce qui rend son parcours très pénible ». À vérifier.",
+    "descente": "Non décrite sur la page du livre. À voir : la descente de l'Ailefroide Centrale (C2C 183556) ou la voie normale de l'Ailefroide Orientale, comme pour l'arête de Coste Rouge. À vérifier dans le livre.",
+    "materiel": "Voie sans équipement : rack complet (friends, câblés), sangles. Crampons, piolet et matériel de glacier pour le Glacier Noir, l'arête de neige et la neige ou le verglas du haut : absents de notre inventaire.",
+    "longueurs": [
+      {
+        "titre": "D'après « Oisans Nouveau Oisans Sauvage – Livre Est », p. 213",
+        "lignes": [
+          {
+            "n": "Base du Triangle",
+            "cotation": "4",
+            "longueur": null,
+            "cheminement": "Attaquer à gauche de l'arête de gauche du Triangle, au niveau de la grande vire de sa base ; poursuivre sur la facette, près du fil de l'arête."
+          },
+          {
+            "n": "Arête médiane",
+            "cotation": "3",
+            "longueur": 100,
+            "cheminement": "Du sommet du Triangle, suivre l'arête médiane jusqu'à ce qu'elle se perde dans des dalles ; les franchir au mieux (rochers brisés) sur 100 m."
+          },
+          {
+            "n": "Couloir-cheminée",
+            "cotation": "4",
+            "longueur": 30,
+            "cheminement": "Encore 30 m un peu à gauche, contourner un petit ressaut, revenir à droite par un couloir-cheminée."
+          },
+          {
+            "n": "Arête de neige",
+            "cotation": "neige",
+            "longueur": null,
+            "cheminement": "Prendre à gauche une arête de neige qui mène au ressaut supérieur."
+          },
+          {
+            "n": "Ressaut supérieur",
+            "cotation": "4, 3",
+            "longueur": 40,
+            "cheminement": "Dalles sur 20 m (4), 20 m un peu à gauche pour franchir une cheminée oblique à droite (3) ; couloir jusqu'à une brèche de l'arête E de la Fourastier."
+          },
+          {
+            "n": "Sommet",
+            "cotation": "4 (5 en haut selon le schéma)",
+            "longueur": null,
+            "cheminement": "Passer versant S par des dalles à gauche, puis un couloir et une cheminée (4) jusqu'au sommet. Le schéma du livre indique 4b, 4c, 3c et 5a dans le haut."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Voie peu parcourue, aucune information en ligne (rien sur Camptocamp au 18/11/2026) : se renseigner auprès du bureau des guides ou du refuge sur l'état du Glacier Noir et de la face.",
+      "Conditions déterminantes dans le haut (neige, verglas).",
+      "Rocher très douteux dans la partie médiane.",
+      "Voisines dans la même face (sur le schéma du livre) : voie Fourastier, Pilier des Séracs et arête de Coste Rouge (déjà sur le site)."
+    ],
+    "retex": [
+      "Aucun retour trouvé en ligne (Camptocamp consulté le 18/11/2026)."
+    ],
+    "horaires": "Voie 6 à 8 h (livre). Approche et descente non décrites sur la page.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "« Oisans Nouveau Oisans Sauvage – Livre Est » (Topos Cambon), p. 213, « Ailefroide Centrale, Pte Fourastier (3908 m), face Nord – 1 Voie du Triangle », photo de la page envoyée par le propriétaire le 18/11/2026 (non publiée)",
+      "Camptocamp, point 43053 (Ailefroide - Pointe Fourastier) pour les coordonnées, et itinéraire 56609 (Face N) pour l'accès par le Glacier Noir, consultés le 18/11/2026 ; la Voie du Triangle n'est pas sur Camptocamp"
+    ]
+  },
+  {
     "id": "orage-d-etoiles-riviere-kwai",
     "nom": "Orage d'étoiles – Rivière Kwaï",
     "sous_titre": "Une des plus longues voies d'Ailefroide : 14 longueurs sur le granit d'Orage d'étoiles, avec le célèbre « pont » (un arbre au-dessus d'une gorge) – départ d'Ailefroide, route du Sélé",
