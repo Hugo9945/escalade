@@ -1,5 +1,103 @@
 [
   {
+    "id": "pointe-louise-arete-se",
+    "nom": "Pointe Louise – Arête SE (dite arête S)",
+    "sous_titre": "Course d'arête de 1952 face à la Barre des Écrins, au-dessus du Glacier Blanc – depuis le refuge des Écrins (ou du Glacier Blanc), descente par le versant S en neige",
+    "massif": "Écrins (Hautes-Alpes)",
+    "secteur": "Pointe Louise (3668 m), Glacier Blanc",
+    "coordonnees": {
+      "lat": 44.94312,
+      "lon": 6.37035,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Refuge des Écrins (3175 m) : 44.94729, 6.38301"
+    },
+    "camptocamp": [
+      {
+        "titre": "Pointe Louise : Arête SE (dite arête S)",
+        "url": "https://www.camptocamp.org/routes/54676"
+      }
+    ],
+    "objectif": "L'arête SE jusqu'au sommet de la Pointe Louise, puis descente par le versant S jusqu'au Glacier Blanc.",
+    "cotation_globale": "AD",
+    "cotation_libre_max": "4b",
+    "cotation_obligatoire": "4b",
+    "engagement": "III",
+    "hauteur": "500 m de difficultés ; 280 m d'approche depuis le refuge des Écrins (C2C)",
+    "nb_longueurs": "Non détaillé (arête, souvent en corde tendue)",
+    "orientation": "SE, surtout E",
+    "duree": "1 à 2 jours (nuit au refuge)",
+    "ambiance": "« Parcours d'arête de difficulté modérée, mais avec du gaz », superbe vue sur la Barre des Écrins et le Glacier Blanc (C2C). Migmatite, rocher bon à très bon la plupart du temps, moyen au début et à la fin. Itinéraire classique peu fréquenté. AD jugé un peu surcoté (plutôt AD-) par un retour de 2025, cotation jugée correcte par un autre de 2024. Ouverte le 03/09/1952 par J.-Ch. Brunel, Edmond Martin, Jacques Piégeay et A. Vincent.",
+    "statut": "materiel",
+    "envie": 2,
+    "projet": null,
+    "equipement": "trad",
+    "cote_equipement": "P3",
+    "approche": "Environ 1 h depuis le refuge des Écrins (3175 m) : descendre sur le Glacier Blanc puis le remonter vers la droite, en visant la droite de l'arête SE. Monter la pente de neige vers une vire de cailloux gris vers 3300 m, suivie vers la gauche (chutes de pierres) jusqu'au fil de l'arête au-dessus du ressaut de base. Depuis le refuge du Glacier Blanc : 2 h de plus (environ 3 h). Par faible enneigement, beaucoup de gradins caillouteux pour atteindre l'arête (retour d'août 2023). Accès au refuge depuis le Pré de Madame Carle.",
+    "descente": "Environ 1 h jusqu'au glacier par le versant S : du sommet, pierrier jusqu'au col entre la Pointe Louise et la Pointe Xavier Blanc. Par faible enneigement, aller chercher bien à droite une cheminée (II) pour passer une petite barre (cairn, sangle sur becquet pour un rappel au besoin). Descendre la pente de neige vers la gauche pour éviter la barre rocheuse au centre de la face (à droite possible par bon enneigement), puis les pentes de neige jusqu'au Glacier Blanc, et retour au refuge. « La descente, en neige raide, peut être la partie la plus dangereuse si l'on se déconcentre ou si on manque d'expérience » (C2C). En conditions sèches (août 2023, 2022) : descente « très délicate », rappel d'environ 35 m et glace à 45°.",
+    "materiel": "Crampons et piolet pour la descente (C2C), plus le matériel de glacier pour le Glacier Blanc : absents de notre inventaire. Pour l'arête : très peu de matériel en place (2-3 pitons, 1 sangle) ; jeu de friends jusqu'au #2, petits coinceurs (0.3 et moins), sangles (retours de 2022-2023). Notre rack convient.",
+    "longueurs": [
+      {
+        "titre": "D'après C2C",
+        "lignes": [
+          {
+            "n": "Bas de l'arête",
+            "cotation": "3",
+            "longueur": 150,
+            "cheminement": "Suivre l'arête facilement sur 150 m ; rocher délicat au début, 2 pitons (un en bas, un en haut)."
+          },
+          {
+            "n": "Partie raide",
+            "cotation": "3 à 4b",
+            "longueur": 150,
+            "cheminement": "L'arête se redresse sur environ 150 m, bon rocher. « Suivre l'arête et quand c'est dur, se décaler de 2-3 m à gauche » (retour de 2025)."
+          },
+          {
+            "n": "Paroi verticale",
+            "cotation": "4b",
+            "longueur": null,
+            "cheminement": "Très courte paroi verticale : traverser quelques mètres à gauche (versant Glacier Blanc) puis remonter vers le fil (2 pitons). Bon relais 1 piton + 1 spit, commun avec la voie « Tous en Vallouise »."
+          },
+          {
+            "n": "Sortie",
+            "cotation": "3c",
+            "longueur": null,
+            "cheminement": "Une dernière longueur jusqu'à l'arête SE, puis environ 100 m faciles en rocher moyen jusqu'au sommet."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Partir tôt du refuge pour descendre la pente S tant que la neige est bonne (ni trop dure, ni trop molle).",
+      "Les meilleures conditions : accès et descente en neige, arête sèche (retours de juin-juillet). En fin d'été, l'approche devient caillouteuse et la descente délicate (rappel, glace).",
+      "Le tracé du topo des « 100 plus belles » est faux et son horaire irréaliste selon C2C.",
+      "Une arête S, à gauche, existe aussi mais n'est plus parcourue : ne pas la confondre."
+    ],
+    "retex": [
+      "19/06/2026 : rocher sec, descente en neige souple avec 2 passages de rochers sans difficulté. Approche 1 h, voie 3 h.",
+      "26-27/07/2025 : « superbe course pas trop dure », AD un peu surcoté (plutôt AD-). Très bon rocher qui se protège bien ; descente tracée, tout à pied, sangle en place pour un rappel au besoin.",
+      "15-16/07/2025 : doute au refuge à cause du vent, mais « super arête » ; deux longueurs tirées dans les ressauts. Rocher excellent jusqu'à la fin, où il devient moyen. 4 h 10 sur l'arête.",
+      "07/07/2025 : difficulté continue et raisonnable, course calme et peu fréquentée. Refuge des Écrins 8 h, 1 h d'approche, 3 h 30 dans la voie, 2 h de descente.",
+      "07-08/07/2024 : très bon rocher, passages grimpants un peu expo ; recherche d'itinéraire, seulement 3 pitons et une sangle. 4 h de voie, 3 h de descente depuis le refuge du Glacier Blanc.",
+      "02/07/2024 : rocher bon, moyen par endroits ; accès et retour en neige, « sans doute les meilleures conditions ». Pente de descente raide mais passe bien avec des gens expérimentés.",
+      "11/08/2023 : approche sans neige, beaucoup de gradins caillouteux ; arête en très bon rocher ; descente « très délicate » en conditions sèches, « à ne pas sous-estimer ». Approche 3 h 15 (depuis le Glacier Blanc), arête 4 h, descente 2 h.",
+      "08-09/07/2023 : avec un jeu de friends jusqu'au #2, des ballnuts et des sangles, « on peut dérouler longtemps ». Descente : vire facile puis désescalade de 2 m exposée pour revenir sur la neige.",
+      "01-02/08/2022 : presque pas de neige, glacier en glace ; descente par un rappel d'environ 35 m et de la glace à 45°. 1 h de marche, 5 h 30 d'escalade, 2 h 30 de descente."
+    ],
+    "horaires": "Approche 45 min à 1 h depuis le refuge des Écrins (environ 3 h depuis le Glacier Blanc) ; arête 3 à 5 h ; descente 1 h 30 à 3 h jusqu'au refuge.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/pointe-louise-arete-se-trace.jpg",
+        "legende": "Pointe Louise, arête SE (« arête Sud ») avec le tracé ; photo Camptocamp (image 896292, licence collaborative)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 54676 (Pointe Louise : Arête SE, dite arête S) et point 104115 (refuge des Écrins), consultés le 18/11/2026",
+      "Camptocamp, sorties 1923902 (30/06/2026), 1932425 (19/06/2026), 1914020 (09/06/2026), 1797476 (26-27/07/2025), 1792841 (15-16/07/2025), 1790275 (07/07/2025), 1663722 (07-08/07/2024), 1662711 (05/07/2024), 1660036 (02/07/2024), 1566385 (11/08/2023), 1556322 (08-09/07/2023), 1549541 (01/07/2023), 1453193 (01-02/08/2022), consultées le 18/11/2026",
+      "Image Camptocamp 896292 (licence collaborative)",
+      "Livres cités par C2C, non consultés : « Guide du Haut-Dauphiné, tome 2 », « Le Massif des Écrins – Les 100 plus belles courses », « Oisans Nouveau Oisans sauvage – Livre Est »"
+    ]
+  },
+  {
     "id": "barre-noire-pilier-s",
     "nom": "Barre Noire – Pilier S",
     "sous_titre": "Grand pilier de 650 m au-dessus du glacier des Barres, voie de 1965 – à la journée depuis le Pré de Madame Carle (ou bivouac aux Balmes de François-Blanc), descente par le Glacier Blanc",
