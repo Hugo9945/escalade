@@ -1,5 +1,108 @@
 [
   {
+    "id": "moulette-la-petite-poire",
+    "nom": "Vallon de la Moulette, 1re Tour – La Petite Poire",
+    "sous_titre": "Voie des années 70 sur la petite paroi en forme de poire à droite de la 1re Tour – départ de la piste du col de Buffère (route du Granon)",
+    "massif": "Cerces – Thabor – Mont-Cenis (Hautes-Alpes)",
+    "secteur": "Vallon de la Moulette, 1re Tour (paroi de droite)",
+    "coordonnees": {
+      "lat": 44.97865,
+      "lon": 6.54216,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Parking piste du col de Buffère : 44.96325, 6.5775"
+    },
+    "camptocamp": [
+      {
+        "titre": "Vallon de la Moulette - 1ère Tour : La petite Poire",
+        "url": "https://www.camptocamp.org/routes/300912"
+      }
+    ],
+    "objectif": "Les 7 longueurs jusqu'au sommet de la Petite Poire, puis descente par le chemin de crête.",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "4c (IV+)",
+    "cotation_obligatoire": "4c",
+    "engagement": "II",
+    "hauteur": "170 m de difficultés (C2C)",
+    "nb_longueurs": "7 (5 grandes longueurs de près de 50 m selon le retour de 2013)",
+    "orientation": "SW",
+    "duree": "1 jour",
+    "ambiance": "« Voie assez raide et soutenue, mais rocher excellent et prisu » (C2C), « très adhérent, voire abrasif » ; bien moins patinée que la Voie de la Poire voisine. Décor montagnard, personne autour (2013). Quelques cailloux en équilibre sur les vires. Ouverte par S. Péguy et M. Pichot dans les années 70.",
+    "statut": "engagee",
+    "envie": 2,
+    "projet": null,
+    "equipement": "semi",
+    "cote_equipement": "P2",
+    "approche": "Comme la Voie de la Poire : par la route du col du Granon, piste du col de Buffère (interdite aux voitures après la barrière), puis le sentier vers le vallon de la Moulette et le GR vers le fond du vallon. La Petite Poire est la paroi plus petite en forme de poire à droite de la 1re grande tour, entourée de deux grosses failles-cheminées qui se resserrent vers le haut (bloc coincé visible au-dessus du sommet). Pas de sente jusqu'à l'attaque : montée raide dans un éboulis pénible. Attention : la Voie de la Poire classique est à gauche de la grande tour.",
+    "descente": "Par le chemin de crête à droite (C2C). En 2013 : couloir d'éboulis très raide avec beaucoup de blocs instables pour rejoindre la crête, puis sente vers l'E et le col de Buffère, qui disparaît dans les prairies ; descente à vue jusqu'à la piste. Le topo Cambon décrirait deux autres sorties vers le bas (selon le retour de 2013, non vérifié).",
+    "materiel": "Quelques câblés et sangles (C2C) ; 7-8 dégaines. Spits « qui ne suffisent pas, il faut parfois improviser » (C2C) : prendre aussi quelques friends. Notre rack convient.",
+    "longueurs": [
+      {
+        "titre": "D'après C2C (cotations UIAA)",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "IV+",
+            "longueur": null,
+            "cheminement": "Attaque dans la cheminée de droite, exposée. Relais sur 2 spits. Peut s'éviter par une vire facile à droite."
+          },
+          {
+            "n": "L2",
+            "cotation": "IV+",
+            "longueur": null,
+            "cheminement": "Remonter l'éperon au-dessus. Relais caché à gauche, derrière un petit pilier au-dessus d'une micro-vire, après environ 45 m (retour de 2013)."
+          },
+          {
+            "n": "L3",
+            "cotation": "III+, IV",
+            "longueur": null,
+            "cheminement": "Au-dessus, III+ puis IV."
+          },
+          {
+            "n": "L4",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Poursuivre au-dessus. Relais dans une brèche."
+          },
+          {
+            "n": "L5",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Mur rouge, exposé. Relais sur une vire."
+          },
+          {
+            "n": "L6",
+            "cotation": "IV+",
+            "longueur": null,
+            "cheminement": "Mur au-dessus puis dièdre. Relais sans équipement."
+          },
+          {
+            "n": "L7",
+            "cotation": "",
+            "longueur": null,
+            "cheminement": "Couloir facile vers le sommet, avec quelques pas d'escalade. Sortie par la droite d'un bloc coincé (IV+) en rocher délité selon le retour de 2013 : chute de 8 m sur une prise arrachée, piton arraché."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Points espacés (5 à 7 m) mais bien placés par rapport aux pas délicats selon le retour de 2013 ; « un bon IV+ » par endroits.",
+      "Sortie du haut : rocher délité, se protéger avec des friends et tester chaque prise ; se renseigner sur les autres sorties (topo Cambon) avant d'y aller.",
+      "Une seule sortie publiée sur C2C (2013) : informations anciennes, à vérifier sur place.",
+      "Même approche que la Voie de la Poire (déjà sur le site)."
+    ],
+    "retex": [
+      "25/07/2013 (seul retour C2C) : « vraiment magnifique », personne autour, rocher « excellentissime ». Équipement récent (plaquettes FFME), large à très large mais bien placé ; pas de coinceur ajouté dans la voie. 5 grandes longueurs de près de 50 m (7-8 dégaines). Sortie par la droite du bloc coincé en rocher délité : chute de 8 m, piton arraché, retenu par un friend ; couloir d'éboulis très raide pour la crête, sente perdue dans les prairies. Voie en 2-3 h, mais 12 h de voiture à voiture (11 h - 23 h)."
+    ],
+    "horaires": "Voie 2 à 3 h ; approche longue (comme la Voie de la Poire). 12 h de voiture à voiture en 2013 à cause de la sortie.",
+    "notes": "",
+    "enchainements": [],
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 300912 (Vallon de la Moulette - 1ère Tour : La petite Poire), consulté le 18/11/2026",
+      "Camptocamp, sortie 451068 (25/07/2013), consultée le 18/11/2026",
+      "Livres cités par C2C, non consultés : « Les nouvelles escalades faciles », « Escalades du Briançonnais », « Guide des escalades du massif des Cerces »"
+    ]
+  },
+  {
     "id": "eiger-arete-mittellegi",
     "nom": "Eiger – Arête Mittellegi",
     "sous_titre": "Grande arête NE de l'Eiger (3970 m) au-dessus de Grindelwald, avec nuit à la cabane Mittellegi (3355 m) – accès en train jusqu'à Eismeer, retour par l'arête S et le Jungfraujoch",
