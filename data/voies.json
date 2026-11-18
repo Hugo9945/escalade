@@ -1,5 +1,119 @@
 [
   {
+    "id": "barre-noire-pilier-s",
+    "nom": "Barre Noire – Pilier S",
+    "sous_titre": "Grand pilier de 650 m au-dessus du glacier des Barres, voie de 1965 – à la journée depuis le Pré de Madame Carle (ou bivouac aux Balmes de François-Blanc), descente par le Glacier Blanc",
+    "massif": "Écrins (Hautes-Alpes)",
+    "secteur": "Barre Noire (3751 m), versant S, glacier des Barres",
+    "coordonnees": {
+      "lat": 44.92473,
+      "lon": 6.36933,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Pré de Madame Carle : 44.91717, 6.41619 ; bivouac des Balmes de François-Blanc : 44.91923, 6.37868"
+    },
+    "camptocamp": [
+      {
+        "titre": "Barre Noire : Pilier S",
+        "url": "https://www.camptocamp.org/routes/53812"
+      }
+    ],
+    "objectif": "Le pilier S jusqu'au sommet de la Barre Noire, par la sortie directe (de droite, V+/6a) conseillée par C2C, puis 2 rappels et descente par le Glacier Blanc (voie normale du Dôme de Neige des Écrins ou arête NE de la Barre des Écrins).",
+    "cotation_globale": "TD",
+    "cotation_libre_max": "5c (V+/6a sur la sortie directe et un pas de 4 m)",
+    "cotation_obligatoire": "5b",
+    "engagement": "IV",
+    "hauteur": "650 m de difficultés (attaque vers 3100 m)",
+    "nb_longueurs": "Non détaillé (pilier décrit par sections)",
+    "orientation": "S",
+    "duree": "1 jour (très longue)",
+    "ambiance": "« Longue escalade de haute montagne à ne pas négliger » sur un pilier élancé, « mais où il n'y a pas trop de gaz » (C2C). Surtout du IV, avec trois passages de V+ ; difficultés crescendo, la 2e moitié est la plus belle. Gneiss et migmatite, rocher moyen sur la majeure partie : choisir les zones compactes et éviter les couloirs délités. Vue grandiose (Pelvoux, Barre des Écrins). Pilier au soleil à partir de 9 h environ. Première ascension le 22/09/1965 par Jean-Pierre Fédèle, Philippe Kelle et François Labande.",
+    "statut": "materiel",
+    "envie": 2,
+    "projet": null,
+    "equipement": "trad",
+    "cote_equipement": "P3",
+    "approche": "3 à 4 h. Du Pré de Madame Carle (1874 m), sentier du glacier Noir et moraine jusqu'au bivouac des Balmes de François-Blanc (2445 m, bivouac possible). Remonter les pentes S (éboulis puis neige ; pierrier raide et instable selon plusieurs retours) jusqu'au glacier des Barres (bivouac possible sur le replat à sa base), puis le remonter vers la base du pilier, entre le couloir de la Brèche des Écrins à gauche et celui de la Brèche des Barres à droite. Rimaye à franchir (souvent ouverte en été, contournée par la gauche en 2024). Chutes de pierres sur le névé d'approche : monter par sa rive gauche. Départ du Pré vers 3 h pour la journée.",
+    "descente": "4 à 5 h. Deux rappels depuis le sommet : le 1er (40 m) en s'arrêtant sur un replat 10 m avant la fin sur la droite (ou en désescalade en III, conseillée) ; le 2e (45 m, divisible en 20 + 25 m) main droite par une vire de 15 m. Attention : un relais sur pitons neufs avec de vieilles cordes, en bas du couloir, « ne mène nulle part ». Le relais du sommet a pu bouger (éboulement signalé en juillet 2024). Ensuite, soit l'arête NE de la Barre des Écrins (PD, 1 à 2 h), soit traverser à flanc vers la voie normale du Dôme de Neige des Écrins, puis le Glacier Blanc jusqu'au refuge des Écrins et au Pré. Glacier Blanc : crevasses pas toujours visibles en neige molle, ponts de neige fins, chutes de séracs sur l'itinéraire (retours 2024-2025).",
+    "materiel": "Corde pour un rappel de 40-45 m (un brin de 50 m a suffi à une cordée en 2024). Un jeu de friends (petits et moyens, #2 BD utile), câblés, quelques anneaux et sangles ; environ 20 pitons en place, surtout dans la 2e moitié ; pitons inutiles (C2C). Chaussons utiles pour la sortie directe. Plus crampons, piolet et matériel de glacier pour l'approche et la descente : absents de notre inventaire.",
+    "longueurs": [
+      {
+        "titre": "D'après C2C (pilier décrit par sections, cotations UIAA)",
+        "lignes": [
+          {
+            "n": "Base",
+            "cotation": "IV-, III, IV",
+            "longueur": null,
+            "cheminement": "Court ressaut (IV-) à la base du pilier (vers 3100 m), une longueur de III, dalles en IV sur le fil jusqu'à des terrasses, puis environ 100 m de gradins faciles (III) vers un couloir-cheminée sur le flanc gauche (1 h à 1 h 30). Première partie parfois difficile à protéger."
+          },
+          {
+            "n": "Cheminée / dalles",
+            "cotation": "IV+ (ou IV, V/V+)",
+            "longueur": null,
+            "cheminement": "Trois options : le couloir (IV, exposé aux chutes de pierres) ; les dalles de gauche (IV+, conseillé) ; ou traverser le couloir à droite et une fissure oblique de 50 m (V/V+). Arrivée sur une petite terrasse sur le fil (1 h)."
+          },
+          {
+            "n": "Dièdre gris-jaune",
+            "cotation": "III+/IV, V+",
+            "longueur": null,
+            "cheminement": "Dalles tout droit, puis dièdre gris-jaune (V+, préférer celui de droite), plein de fissures. Puis fil facile sur 20 m et petit ressaut (IV) vers le gendarme caractéristique."
+          },
+          {
+            "n": "Gendarme",
+            "cotation": "IV+, IV, III+",
+            "longueur": null,
+            "cheminement": "Cheminée sur le flanc droit (IV+, un pas dur protégeable, 2 pitons au relais), sortie à gauche par une dalle (10 m, IV+, 1 piton), dalles sur 50 m (IV) jusqu'au ressaut du gendarme, contourné par la droite (III), puis brèche à gauche (III+) (1 h 30 à 2 h)."
+          },
+          {
+            "n": "Ressaut rouge",
+            "cotation": "V-, V+/6a, IV",
+            "longueur": null,
+            "cheminement": "Fil puis flanc gauche (III) sous le ressaut rouge sommital ; 20 m en V- près du fil, puis sur le fil (V+/6a sur 4 m, 3 pitons, puis V) ; traversée à droite (15 m, IV) jusqu'à un relais sur spits. Système de fissures-couloirs (III) sur 20 m (ne pas prendre la rampe à gauche juste après le relais), puis traversée à gauche sur une dalle rougeâtre (10 m, IV+) jusqu'au fil ; relais sur 3 spits 5 m plus haut."
+          },
+          {
+            "n": "Sortie directe",
+            "cotation": "V+/6a",
+            "longueur": 50,
+            "cheminement": "Droit sur 50 m légèrement à droite du fil (« magnifique, très raide mais commode », pitons), ou un peu à gauche après un premier surplomb (piton orange, 2 spits), jusqu'à une large terrasse en face E à 10 m sous l'arête ; rejoindre l'arête E par le N et le sommet. Spits ajoutés après un secours en 2014. Variante : sortie classique à gauche en IV, rocher moyen."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Partir très tôt (vers 3 h du Pré) pour ne pas descendre le Glacier Blanc trop tard dans la neige molle.",
+      "Chutes de pierres : sur le névé d'approche, dans le bas de la voie et dans le couloir de la 2e section ; s'équiper à l'abri sur le névé. Éviter d'être sous d'autres cordées.",
+      "Tester les prises : passages « d'anthologie » mais aussi prises « tiroirs » ; rocher mauvais au-dessus du premier surplomb de la sortie selon un retour de 2025.",
+      "La photo-topo (page 2) découpe la voie en sections : plusieurs retours disent qu'elle aide beaucoup.",
+      "Le Pilier S de la Barre des Écrins, voisin, est souvent fait par les mêmes cordées (non étudié)."
+    ],
+    "retex": [
+      "05/08/2026 : rocher bien meilleur qu'à la Barre des Écrins, mais tester les prises ; sortie directe 6a raide et très jolie. Pré 3 h 30, sommet 8 h 58, voiture 13 h. Glacier du Dôme qui se dégrade vite en fin de saison.",
+      "16/06/2026 : approche par des pentes S « infâmes » ; perdus un moment sous le dièdre gris-jaune. Longueurs en 3-4 parfois improtégeables ; pitons dans les passages en 5-6, spits aux relais du haut. Rocher d'excellent à mauvais. Pré 3 h 30, sommet 13 h 30, retour 17 h 30.",
+      "14/06/2026 : dalles en IV parfois délicates à protéger, notamment la traversée après le dièdre-cheminée ; au-dessus, beaucoup de pitons. Sortie classique : rocher moyen, rétablissement délicat.",
+      "10/06/2026 : très jolis passages ; attaque par la gauche pour éviter deux cordées ; froid dans la brume en attendant aux relais.",
+      "07/06/2026 : pas de neige sur le pilier, glacier bien bouché et tracé. Pré 3 h 40, escalade 6 h 30-11 h, voiture 15 h.",
+      "13/08/2025 : rimaye bien ouverte mais passable ; quelques chutes de pierres alentour ; Glacier Blanc en neige molle, crevasses pas toujours visibles, chutes de séracs.",
+      "27/07/2025 : rocher humide en bas ; neige et parfois glace sur le pilier à partir de 3500 m. Sortie 6a : pitons au début, puis rocher « mauvais et dangereux » au-dessus du premier surplomb. Pré 3 h, sommet 11 h, Pré 16 h 30.",
+      "05/07/2025 : première partie « paumatoire », gradins faciles non protégeables ; portions grimpantes en très bon rocher. Pré 3 h, sommet 13 h 15.",
+      "16/08/2024 : bivouac aux Balmes ; premier tiers facile en dalles compactes non protégeables, très belle escalade à partir du dièdre gris-jaune. Attaque 8 h, sommet 13 h 30 ; perdus dans le brouillard sur le Glacier Blanc.",
+      "10/08/2024 : demi-tour au bas du névé, températures trop chaudes (près de 10 °C à 3000 m).",
+      "06/08/2024 : « c'est pas une voie, c'est un voyage ». Névé arrêté 150 m au-dessus de la moraine (éboulis instables), chutes de pierres en rive droite et au centre. Approche 3 h 30, voie 6 h 45, descente 4 h 30.",
+      "17/07/2024 : friends 0.3-2, câblés, 6-7 sangles, une 50 m ; sortie directe raide mais bien protégeable. Relais du sommet qui semble avoir bougé (éboulement récent). Descente en 3 rappels de 25 m."
+    ],
+    "horaires": "Approche 2 h 30 à 4 h ; voie 4 h 30 à 7 h ; descente 4 à 5 h. Départ du Pré vers 3 h, retour entre 13 h et 21 h selon les retours.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/barre-noire-pilier-s-topo.jpg",
+        "legende": "Photo-topo du Pilier S avec le tracé et les sections (B. Védrines) ; image Camptocamp 654180, licence collaborative"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 53812 (Barre Noire : Pilier S), consulté le 18/11/2026",
+      "Camptocamp, sorties 1936274 (05/08/2026), 1916638 (16/06/2026), 1916325 (14/06/2026), 1914896 (10/06/2026), 1913805 (07/06/2026), 1805429 (13/08/2025), 1797814 (27/07/2025), 1850048 (05/07/2025), 1781406 (14/06/2025), 1680156 (16/08/2024), 1677997 (10/08/2024), 1674604 (06/08/2024), 1670320 (27/07/2024), 1666565 (17/07/2024), consultées le 18/11/2026",
+      "Image Camptocamp 654180 (photo-topo de B. Védrines, licence collaborative)",
+      "Livres cités par C2C, non consultés : « Guide du Haut-Dauphiné, tome 2 », « Le Massif des Écrins – Les 100 plus belles courses », « Oisans Nouveau Oisans sauvage – Livre Est »"
+    ]
+  },
+  {
     "id": "ailefroide-centrale-arete-de-coste-rouge",
     "nom": "Ailefroide Centrale – Arête de Coste Rouge (arête N)",
     "sous_titre": "Grande course d'arête de 1913 au-dessus du glacier Noir, du col de Coste Rouge (3192 m) au sommet (3927 m) – départ du Pré de Madame Carle ou du refuge Temple-Écrins",
