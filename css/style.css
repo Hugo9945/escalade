@@ -309,7 +309,16 @@ body { background-color: var(--fond); background-image: url("data:image/svg+xml,
   -webkit-mask: no-repeat bottom / 100% 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 31 L60 21 L105 29 L165 17 L225 33 L278 21 L345 31 L398 23 L450 30 L505 19 L560 28 L600 22 L600 40Z' fill='%23000'/%3E%3C/svg%3E");
   mask: no-repeat bottom / 100% 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 31 L60 21 L105 29 L165 17 L225 33 L278 21 L345 31 L398 23 L450 30 L505 19 L560 28 L600 22 L600 40Z' fill='%23000'/%3E%3C/svg%3E");
 }
-.page-carte { --sous-entete: #ffffff; }
+/* Pages carte et météo : la barre de filtres prolonge l'en-tête (plus de bande blanche). */
+.page-carte { --sous-entete: #2a3843; }
+.page-carte .filtres { background: #2a3843; border-bottom: 0; color: #e6edf2; padding-top: 4px; }
+.page-carte .filtres legend, .page-carte .filtres label.projet { color: #c9d6df; }
+.page-carte .filtres > summary { color: #fff; }
+.page-carte .filtre-statut { background: rgba(255, 255, 255, 0.07); border-color: rgba(255, 255, 255, 0.2); color: #fff; }
+.page-carte .filtre-statut .nb { color: #a9b8c3; }
+.page-carte .filtres select { background: #1f2a33; color: #fff; border-color: rgba(255, 255, 255, 0.25); }
+.page-carte .meteo-couche.actif { background: var(--balise); border-color: var(--balise); color: #fff; }
+.page-carte .meteo-lien { color: #9cc7e6; }
 .entete .logo, .entete nav { position: relative; z-index: 1; }
 .entete .logo {
   display: inline-flex;
