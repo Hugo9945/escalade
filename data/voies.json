@@ -1,5 +1,124 @@
 [
   {
+    "id": "moulette-2e-tour-voie-vaillot",
+    "nom": "Vallon de la Moulette, 2e Tour – Voie Vaillot",
+    "sous_titre": "Vieille classique de 1956 en terrain d'aventure, à droite des voies équipées de la 2e Tour – départ de la piste du col de Buffère (route du Granon)",
+    "massif": "Cerces – Thabor – Mont-Cenis (Hautes-Alpes)",
+    "secteur": "Vallon de la Moulette, 2e Tour",
+    "coordonnees": {
+      "lat": 44.97915,
+      "lon": 6.54169,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Parking piste du col de Buffère : 44.96325, 6.5775"
+    },
+    "camptocamp": [
+      {
+        "titre": "Vallon de la Moulette - 2ème Tour : Voie Vaillot",
+        "url": "https://www.camptocamp.org/routes/135580"
+      }
+    ],
+    "objectif": "La voie jusqu'au sommet de la 2e Tour, puis descente à pied par l'arête et le couloir à gauche de la tour.",
+    "cotation_globale": "D+",
+    "cotation_libre_max": "5c (V+, contournable en IV)",
+    "cotation_obligatoire": "5c selon C2C (passage en V+ évitable par une fissure herbeuse en IV)",
+    "engagement": "II",
+    "hauteur": "300 m de difficultés (C2C)",
+    "nb_longueurs": "Environ 11 (non numérotées sur C2C)",
+    "orientation": "SW",
+    "duree": "1 jour",
+    "ambiance": "« Vieille classique, l'escalade ne vaut sans doute pas celle des voies équipées voisines et ce n'est pas du grand terrain d'aventure, toutefois elle mérite encore d'être parcourue pour s'initier à la pose de protections et se préparer aux cheminements en haute montagne » (C2C). Dièdres, cheminées, passages herbeux et rocher peu sûr par endroits. Pas de soleil avant 11 h. Ouverte en 1956 par M. Vaillot et Ed. Martin.",
+    "statut": "bientot",
+    "envie": 2,
+    "projet": null,
+    "equipement": "trad",
+    "cote_equipement": "P3",
+    "approche": "Pas décrite sur C2C. Même accès que les voies du vallon de la Moulette (voir la Voie de la Poire) : route du col du Granon, piste du col de Buffère à pied, sentier vers le vallon de la Moulette. Attaque dans le fond du couloir à droite du départ des voies équipées de la 2e Tour.",
+    "descente": "Du sommet, suivre l'arête jusqu'à une brèche, descendre à gauche par des pentes peu sûres, puis sur un replat tirer à droite (cairns) pour rejoindre le couloir qui descend à gauche de la tour.",
+    "materiel": "Un jeu complet de coinceurs et de friends, quelques sangles (C2C). Quelques pitons en place. Notre rack convient.",
+    "longueurs": [
+      {
+        "titre": "D'après C2C (voie décrite par passages, cotations UIAA)",
+        "lignes": [
+          {
+            "n": "1",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Contre la paroi raide de gauche jusqu'au dernier rappel."
+          },
+          {
+            "n": "2",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Dièdre couché vers la gauche ; relais équipé sur pitons."
+          },
+          {
+            "n": "3",
+            "cotation": "II",
+            "longueur": null,
+            "cheminement": "Rampe herbeuse."
+          },
+          {
+            "n": "4",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "À gauche d'un dièdre couché (1 piton)."
+          },
+          {
+            "n": "5",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Ne pas suivre la grande dépression à gauche : droit quelques mètres puis un peu à droite, rocher peu sûr et herbeux ; relais à gauche des grandes dalles de « Vaille que vaille » (1 piton)."
+          },
+          {
+            "n": "6",
+            "cotation": "IV (ou V+)",
+            "longueur": null,
+            "cheminement": "Mur raide par une fissure herbeuse (1 piton), délicate en haut ; ou à gauche par de bonnes dalles peu protégeables (1 piton, V+). Relais facultatif."
+          },
+          {
+            "n": "7",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Quelques blocs jusqu'au pied d'un énorme bloc détaché de la paroi (1 piton au relais)."
+          },
+          {
+            "n": "8",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Franchir le bloc par la gauche (2 pitons)."
+          },
+          {
+            "n": "9",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Traverser vers la gauche puis cheminée."
+          },
+          {
+            "n": "10-11",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Système de cheminées en tirant un peu à gauche jusqu'au sommet (2 longueurs)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Bonne voie pour s'entraîner à poser ses protections avant des courses en haute montagne (C2C).",
+      "Se méfier du schéma du topo Cambon, « très approximatif (la fin n'apparaît pas) » (C2C).",
+      "Aucune sortie publiée sur C2C : itinéraire et état des pitons à vérifier sur place.",
+      "Dans le même vallon : la Voie de la Poire et la Petite Poire (1re Tour), déjà sur le site."
+    ],
+    "retex": [
+      "Aucune sortie publiée sur Camptocamp (consulté le 18/11/2026)."
+    ],
+    "horaires": "Non renseignés sur C2C.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 135580 (Vallon de la Moulette - 2ème Tour : Voie Vaillot), consulté le 18/11/2026 ; aucune sortie publiée",
+      "Livres cités par C2C, non consultés : « Oisans Nouveau Oisans sauvage – Livre Est », « Escalades du Briançonnais », « Guide des escalades du massif des Cerces »"
+    ]
+  },
+  {
     "id": "moulette-la-petite-poire",
     "nom": "Vallon de la Moulette, 1re Tour – La Petite Poire",
     "sous_titre": "Voie des années 70 sur la petite paroi en forme de poire à droite de la 1re Tour – départ de la piste du col de Buffère (route du Granon)",
