@@ -143,7 +143,7 @@ main { max-width: 960px; margin: 0 auto; padding: 16px; }
 }
 .filtre-statut input { margin: 0; accent-color: var(--c); }
 .filtre-statut .nb { color: var(--doux); }
-.filtres label.projet { display: inline-flex; align-items: center; gap: 6px; font-size: 0.9rem; }
+.filtres label.projet { display: inline-flex; align-items: center; gap: 6px; font-size: 0.9rem; margin: 0; }
 .filtres select { font: inherit; font-size: 0.9rem; padding: 4px 8px; border-radius: 6px; border: 1px solid var(--trait); }
 
 .legende {
@@ -397,6 +397,36 @@ table.longueurs tr:nth-child(even) td { background: #fbf6ee; }
 .onglets a { border: 0; border-bottom: 3px solid transparent; margin: 0 0 -1px; background: none; color: var(--doux); }
 .onglets a.actif { background: none; color: var(--accent); border-bottom-color: var(--bois); }
 .onglets a:hover { background: none; color: var(--texte); }
+
+/* Recherche et compteur de la carte */
+.filtres .recherche input { font: inherit; font-size: 0.9rem; padding: 5px 10px; width: 260px; max-width: 70vw; border-radius: 999px; border: 1px solid var(--trait); background: var(--carte); color: var(--texte); }
+.nb-visibles { font-size: 0.85rem; font-weight: 600; }
+#filtre-zone { max-width: 210px; }
+.plus-filtres { flex-basis: 100%; }
+.plus-filtres > summary { cursor: pointer; font-weight: 600; font-size: 0.9rem; display: inline-block; padding: 3px 12px; border-radius: 999px; border: 1px solid var(--trait); }
+.plus-filtres[open] > summary { margin-bottom: 8px; }
+.plus-filtres-contenu { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; }
+#nb-filtres-actifs:not(:empty) { background: var(--ambre); color: #2b2f2a; border-radius: 999px; padding: 0 7px; margin-left: 4px; font-size: 0.8rem; }
+.page-carte .plus-filtres > summary { border-color: rgba(255, 255, 255, 0.25); color: #fff; }
+.page-carte .filtres .recherche input { background: #243a2d; color: #fff; border-color: rgba(255, 255, 255, 0.25); }
+.page-carte .filtres .recherche input::placeholder { color: #9fb5a6; }
+.page-carte .nb-visibles { color: var(--ambre); }
+
+/* Météo des 3 prochains jours (fiche voie) */
+.meteo-jours { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; margin: 8px 0 4px; }
+.meteo-jour { background: var(--fond); border: 1px solid var(--trait); border-radius: 10px; padding: 8px 10px; text-align: center; }
+.meteo-jour .jour { font-weight: 700; font-size: 0.9rem; }
+.meteo-jour .icone { font-size: 1.8rem; line-height: 1.3; }
+.meteo-jour .ciel { font-size: 0.8rem; color: var(--doux); }
+.meteo-jour .temp { font-weight: 700; margin-top: 2px; }
+.meteo-jour .temp .min { color: var(--doux); font-weight: 600; }
+.meteo-jour .detail { font-size: 0.8rem; color: var(--doux); }
+.meteo-note { font-size: 0.8rem; color: var(--doux); margin: 6px 0 0; }
+@media (max-width: 600px) { .meteo-jours { gap: 6px; } .meteo-jour { padding: 6px 4px; } }
+
+/* Bandeau « hors connexion » */
+.hors-ligne { position: fixed; left: 50%; bottom: 14px; transform: translateX(-50%); z-index: 2000; background: var(--accent); color: #fff; font-size: 0.85rem; font-weight: 600; padding: 6px 14px; border-radius: 999px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25); }
+@media print { .hors-ligne { display: none; } }
 
 /* Onglet Météo : barre de choix + carte Windy en plein écran. */
 .meteo-barre { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; }

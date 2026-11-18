@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
-  <script src="js/verrou.js?v=26"></script>
+  <script src="js/verrou.js?v=27"></script>
   <title>Carte des voies – Sac à topos</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -16,7 +16,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
-  <link rel="stylesheet" href="css/style.css?v=26">
+  <link rel="stylesheet" href="css/style.css?v=27">
 </head>
 <body class="page-carte">
   <header class="entete">
@@ -32,7 +32,14 @@
     <details class="filtres" id="filtres" open>
       <summary>Filtres</summary>
       <div class="filtres-contenu">
+      <label class="projet recherche">🔍
+        <input type="search" id="filtre-recherche" placeholder="Chercher une voie, un secteur…" autocomplete="off">
+      </label>
+      <span class="nb-visibles" id="nb-visibles"></span>
       <fieldset id="filtre-statuts"><legend>Statut</legend></fieldset>
+      <details class="plus-filtres" id="plus-filtres">
+        <summary>Plus de filtres <span id="nb-filtres-actifs"></span></summary>
+        <div class="plus-filtres-contenu">
       <label class="projet">Équipement
         <select id="filtre-equipement">
           <option value="">Tous</option>
@@ -52,12 +59,47 @@
       <label class="projet">Projet
         <select id="filtre-projet"><option value="">Tous</option></select>
       </label>
+      <label class="projet">Zone
+        <select id="filtre-zone"><option value="">Toutes</option></select>
+      </label>
+      <label class="projet">Cotation
+        <select id="filtre-cotation">
+          <option value="">Toutes</option>
+          <option value="4a">jusqu'à 4a</option>
+          <option value="4b">jusqu'à 4b</option>
+          <option value="4c">jusqu'à 4c</option>
+          <option value="5a">jusqu'à 5a</option>
+          <option value="5b">jusqu'à 5b</option>
+          <option value="5c">jusqu'à 5c</option>
+          <option value="6a">jusqu'à 6a</option>
+        </select>
+      </label>
+      <label class="projet">Orientation
+        <select id="filtre-orientation">
+          <option value="">Toutes</option>
+          <option value="N">Nord</option>
+          <option value="E">Est</option>
+          <option value="S">Sud</option>
+          <option value="O">Ouest</option>
+        </select>
+      </label>
+      <label class="projet">Durée
+        <select id="filtre-duree">
+          <option value="">Toutes</option>
+          <option value="demi">½ journée</option>
+          <option value="jour">1 jour</option>
+          <option value="plusieurs">Plusieurs jours</option>
+        </select>
+      </label>
+        </div>
+      </details>
       </div>
     </details>
     <div id="carte"></div>
   </main>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="js/commun.js?v=26"></script>
-  <script src="js/carte.js?v=26"></script>
+  <script src="js/commun.js?v=27"></script>
+  <script src="js/carte.js?v=27"></script>
+  <script src="js/hors-ligne.js?v=27"></script>
 </body>
 </html>

@@ -53,6 +53,61 @@ function lienMeteo(c) {
   return `https://www.meteoblue.com/fr/meteo/semaine/${lat}${lon}`;
 }
 
+/* ---------- Météo des 3 prochains jours (Open-Meteo, gratuit, sans clé) ---------- */
+// Codes météo WMO → pictogramme et libellé.
+function cielWMO(code) {
+  if (code === 0) return ["☀️", "Ensoleillé"];
+  if (code <= 2) return ["🌤", "Peu nuageux"];
+  if (code === 3) return ["☁️", "Couvert"];
+  if (code <= 48) return ["🌫", "Brouillard"];
+  if (code <= 57) return ["🌦", "Bruine"];
+  if (code <= 67) return ["🌧", "Pluie"];
+  if (code <= 77) return ["🌨", "Neige"];
+  if (code <= 82) return ["🌦", "Averses"];
+  if (code <= 86) return ["🌨", "Averses de neige"];
+  return ["⛈", "Orages"];
+}
+
+async function afficherMeteo(c) {
+  const zone = document.getElementById("meteo-fiche");
+  if (!zone) return;
+  const url =
+    "https://api.open-meteo.com/v1/forecast?" +
+    new URLSearchParams({
+      latitude: c.lat,
+      longitude: c.lon,
+      daily: "weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum,precipitation_probability_max,wind_speed_10m_max",
+      timezone: "auto",
+      forecast_days: 3,
+    });
+  try {
+    const rep = await fetch(url);
+    if (!rep.ok) throw new Error();
+    const m = await rep.json();
+    const d = m.daily;
+    const jours = d.time.map((date, i) => {
+      const nom = i === 0 ? "Aujourd'hui" : i === 1 ? "Demain" : new Date(date + "T12:00").toLocaleDateString("fr-FR", { weekday: "long" });
+      const [icone, ciel] = cielWMO(d.weather_code[i]);
+      const pluie = d.precipitation_sum[i];
+      const proba = d.precipitation_probability_max?.[i];
+      return `<div class="meteo-jour">
+        <div class="jour">${echapper(nom.charAt(0).toUpperCase() + nom.slice(1))}</div>
+        <div class="icone" aria-hidden="true">${icone}</div>
+        <div class="ciel">${ciel}</div>
+        <div class="temp">${Math.round(d.temperature_2m_max[i])}° <span class="min">/ ${Math.round(d.temperature_2m_min[i])}°</span></div>
+        <div class="detail">💧 ${pluie ? `${pluie.toFixed(1)} mm` : "0 mm"}${proba != null ? ` (${proba} %)` : ""}</div>
+        <div class="detail">💨 ${Math.round(d.wind_speed_10m_max[i])} km/h</div>
+      </div>`;
+    });
+    zone.innerHTML = `<h2>Météo des 3 prochains jours</h2>
+      <div class="meteo-jours">${jours.join("")}</div>
+      <p class="meteo-note">Prévision Open-Meteo au point de la fiche (altitude du modèle : environ ${Math.round(m.elevation)} m). En montagne, elle peut varier fortement avec l'altitude.
+      <a href="${lienMeteo(c)}" target="_blank" rel="noopener">Détail sur Meteoblue ↗</a></p>`;
+  } catch (e) {
+    zone.innerHTML = `<h2>Météo des 3 prochains jours</h2><p class="meteo-note">Météo indisponible (pas de connexion ?). <a href="${lienMeteo(c)}" target="_blank" rel="noopener">Voir sur Meteoblue ↗</a></p>`;
+  }
+}
+
 /* ---------- Affichage écran ---------- */
 function afficherFiche(voie) {
   document.title = `${voie.nom} – Sac à topos`;
@@ -93,6 +148,7 @@ function afficherFiche(voie) {
       ${info("Projet / voyage", voie.projet)}
     </dl>
 
+    ${c.lat != null ? `<section class="section" id="meteo-fiche"><h2>Météo des 3 prochains jours</h2><p class="meteo-note">Chargement…</p></section>` : ""}
     ${section("Objectif", blocTexte(voie.objectif))}
     ${section("Ambiance", blocTexte(voie.ambiance))}
     ${section("Approche", blocTexte(voie.approche))}
@@ -207,6 +263,7 @@ chargerVoies()
     const voie = voies.find((v) => v.id === id);
     if (!voie) throw new Error("Voie introuvable. Retourne à la carte pour en choisir une.");
     afficherFiche(voie);
+    if (voie.coordonnees && voie.coordonnees.lat != null) afficherMeteo(voie.coordonnees);
     afficherA4(voie);
     ajusterA4();
     document.fonts?.ready.then(ajusterA4);

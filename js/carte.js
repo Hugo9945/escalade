@@ -43,22 +43,87 @@ const statutsCoches = new Set(Object.keys(STATUTS));
 let projetChoisi = "";
 let envieMin = 0;
 let equipementChoisi = "";
+let recherche = "";
+let zoneChoisie = "";
+let cotationMax = null;
+let orientationChoisie = "";
+let dureeChoisie = "";
 const points = []; // { voie, marqueur }
+
+/* ---------- Outils pour les nouveaux filtres ---------- */
+
+// Texte sans accents ni majuscules, pour la recherche.
+function simplifier(texte) {
+  return String(texte || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+}
+
+// Zone = massif sans la précision entre parenthèses, tirets harmonisés (« Écrins (Hautes-Alpes) » → « Écrins »).
+function zoneDe(voie) {
+  return String(voie.massif || "").replace(/\s*\(.*?\)\s*/g, " ").replace(/\s+[–-]\s+/g, " – ").trim();
+}
+
+// Cotation française → nombre comparable (4a = 3, 4b = 4, 4c = 5, 5a = 6…). « 5 » seul compte comme 5a.
+function valeurCotation(texte) {
+  const m = String(texte || "").match(/\b([3-9])([abc])?(\+)?/);
+  if (!m) return null;
+  return (Number(m[1]) - 3) * 3 + (m[2] ? "abc".indexOf(m[2]) : 0) + (m[3] ? 0.5 : 0);
+}
+
+// Orientations de la voie, ramenées à N / E / S / O (une voie NE compte pour le Nord et pour l'Est).
+function orientationsDe(voie) {
+  const texte = String(voie.orientation || "").replace(/Ouest/gi, "W").replace(/\bEst\b/gi, "E").replace(/Nord/gi, "N").replace(/\bSud\b/gi, "S");
+  const lettres = new Set();
+  for (const mot of texte.match(/\b[NSEWO]{1,3}\b/g) || []) for (const l of mot) lettres.add(l === "W" ? "O" : l);
+  return lettres;
+}
+
+// Durée : « demi » (½ journée), « jour » (1 jour), « plusieurs » (2 jours et plus), ou "" si inconnue.
+function dureeDe(voie) {
+  const d = String(voie.duree || "").toLowerCase();
+  if (/^1\/2|^demi/.test(d)) return "demi";
+  if (/\b[23] jours|à [23] jours/.test(d)) return "plusieurs";
+  if (/jour/.test(d)) return "jour";
+  return "";
+}
 
 function correspondAuxFiltres(voie) {
   if (!statutsCoches.has(voie.statut)) return false;
   if (envieMin && !((voie.envie || 0) >= envieMin)) return false;
   if (equipementChoisi && voie.equipement !== equipementChoisi) return false;
-  if (projetChoisi === SANS_PROJET) return !voie.projet;
-  if (projetChoisi) return voie.projet === projetChoisi;
+  if (projetChoisi === SANS_PROJET && voie.projet) return false;
+  if (projetChoisi && projetChoisi !== SANS_PROJET && voie.projet !== projetChoisi) return false;
+  if (zoneChoisie && zoneDe(voie) !== zoneChoisie) return false;
+  if (cotationMax !== null) {
+    const v = valeurCotation(voie.cotation_libre_max);
+    if (v === null || v > cotationMax) return false;
+  }
+  if (orientationChoisie && !orientationsDe(voie).has(orientationChoisie)) return false;
+  if (dureeChoisie && dureeDe(voie) !== dureeChoisie) return false;
+  if (recherche) {
+    const texte = simplifier([voie.nom, voie.secteur, voie.massif, voie.sous_titre].join(" "));
+    if (!recherche.split(/\s+/).every((mot) => texte.includes(mot))) return false;
+  }
   return true;
 }
 
 function appliquerFiltres() {
+  let nb = 0;
   for (const { voie, marqueur } of points) {
-    if (correspondAuxFiltres(voie)) marqueur.addTo(carte);
-    else marqueur.remove();
+    if (correspondAuxFiltres(voie)) {
+      marqueur.addTo(carte);
+      nb++;
+    } else marqueur.remove();
   }
+  document.getElementById("nb-visibles").textContent = `${nb} voie${nb > 1 ? "s" : ""} affichée${nb > 1 ? "s" : ""}`;
+  // Nombre de menus réglés dans « Plus de filtres » (pour ne pas oublier un filtre actif quand c'est replié).
+  const actifs = [equipementChoisi, envieMin, projetChoisi, zoneChoisie, cotationMax !== null, orientationChoisie, dureeChoisie].filter(Boolean).length;
+  document.getElementById("nb-filtres-actifs").textContent = actifs ? String(actifs) : "";
+}
+
+// Cadre la carte sur les voies affichées.
+function cadrerSurVisibles() {
+  const visibles = points.filter((p) => correspondAuxFiltres(p.voie)).map((p) => p.marqueur.getLatLng());
+  if (visibles.length) carte.fitBounds(L.latLngBounds(visibles), { padding: [40, 40], maxZoom: 13 });
 }
 
 function resume(voie) {
@@ -112,9 +177,45 @@ function construireFiltres(voies) {
     projetChoisi = select.value;
     appliquerFiltres();
     // Un projet choisi : on cadre la carte sur ses voies ; « Tous » : retour aux Alpes du Nord.
-    const visibles = points.filter((p) => correspondAuxFiltres(p.voie)).map((p) => p.marqueur.getLatLng());
-    if (projetChoisi && visibles.length) carte.fitBounds(L.latLngBounds(visibles), { padding: [40, 40], maxZoom: 13 });
-    else if (!projetChoisi) carte.setView([45.55, 6.2], 8);
+    if (projetChoisi) cadrerSurVisibles();
+    else carte.setView([45.55, 6.2], 8);
+  });
+
+  // Zone : construite à partir des massifs des voies.
+  const choixZone = document.getElementById("filtre-zone");
+  const zones = [...new Set(voies.map(zoneDe).filter(Boolean))].sort((a, b) => a.localeCompare(b, "fr"));
+  for (const z of zones) choixZone.add(new Option(`${z} (${voies.filter((v) => zoneDe(v) === z).length})`, z));
+  choixZone.addEventListener("change", () => {
+    zoneChoisie = choixZone.value;
+    appliquerFiltres();
+    if (zoneChoisie) cadrerSurVisibles();
+  });
+
+  document.getElementById("filtre-cotation").addEventListener("change", (e) => {
+    cotationMax = e.target.value ? valeurCotation(e.target.value) : null;
+    appliquerFiltres();
+  });
+  document.getElementById("filtre-orientation").addEventListener("change", (e) => {
+    orientationChoisie = e.target.value;
+    appliquerFiltres();
+  });
+  document.getElementById("filtre-duree").addEventListener("change", (e) => {
+    dureeChoisie = e.target.value;
+    appliquerFiltres();
+  });
+
+  // Recherche : filtre en direct ; Entrée cadre la carte sur les résultats.
+  const champ = document.getElementById("filtre-recherche");
+  champ.addEventListener("input", () => {
+    recherche = simplifier(champ.value).trim();
+    appliquerFiltres();
+  });
+  champ.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+      e.preventDefault();
+      cadrerSurVisibles();
+      champ.blur();
+    }
   });
 }
 
