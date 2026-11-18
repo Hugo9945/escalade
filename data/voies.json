@@ -1,5 +1,99 @@
 [
   {
+    "id": "eiger-arete-mittellegi",
+    "nom": "Eiger – Arête Mittellegi",
+    "sous_titre": "Grande arête NE de l'Eiger (3970 m) au-dessus de Grindelwald, avec nuit à la cabane Mittellegi (3355 m) – accès en train jusqu'à Eismeer, retour par l'arête S et le Jungfraujoch",
+    "massif": "Alpes bernoises (Suisse)",
+    "secteur": "Eiger, Oberland bernois (Grindelwald)",
+    "coordonnees": {
+      "lat": 46.58082,
+      "lon": 8.0149,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Cabane Mittellegi (3355 m) : 46.58337, 8.02252 ; Jungfraujoch (3454 m, gare) : 46.54751, 7.98494"
+    },
+    "camptocamp": [
+      {
+        "titre": "Eiger : Arête Mittellegi",
+        "url": "https://www.camptocamp.org/routes/54714"
+      }
+    ],
+    "objectif": "J1 : train jusqu'à Eismeer, glacier et rochers jusqu'à la cabane Mittellegi. J2 : l'arête Mittellegi jusqu'au sommet, puis descente par l'arête S (rappels) jusqu'aux Eigerjoch, glacier jusqu'au Mönchsjoch et train au Jungfraujoch.",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "4a",
+    "cotation_obligatoire": "3c",
+    "engagement": "IV",
+    "hauteur": "615 m de dénivelé de la cabane au sommet ; 789 m de descente (C2C)",
+    "nb_longueurs": "Non détaillé (arête en corde tendue, plus de 200 m de cordes fixes)",
+    "orientation": "NE",
+    "duree": "2 jours",
+    "ambiance": "Sommet mythique et arête « de légende » : très grande ambiance, beaucoup de gaz entre les prairies côté N et le chaos glaciaire côté S. Itinéraire très évident sur le faîte ; les gendarmes s'escaladent. Quelques courts pas protégés par des spits, les difficultés sont équipées de cordes fixes (plus de 200 m, surtout après la Grosse Turm), ce qui « enlève un peu de charme mais a le mérite d'être efficace ». Final en arête de neige aérienne. Course très fréquentée en été (refuge plein, nombreuses cordées guidées). 1re ascension le 10/09/1921 par Yuko Maki avec Fritz Amatter, Fritz Steuri et Samuel Brawand.",
+    "statut": "materiel",
+    "envie": 2,
+    "projet": null,
+    "equipement": "semi",
+    "cote_equipement": "P2",
+    "approche": "Grindelwald (parking du Terminal, payant), télécabine jusqu'à Eigergletscher puis train de la Jungfrau jusqu'à la station Eismeer (billet à acheter au guichet ; 82 CHF depuis Grindelwald Grund en 2022). Depuis le tunnel, descendre la vire à gauche équipée d'une main courante, puis un court rappel (10-15 m) pour prendre pied sur le glacier (corde de 50 m utile). Glacier crevassé, grande crevasse franchie par une passerelle en 2026 ; traverser l'éboulement rocheux instable. Puis une longueur bien équipée, une 2e facile, et une 3e courte jusqu'à une grande vire (ne pas prendre trop tôt la vire horizontale à droite), cairns, un rappel ou une désescalade sur la vire, et montée à la cabane en suivant les cairns. Environ 1 h 30 à 2 h depuis Eismeer. Variante bien plus longue et sauvage : depuis Grindelwald par l'Ostegghütte (via ferrata) et l'arête intégrale.",
+    "descente": "4 à 5 h du sommet au Jungfraujoch (plus en conditions mixtes). Arête S : facile puis plus raide, une dizaine de petits rappels sur broches ou spits (dont un ressaut en 2 rappels de 10 et 25 m), alternant avec marche et désescalade, jusqu'au Nördliches Eigerjoch (1 h 30-2 h 30) ; passage à flanc exposé en neige ou glace juste après (éboulement de 2022). Puis escalade assez facile en bon granit jusqu'au Südliches Eigerjoch (1 h 30-2 h), avec un pas exposé à droite dans le grand bastion (1 spit, friend 0.4-0.5 possible). Du col, traversée du glacier vers le S en évitant les crevasses (pont de neige fin et perforé vers le point 3671 en septembre 2026), courte montée au Mönchsjoch, puis Jungfraujoch (train ; descente 108 CHF en 2022). Variante : par la face W, se renseigner sur les conditions.",
+    "materiel": "Corde de 50 m pour les rappels de l'arête S. Beaucoup de dégaines ou de mousquetons libres pour les barres des cordes fixes ; quelques sangles ; quelques friends utiles (C2C). Crampons, piolet et matériel de glacier (approche, sommet, descente) : absents de notre inventaire.",
+    "longueurs": [
+      {
+        "titre": "D'après C2C",
+        "lignes": [
+          {
+            "n": "Cabane → Grosse Turm",
+            "cotation": "3c-4a",
+            "longueur": null,
+            "cheminement": "Rester sur le faîte de l'arête ; tous les gendarmes s'escaladent (difficiles à éviter). Quelques courts pas protégés par des spits."
+          },
+          {
+            "n": "Grosse Turm (3689 m)",
+            "cotation": "",
+            "longueur": 20,
+            "cheminement": "Rappel de 20 m pour rejoindre les cordes fixes ; l'escalade passe alors versant N (grande ambiance). Givre ou verglas possible le matin dans les cordes fixes raides en face N."
+          },
+          {
+            "n": "Cordes fixes",
+            "cotation": "4a",
+            "longueur": null,
+            "cheminement": "Plus de 200 m de cordes fixes dans le grand ressaut, puis encore un ou deux ressauts."
+          },
+          {
+            "n": "Arête sommitale",
+            "cotation": "neige",
+            "longueur": null,
+            "cheminement": "L'arête se couche, rocheuse puis neigeuse jusqu'au sommet (très grande ambiance) ; possibilité de passer en contrebas côté S dans le rocher. Environ 50 m d'arête de neige aérienne obligatoire. Compter 3 à 4 h 30 depuis la cabane."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Réserver la cabane Mittellegi (36 places, souvent pleine) ; un bivouac de 12 places reste toujours ouvert. Petits-déjeuners décalés organisés par les guides, priorité aux cordées guidées.",
+      "Partir parmi les premiers pour éviter les bouchons aux cordes fixes et aux rappels.",
+      "Givre sur les dalles et dans les cordes fixes du versant N tôt le matin : prudence.",
+      "Glaciers de plus en plus ouverts en fin d'été (passerelle sur la grande crevasse côté Eismeer).",
+      "Arête S en descente : longue, sans droit à l'erreur de pied ; plusieurs rappels peuvent être remplacés par de la désescalade si on est à l'aise."
+    ],
+    "retex": [
+      "25-26/09/2026 : « grandissime arête » ; dalles givrées tôt le matin, très glissantes. Cabane 6 h, train 14 h.",
+      "13/09/2026 : rocher sec, pas de vent, crampons seulement au Südliches Eigerjoch ; passerelle sur l'énorme crevasse côté Eismeer ; pont de neige fin et perforé à la descente. Cabane 5 h 10, sommet 8 h 15, Mönchsjochhütte 11 h 50.",
+      "03-04/09/2026 : arête ultra sèche, progression aisée ; crevasses béantes depuis Eismeer mais belle passerelle. Eismeer-cabane 1 h 40 ; cabane-sommet 3 h ; Jungfraujoch 7 h après le départ.",
+      "08/08/2026 : l'accès à la cabane est sans doute plus dur (grimpe et itinéraire) que l'arête du lendemain. Refuge plein (39 personnes). Départ 5 h, sommet 8 h, Jungfraujoch 12 h 10.",
+      "21-22/07/2026 : arête complètement sèche ; « elle se mérite », il faut être en forme. Parking du Terminal 65 CHF pour 3 jours. Cabane-sommet 4 h 30, sommet-col 4 h 45.",
+      "05/07/2026 : « pas de grande difficulté mais implique une bonne forme et de l'expérience » ; la 1re longueur vers la cabane peut se compliquer si elle est mouillée. Une dizaine de rappels à la descente. Cabane 4 h 55, sommet 8 h 45, Jungfraujoch 13 h 55.",
+      "04/07/2026 : approche « sacrément bien équipée » (passerelle, spits) ; cordes fixes efficaces ; si le rocher devient mauvais, c'est qu'on est à côté de l'itinéraire.",
+      "26-27/06/2026 (intégrale depuis l'Ostegghütte) : arête difficile à protéger, 50 m d'arête de neige aérienne et molle avant le sommet ; descente longue sans droit à l'erreur.",
+      "18/09/2025 : seuls, conditions automnales en mixte après des chutes de neige ; « une sensation d'engagement assez intense ». 10 h de la cabane au refuge du Mönch.",
+      "27-28/06/2025 : escalade « jamais extrême », pas de crampons sauf pour le retour à la Mönchsjochhütte. Durée 9 h 20."
+    ],
+    "horaires": "J1 : Eismeer → cabane 1 h 30 à 2 h. J2 : cabane → sommet 3 à 4 h 30 ; sommet → Jungfraujoch 3 h 30 à 5 h. Journée de 7 à 10 h.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 54714 (Eiger : Arête Mittellegi) et points 110220 (Mittellegihütte) / 116338 (Jungfraujoch), consultés le 18/11/2026",
+      "Camptocamp, sorties 1956457 (25-26/09/2026), 1951036 (13/09/2026), 1948080 (03-04/09/2026), 1937348 (08/08/2026), 1931556 (21-22/07/2026), 1928119 (13-14/07/2026), 1924401 (05/07/2026), 1925233 (04/07/2026), 1921724 (26-27/06/2026), 1818576 (18/09/2025), 1812135 (15/08/2025), 1786425 (27-28/06/2025), 1833714 et 1684984 (27-28/08/2024), 1670036 (26-27/07/2024), consultées le 18/11/2026",
+      "Livres cités par C2C, non consultés : « Guide des Alpes Bernoises – Du Sanetsch au Grimsel », « Chemins du Ciel », « Berner Alpen », « Alpes suisses – Les plus belles courses »"
+    ]
+  },
+  {
     "id": "aiguillette-du-lauzet-voie-davin",
     "nom": "Petite Aiguillette du Lauzet – Voie Davin",
     "sous_titre": "Voie historique de 1942 en cheminées sur la tour « dolomitique » visible depuis la route du Lautaret – départ du Pont de l'Alpe",
