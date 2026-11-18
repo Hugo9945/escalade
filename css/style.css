@@ -1,26 +1,28 @@
 /* ===== Couleurs et base ===== */
 :root {
-  /* Thème « Montagne sobre » : blanc, gris ardoise, une seule couleur d'accent (bleu glacier). */
-  --fond: #eef3f6;
-  --carte: #ffffff;
-  --texte: #1f2a33;
-  --doux: #5b6873;
-  --trait: #dbe3e9;
-  --accent: #2f74a6;        /* bleu glacier */
-  --accent-fonce: #1f5880;
-  --accent-clair: #e6f0f7;
-  --balise: #e8762d;        /* orange balise, 2e couleur */
-  --balise-fonce: #b85516;
-  --nuit: #1f2a33;          /* en-tête */
-  --sous-entete: #eef3f6;   /* couleur juste sous l'en-tête (pour les crêtes) */
+  /* Thème « Refuge » : vert sapin, beige bois, crêtes discrètes dans l'en-tête. */
+  --fond: #f4efe6;
+  --carte: #fffaf2;
+  --texte: #2b2f2a;
+  --doux: #7a6a55;
+  --trait: #e3d6c2;
+  --accent: #2f4a3a;        /* vert sapin : boutons, liens */
+  --accent-fonce: #22382b;
+  --accent-clair: #e7eee6;
+  --bois: #c8a27a;          /* liserés, titres de section */
+  --bois-fonce: #7a5a3a;
+  --cuivre: #c0702e;        /* étoiles */
+  --ambre: #e3b56a;         /* logo */
+  --balise: var(--bois);    /* ancien nom */
+  --nuit: #2f4a3a;          /* en-tête (vert sapin) */
   --vert: var(--texte);     /* nom historique : couleur des titres */
-  /* Anciens noms du thème Memphis, gardés pour ne rien casser : tous ramenés à l'accent. */
+  /* Anciens noms des thèmes précédents, gardés pour ne rien casser. */
   --turquoise: var(--accent-clair);
   --jaune: var(--accent-clair);
   --rose: var(--accent);
   --violet: var(--accent);
-  --rayon: 10px;
-  --ombre: 0 1px 3px rgba(31, 42, 51, 0.08);
+  --rayon: 12px;
+  --ombre: 0 1px 3px rgba(60, 45, 25, 0.08);
   --titre: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 
@@ -285,53 +287,49 @@ table.inventaire { min-width: 0; }
 .onglets a:hover { background: #c9f3ee; }
 .onglets .nb { font-weight: 400; font-size: 0.85rem; }
 
-/* ===== THÈME « MONTAGNE SOBRE » ===== */
+/* ===== THÈME « REFUGE » ===== */
 h1, h2, h3 { font-family: var(--titre); letter-spacing: -0.01em; }
 a { color: var(--accent); }
 a:hover { color: var(--accent-fonce); }
 
 /* Fond de page : fines courbes de niveau, façon carte IGN. */
-body { background-color: var(--fond); background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='640' height='360' viewBox='0 0 640 360'%3E%3Cg fill='none' stroke='%23c9d8e2' stroke-width='1'%3E%3Cpath d='M0 30 C110 30 200 -2 320 28 C440 58 530 30 640 30'/%3E%3Cpath d='M0 70 C110 70 200 22 320 52 C440 82 530 70 640 70'/%3E%3Cpath d='M0 110 C110 110 200 78 320 108 C440 138 530 110 640 110'/%3E%3Cpath d='M0 150 C110 150 200 102 320 132 C440 162 530 150 640 150'/%3E%3Cpath d='M0 190 C110 190 200 158 320 188 C440 218 530 190 640 190'/%3E%3Cpath d='M0 230 C110 230 200 182 320 212 C440 242 530 230 640 230'/%3E%3Cpath d='M0 270 C110 270 200 238 320 268 C440 298 530 270 640 270'/%3E%3Cpath d='M0 310 C110 310 200 262 320 292 C440 322 530 310 640 310'/%3E%3Cpath d='M0 350 C110 350 200 318 320 348 C440 378 530 350 640 350'/%3E%3Cellipse cx='470' cy='118' rx='46' ry='12'/%3E%3Cellipse cx='470' cy='118' rx='22' ry='5'/%3E%3C/g%3E%3C/svg%3E"); background-size: 640px 360px; background-attachment: fixed; }
+body { background-color: var(--fond); background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='640' height='360' viewBox='0 0 640 360'%3E%3Cg fill='none' stroke='%23e4d8c4' stroke-width='1'%3E%3Cpath d='M0 30 C110 30 200 -2 320 28 C440 58 530 30 640 30'/%3E%3Cpath d='M0 70 C110 70 200 22 320 52 C440 82 530 70 640 70'/%3E%3Cpath d='M0 110 C110 110 200 78 320 108 C440 138 530 110 640 110'/%3E%3Cpath d='M0 150 C110 150 200 102 320 132 C440 162 530 150 640 150'/%3E%3Cpath d='M0 190 C110 190 200 158 320 188 C440 218 530 190 640 190'/%3E%3Cpath d='M0 230 C110 230 200 182 320 212 C440 242 530 230 640 230'/%3E%3Cpath d='M0 270 C110 270 200 238 320 268 C440 298 530 270 640 270'/%3E%3Cpath d='M0 310 C110 310 200 262 320 292 C440 322 530 310 640 310'/%3E%3Cpath d='M0 350 C110 350 200 318 320 348 C440 378 530 350 640 350'/%3E%3Cellipse cx='470' cy='118' rx='46' ry='12'/%3E%3Cellipse cx='470' cy='118' rx='22' ry='5'/%3E%3C/g%3E%3C/svg%3E"); background-size: 640px 360px; background-attachment: fixed; }
 
-/* En-tête gris nuit avec une ligne de crêtes en bas (crête bleue + crête de la couleur de la page). */
+/* En-tête vert sapin, crêtes vert foncé en bas, liseré bois. */
 .entete {
   position: relative;
   background: var(--nuit);
   color: #fff;
-  border-bottom: 0;
-  padding: 12px 20px 34px;
+  border-bottom: 4px solid var(--bois);
+  padding: 12px 20px 30px;
   min-height: 0;
 }
-.entete::before, .entete::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 30px; pointer-events: none; }
-.entete::before { background: repeat-x bottom left / 1000px 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 24 L45 12 L72 22 L118 3 L156 20 L196 10 L240 28 L285 7 L320 20 L360 12 L405 25 L450 9 L490 22 L530 13 L570 26 L600 24 L600 40Z' fill='%232f74a6' fill-opacity='0.55'/%3E%3C/svg%3E"); }
-.entete::after {
-  background: var(--sous-entete);
-  -webkit-mask: repeat-x bottom left / 1000px 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 30 L60 21 L105 29 L165 17 L225 33 L278 21 L345 31 L398 23 L450 30 L505 19 L560 28 L600 30 L600 40Z' fill='%23000'/%3E%3C/svg%3E");
-  mask: repeat-x bottom left / 1000px 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 30 L60 21 L105 29 L165 17 L225 33 L278 21 L345 31 L398 23 L450 30 L505 19 L560 28 L600 30 L600 40Z' fill='%23000'/%3E%3C/svg%3E");
-}
+.entete::before { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 30px; pointer-events: none; }
+.entete::before { background: repeat-x bottom left / 1000px 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 24 L45 12 L72 22 L118 3 L156 20 L196 10 L240 28 L285 7 L320 20 L360 12 L405 25 L450 9 L490 22 L530 13 L570 26 L600 24 L600 40Z' fill='%231c2f24' fill-opacity='0.55'/%3E%3C/svg%3E"); }
 /* Pages carte et météo : la barre de filtres prolonge l'en-tête (plus de bande blanche). */
 .page-carte .entete { padding-bottom: 12px; }
-.page-carte .entete::before, .page-carte .entete::after { display: none; }
-.page-carte .filtres { background: var(--nuit); border-top: 1px solid rgba(255, 255, 255, 0.1); border-bottom: 0; color: #e6edf2; }
-/* Crêtes bleues en transparence au bas du bandeau des filtres (Carte et Météo). */
+.page-carte .entete::before { display: none; }
+.page-carte .entete { border-bottom: 0; }
+.page-carte .filtres { background: var(--nuit); border-top: 1px solid rgba(255, 255, 255, 0.1); border-bottom: 4px solid var(--bois); color: #f4efe6; }
+/* Crêtes vert foncé en transparence au bas du bandeau des filtres (Carte et Météo). */
 .page-carte .filtres { position: relative; }
 .page-carte .filtres::after {
   content: "";
   position: absolute;
   left: 0; right: 0; bottom: 0;
   height: 36px;
-  background: repeat-x bottom left / 1000px 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 24 L45 12 L72 22 L118 3 L156 20 L196 10 L240 28 L285 7 L320 20 L360 12 L405 25 L450 9 L490 22 L530 13 L570 26 L600 24 L600 40Z' fill='%232f74a6'/%3E%3C/svg%3E");
-  opacity: 0.35;
+  background: repeat-x bottom left / 1000px 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 24 L45 12 L72 22 L118 3 L156 20 L196 10 L240 28 L285 7 L320 20 L360 12 L405 25 L450 9 L490 22 L530 13 L570 26 L600 24 L600 40Z' fill='%231c2f24'/%3E%3C/svg%3E");
+  opacity: 0.55;
   pointer-events: none;
 }
 .page-carte .filtres > * { position: relative; z-index: 1; }
-.page-carte .filtres legend, .page-carte .filtres label.projet { color: #c9d6df; }
+.page-carte .filtres legend, .page-carte .filtres label.projet { color: #cfe0d4; }
 .page-carte .filtres > summary { color: #fff; }
 .page-carte .filtre-statut { background: rgba(255, 255, 255, 0.07); border-color: rgba(255, 255, 255, 0.2); color: #fff; }
-.page-carte .filtre-statut .nb { color: #a9b8c3; }
-.page-carte .filtres select { background: #1f2a33; color: #fff; border-color: rgba(255, 255, 255, 0.25); }
-.page-carte .meteo-couche.actif { background: var(--balise); border-color: var(--balise); color: #fff; }
-.page-carte .meteo-lien { color: #9cc7e6; }
+.page-carte .filtre-statut .nb { color: #b7cbbd; }
+.page-carte .filtres select { background: #243a2d; color: #fff; border-color: rgba(255, 255, 255, 0.25); }
+.page-carte .meteo-couche.actif { background: var(--fond); border-color: var(--fond); color: var(--accent); }
+.page-carte .meteo-lien { color: var(--ambre); }
 .entete .logo, .entete nav { position: relative; z-index: 1; }
 .entete .logo {
   display: inline-flex;
@@ -347,35 +345,35 @@ body { background-color: var(--fond); background-image: url("data:image/svg+xml,
   width: 30px;
   height: 22px;
   flex: none;
-  background: no-repeat center / contain url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 22'%3E%3Cpath d='M1 21 L11 5 L16 12 L20 7 L29 21 Z' fill='%23e8762d'/%3E%3Cpath d='M11 5 L14 9.8 L12 9 L10 10.5 L8.6 8.8 Z M20 7 L22.4 10.8 L20.6 10.2 L19 11.2 L18 9.8 Z' fill='%23fff'/%3E%3C/svg%3E");
+  background: no-repeat center / contain url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 22'%3E%3Cpath d='M1 21 L11 5 L16 12 L20 7 L29 21 Z' fill='%23e3b56a'/%3E%3Cpath d='M11 5 L14 9.8 L12 9 L10 10.5 L8.6 8.8 Z M20 7 L22.4 10.8 L20.6 10.2 L19 11.2 L18 9.8 Z' fill='%23fff'/%3E%3C/svg%3E");
 }
 .entete nav { gap: 2px; }
-.entete nav a { color: #c9d6df; font-weight: 600; font-size: 0.95rem; padding: 6px 12px; border-radius: 8px; }
+.entete nav a { color: #cfe0d4; font-weight: 600; font-size: 0.95rem; padding: 6px 13px; border-radius: 999px; }
 .entete nav a:hover { background: rgba(255, 255, 255, 0.1); color: #fff; }
-.entete nav a.actif { background: var(--balise); color: #fff; }
+.entete nav a.actif { background: var(--fond); color: var(--accent); }
 
 /* Titres */
 h1 { color: var(--texte); }
 .fiche-titre h1 { font-size: 1.7rem; font-weight: 800; line-height: 1.2; }
 .section h2, .projet h2 { color: var(--texte); font-size: 1.05rem; font-weight: 700; }
-.section h2 { border-left: 3px solid var(--balise); border-radius: 0; padding: 0 0 0 10px; }
+.section h2 { border-left: 3px solid var(--bois); border-radius: 0; padding: 0 0 0 10px; }
 
 /* Boutons */
-.bouton { border: 1px solid var(--trait); border-radius: 8px; background: var(--carte); color: var(--texte); box-shadow: var(--ombre); }
+.bouton { border: 1px solid var(--trait); border-radius: 999px; background: var(--carte); color: var(--texte); box-shadow: var(--ombre); }
 .bouton:hover { border-color: var(--accent); color: var(--accent-fonce); }
 .bouton.principal { background: var(--accent); border-color: var(--accent); color: #fff; }
 .bouton.principal:hover { background: var(--accent-fonce); color: #fff; }
 
 /* Cartes et blocs */
 .section, .dossier, .liste-voies li a { border: 1px solid var(--trait); border-radius: var(--rayon); box-shadow: var(--ombre); }
-.dossier:hover, .liste-voies li a:hover { border-color: var(--accent); box-shadow: 0 3px 10px rgba(31, 42, 51, 0.1); }
+.dossier:hover, .liste-voies li a:hover { border-color: var(--accent); box-shadow: 0 3px 10px rgba(60, 45, 25, 0.1); }
 .dossier .titre, .liste-voies .nom { color: var(--texte); }
 .infos { border-radius: var(--rayon); box-shadow: var(--ombre); background: var(--carte); gap: 0; }
 .infos div { box-shadow: inset -1px -1px 0 var(--trait); }
 .infos dt { text-transform: uppercase; letter-spacing: 0.04em; font-size: 0.7rem; }
 .badge { background: var(--carte); }
 table.longueurs th { background: var(--fond); color: var(--doux); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; border-bottom: 2px solid var(--trait); }
-table.longueurs tr:nth-child(even) td { background: #fafcfd; }
+table.longueurs tr:nth-child(even) td { background: #fbf6ee; }
 .images img { border: 1px solid var(--trait); border-radius: 8px; }
 .suggestion { background: var(--accent-clair); border: 1px dashed var(--accent); border-radius: 8px; }
 
@@ -384,11 +382,11 @@ table.longueurs tr:nth-child(even) td { background: #fafcfd; }
 .filtres > summary { color: var(--texte); }
 .filtre-statut { background: var(--carte); border: 1px solid var(--trait); }
 .filtres select { background: var(--carte); border: 1px solid var(--trait); border-radius: 8px; }
-.legende { background: var(--carte); border: 1px solid var(--trait); border-radius: var(--rayon); box-shadow: 0 2px 8px rgba(31, 42, 51, 0.15); }
-.leaflet-popup-content-wrapper { border-radius: var(--rayon); box-shadow: 0 3px 14px rgba(31, 42, 51, 0.2); }
+.legende { background: var(--carte); border: 1px solid var(--trait); border-radius: var(--rayon); box-shadow: 0 2px 8px rgba(60, 45, 25, 0.15); }
+.leaflet-popup-content-wrapper { border-radius: var(--rayon); box-shadow: 0 3px 14px rgba(60, 45, 25, 0.2); }
 .popup h3 { color: var(--texte); font-size: 0.95rem; line-height: 1.25; }
-.etoiles { color: var(--balise); }
-.etoiles .vides { color: #d5dde3; }
+.etoiles { color: var(--cuivre); }
+.etoiles .vides { color: #e3d6c2; }
 
 /* Page matériel */
 .puce-cat { border: 1px solid var(--trait); border-radius: 999px; }
@@ -397,7 +395,7 @@ table.longueurs tr:nth-child(even) td { background: #fafcfd; }
 .section.achats { background: var(--carte); }
 .onglets { border-bottom: 1px solid var(--trait); gap: 4px; }
 .onglets a { border: 0; border-bottom: 3px solid transparent; margin: 0 0 -1px; background: none; color: var(--doux); }
-.onglets a.actif { background: none; color: var(--texte); border-bottom-color: var(--balise); }
+.onglets a.actif { background: none; color: var(--accent); border-bottom-color: var(--bois); }
 .onglets a:hover { background: none; color: var(--texte); }
 
 /* Onglet Météo : barre de choix + carte Windy en plein écran. */
@@ -415,8 +413,8 @@ table.longueurs tr:nth-child(even) td { background: #fafcfd; }
 }
 
 @media (max-width: 600px) {
-  .entete { padding: 8px 12px 26px; }
-  .entete::before, .entete::after { height: 22px; background-size: 440px 100%; -webkit-mask-size: 440px 100%; mask-size: 440px 100%; }
+  .entete { padding: 8px 12px 22px; }
+  .entete::before { height: 22px; background-size: 440px 100%; }
   .page-carte .entete { padding-bottom: 8px; }
   .page-carte .filtres::after { height: 26px; background-size: 520px 100%; }
   .entete .logo { font-size: 1.1rem; }

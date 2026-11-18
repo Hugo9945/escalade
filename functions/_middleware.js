@@ -37,14 +37,14 @@ function pageConnexion(erreur) {
 <meta name="robots" content="noindex, nofollow"><title>Sac à topos</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap">
 <style>
-  body { margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center; background: #1f2a33; font-family: Inter, system-ui, sans-serif; color: #fff; padding: 16px; box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center; background: #2f4a3a; font-family: Inter, system-ui, sans-serif; color: #f4efe6; padding: 16px; box-sizing: border-box; }
   form { display: flex; flex-direction: column; align-items: center; gap: 16px; text-align: center; }
   h1 { margin: 0; font-weight: 800; font-size: 2rem; letter-spacing: -0.02em; }
-  p { margin: 0; color: #c9d6df; }
+  p { margin: 0; color: #cfe0d4; }
   input { font-size: 1.4rem; padding: 10px 12px; width: 14ch; text-align: center; border: 1px solid #dbe3e9; border-radius: 10px; }
-  input:focus { outline: 3px solid #e8762d; border-color: #e8762d; }
-  button { font: 600 1rem Inter, sans-serif; padding: 10px 18px; background: #e8762d; color: #fff; border: 0; border-radius: 8px; cursor: pointer; }
-  .erreur { color: #ffb38a; font-weight: 600; }
+  input:focus { outline: 3px solid #c8a27a; border-color: #c8a27a; }
+  button { font: 600 1rem Inter, sans-serif; padding: 10px 18px; background: #c8a27a; color: #2b2f2a; border: 0; border-radius: 999px; cursor: pointer; }
+  .erreur { color: #f3c98a; font-weight: 600; }
 </style></head><body>
 <form method="post" action="/__connexion">
   <h1>Sac à topos</h1>
