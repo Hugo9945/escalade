@@ -168,7 +168,7 @@
         "nom": "Chaussures d'alpinisme",
         "quantite": "2",
         "marque": "",
-        "details": "Semi-rigides (catégorie B2/C2), compatibles crampons semi-automatiques",
+        "details": "Semi-rigides (catégorie B2/C2), compatibles crampons semi-automatiques. Exemples : Scarpa Ribelle Lite HD, La Sportiva Trango Alpine GTX (vérifier la compatibilité crampons sur la fiche)",
         "annee": "",
         "etat": "",
         "priorite": "Basse",
@@ -178,11 +178,31 @@
         "nom": "Crampons",
         "quantite": "2",
         "marque": "",
-        "details": "Semi-automatiques, acier, 12 pointes",
+        "details": "Semi-automatiques, acier, 12 pointes. Exemples : Petzl VASAK LEVERLOCK, Grivel G12 New-Matic",
         "annee": "",
         "etat": "",
         "priorite": "Basse",
         "notes": "À choisir avec les chaussures (compatibilité de l'étrier arrière)"
+      },
+      {
+        "nom": "Broches à glace",
+        "quantite": "2 à 4",
+        "marque": "",
+        "details": "Exemples : Petzl LASER SPEED LIGHT, Black Diamond Express",
+        "annee": "",
+        "etat": "",
+        "priorite": "Basse",
+        "notes": "1 ou 2 chacun, pour un ancrage en glace vive (sauvetage en crevasse)"
+      },
+      {
+        "nom": "Poulie-bloqueur",
+        "quantite": "1",
+        "marque": "",
+        "details": "Exemple : Petzl MICRO TRAXION",
+        "annee": "",
+        "etat": "",
+        "priorite": "Basse",
+        "notes": "En plus de la Nano Traxion, pour que chacun ait la sienne (mouflage)"
       }
     ]
   },
