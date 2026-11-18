@@ -1,5 +1,87 @@
 [
   {
+    "id": "hauteroche",
+    "type": "couenne",
+    "nom": "Hauteroche",
+    "sous_titre": "Falaise calcaire d'un kilomètre au-dessus de la vallée de l'Ozerain, près d'Alésia : près de 290 voies du 3a au 8a, « le paradis de l'initiation », entretenue par les bénévoles de la FSGT.",
+    "massif": "Côte-d'Or (Bourgogne)",
+    "secteur": "Hauteroche (vallée de l'Ozerain, près de Venarey-les-Laumes)",
+    "coordonnees": {
+      "lat": 47.47861,
+      "lon": 4.60512,
+      "repere": "Point du site sur Camptocamp (approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Hauteroche",
+        "url": "https://www.camptocamp.org/waypoints/102170"
+      }
+    ],
+    "nb_voies": "289 voies (topo 2026) ; 285 selon C2C",
+    "cotations": "3a à 8a (surtout du 5 et du 6 : 23 voies en 3, 47 en 4, 91 en 5, 107 en 6, 20 en 7, 1 en 8)",
+    "saison": "Du début du printemps à fin septembre ; certaines journées d'hiver agréables ; automne plutôt pluvieux (topo)",
+    "hauteur": "5 à 30 m",
+    "orientation": "SO",
+    "ambiance": "Calcaire à strates : peu de trous, beaucoup de prises plates sur les joints de strates, des réglettes, des fissures et quelques micro-trous et colonnettes ; dalles et légers dévers. Encore peu patiné. Parties supérieures parfois friables, souvent au-dessus des relais. Falaise longue d'un kilomètre, plutôt abritée du vent, au caractère sauvage. Équipée depuis 1977 dans un esprit « tout débutant doit pouvoir grimper en tête en sécurité » ; l'équipement d'époque peut aujourd'hui paraître un peu engagé. Relais « Moulinox » (tête de bélier) en haut des voies.",
+    "equipement": "equipee",
+    "cote_equipement": "P1",
+    "approche": "En voiture : rejoindre Hauteroche, traverser le village et prendre la route qui monte à gauche vers Thenissey (panneau « falaise ») jusqu'au petit col ; se garer de préférence au parking du col (près de l'aire de bivouac aménagée). Du parking, un sentier mène aux falaises (Piquette 5-10 min, Bourgogne 15 min, Grandes Falaises 20 min selon C2C). En train + vélo : gare des Laumes-Alésia (trains depuis Paris-Bercy ou Dijon), puis Alise et Hauteroche ; 13,5 km depuis Venarey, montée raide jusqu'au col.",
+    "materiel": "Corde de 70 m et 13 dégaines (topo). Casque fortement conseillé (haut des voies friable). Une vingtaine de voies se prêtent au terrain d'aventure sur tout ou partie (coinceurs).",
+    "secteurs": [
+      {
+        "nom": "Piquette",
+        "nb_voies": "5",
+        "cotations": "6a+ à 7a",
+        "description": "Petit secteur peu fréquenté, à 5-10 min du parking ; voies courtes (13-17 m) avec des pas de bloc. Équipement amélioré en 2023."
+      },
+      {
+        "nom": "Bourgogne",
+        "nb_voies": "env. 79",
+        "cotations": "3a à 6c (plus de la moitié jusqu'au 5b)",
+        "description": "« Le paradis de l'initiation » : 300 m de falaise de 5 à 21 m, bon à excellent rocher, nombreuses voies faciles et moyennes. Relais école au sol et rappel d'initiation pour réviser les manips."
+      },
+      {
+        "nom": "Grandes Falaises",
+        "nb_voies": "env. 200",
+        "cotations": "3a à 8a",
+        "description": "700 m de falaise jusqu'à 30 m, tous les niveaux ; rocher parfois moyen mais le plus souvent très bon. Relais intermédiaires sur certaines voies pour s'entraîner à la grande voie. Zone à gauche de « Cocaïne Sweat » interdite (gros bloc instable)."
+      }
+    ],
+    "strategie": [
+      "Nidification du faucon pèlerin : 5 voies interdites chaque année du 15 février au 15 juin (La Discrète, La Julie, B.B, La Mangetout, l'Arico) ; d'autres voies peuvent l'être certaines années : respecter la signalisation (topo 2026).",
+      "Grandes Falaises : la zone à gauche de « Cocaïne Sweat » est interdite à cause d'un gros bloc instable (topo 2026).",
+      "Relais Moulinox : préférer la grimpe en tête ; ne jamais monter au-dessus du Moulinox quand la corde y passe (mettre une dégaine sur un point du relais). La FFME classe le site en « terrain d'aventure » à cause de ces relais.",
+      "Très bon site pour progresser : relais école (Bourgogne, Grandes Falaises), rappels d'initiation et relais intermédiaires pour s'entraîner à la grande voie.",
+      "Week-end de Pentecôte : fête de la falaise, site et aire de bivouac très fréquentés.",
+      "Aire de bivouac aménagée près du parking ; vipères possibles ; chauves-souris dans certaines fissures (ne pas les déloger).",
+      "Exposé à la pluie, mais sèche vite au soleil ou avec un peu de vent ; pied des voies sûr pour les enfants (C2C).",
+      "Topo gratuit en ligne (licence CC BY-NC-ND), mis à jour : hauteroche.cordee13.fr ; dons possibles pour l'entretien."
+    ],
+    "retex": [
+      "12/07/2015 : un retour signale surtout des prises dans les joints horizontaux du calcaire stratifié ; dans le 5c/6a, prises de main en général bonnes et franches.",
+      "12/10/2014 : un retour signale un rocher en très bon état, peu patiné, parfois délité (calcaire à strates)."
+    ],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "« Topo de Hauteroche », édition 2026 (version du 15/11/2026), FSGT / Cordée 13, PDF de 64 pages, https://wp-api.cordee13.fr/wp-content/uploads/2026/09/Topo-Hauteroche.pdf, licence CC BY-NC-ND, consulté le 18/11/2026 (envoyé par le propriétaire)",
+      "Camptocamp, site 102170 (Hauteroche), consulté le 18/11/2026",
+      "Camptocamp, sorties 651940 (12/07/2015), 568843 (12/10/2014), consultées le 18/11/2026"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
     "type": "couenne",
     "id": "la-chaussee-saint-victor-falaise-du-coteau",
     "nom": "La Chaussée-Saint-Victor – Falaise du coteau",
