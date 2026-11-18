@@ -687,58 +687,6 @@
     "longueurs": []
   },
   {
-    "id": "brosville",
-    "type": "couenne",
-    "nom": "Brosville",
-    "sous_titre": "Site de couenne d'environ 300 voies (fiche Camptocamp presque vide).",
-    "massif": "Eure (Normandie) — d'après la position, à vérifier",
-    "secteur": "Brosville",
-    "coordonnees": {
-      "lat": 49.11805,
-      "lon": 1.11802,
-      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
-    },
-    "parkings": [],
-    "camptocamp": [
-      {
-        "titre": "Brosville",
-        "url": "https://www.camptocamp.org/waypoints/102369"
-      }
-    ],
-    "nb_voies": "env. 300 voies",
-    "cotations": "",
-    "saison": "",
-    "hauteur": "",
-    "orientation": "",
-    "ambiance": "Rocher indiqué « trachyte » sur C2C (à vérifier, information douteuse pour la région).",
-    "equipement": null,
-    "cote_equipement": "",
-    "approche": "",
-    "materiel": "",
-    "secteurs": [],
-    "strategie": [
-      "Existence du site à vérifier : Oblyk n'indique aucun site naturel d'escalade à moins de 10 km de Brosville (le plus proche est Connelles, à 23 km), et aucune autre source trouvée ne mentionne de falaise équipée à Brosville. La fiche C2C (300 voies, « trachyte ») semble douteuse."
-    ],
-    "retex": [],
-    "images": [],
-    "notes": "",
-    "sources": [
-      "Camptocamp, site 102369 (Brosville), consulté le 18/11/2026 (fiche sans description ni sortie)",
-      "Oblyk, « Escalade autour de Brosville » – https://oblyk.org/escalade-autour-de/brosville – consulté le 18/11/2026 (aucun site naturel à moins de 10 km)"
-    ],
-    "projet": "Couenne autour d'Orléans",
-    "objectif": "",
-    "cotation_globale": "",
-    "cotation_libre_max": "",
-    "cotation_obligatoire": "",
-    "engagement": "",
-    "nb_longueurs": "",
-    "duree": "",
-    "descente": "",
-    "horaires": "",
-    "longueurs": []
-  },
-  {
     "id": "saint-vaast-les-mello",
     "type": "couenne",
     "nom": "Saint-Vaast-lès-Mello (Les Glachoirs)",
