@@ -25,6 +25,26 @@
         "notes": ""
       },
       {
+        "nom": "Maillons rapides",
+        "quantite": "1 lot",
+        "marque": "",
+        "details": "",
+        "annee": "",
+        "etat": "",
+        "priorite": "Haute",
+        "notes": "Pour laisser en place aux relais de rappel"
+      },
+      {
+        "nom": "Cordelette",
+        "quantite": "",
+        "marque": "",
+        "details": "6 mm",
+        "annee": "",
+        "etat": "",
+        "priorite": "Haute",
+        "notes": "Longueur à définir"
+      },
+      {
         "nom": "Chaussons",
         "quantite": "1",
         "marque": "La Sportiva",
