@@ -303,15 +303,16 @@ body { background-color: var(--fond); background-image: url("data:image/svg+xml,
   min-height: 0;
 }
 .entete::before, .entete::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 30px; pointer-events: none; }
-.entete::before { background: no-repeat bottom / 100% 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 28 L45 12 L72 22 L118 3 L156 20 L196 10 L240 28 L285 7 L320 20 L360 12 L405 25 L450 9 L490 22 L530 13 L570 24 L600 15 L600 40Z' fill='%232f74a6' fill-opacity='0.55'/%3E%3C/svg%3E"); }
+.entete::before { background: repeat-x bottom left / 1000px 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 24 L45 12 L72 22 L118 3 L156 20 L196 10 L240 28 L285 7 L320 20 L360 12 L405 25 L450 9 L490 22 L530 13 L570 26 L600 24 L600 40Z' fill='%232f74a6' fill-opacity='0.55'/%3E%3C/svg%3E"); }
 .entete::after {
   background: var(--sous-entete);
-  -webkit-mask: no-repeat bottom / 100% 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 31 L60 21 L105 29 L165 17 L225 33 L278 21 L345 31 L398 23 L450 30 L505 19 L560 28 L600 22 L600 40Z' fill='%23000'/%3E%3C/svg%3E");
-  mask: no-repeat bottom / 100% 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 31 L60 21 L105 29 L165 17 L225 33 L278 21 L345 31 L398 23 L450 30 L505 19 L560 28 L600 22 L600 40Z' fill='%23000'/%3E%3C/svg%3E");
+  -webkit-mask: repeat-x bottom left / 1000px 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 30 L60 21 L105 29 L165 17 L225 33 L278 21 L345 31 L398 23 L450 30 L505 19 L560 28 L600 30 L600 40Z' fill='%23000'/%3E%3C/svg%3E");
+  mask: repeat-x bottom left / 1000px 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 30 L60 21 L105 29 L165 17 L225 33 L278 21 L345 31 L398 23 L450 30 L505 19 L560 28 L600 30 L600 40Z' fill='%23000'/%3E%3C/svg%3E");
 }
 /* Pages carte et météo : la barre de filtres prolonge l'en-tête (plus de bande blanche). */
-.page-carte { --sous-entete: #2a3843; }
-.page-carte .filtres { background: #2a3843; border-bottom: 0; color: #e6edf2; padding-top: 4px; }
+.page-carte .entete { padding-bottom: 12px; }
+.page-carte .entete::before, .page-carte .entete::after { display: none; }
+.page-carte .filtres { background: var(--nuit); border-top: 1px solid rgba(255, 255, 255, 0.1); border-bottom: 0; color: #e6edf2; }
 .page-carte .filtres legend, .page-carte .filtres label.projet { color: #c9d6df; }
 .page-carte .filtres > summary { color: #fff; }
 .page-carte .filtre-statut { background: rgba(255, 255, 255, 0.07); border-color: rgba(255, 255, 255, 0.2); color: #fff; }
@@ -403,7 +404,8 @@ table.longueurs tr:nth-child(even) td { background: #fafcfd; }
 
 @media (max-width: 600px) {
   .entete { padding: 8px 12px 26px; }
-  .entete::before, .entete::after { height: 22px; }
+  .entete::before, .entete::after { height: 22px; background-size: 440px 100%; -webkit-mask-size: 440px 100%; mask-size: 440px 100%; }
+  .page-carte .entete { padding-bottom: 8px; }
   .entete .logo { font-size: 1.1rem; }
   .entete .logo::before { width: 24px; height: 18px; }
   .entete nav a { padding: 4px 8px; font-size: 0.85rem; }
