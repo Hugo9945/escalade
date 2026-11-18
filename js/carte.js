@@ -71,6 +71,12 @@ function valeurCotation(texte) {
   return (Number(m[1]) - 3) * 3 + (m[2] ? "abc".indexOf(m[2]) : 0) + (m[3] ? 0.5 : 0);
 }
 
+// Plus petite cotation citée dans un texte (« 3c à 8a », « du 4 au 6b »…), pour les sites de couenne.
+function cotationLaPlusFacile(texte) {
+  const valeurs = [...String(texte || "").matchAll(/\b([3-9])([abc])?(\+)?/g)].map((m) => valeurCotation(m[0]));
+  return valeurs.length ? Math.min(...valeurs) : null;
+}
+
 // Orientations de la voie, ramenées à N / E / S / O (une voie NE compte pour le Nord et pour l'Est).
 function orientationsDe(voie) {
   const texte = String(voie.orientation || "").replace(/Ouest/gi, "W").replace(/\bEst\b/gi, "E").replace(/Nord/gi, "N").replace(/\bSud\b/gi, "S");
@@ -170,7 +176,7 @@ function correspondAuxFiltres(voie) {
   if (projetChoisi && projetChoisi !== SANS_PROJET && voie.projet !== projetChoisi) return false;
   if (zoneChoisie && zoneDe(voie) !== zoneChoisie) return false;
   if (cotationMax !== null) {
-    const v = valeurCotation(couenne ? voie.cotations : voie.cotation_libre_max); // couenne : la plus facile du site
+    const v = couenne ? cotationLaPlusFacile(voie.cotations) : valeurCotation(voie.cotation_libre_max); // couenne : la plus facile du site
     if (v === null || v > cotationMax) return false;
   }
   if (orientationChoisie && !orientationsDe(voie).has(orientationChoisie)) return false;

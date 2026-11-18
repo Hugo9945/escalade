@@ -1,5 +1,1731 @@
 [
   {
+    "type": "couenne",
+    "id": "la-chaussee-saint-victor-falaise-du-coteau",
+    "nom": "La Chaussée-Saint-Victor – Falaise du coteau",
+    "sous_titre": "Petite falaise calcaire sur le coteau de La Chaussée-Saint-Victor, à côté de Blois ; fiche Camptocamp très succincte.",
+    "massif": "Loir-et-Cher (Centre-Val de Loire)",
+    "secteur": "La Chaussée-Saint-Victor (Blois)",
+    "coordonnees": {
+      "lat": 47.603,
+      "lon": 1.35563,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif), altitude 100 m"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "La Chaussée st Victor (Blois) - Falaise du coteau",
+        "url": "https://www.camptocamp.org/waypoints/1383377"
+      }
+    ],
+    "nb_voies": "",
+    "cotations": "",
+    "saison": "",
+    "hauteur": "",
+    "orientation": "SE",
+    "ambiance": "Calcaire, escalade verticale, en couenne. Exposé à la pluie selon C2C (pas d'abri).",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "Marche d'environ 5 min selon C2C. Accès routier et parking non décrits sur C2C : à vérifier.",
+    "materiel": "",
+    "secteurs": [],
+    "strategie": [
+      "Pied des voies jugé sûr pour les enfants selon C2C.",
+      "Exposé à la pluie selon C2C.",
+      "Le Club alpin du Blaisois (FFCAM) publie un topo visuel en PDF (lien sur la fiche C2C) : à consulter pour le nombre de voies et les cotations, absents de C2C."
+    ],
+    "retex": [],
+    "sources": [
+      "Camptocamp, site 1383377 (La Chaussée st Victor (Blois) - Falaise du coteau, fiche à l'état d'ébauche), consulté le 18/11/2026",
+      "Camptocamp : aucune sortie associée au 18/11/2026",
+      "Topo visuel du coteau, Club alpin du Blaisois (lien PDF cité par C2C, non consulté)"
+    ],
+    "images": [],
+    "notes": "",
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "type": "couenne",
+    "id": "falaise-de-bois-ramier",
+    "nom": "Falaise de Bois-Ramier",
+    "sous_titre": "Ancienne carrière de calcaire de l'Indre aménagée en site de couenne d'une quarantaine de voies.",
+    "massif": "Indre (Centre-Val de Loire)",
+    "secteur": "",
+    "coordonnees": {
+      "lat": 46.79412,
+      "lon": 1.9426,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif), altitude 150 m"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Falaise de Bois-Ramier",
+        "url": "https://www.camptocamp.org/waypoints/893733"
+      }
+    ],
+    "nb_voies": "env. 40 voies",
+    "cotations": "4a à 7a",
+    "saison": "",
+    "hauteur": "de 8 à 15 m",
+    "orientation": "S, SO, SE",
+    "ambiance": "Ancienne carrière de calcaire ; dalles, fissures et dièdres, murs verticaux. Voies courtes.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "Du fond du parking, un sentier descend dans la carrière (environ 5 min). Accès routier et position du parking non décrits sur C2C : à vérifier.",
+    "materiel": "",
+    "secteurs": [],
+    "strategie": [
+      "Topo de référence cité par C2C : livre « Escalade dans l'Indre »."
+    ],
+    "retex": [],
+    "sources": [
+      "Camptocamp, site 893733 (Falaise de Bois-Ramier, fiche à l'état d'ébauche), consulté le 18/11/2026",
+      "Camptocamp : aucune sortie associée au 18/11/2026",
+      "Livre « Escalade dans l'Indre » (cité par C2C, non consulté)"
+    ],
+    "images": [],
+    "notes": "",
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "type": "couenne",
+    "id": "site-de-la-fileuse",
+    "nom": "Site de La Fileuse",
+    "sous_titre": "Chaos de blocs de schiste et gneiss (8 à 35 m) face aux ruines du château de Crozant, couenne et bloc.",
+    "massif": "Indre (selon Camptocamp)",
+    "secteur": "Crozant (face aux ruines du château)",
+    "coordonnees": {
+      "lat": 46.39577,
+      "lon": 1.62359,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif), altitude 225 m"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Site de La Fileuse",
+        "url": "https://www.camptocamp.org/waypoints/893787"
+      }
+    ],
+    "nb_voies": "env. 35 voies",
+    "cotations": "3a à 6b",
+    "saison": "",
+    "hauteur": "de 8 à 35 m",
+    "orientation": "S, SE, SO",
+    "ambiance": "Chaos rocheux de blocs en schiste et gneiss ; murs verticaux, fissures et dièdres. Couenne et bloc.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "Marche d'environ 15 min selon C2C. Accès routier et parking non décrits sur C2C : à vérifier.",
+    "materiel": "",
+    "secteurs": [],
+    "strategie": [
+      "Topo de référence cité par C2C : livre « Escalade dans l'Indre »."
+    ],
+    "retex": [],
+    "sources": [
+      "Camptocamp, site 893787 (Site de La Fileuse, fiche à l'état d'ébauche), consulté le 18/11/2026",
+      "Camptocamp : aucune sortie associée au 18/11/2026",
+      "Livre « Escalade dans l'Indre » (cité par C2C, non consulté)"
+    ],
+    "images": [],
+    "notes": "",
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "type": "couenne",
+    "id": "surgy",
+    "nom": "Surgy",
+    "sous_titre": "Falaise historique de calcaire à trous au bord de l'Yonne, près de Clamecy, voisine plus calme du Saussois.",
+    "massif": "Nièvre (Bourgogne)",
+    "secteur": "Surgy (vallée de l'Yonne, près de Clamecy)",
+    "coordonnees": {
+      "lat": 47.49427,
+      "lon": 3.50691,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif), altitude 198 m"
+    },
+    "parkings": [
+      {
+        "nom": "Surgy",
+        "lat": 47.493,
+        "lon": 3.507,
+        "altitude": 200
+      }
+    ],
+    "camptocamp": [
+      {
+        "titre": "Surgy",
+        "url": "https://www.camptocamp.org/waypoints/102807"
+      }
+    ],
+    "nb_voies": "env. 350 voies",
+    "cotations": "4b à 8c",
+    "saison": "d'avril à décembre",
+    "hauteur": "de 10 à 40 m (hauteur médiane 25 m) ; jusqu'à 50 m sur la Grande Falaise selon la description",
+    "orientation": "E, SE, S",
+    "ambiance": "Calcaire à trous, dalles, murs verticaux et dévers, au bord de l'Yonne. Voies d'une ou deux longueurs sur la Grande Falaise. Selon C2C, l'équipement est apprécié et les voies sont variées ; les voies les plus faciles sont souvent patinées.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "A6 sortie Auxerre Nord, direction Auxerre puis Clamecy/Nevers. Quelques kilomètres avant Clamecy, tourner à droite vers Surgy, puis dans Surgy suivre la rivière direction Clamecy jusqu'aux falaises, en bord de route à droite. Se garer sur le parking (ancienne route, dans le virage) et pas le long de la route. Falaises en bord de route. En train : gare de Clamecy à 3 km.",
+    "materiel": "",
+    "secteurs": [
+      {
+        "nom": "Grande Falaise",
+        "nb_voies": "",
+        "cotations": "surtout 6 et 7, quelques belles voies en 5",
+        "description": "Au-dessus de la route, orientée E. Le secteur le plus vaste et le plus haut (20 à 50 m), voies d'une ou deux longueurs. Descente en rappel ou par un court sentier pour certaines voies."
+      },
+      {
+        "nom": "Silence",
+        "nb_voies": "",
+        "cotations": "jusqu'au 7b",
+        "description": "Voies courtes et intenses ; les plus faciles sont patinées. Voie conseillée : le Saint-Esprit (6c)."
+      },
+      {
+        "nom": "Donjon",
+        "nb_voies": "",
+        "cotations": "5+ à 7a",
+        "description": "Le Donjon (toit en 5+, très patiné), le Super Donjon (7a), Berceuse électrique (6b+) conseillée."
+      },
+      {
+        "nom": "Muraillette",
+        "nb_voies": "",
+        "cotations": "4, 5 et 6",
+        "description": "À l'extrême gauche, orientée S, ombragée au pied, 15 à 25 m. Bien adaptée aux débutants."
+      },
+      {
+        "nom": "Aiguillette",
+        "nb_voies": "quelques voies",
+        "cotations": "surtout dans le 6",
+        "description": "Entre la Muraillette et la Grande Falaise, visible du parking ; 15 à 25 m."
+      }
+    ],
+    "strategie": [
+      "Descente des voies en général en moulinette.",
+      "Muraillette = le secteur pour débuter (4 à 6), orienté S et ombragé au pied.",
+      "Grande Falaise orientée E : selon C2C, en été on peut y arriver tard (« grasse matinée »).",
+      "Exposé à la pluie selon C2C ; pied des voies jugé sûr pour les enfants.",
+      "Bien se garer sur le parking, pas le long de la route.",
+      "Le topo « Surgy » est en vente à l'auberge de l'Orme, au centre du village.",
+      "Selon C2C, camping sauvage possible dans des clairières au bout de la route en terre qui part du parking : remporter ses déchets pour qu'il ne soit pas interdit."
+    ],
+    "retex": [
+      "06/03/2026 : un retour signale de très bonnes conditions, temps doux et un peu nuageux (sortie CAF, Surgy-rat L1).",
+      "22/10/2016 : un retour signale que les pieds tiennent même dans les classiques très polies (La Cantonnière, la Zig) et que l'équipement est très bon partout ; difficile de se repérer (rien d'écrit au pied des voies, pas de vue d'ensemble dans le topo). Voies du côté droit (à partir de la Rombière) au soleil jusqu'en fin d'après-midi ; la Gizou jugée plutôt 6a+.",
+      "14/11/2015 : un retour signale un rocher peu humide malgré la rosée du matin et la Grande Falaise sèche ; bivouac à moins de 500 m de la Muraillette."
+    ],
+    "sources": [
+      "Camptocamp, site 102807 (Surgy) et point d'accès 108566 (Surgy), consultés le 18/11/2026",
+      "Camptocamp, sorties 1880661, 814784, 696988, consultées le 18/11/2026",
+      "Topo « Surgy » (cité par C2C, non consulté)"
+    ],
+    "images": [],
+    "notes": "",
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "type": "couenne",
+    "id": "saussois",
+    "nom": "Le Saussois",
+    "sous_titre": "Falaise mythique de calcaire à trous au bord de l'Yonne, près de Merry-sur-Yonne : couenne et courtes grandes voies, souvent patinées.",
+    "massif": "Yonne (Bourgogne)",
+    "secteur": "Merry-sur-Yonne / Mailly-la-Ville (vallée de l'Yonne)",
+    "coordonnees": {
+      "lat": 47.56613,
+      "lon": 3.64858,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif), altitude 200 m"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Le Saussois",
+        "url": "https://www.camptocamp.org/waypoints/102366"
+      }
+    ],
+    "nb_voies": "env. 200 voies",
+    "cotations": "3c à 8c+ (médiane 6b+)",
+    "saison": "février, mars, avril, mai, septembre, octobre, novembre, décembre",
+    "hauteur": "de 10 à 55 m (hauteur médiane 35 m)",
+    "orientation": "O, SO",
+    "ambiance": "Calcaire à trous réputé, escalade souvent dynamique et athlétique : dalles, murs verticaux, dévers, fissures et dièdres. Couenne et grandes voies courtes. Une grande partie des voies est patinée par la fréquentation. Partiellement abrité de la pluie selon C2C.",
+    "equipement": "equipee",
+    "cote_equipement": "P1 / P1+",
+    "approche": "Par le nord : A6 sortie 19 (Auxerre), contourner Auxerre par l'ouest, N151 vers Clamecy ; à Courson-les-Carrières, D950 vers Mailly-le-Château ; à Mailly, traverser l'Yonne et gagner les Rochers du Saussois. Par le sud : A6 sortie 22 (Avallon), N6 vers le nord jusqu'à Voutenay, D950 jusqu'à Mailly-la-Ville, puis suivre l'Yonne vers le sud. Marche d'environ 1 min selon C2C (un retour parle de 5 min depuis le parking). Parking non référencé sur C2C.",
+    "materiel": "",
+    "secteurs": [
+      {
+        "nom": "Secteur Ange",
+        "nb_voies": "",
+        "cotations": "6b à 8b+ (médiane 7b)",
+        "description": "Doit son nom à la voie mythique « Ange ». Dévers, toits et murs verticaux ; couenne et grandes voies ; P1/P1+."
+      },
+      {
+        "nom": "Secteur Martine",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Fiche C2C vide. Un retour (09/05/2026) le dit extrêmement patiné."
+      },
+      {
+        "nom": "Secteur Nid d'aigle",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Fiche C2C vide. Cité dans un retour de 2023 pour de la couenne."
+      },
+      {
+        "nom": "Rocher du Parc (falaise voisine)",
+        "nb_voies": "env. 100 voies",
+        "cotations": "4a à 8c (médiane 6b)",
+        "description": "Fiche C2C séparée (108534), à environ 2 km. Jusqu'à 40 m, dalles, vertical, dévers. Peu de voies faciles (sous le 5c), plutôt patinées. Saison de mars à novembre, très sûr pour les enfants selon C2C. Accès : Mailly-la-Ville."
+      },
+      {
+        "nom": "Autres secteurs cités dans les sorties",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Rech, Jardin, Président, Eau fraîche, Revanche, Chimpanzodrome (sans fiche C2C)."
+      }
+    ],
+    "strategie": [
+      "Rocher très patiné par endroits : prévoir de la marge sur les cotations.",
+      "Quelques grandes voies courtes d'après les sorties C2C : La Gédéon, l'I, La Rech, Voie normale de la Roche Percée, L'Échelle.",
+      "Partiellement abrité de la pluie selon C2C ; pied des voies jugé sûr pour les enfants.",
+      "Un camping est référencé sur C2C à proximité : camping de Merry-sur-Yonne (C2C 1457940).",
+      "Voir aussi la falaise du Rocher du Parc, à environ 2 km (C2C 108534)."
+    ],
+    "retex": [
+      "09/05/2026 : un retour signale grand beau et très chaud, voies du secteur Martine « patinées au-delà de l'imagination » ; couennes faites entre 4a et 7a, dont Couloir Moreau (4a), Merci Thierry (5a), La Bagarre (5b), Tricostéril (5c), La Fada (6a).",
+      "06/04/2026 : un retour signale grand beau et très chaud sur la falaise, rocher parfois très patiné mais gérable ; échauffement au secteur Rech (Couloir Moreau 4a, L'Enfance de l'art 5a, Le Nouveau Rech 5c+). Nid d'abeilles au relais R2 de la Gédéon.",
+      "23/07/2023 : un retour signale un rocher toujours aussi patiné, mais aussi des voies saines et peu parcourues même dans des cotations accessibles ; couenne aux secteurs Président et Nid d'aigle ; Roche Percée très patinée, un peu d'herbe en L2.",
+      "25/06/2022 : un retour signale que le 4c de sortie de la Gédéon est plus dur que le 6a ; pluie l'après-midi.",
+      "24/07/2020 : un retour signale que, malgré un soleil quasi caniculaire, le vent rafraîchit et le rocher ne garde pas la chaleur (La Rech).",
+      "20/01/2020 : un retour signale sur L'Échelle un départ patiné, des points tous les 2,5 m environ, un relais neuf et du rocher par endroits friable ; 5 min de marche depuis le parking.",
+      "01/04/2013 : un retour signale Pepette show (6c, secteur Revanche) engagée à la 4e dégaine et sévère ; soleil toute la journée au secteur Chimpanzodrome."
+    ],
+    "sources": [
+      "Camptocamp, site 102366 (Le Saussois) et secteurs 1463862 (Martine), 1463864 (Ange), 1463865 (Nid d'aigle), consultés le 18/11/2026",
+      "Camptocamp, site 108534 (Rocher du Parc (Saussois)), consulté le 18/11/2026",
+      "Camptocamp, sorties 1904091, 1891857, 1558062, 1434413, 1231274, 1179067, 419476 (et 1906174, 1480880, 1234358 sans commentaire utile), consultées le 18/11/2026",
+      "Topos cités par C2C (non consultés) : « Le Saussois le Parc », « Escalades au Saussois », « Saussois », « France Roc 1 - Bourgogne Auvergne »"
+    ],
+    "images": [],
+    "notes": "",
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "type": "couenne",
+    "id": "saint-maximin-le-larris",
+    "nom": "Saint-Maximin – Le Larris",
+    "sous_titre": "Ancienne carrière de calcaire tendre près de Chantilly : 163 courtes voies très bien équipées, idéale pour l'initiation et l'entraînement.",
+    "massif": "Oise (Hauts-de-France)",
+    "secteur": "Saint-Maximin (près de Chantilly)",
+    "coordonnees": {
+      "lat": 49.2195,
+      "lon": 2.44398,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif), altitude 40 m"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Saint Maximin - Le larris",
+        "url": "https://www.camptocamp.org/waypoints/298212"
+      }
+    ],
+    "nb_voies": "163 voies + quelques variantes",
+    "cotations": "3a à 7b+",
+    "saison": "toute l'année",
+    "hauteur": "de 6 à 12 m",
+    "orientation": "E, S, O",
+    "ambiance": "Ancienne carrière, presque entièrement taillée, en calcaire tendre qui, selon C2C, ne se patine pas malgré la fréquentation. Voies rectilignes, numérotées au pied : fissures et dièdres, dalles, murs verticaux, dévers, toits.",
+    "equipement": "equipee",
+    "cote_equipement": "P1",
+    "approche": "Parking au pied des premières voies, rue du Chantier de Taille à Saint-Maximin. En transports depuis Paris : TER jusqu'à Chantilly-Gouvieux puis bus jusqu'à Saint-Maximin (ou 15-20 min de vélo, accepté dans le TER).",
+    "materiel": "Corde de 30 m et 6 dégaines suffisent (sauf la voie 88, variante de la 89 qui traverse le haut de la paroi jusqu'à la 96). Relais chaîne + mousqueton inox.",
+    "secteurs": [
+      {
+        "nom": "Secteur 1 (voies 40 à 49)",
+        "nb_voies": "10",
+        "cotations": "",
+        "description": "L'une des deux zones aux plus belles voies du site selon C2C."
+      },
+      {
+        "nom": "Secteur 2 (voies 84 à 95)",
+        "nb_voies": "12",
+        "cotations": "",
+        "description": "L'autre zone aux plus belles voies du site selon C2C."
+      }
+    ],
+    "strategie": [
+      "Sèche très vite après la pluie ; grimpable toute l'année grâce aux trois orientations (E, S, O). Exposé à la pluie selon C2C.",
+      "Pied des voies jugé très sûr pour les enfants : site parfait pour l'initiation et la grimpe en famille.",
+      "Bien vérifier les mousquetons de relais avant de redescendre : certains se referment mal (doigt fatigué).",
+      "Le topo du CEB (aussi sur OneTopo) indique à quelle heure chaque secteur passe à l'ombre, utile en été.",
+      "Site non conventionné FFME : équipement financé par la mairie, entretien par des grimpeurs locaux.",
+      "Peut être très fréquenté les beaux dimanches (retour d'avril 2013).",
+      "Pour beaucoup de voies dans le 7, C2C conseille le site voisin de Saint-Vaast-lès-Mello."
+    ],
+    "retex": [
+      "14/04/2013 : un retour signale beaucoup de monde (clubs) un beau dimanche d'avril, sans attente au pied des voies ; site très bien équipé et entretenu ; un peu chaud au soleil mais assez de vent."
+    ],
+    "sources": [
+      "Camptocamp, site 298212 (Saint Maximin - Le larris), consulté le 18/11/2026",
+      "Camptocamp, sortie 422891, consultée le 18/11/2026",
+      "Topos cités par C2C (non consultés) : « Le Larris à Saint-Maximin », topo du CEB (ceb-escalade.fr), OneTopo"
+    ],
+    "images": [],
+    "notes": "",
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "beauvoir",
+    "type": "couenne",
+    "nom": "Beauvoir",
+    "sous_titre": "Quatre petites falaises calcaires plein sud au bord d'une rivière, à 5 km de Poitiers.",
+    "massif": "Vienne (Nouvelle-Aquitaine)",
+    "secteur": "Mignaloux-Beauvoir, près de Poitiers",
+    "coordonnees": {
+      "lat": 46.61239,
+      "lon": 0.25917,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Beauvoir",
+        "url": "https://www.camptocamp.org/waypoints/102362"
+      }
+    ],
+    "nb_voies": "env. 100 voies",
+    "cotations": "3c à 8a (médiane 6a)",
+    "saison": "",
+    "hauteur": "env. 20 m (hauteur médiane 20 m)",
+    "orientation": "S",
+    "ambiance": "Calcaire entrecoupé de bancs de silex, voies assez patinées, escalade verticale. Cadre tranquille au bord de la rivière (on peut s'y rafraîchir). Exposé à la pluie selon C2C ; site jugé très sûr pour les enfants selon C2C (secteur d'initiation de 5 m avec vire pour poser des moulinettes).",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "Se garer obligatoirement au parking du château d'eau de Mignaloux-Beauvoir (arrêt de bus de ville à côté). Chemin carrossable mais interdit aux voitures : celui du haut mène au sommet des voies (relais chaînés accessibles du plateau), celui qui descend mène au pied des voies en 5 min environ.",
+    "materiel": "Corde de 60 m et 12 dégaines pour faire toutes les voies (selon C2C). Descente en moulinette, en rappel ou à pied par les sentiers du plateau.",
+    "secteurs": [
+      {
+        "nom": "Bloc de la Valenceau",
+        "nb_voies": "env. 45 voies",
+        "cotations": "",
+        "description": "Premier bloc rencontré, hauteur médiane 15 m, vertical et dalle. Un retour (2017) le trouve plutôt raide et patiné, avec noms et cotations écrits au pied des voies (ex. la Catastrophe, 5b)."
+      },
+      {
+        "nom": "Bloc de la Boîte aux Lettres",
+        "nb_voies": "env. 25 voies",
+        "cotations": "",
+        "description": "Hauteur médiane 20 m. Un retour (2017) : à gauche des voies en 5 et 6a avec une sortie déversante plus dure (7a au milieu du bloc), dont la Normale (5b, sortie 5c+) ; à droite un pilier facile et aérien (4c) et des 5b (la Boîte aux Lettres, le Donjon)."
+      },
+      {
+        "nom": "Grand Bloc",
+        "nb_voies": "env. 40 voies",
+        "cotations": "",
+        "description": "Hauteur médiane 20 m, vertical et dévers. Jugé dangereux pour les enfants selon C2C."
+      },
+      {
+        "nom": "Petit bloc",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Pas de fiche C2C. Un retour (2017) : dalles faciles de 7-8 m (3-4a) avec relais chaînés, puis une vire et des sorties plus dures (env. 6a à 6c, une voie dans la brèche vers 5c)."
+      }
+    ],
+    "strategie": [
+      "Parking obligatoire au pied du château d'eau.",
+      "Affluence le week-end (à 5 km de Poitiers).",
+      "Accessible en bus de ville (arrêt à côté du parking).",
+      "Un retour (2017) signale que le topo de l'association était épuisé : cotations à deviner sur place pour une partie des voies (à vérifier)."
+    ],
+    "retex": [
+      "04/06/2017 : un retour signale un rocher sec malgré les fortes pluies de la veille, un très bon équipement, des prises abrasives aux sorties du Petit bloc, et un accès court et facile depuis le parking."
+    ],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102362 (Beauvoir) et secteurs 939142, 939145, 944511, consulté le 18/11/2026",
+      "Camptocamp, sortie 892805 (04/06/2017), consulté le 18/11/2026",
+      "Topos cités par C2C : « Les falaises de Beauvoir » (APDA/APEM, 1991) ; « École d'Escalade de Beauvoir » et « Escalades en Poitou » (J.-M. Poirier, APDA, 1969 et 1976) ; site http://apem-poitiers.fr/"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "brosville",
+    "type": "couenne",
+    "nom": "Brosville",
+    "sous_titre": "Site de couenne d'environ 300 voies (fiche Camptocamp presque vide).",
+    "massif": "Eure (Normandie) — d'après la position, à vérifier",
+    "secteur": "Brosville",
+    "coordonnees": {
+      "lat": 49.11805,
+      "lon": 1.11802,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Brosville",
+        "url": "https://www.camptocamp.org/waypoints/102369"
+      }
+    ],
+    "nb_voies": "env. 300 voies",
+    "cotations": "",
+    "saison": "",
+    "hauteur": "",
+    "orientation": "",
+    "ambiance": "Rocher indiqué « trachyte » sur C2C (à vérifier, information douteuse pour la région).",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "",
+    "materiel": "",
+    "secteurs": [],
+    "strategie": [],
+    "retex": [],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102369 (Brosville), consulté le 18/11/2026 (fiche sans description ni sortie)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "saint-vaast-les-mello",
+    "type": "couenne",
+    "nom": "Saint-Vaast-lès-Mello",
+    "sous_titre": "Ancienne carrière de calcaire boisée près de Creil, voies courtes de 4b à 8b avec des faces à toutes les orientations.",
+    "massif": "Oise (Picardie)",
+    "secteur": "Saint-Vaast-lès-Mello",
+    "coordonnees": {
+      "lat": 49.268,
+      "lon": 2.4005,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Saint Vaast lès Mello",
+        "url": "https://www.camptocamp.org/waypoints/102236"
+      }
+    ],
+    "nb_voies": "",
+    "cotations": "4b à 8b (médiane 6a)",
+    "saison": "toute l'année (faces au soleil ou à l'ombre selon la saison)",
+    "hauteur": "jusqu'à 15 m",
+    "orientation": "toutes (N, NE, E, SE, S, SO, O, NO)",
+    "ambiance": "Calcaire d'ancienne carrière, cadre agréable avec beaucoup d'arbres. Fissures, dièdres, dalles, vertical, dévers et toits ; aussi quelques blocs (parfois ardus) et une petite grotte pour les jours de pluie. Voies jugées très bien ouvertes, notamment dans le 7 ; intéressant pour progresser dans le 6. Exposé à la pluie selon C2C ; sûr pour les enfants selon C2C.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "Par Creil puis Montataire (D123) jusqu'à Saint-Vaast-lès-Mello. À l'entrée du village, 1re à gauche après la station-service et la boulangerie : parking à droite 200 m plus loin. À pied (10 min) : revenir sur ses pas, traverser la D123, prendre en face la rue des Carrières sur 100 m, puis à droite à la barrière et traverser la prairie jusqu'aux secteurs autorisés.",
+    "materiel": "Corde de 30 m et 4 à 6 dégaines pour la plupart des voies (souvent 4 points, premier point souvent assez haut). Relais SANS mousquetons : savoir faire la manip de haut de voie.",
+    "secteurs": [],
+    "strategie": [
+      "Sèche vite en face sud après la pluie ; petite grotte pour les jours de pluie.",
+      "Statut : longtemps seulement toléré ; C2C indique (mise à jour du 22/05/2023) que le site semble désormais conventionné FFME, bien que privé (à vérifier). Respecter le site et la tranquillité des riverains.",
+      "Se garer uniquement sur le parking prévu.",
+      "Espace naturel protégé : des oiseaux protégés nichent parfois dans les voies (respecter les éventuelles interdictions).",
+      "Moustiques sur le chemin quand il fait chaud.",
+      "Prendre un sac poubelle : le site souffre de déchets laissés par des visiteurs.",
+      "Topos gratuits en ligne cités par C2C : ceb-escalade.fr (2021), topo de Ludovic Petit (lesglachoirs.fr), version mobile sur OneTopo."
+    ],
+    "retex": [
+      "08/05/2024 : un retour signale des conditions idéales en face sud par temps pas trop chaud.",
+      "28/04/2023 : un retour signale que c'était sec plein sud malgré une bruine au départ de Paris ; bien se garer sur le parking indiqué.",
+      "01/04/2023 : un retour (2 adultes, 2 enfants) signale des voies bien adaptées aux enfants.",
+      "06/11/2019 : un retour signale une descente de la Grande Muraille très glissante par temps humide, et un accès en transports en commun très compliqué."
+    ],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102236 (Saint Vaast lès Mello), consulté le 18/11/2026",
+      "Camptocamp, sorties 1669132 (08/05/2024), 1539366 (28/04/2023), 1539368, 1539369 (01/04/2023), 1539370, 1159918 (06/11/2019), consultées le 18/11/2026"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "vieux-chateau-rocher-sainte-catherine",
+    "type": "couenne",
+    "nom": "Vieux-Château (Rocher Sainte-Catherine)",
+    "sous_titre": "Petit site de granite (le seul de Côte-d'Or), dalles au bord du Serein, en partie ombragé.",
+    "massif": "Côte-d'Or (Bourgogne)",
+    "secteur": "Vieux-Château, vallée du Serein",
+    "coordonnees": {
+      "lat": 47.47484,
+      "lon": 4.12786,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Vieux-Château (Rocher Sainte Catherine)",
+        "url": "https://www.camptocamp.org/waypoints/102172"
+      }
+    ],
+    "nb_voies": "60 à 100 voies (C2C donne 60 dans les chiffres et « une centaine » dans le résumé)",
+    "cotations": "4b à 7b",
+    "saison": "avril à octobre",
+    "hauteur": "jusqu'à 35 m",
+    "orientation": "S, SE",
+    "ambiance": "Granite (rare en Bourgogne), dalles et vertical, au bord de la rivière, en partie ombragé. Exposé à la pluie selon C2C ; sûr pour les enfants selon C2C.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "Depuis Vieux-Château, suivre les panneaux « Roche Sainte-Catherine » : accès à gauche en sortie du village, direction Époisses. Se garer sur l'un des deux grands parkings et descendre par le sentier au bord du Serein (env. 10 min).",
+    "materiel": "",
+    "secteurs": [],
+    "strategie": [
+      "Petit site vite saturé quand plusieurs groupes sont là (plusieurs retours le confirment, surtout le week-end).",
+      "Camping possible en haut mais vite saturé ; aire naturelle de camping à Montberthault au bord de la rivière (3 km à pied), ouverte du 1er mai au 15 septembre.",
+      "Topo : « Escalades granitiques en pays d'Auxois » (J.-L. Scola, 2006), en vente via Terres d'Auxois ou en PDF (liens sur C2C).",
+      "Vigilance dans la voie 15 « Les sucettes à l'Annie » : chute d'un gros bloc en octobre 2025, un morceau restant semble douteux (voir retour ci-dessous)."
+    ],
+    "retex": [
+      "18/10/2025 : un retour signale le décrochage d'un gros bloc dans la voie 15 « Les sucettes à l'Annie » (grimpeur blessé à la jambe par un éclat) ; il reste un morceau dont la solidité semble incertaine (rapport d'accident C2C 1828691).",
+      "16/10/2021 : un retour signale un bon équipement et un bon rocher.",
+      "23/07/2020 : un retour signale que la route d'accès a été refaite, un nid de frelons en haut d'une voie 6c+ (« traces de pneus »), et un bivouac agréable en haut des voies.",
+      "12/07/2020 : un retour signale un site à l'ombre qui permet de grimper pendant une canicule, un bon granite où l'on peut poser des coinceurs (pas nécessaires), et des voies de 2 longueurs au maximum.",
+      "22/06/2019 : un retour signale un site saturé ce week-end-là, avec un faible pour les secteurs en dalle.",
+      "03/10/2016 : un retour signale des relais parfois décalés par rapport au départ (tirage pénible) et des cotations du topo de « Jingo Wobbly » très différentes de celles écrites au rocher.",
+      "02/08/2016 : un retour liste des voies parcourues de 4c à 6c (ex. Câlin 5b+, Isadorable 5c, Vieux Motard que Jamais 6a, La Quinou 6a+), avec quelques cotations jugées sévères ou faciles.",
+      "23/06/2014 : un retour signale une corde abîmée par un autre grimpeur qui avait mis sa moulinette dans le même maillon (site très fréquenté ce jour-là, groupe de 60 personnes)."
+    ],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102172 (Vieux-Château (Rocher Sainte Catherine)), consulté le 18/11/2026",
+      "Camptocamp, sorties 1829536 (18/10/2025), 1360820, 1231776, 1227664, 1122948, 809623, 784325, 553038, consultées le 18/11/2026",
+      "Topo cité par C2C : « Escalades granitiques en pays d'Auxois », Jean-Luc Scola, 2006"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "val-saint-martin-les-andelys",
+    "type": "couenne",
+    "nom": "Val-Saint-Martin (Les Andelys)",
+    "sous_titre": "Falaises de craie plein sud au bord de la Seine face à Château-Gaillard, le royaume du niveau moyen (3a à 6c).",
+    "massif": "Eure (Normandie)",
+    "secteur": "Les Andelys, Val-Saint-Martin (bords de Seine)",
+    "coordonnees": {
+      "lat": 49.25178,
+      "lon": 1.38625,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Val-Saint-Martin (Les Andelys)",
+        "url": "https://www.camptocamp.org/waypoints/102192"
+      }
+    ],
+    "nb_voies": "env. 150 voies",
+    "cotations": "3a à 6c (médiane 5a)",
+    "saison": "février à octobre",
+    "hauteur": "7 à 35 m (hauteur médiane 20 m)",
+    "orientation": "S",
+    "ambiance": "Craie avec silex, dalles et vertical ; panorama sur la Seine et Château-Gaillard. Voies bien rééquipées (FFME de l'Eure). Chute déconseillée (silex) et prises à vérifier. Exposé à la pluie selon C2C ; peu conseillé aux enfants (pente raide, sentier étroit au pied des voies, sauf dans les combes).",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "A13 sortie 17, direction Les Andelys puis Val-Saint-Martin, la route longe la Seine. Parkings en bord de route à chaque extrémité de la falaise. Trois chemins mènent rapidement à la falaise (extrémités et centre) : ne pas monter tout droit, zone protégée.",
+    "materiel": "Relais chaînés sur toutes les voies. Préférer le rappel à la moulinette pour éviter que la corde frotte sur un silex.",
+    "secteurs": [],
+    "strategie": [
+      "Coteaux protégés : rester sur les chemins d'accès, ne pas prendre les raccourcis.",
+      "Plein sud et exposé : peu d'ombre (quelques arbres) ; pique-nique possible sur la pelouse du parking.",
+      "Topo : « Escalade dans l'Eure – Falaises du Bord de Seine » (CD 27 FFME, 2009) ; infos sur escaladenews.free.fr."
+    ],
+    "retex": [
+      "23/05/2023 et 14/05/2023 : des retours signalent grand beau et chaud, avec plusieurs cordées ou groupes sur place mais une bonne entente.",
+      "29/03/2019 : un retour signale personne à 9 h mais plus d'une dizaine de cordées l'après-midi par une journée de printemps ensoleillée.",
+      "07/05/2017 : un retour signale des voies du 4+ au 6b, des pieds de voie envahis par la végétation entre les falaises, des premiers points parfois loin au-dessus du sentier (assurage délicat), et des parois presque sèches à 10 h après une nuit de pluie.",
+      "09/06/2016 : un retour signale une approche bien tracée depuis le parking ouest, un équipement très rapproché dans les 4 et des départs parfois difficiles même dans les voies faciles ; très chaud au soleil.",
+      "29/07/2014 : un retour signale de jolies voies du 5a au 6a+ aux secteurs 14, 11 et 12 (combe) ; les 6a à départ surplombant du secteur 14 sont durs au début.",
+      "18/05/2009 : un retour signale que les silex peuvent être très abrasifs pour les cordes."
+    ],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102192 (Val-Saint-Martin (Les Andelys)), consulté le 18/11/2026",
+      "Camptocamp, sorties 1539357, 1539365, 1098996, 913524, 765157, 546769, 511249, 295304, 252208, consultées le 18/11/2026",
+      "Topo cité par C2C : « Escalade dans l'Eure – Falaises du Bord de Seine », CD 27 FFME, 2009"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "la-roque",
+    "type": "couenne",
+    "nom": "La Roque",
+    "sous_titre": "Ensemble de 4 falaises de craie au bord de la Seine (près du Thuit), plutôt dans le 7e degré.",
+    "massif": "Eure (Normandie)",
+    "secteur": "Le Thuit, bords de Seine (près des Andelys)",
+    "coordonnees": {
+      "lat": 49.25291,
+      "lon": 1.38285,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif) ; à vérifier : très proche du point de Val-Saint-Martin"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "La Roque",
+        "url": "https://www.camptocamp.org/waypoints/102681"
+      }
+    ],
+    "nb_voies": "env. 150 voies",
+    "cotations": "4c à 8a+ (médiane 7a+)",
+    "saison": "",
+    "hauteur": "jusqu'à 30 m",
+    "orientation": "S",
+    "ambiance": "Craie avec trous et silex, escalade verticale surtout en force, peu technique, dominante dans le 7. Partiellement abrité de la pluie selon C2C ; dangereux pour les enfants selon C2C.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "Microfalaise et Bisexto : par le haut ; aller au village du Thuit, suivre le panneau « Panorama », se garer sur le bas-côté après la maison moderne ; le chemin part à côté d'un transformateur. Spéléo : par le haut ; même direction, se garer juste à la sortie du village (à côté du pré à vaches) sans bloquer le chemin de l'agriculteur, puis suivre ce chemin. Le Thuit : accès par le bas (pas de détail sur C2C).",
+    "materiel": "Préférer le rappel : la moulinette risque d'entailler la corde sur certaines voies.",
+    "secteurs": [
+      {
+        "nom": "Microfalaise",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Accès par le haut (parking après la maison moderne, chemin près du transformateur)."
+      },
+      {
+        "nom": "Bisexto",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Même accès que Microfalaise."
+      },
+      {
+        "nom": "Spéléo",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Accès par le haut (parking à la sortie du Thuit, près du pré à vaches)."
+      },
+      {
+        "nom": "Le Thuit",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Secteur aux cotations les plus élevées, accès par le bas."
+      }
+    ],
+    "strategie": [
+      "Peu de voies faciles : dominante dans le 7 selon C2C.",
+      "Voies conseillées par C2C : Le Raccourci (6c), Papa Litz et L'Asile (7a), Linceul noir (7a), Les Chiadeurs (7b+), Le Rêve de Pascal (7c), La Mira et Salsa (7c+).",
+      "Ne pas bloquer le chemin de l'agriculteur au parking du secteur Spéléo.",
+      "Topo : « Escalade dans l'Eure – Falaises du Bord de Seine » (CD 27 FFME, 2009)."
+    ],
+    "retex": [],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102681 (La Roque), consulté le 18/11/2026 (aucune sortie)",
+      "Topo cité par C2C : « Escalade dans l'Eure – Falaises du Bord de Seine », CD 27 FFME, 2009"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "connelles",
+    "type": "couenne",
+    "nom": "Connelles",
+    "sous_titre": "Falaise de craie à silex au bord de la Seine, ancienne et atypique, escalade très technique ; deux secteurs déconseillés depuis un éboulement en 2013.",
+    "massif": "Eure (Normandie)",
+    "secteur": "Connelles, bords de Seine",
+    "coordonnees": {
+      "lat": 49.26094,
+      "lon": 1.26922,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Connelles",
+        "url": "https://www.camptocamp.org/waypoints/102679"
+      },
+      {
+        "titre": "Connelles : Paradis",
+        "url": "https://www.camptocamp.org/waypoints/103641"
+      },
+      {
+        "titre": "Connelles : Directissime",
+        "url": "https://www.camptocamp.org/waypoints/103642"
+      }
+    ],
+    "nb_voies": "env. 100 voies",
+    "cotations": "3c à 7c",
+    "saison": "avril à octobre (idéal d'avril à août selon C2C)",
+    "hauteur": "15 à 40 m",
+    "orientation": "W, SW",
+    "ambiance": "Craie blanche avec des silex incrustés, rocher assez friable ; escalade très technique et déroutante, beaucoup de surplombs. Très belle vue sur la Seine. Exposé à la pluie selon C2C.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "Se garer sur le parking au pied du site, puis monter un petit sentier jusqu'aux secteurs (les secteurs Paradis et Directissime sont tout près). Accès routier non décrit sur C2C.",
+    "materiel": "Descente en rappel ou en moulinette. Longueur de corde et nombre de dégaines non indiqués (voies jusqu'à 40 m : à vérifier dans le topo).",
+    "secteurs": [
+      {
+        "nom": "Paradis",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Très beau secteur, 15 à 35 m, orienté NW. Beaucoup de surplombs ; les voies les plus longues sont à droite. Premières plaquettes un peu hautes, le reste est bon. Accès : du parking, partir à gauche et monter un sentier."
+      },
+      {
+        "nom": "Directissime",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Un des secteurs les plus durs, 25 à 30 m, orienté N. Toutes les voies passent au moins un surplomb ; difficulté surtout au départ, sorties souvent délicates. Premiers points assez hauts. Un des premiers secteurs en montant le sentier depuis le parking. Descente en rappel."
+      }
+    ],
+    "strategie": [
+      "Éboulement : une partie du Sphinx s'est effondrée en avril 2013. Le Comité régional FFME Haute-Normandie recommande de ne pas aller ni grimper sur les secteurs 4 et 5 (pages 40 à 43 du topo) jusqu'à nouvel ordre : à vérifier avant d'y aller.",
+      "Se méfier des anciens pitons ; rocher friable.",
+      "Premiers points souvent hauts (secteurs Paradis et Directissime) : prudence au départ des voies.",
+      "Exposé SW : il peut faire chaud l'été l'après-midi, mais pas le matin.",
+      "Déconseillé aux enfants selon C2C (site classé « dangereux » pour les enfants ; les secteurs Paradis et Directissime sont notés « sûrs »)."
+    ],
+    "retex": [
+      "18/09/2022 : un retour signale une journée très sympa (voies Hop-la, fissure RSCM et Saint-Thèse), petit vent frais."
+    ],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102679 (Connelles), consulté le 18/11/2026",
+      "Camptocamp, secteurs 103641 (Paradis) et 103642 (Directissime), consultés le 18/11/2026",
+      "Camptocamp, sortie 1471016 (18/09/2022), consultée le 18/11/2026",
+      "Topo cité sur C2C : « Escalade dans l'Eure - Falaises du Bord de Seine » (non consulté)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "lignerolles",
+    "type": "couenne",
+    "nom": "Lignerolles",
+    "sous_titre": "Site de granit dans les gorges du Cher, à 7 km de Montluçon : le plus important de la région, adapté aux familles.",
+    "massif": "Allier (Auvergne)",
+    "secteur": "Lignerolles, gorges du Cher",
+    "coordonnees": {
+      "lat": 46.27695,
+      "lon": 2.57866,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Lignerolles",
+        "url": "https://www.camptocamp.org/waypoints/219539"
+      }
+    ],
+    "nb_voies": "env. 136 voies",
+    "cotations": "3a à 8b (médiane 5b)",
+    "saison": "avril à octobre",
+    "hauteur": "8 à 35 m (hauteur médiane 12 m)",
+    "orientation": "",
+    "ambiance": "Granit dans les gorges du Cher, coin assez joli (via ferrata, promenade, pique-nique, canoë). Beaucoup de voies faciles (4-5) mais aussi du 7 et du 8. Exposé à la pluie selon C2C.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "De Montluçon, direction Évaux puis Lignerolles. Après quelques kilomètres, à gauche direction « Lignerolles gare », puis à gauche la pancarte verte « rocher de Lignerolles » qui passe sous le pont de la voie ferrée ; après le pont, à gauche jusqu'au parking. Du parking, descendre le chemin puis suivre les pancartes « passerelle » : on passe d'abord Moulin Mercier puis on arrive au rocher du Lion.",
+    "materiel": "Descente en moulinette, ou à pied pour certaines voies. Longueur de corde et nombre de dégaines non indiqués.",
+    "secteurs": [
+      {
+        "nom": "Rocher du Lion",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Secteur principal, après Moulin Mercier."
+      },
+      {
+        "nom": "Moulin Mercier",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Premier secteur rencontré depuis le parking."
+      },
+      {
+        "nom": "Rocher de la Buse",
+        "nb_voies": "",
+        "cotations": "",
+        "description": ""
+      },
+      {
+        "nom": "Rocher du Câble",
+        "nb_voies": "",
+        "cotations": "",
+        "description": ""
+      }
+    ],
+    "strategie": [
+      "Très bien adapté aux familles selon C2C (site classé « très sûr » pour les enfants), avec beaucoup de voies faciles.",
+      "Activités annexes sur place : via ferrata, promenade, canoë."
+    ],
+    "retex": [
+      "15/05/2010 : un retour signale un rocher bon mais une végétation parfois abondante pour accéder aux voies, assez courtes ; « Soleil d'aplomb » (6a+) jugée très sympa, avec une sortie de bloc en appui sur les mains à plat."
+    ],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 219539 (Lignerolles), consulté le 18/11/2026",
+      "Camptocamp, sorties 219540 (15/05/2010) et 789697 (10/08/2016, sans contenu), consultées le 18/11/2026",
+      "Topos cités sur C2C : « Top'Allier » et « Escalade à Lignerolles » (non consultés)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "sille-le-guillaume",
+    "type": "couenne",
+    "nom": "Sillé-le-Guillaume",
+    "sous_titre": "Trois petits secteurs de conglomérat en forêt, assez faciles (4 à 6) et souvent ombragés, plus un parcours de bloc.",
+    "massif": "Sarthe (Pays de la Loire)",
+    "secteur": "Sillé-le-Guillaume, forêt de Sillé",
+    "coordonnees": {
+      "lat": 48.22886,
+      "lon": -0.06483,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Sillé le Guillaume",
+        "url": "https://www.camptocamp.org/waypoints/102870"
+      }
+    ],
+    "nb_voies": "env. 80 voies",
+    "cotations": "3a à 7a",
+    "saison": "mai à octobre ; possible en hiver par temps sec et ensoleillé sur le petit secteur du Cube",
+    "hauteur": "3 à 18 m (20 m max par secteur)",
+    "orientation": "SW, S, NE",
+    "ambiance": "Conglomérat en milieu de forêt, mur vertical avec un peu de dévers à Roche Brune ; voies surtout jusqu'au 6a (un 7a à Roche Brune rive droite). Pied des voies souvent ombragé. Partiellement à l'abri de la pluie selon C2C.",
+    "equipement": "equipee",
+    "cote_equipement": "P1",
+    "approche": "Accès 1 (Roche Brune rive gauche) : de Sillé-le-Guillaume, direction Mont-Saint-Jean sur 3 km ; passer un lac, puis à la bifurcation suivre en face la route forestière « la Ligne Noire » jusqu'au parking au bout ; descendre à pied vers la rivière (10 min). Accès 2 (Roche Brune rive droite et Saut du Serf) : de Sillé, D310, se garer au premier parking près du restaurant « Le Randonneur » (pas devant le restaurant), suivre le chemin balisé escalade, puis à gauche sur la grande allée forestière jusqu'au bout (plateau). Plus de place pour se garer mais 15 à 20 min de marche selon le secteur.",
+    "materiel": "Longueur de corde et nombre de dégaines non indiqués (voies de 20 m max). Les voies peuvent s'équiper par le haut.",
+    "secteurs": [
+      {
+        "nom": "Roche Brune rive gauche",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Un peu de dévers. Accès le plus court par la Ligne Noire."
+      },
+      {
+        "nom": "Roche Brune rive droite",
+        "nb_voies": "",
+        "cotations": "jusqu'à 7a",
+        "description": "Un peu de dévers ; contient le seul 7a du site. Accès par le plateau (à pied en bas à gauche, ou en rappel depuis le Cube)."
+      },
+      {
+        "nom": "Le Saut du Serf (ou Saut du Cerf)",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Sèche assez vite après la pluie ; le secteur le plus chaud en été. Depuis le plateau, en bas à droite (5-10 min)."
+      },
+      {
+        "nom": "Le Cube",
+        "nb_voies": "7 voies",
+        "cotations": "",
+        "description": "Petit secteur de voies très courtes au-dessus de Roche Brune rive droite, grimpable en hiver par temps sec et ensoleillé."
+      }
+    ],
+    "strategie": [
+      "Site rééquipé : relais doublés, signalisation revue.",
+      "Pied des voies parfois très humide s'il a plu la veille ou l'avant-veille ; le Saut du Serf sèche assez vite.",
+      "Stationnement : peu de place au bout de la Ligne Noire ; plus de place au parking du restaurant « Le Randonneur » (éviter de se garer devant le restaurant).",
+      "Déconseillé aux enfants selon C2C (site classé « dangereux » pour les enfants).",
+      "Un parcours de bloc au NE au-dessus du Saut du Serf, décrit dans le topo du CAF du Mans."
+    ],
+    "retex": [],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102870 (Sillé le Guillaume), consulté le 18/11/2026 (aucune sortie associée)",
+      "Topo cité sur C2C : topo des sites sarthois du CAF du Mans (non consulté)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "la-dube",
+    "type": "couenne",
+    "nom": "La Dube",
+    "sous_titre": "Petite falaise calcaire au bord de la route près de l'Anglin, plein sud : surtout du 6, grande dalle à gouttes d'eau très homogène.",
+    "massif": "Indre (Centre-Val de Loire)",
+    "secteur": "Près de Mérigny, vallée de l'Anglin",
+    "coordonnees": {
+      "lat": 46.64306,
+      "lon": 0.93444,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "La Dube",
+        "url": "https://www.camptocamp.org/waypoints/102365"
+      }
+    ],
+    "nb_voies": "env. 65 voies",
+    "cotations": "3b à 7b+ (médiane 6a)",
+    "saison": "toute l'année ; très très chaud en été, idéal les belles journées d'automne et de début d'hiver",
+    "hauteur": "20 à 33 m (hauteur médiane 25 m)",
+    "orientation": "SW, S",
+    "ambiance": "Calcaire, dalle et mur vertical : rocher à trous à gauche, mur vertical à gouttes d'eau au centre, rocher fracturé avec petits toits à droite. Falaise école mais majorité de voies dans le 6. Exposé à la pluie selon C2C.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "Depuis Angles-sur-l'Anglin : direction Le Blanc (D2 puis D3), au hameau des Fournioux à droite vers Mérigny, dépasser le hameau des Rives ; la falaise est 10 min plus loin, au bord de la route. Depuis Le Blanc : direction Mérigny (D27), puis direction Angles-sur-l'Anglin (D50) ; falaise à 5 min. Lieu de stationnement non précisé sur C2C.",
+    "materiel": "Relais chaînés. Descente en rappel dans les voies ou à pied par le chemin derrière (contourner la barre par la droite). Longueur de corde et nombre de dégaines non indiqués (voies jusqu'à 33 m : à vérifier dans le topo).",
+    "secteurs": [
+      {
+        "nom": "La Grande Dalle",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Au bord de la route, 30 m, le secteur le plus connu : longueurs homogènes, gouttes d'eau, trous et réglettes, sorties dalleuses. Équipement jugé excellent et judicieux, chaîne au relais."
+      }
+    ],
+    "strategie": [
+      "Escalade autorisée même si le panneau dit le contraire (selon C2C, à vérifier sur place).",
+      "Attention aux fils téléphoniques.",
+      "Plein soleil et à l'abri des vents dominants : très chaud l'été. Au printemps et en été, commencer ici le matin puis aller à la Guignoterie toute proche quand le soleil tape.",
+      "En rappel, attention au tirage : certains relais sont sur le plateau, décalés de la falaise.",
+      "Très adapté aux enfants selon C2C (site classé « très sûr »)."
+    ],
+    "retex": [],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102365 (La Dube), consulté le 18/11/2026 (aucune sortie associée)",
+      "Topos cités sur C2C : « La Guignoterie » et « Escalade dans l'Indre » (non consultés) ; topo web monweb.interpc.fr cité sur C2C (non consulté)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "rives",
+    "type": "couenne",
+    "nom": "Rives",
+    "sous_titre": "Série de petites falaises calcaires sous les arbres au bord de l'Anglin, pour tous niveaux (4 à 7, un 8a), idéale en été.",
+    "massif": "Indre (Centre-Val de Loire)",
+    "secteur": "Hameau des Rives, vallée de l'Anglin (près d'Angles-sur-l'Anglin)",
+    "coordonnees": {
+      "lat": 46.67262,
+      "lon": 0.91432,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Rives",
+        "url": "https://www.camptocamp.org/waypoints/102641"
+      }
+    ],
+    "nb_voies": "env. 45 voies",
+    "cotations": "4b à 8a (médiane 6a)",
+    "saison": "idéal en été (grimpe sous les arbres)",
+    "hauteur": "jusqu'à 20 m",
+    "orientation": "",
+    "ambiance": "Calcaire, petites falaises sous les arbres, secteurs espacés permettant de grimper tranquillement ; baignade possible dans l'Anglin tout proche.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "À 10 min d'Angles-sur-l'Anglin : direction Le Blanc, puis à droite (D50) au hameau du Fournioux. Avant le hameau des Rives, juste avant un pont, prendre à droite (à 180°) un chemin de terre qui longe les champs. Se garer avec soin sur les petits « parkings » au niveau des secteurs Roc St-Berthomé et le Moulin ; s'il n'y a pas de place, se garer au bord de la D50 et continuer à pied.",
+    "materiel": "Longueur de corde et nombre de dégaines non indiqués (voies de 20 m max).",
+    "secteurs": [
+      {
+        "nom": "Roc St-Berthomé",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Petit parking à son niveau."
+      },
+      {
+        "nom": "Le Moulin",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Petit parking à son niveau."
+      }
+    ],
+    "strategie": [
+      "Stationnement : peu de place sur les petits parkings du chemin ; sinon au bord de la D50.",
+      "Le chemin d'accès est régulièrement emprunté par des tracteurs et des chevaux.",
+      "Grimpe à l'ombre des arbres : bonne option en été."
+    ],
+    "retex": [],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102641 (Rives), consulté le 18/11/2026 (aucune sortie associée)",
+      "Topo web monweb.interpc.fr cité sur C2C (non consulté)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "saint-leonard-des-bois",
+    "type": "couenne",
+    "nom": "Saint-Léonard-des-Bois",
+    "sous_titre": "Trois petits sites autour du village (Le Gué Plard, L'Engouloir, Le Gasseau) ; Le Gué Plard et L'Engouloir sont interdits par arrêté municipal.",
+    "massif": "Sarthe (Pays de la Loire)",
+    "secteur": "Saint-Léonard-des-Bois, Alpes mancelles",
+    "coordonnees": {
+      "lat": 48.35327,
+      "lon": -0.08071,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Saint-Léonard-des-Bois",
+        "url": "https://www.camptocamp.org/waypoints/868418"
+      }
+    ],
+    "nb_voies": "env. 50 voies (dont une bonne partie aujourd'hui interdite)",
+    "cotations": "4a à 7a",
+    "saison": "avril à octobre",
+    "hauteur": "jusqu'à 18 m",
+    "orientation": "N, S",
+    "ambiance": "Un des plus vieux sites de la Sarthe ; dalle et mur vertical. Exposé à la pluie selon C2C. Type de rocher non indiqué sur C2C.",
+    "equipement": "equipee",
+    "cote_equipement": "P1",
+    "approche": "Gué Plard et Engouloir : dans Saint-Léonard-des-Bois, prendre la D112, à quelques minutes du centre. Le Gasseau : prendre la D56 puis à gauche vers le centre équestre ; se garer, prendre le chemin à gauche, longer le champ sur 300 m puis le petit chemin secondaire à droite. Marche d'environ 5 min.",
+    "materiel": "Longueur de corde et nombre de dégaines non indiqués (voies de 18 m max).",
+    "secteurs": [
+      {
+        "nom": "Le Gasseau",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Site assez facile et très ombragé, exposé S, idéal en famille l'été. Seul secteur non concerné par l'interdiction."
+      },
+      {
+        "nom": "Le Gué Plard",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "INTERDIT (arrêté municipal). Site facile au bord de la route, exposé N ; relais en partie démontés depuis octobre 2023."
+      },
+      {
+        "nom": "L'Engouloir (ou L'Angouloir)",
+        "nb_voies": "",
+        "cotations": "surtout du 6, un 7a",
+        "description": "INTERDIT (arrêté municipal). Site plus technique au-dessus de la route, belle vue sur la rivière, exposé N."
+      }
+    ],
+    "strategie": [
+      "Interdiction : selon une mise à jour C2C du 12/05/2024, Le Gué Plard et L'Engouloir sont interdits à la pratique par arrêté municipal (fin de la convention FFME) ; une partie des broches a été sciée et une bonne partie des relais du Gué Plard démontée depuis octobre 2023. Le Gasseau n'est pas cité dans cette interdiction : à vérifier avant d'y aller.",
+      "Le Gasseau : très ombragé, bon pour l'été et en famille (site classé « sûr » pour les enfants selon C2C)."
+    ],
+    "retex": [],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 868418 (Saint-Léonard-des-Bois), consulté le 18/11/2026 (seule sortie associée : randonnée 1646743 du 10/05/2024, sans info escalade)",
+      "Topo cité sur C2C : topo des sites sarthois du CAF du Mans (non consulté)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "saulges",
+    "type": "couenne",
+    "nom": "Saulges",
+    "sous_titre": "Falaises calcaires très patinées dans un vallon verdoyant, près des grottes de Saulges, entre Laval et Le Mans.",
+    "massif": "Mayenne (Pays de la Loire)",
+    "secteur": "Saulges",
+    "coordonnees": {
+      "lat": 47.99411,
+      "lon": -0.40036,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Saulges",
+        "url": "https://www.camptocamp.org/waypoints/102406"
+      }
+    ],
+    "nb_voies": "env. 170 voies",
+    "cotations": "non renseignées sur C2C (la description cite une voie en 7c ; un retour cite des voies du 3 au 7a)",
+    "saison": "",
+    "hauteur": "",
+    "orientation": "E (un retour de 2011 signale que le secteur de la Poire est plein sud)",
+    "ambiance": "Calcaire très compact, rarement athlétique sauf dans les voies dures ; les voies de niveau moyen sont intéressantes. Site très patiné. Cadre agréable : prairie au pied des voies, cours d'eau à côté. Certaines zones conviennent à l'initiation en groupe.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "À 23 km de Laval et 42 km du Mans, tout près du village de Saulges et du site des grottes de Saulges. Pas de parking ni de temps de marche indiqués sur C2C.",
+    "materiel": "Rien d'indiqué sur C2C. Un retour (2019) signale des premiers points parfois hauts : il a posé un petit friend (Camalot 0.5) au départ d'une voie et utilisé une perche à mousquetonner (clip-stick).",
+    "secteurs": [],
+    "strategie": [
+      "Très fréquenté par les clubs de la région en avril, mai et juin ; touristique et familial le week-end, plus calme en semaine (selon C2C).",
+      "Rocher très patiné : prévoir de la marge sur les cotations.",
+      "Un gîte d'étape est signalé sur le site (renseignements au bar, env. 11 € la nuit selon une info ancienne : à vérifier).",
+      "Possibilité d'installer des moulinettes par le haut et relais équipés de chaînes (selon des retours de 2013 et 2019)."
+    ],
+    "retex": [
+      "26/09/2020 : un retour signale un site très agréable et adapté à l'initiation, rocher patiné mais prises franches ; hébergement au camping de Saulges.",
+      "26/10/2019 : un retour signale une ambiance bucolique (bloc de la Chouette, bloc de la Chèvre), une patine supportable au-delà des premiers mètres, des premiers points parfois hauts (premier point à 4 m sur une voie en 3) et des relais avec de belles chaînes.",
+      "23/06/2016 : un retour signale un site vide en semaine mais bondé le week-end, une forte patine et des premiers points placés haut au-dessus de pieds de voies caillouteux ; sinon un très beau site bien équipé.",
+      "18/05/2013 : un retour signale un site patiné mais très agréable en famille : pied des voies propre, prairie pour pique-niquer, cours d'eau.",
+      "26/06/2011 : un retour signale une journée très chaude (35 °C), le secteur de la Poire étant plein sud ; baignade des pieds dans la rivière."
+    ],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102406 (Saulges), consulté le 18/11/2026",
+      "Camptocamp, sorties 1252382, 1157877, 768484, 432264, 283121, consultées le 18/11/2026",
+      "Livre cité par C2C : « C'est l'empreinte » (non consulté)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "montbard",
+    "type": "couenne",
+    "nom": "Montbard",
+    "sous_titre": "Ancienne carrière calcaire à la sortie de Montbard, au bord de la D980 : une cinquantaine de voies courtes, de l'initiation au 8a.",
+    "massif": "Côte-d'Or (Bourgogne)",
+    "secteur": "Montbard (Mont Muzard)",
+    "coordonnees": {
+      "lat": 47.62641,
+      "lon": 4.34711,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Montbard",
+        "url": "https://www.camptocamp.org/waypoints/103903"
+      }
+    ],
+    "nb_voies": "env. 53 voies",
+    "cotations": "3b à 8a (médiane 5c+)",
+    "saison": "Toute l'année sauf janvier (février à décembre selon C2C) ; peut vite être très chaud en été",
+    "hauteur": "7 à 20 m (hauteur médiane 16 m)",
+    "orientation": "S",
+    "ambiance": "Calcaire varié (gris, noir, blanc crayeux, ocre, cristaux par endroits). Surtout de la dalle sur réglettes, mais aussi colonnettes, fissures, dièdres et dévers. Pied des voies herbeux avec tables et bancs à l'ombre, proche du centre-ville. Exposé à la pluie ; sans danger pour les enfants selon C2C.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "En voiture : env. 1 h 20 depuis Dijon. Depuis le centre de Montbard, suivre la D980 direction Châtillon-sur-Seine ; à la sortie de la ville, sous le Mont Muzard, panneau à gauche de la route. Se garer sur le petit parking de la D980 juste avant la falaise (accès direct au pied des voies) ou sur le grand parking route de Montmuzard, près du réservoir, au-dessus des falaises, puis descendre par le sentier. En train : gare de Montbard (TER et TGV Paris-Dijon), puis 1,5 km à pied (25 min).",
+    "materiel": "Rien d'indiqué pour la corde (voies de 20 m au plus). Prévoir de grandes sangles si on veut utiliser les points d'assurage au sommet.",
+    "secteurs": [],
+    "strategie": [
+      "Bon équipement selon C2C : surtout plaquettes et broches, en général pas plus de 2 m entre deux points ; relais chaînés avec mousqueton inox (rééquipement en 2007).",
+      "Descente en moulinette ou en rappel ; un chemin à gauche du site mène au sommet des voies.",
+      "Il peut vite faire très chaud en été (orientation sud), mais tables de pique-nique à l'ombre.",
+      "Accessible en train (gare de Montbard à 25 min à pied)."
+    ],
+    "retex": [],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 103903 (Montbard), consulté le 18/11/2026",
+      "Camptocamp : aucune sortie associée au 18/11/2026",
+      "Livres cités par C2C : France Roc 1 Bourgogne Auvergne (Jingo Wobbly, 2021) ; Escalade à Montbard (MJC de Montbard, 1995, épuisé) (non consultés)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "dun-les-places",
+    "type": "couenne",
+    "nom": "Dun-les-Places",
+    "sous_titre": "Cinq petits sites de granite le long de la Cure, dans le Morvan, peu fréquentés ; deux sont actuellement interdits.",
+    "massif": "Nièvre (Morvan, Bourgogne)",
+    "secteur": "Dun-les-Places, vallée de la Cure",
+    "coordonnees": {
+      "lat": 47.28409,
+      "lon": 4.01954,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif) ; chaque secteur a ses propres coordonnées sur C2C"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Dun les Places",
+        "url": "https://www.camptocamp.org/waypoints/102894"
+      },
+      {
+        "titre": "Dun les Places - Rocher du Chien",
+        "url": "https://www.camptocamp.org/waypoints/103830"
+      },
+      {
+        "titre": "Dun les Places - Rocher du Montal",
+        "url": "https://www.camptocamp.org/waypoints/103829"
+      },
+      {
+        "titre": "Dun les Places - Gués de Dun",
+        "url": "https://www.camptocamp.org/waypoints/103831"
+      },
+      {
+        "titre": "Dun les Places - Rocher des Vétérinaires",
+        "url": "https://www.camptocamp.org/waypoints/103822"
+      },
+      {
+        "titre": "Dun les Places - Pont du Vieux Dun",
+        "url": "https://www.camptocamp.org/waypoints/103832"
+      }
+    ],
+    "nb_voies": "env. 120 voies (ensemble des secteurs)",
+    "cotations": "pas de fourchette globale sur C2C ; selon les secteurs, du 3c au 8a",
+    "saison": "Avril à octobre (Rocher du Chien jusqu'en novembre ; Gués de Dun de fin avril à fin novembre selon la météo)",
+    "hauteur": "8 à 30 m selon les secteurs",
+    "orientation": "Surtout O (Gués de Dun O à S, Rocher des Vétérinaires NE)",
+    "ambiance": "Granite dans un cadre naturel superbe au bord de la Cure (surtout aux Gués de Dun). Voies de styles et niveaux variés, souvent techniques. Secteurs un peu délaissés : la mousse repousse par endroits. Exposé à la pluie selon C2C.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "Secteurs dispersés autour de Dun-les-Places : Montal en face du chalet du Montal, au bord de la route ; Rocher du Chien visible de la D6 (route du Montal à Saint-Brisson), à 1,5 km du Montal ; Pont du Vieux Dun et Gués de Dun par la route du Vieux Dun puis de Quarré-les-Tombes (voir les secteurs). Pas de point de parking enregistré sur C2C.",
+    "materiel": "Rocher du Chien : corde de 60 m pour descendre directement du second relais de « La Classique ». Gués de Dun : voies jusqu'à 30 m, rappel conseillé à plusieurs relais (granite agressif pour la corde).",
+    "secteurs": [
+      {
+        "nom": "Rocher du Chien",
+        "nb_voies": "env. 25 voies",
+        "cotations": "4c à 7b",
+        "description": "Au bord de la D6, deux aiguilles de granite, 8 à 30 m, face O. Bon équipement, relais chaînés. Voie phare « La Classique » (5b, dièdre puis cheminée). Conseillé par C2C comme alternative pendant la fermeture des Gués de Dun. Pas sûr pour les enfants selon C2C."
+      },
+      {
+        "nom": "Rocher du Montal",
+        "nb_voies": "env. 25 voies",
+        "cotations": "3c à 8a",
+        "description": "En face du chalet du Montal, au bord de la route. Deux rochers (un au soleil l'après-midi, un en sous-bois), 8 à 18 m, face O. Voies en 6 et 7 sur le rocher principal, secteur d'initiation du 3c au 5b. Broches et relais avec moulinox."
+      },
+      {
+        "nom": "Gués de Dun",
+        "nb_voies": "env. 52 voies",
+        "cotations": "4a à 7b+",
+        "description": "Le plus beau cadre, en forêt au bord de la rivière, 8 à 30 m, O à S, équipement P1/P1+. FERMÉ par l'ONF depuis août 2026 en attendant une convention et un rééquipement. De plus, voies 1 à 25 à ne pas grimper (spits non conformes, pas de relais)."
+      },
+      {
+        "nom": "Rocher des Vétérinaires",
+        "nb_voies": "env. 12 voies",
+        "cotations": "4c à 7c+",
+        "description": "Mur-dalle très technique, 15 à 25 m, face NE, à l'ombre l'après-midi. Accès INTERDIT par le propriétaire du terrain (info FFME 58, août 2024)."
+      },
+      {
+        "nom": "Pont du Vieux Dun",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Petite falaise de 8 à 15 m au-dessus de la route près du pont du Vieux Dun, un peu à l'abandon, équipée de spits (état à vérifier). Peu d'informations ; éviter le pierrier instable pour monter."
+      }
+    ],
+    "strategie": [
+      "Gués de Dun : falaise fermée par l'ONF (mise à jour C2C d'août 2026) en attendant une convention et un rééquipement : respecter l'interdiction.",
+      "Rocher des Vétérinaires : accès interdit par le propriétaire du terrain (info CT FFME 58, août 2024).",
+      "Gués de Dun : même après réouverture, ne pas grimper les voies 1 à 25 (équipement plus aux normes, pas de relais chaîné).",
+      "Région ombragée : la mousse repousse sur les voies peu fréquentées ; le Rocher du Chien est le plus grimpable selon C2C.",
+      "Hébergement : camping municipal de Dun-les-Places (tous les jours en juillet-août, week-ends seulement en mai, juin et septembre selon C2C, à vérifier).",
+      "Topo : « Escalades granitiques en Morvan » (Jean-Luc Scola, 1997, épuisé, disponible en PDF) ; France Roc 1 Bourgogne Auvergne (2021) pour trois secteurs."
+    ],
+    "retex": [
+      "02/08/2016 : un retour au Rocher du Chien signale un peu de lichen et de végétation par endroits ; « La Classique » (5b) est jugée pas si facile, et le toit en 6a « teigneux »."
+    ],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102894 (Dun les Places) et secteurs 103830, 103829, 103831, 103822, 103832, consultés le 18/11/2026",
+      "Camptocamp, sortie 784325, consultée le 18/11/2026",
+      "Livres cités par C2C : France Roc 1 Bourgogne Auvergne (Jingo Wobbly, 2021) ; Escalades granitiques en Morvan (J.-L. Scola, 1997) (non consultés)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "la-guignoterie",
+    "type": "couenne",
+    "nom": "La Guignoterie",
+    "sous_titre": "Petite falaise calcaire ombragée près d'Angles-sur-l'Anglin, aux voies très à doigts du 4 au 8b.",
+    "massif": "Vienne (Nouvelle-Aquitaine)",
+    "secteur": "Angles-sur-l'Anglin, vallée de l'Anglin",
+    "coordonnees": {
+      "lat": 46.66566,
+      "lon": 0.90589,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "La Guignoterie",
+        "url": "https://www.camptocamp.org/waypoints/102364"
+      }
+    ],
+    "nb_voies": "env. 126 voies",
+    "cotations": "3c à 8b (médiane 6b+)",
+    "saison": "Mars à octobre ; reste humide en hiver",
+    "hauteur": "jusqu'à 30 m",
+    "orientation": "E",
+    "ambiance": "Calcaire, dalle, mur vertical et dévers. Voies très à doigts (bidoigts, monodoigts). Falaise ombragée et sympathique. Exposée à la pluie ; très sûre pour les enfants selon C2C.",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "À 51 km à l'est de Poitiers, près de La Roche-Posay : Poitiers → Chauvigny → Angles-sur-l'Anglin. Accès officiel : direction Saint-Pierre-de-Maillé puis D5 vers Nalliers / Saint-Savin ; à une patte-d'oie, à gauche vers la colonie de vacances de Puygiralt (D135), puis suivre le panneau jusqu'aux falaises. Parking obligatoire, ne pas gêner la circulation sur le chemin de terre. Env. 10 min de marche. Autre possibilité : petit chemin le long de la rivière jusqu'au hameau de la ferme de la Guignoterie, s'y garer impérativement puis finir à pied.",
+    "materiel": "Rien d'indiqué sur C2C (voies jusqu'à 30 m).",
+    "secteurs": [
+      {
+        "nom": "La Dube (site voisin)",
+        "nb_voies": "env. 65 voies",
+        "cotations": "3b à 7b+ (médiane 6a)",
+        "description": "Falaise au bord de la route près de Mérigny, 20 à 33 m, face S/SO, rocher à trous, mur à gouttes d'eau et petits toits ; très chaude l'été, agréable en automne et début d'hiver. Escalade autorisée malgré un panneau contraire selon C2C ; attention aux fils téléphoniques. Voiture nécessaire depuis Angles. Fiche à part sur le site : « La Dube »."
+      }
+    ],
+    "strategie": [
+      "Ne pas grimper sur les falaises sous le château d'Angles (chutes de pierres, site classé).",
+      "Rééquipée récemment, mais certaines voies restent exposées sur les trois premiers points.",
+      "Falaise ombragée : bonne option quand il fait chaud ; C2C conseille de commencer à La Dube le matin puis de passer à la Guignoterie quand le soleil tape.",
+      "Depuis le camping d'Angles-sur-l'Anglin : 1 h 30 à pied ou 10-15 min en voiture."
+    ],
+    "retex": [],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102364 (La Guignoterie) et site 102365 (La Dube), consultés le 18/11/2026",
+      "Camptocamp : aucune sortie associée au 18/11/2026",
+      "Livres cités par C2C : « La Guignoterie » ; « Escalade dans l'Indre » (non consultés)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "chouvigny",
+    "type": "couenne",
+    "nom": "Chouvigny",
+    "sous_titre": "Petits rochers de granite au bord de la D915 dans les gorges boisées de la Sioule, peu fréquentés.",
+    "massif": "Allier (Auvergne)",
+    "secteur": "Chouvigny, gorges de la Sioule",
+    "coordonnees": {
+      "lat": 46.12534,
+      "lon": 2.98511,
+      "repere": "Point du site sur Camptocamp, géoréférencement approximatif selon C2C"
+    },
+    "parkings": [],
+    "camptocamp": [
+      {
+        "titre": "Chouvigny",
+        "url": "https://www.camptocamp.org/waypoints/102041"
+      }
+    ],
+    "nb_voies": "env. 63 voies",
+    "cotations": "non renseignées sur C2C (Roc Armand : du 4 au 6b)",
+    "saison": "Toute l'année sauf janvier (février à décembre selon C2C) ; « idéal pour ne pas perdre la main l'hiver »",
+    "hauteur": "jusqu'à 15 m",
+    "orientation": "O, SO",
+    "ambiance": "Granite excellent, voies variées : dièdres, fissures, toits, adhérence ; technique et un peu physique dans les toits. Gorges agréables et boisées. Exposé à la pluie ; sans danger pour les enfants selon C2C. Points en anneaux ou plaquettes, en bon état selon la description C2C (non datée).",
+    "equipement": null,
+    "cote_equipement": "",
+    "approche": "Autoroute A71, sortie 12 Ebreuil, D998 jusqu'à Ebreuil puis D915 vers Chouvigny. Après Chouvigny, continuer sur la D915 : Roc Armand environ 700 m plus loin à gauche au bord de la route, secteur du Tunnel environ 800 m plus loin. Plusieurs parkings le long de la route. Pas de temps de marche (falaise au bord de la route).",
+    "materiel": "Rien d'indiqué sur C2C (voies de 15 m au plus).",
+    "secteurs": [
+      {
+        "nom": "Roc Armand",
+        "nb_voies": "env. 6 voies décrites",
+        "cotations": "4 à 6b",
+        "description": "Rocher de 15 m face O, au bord de la route : 4 voies depuis la route (4, 5a, 5+, 6a) et 2 depuis la base près de la rivière (6a+, 6b). Sommet accessible par des marches. Bon pour apprendre."
+      },
+      {
+        "nom": "Le Tunnel",
+        "nb_voies": "",
+        "cotations": "",
+        "description": "Secteur plus important, environ 800 m après le Roc Armand ; pas de détail sur C2C."
+      }
+    ],
+    "strategie": [
+      "Grimpable toute l'année, notamment en hiver selon C2C.",
+      "Roc Armand au bord de la route (peu de circulation selon C2C).",
+      "Site peu fréquenté, peu documenté : C2C associe le topo « Top'Allier ». Il existe aussi des voies « sauvages » le long des gorges, rive droite (non décrites).",
+      "Position sur la carte approximative selon C2C : à vérifier sur place."
+    ],
+    "retex": [],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102041 (Chouvigny), consulté le 18/11/2026",
+      "Camptocamp : aucune sortie associée au 18/11/2026",
+      "Livre cité par C2C : Top'Allier (non consulté)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
+    "id": "falaises-de-saffres",
+    "type": "couenne",
+    "nom": "Falaises de Saffres",
+    "sous_titre": "Grande falaise calcaire plein sud de près de 400 voies au-dessus du village de Saffres, près de Dijon, rééquipée en 2021.",
+    "massif": "Côte-d'Or (Bourgogne)",
+    "secteur": "Saffres (rochers de Miraude)",
+    "coordonnees": {
+      "lat": 47.37168,
+      "lon": 4.58207,
+      "repere": "Point du site sur Camptocamp (pied des falaises approximatif)"
+    },
+    "parkings": [
+      {
+        "nom": "Saffres",
+        "lat": 47.37002,
+        "lon": 4.58496,
+        "altitude": 383
+      }
+    ],
+    "camptocamp": [
+      {
+        "titre": "Falaises de Saffres",
+        "url": "https://www.camptocamp.org/waypoints/102171"
+      },
+      {
+        "titre": "Saffres - Tour Carrée",
+        "url": "https://www.camptocamp.org/waypoints/103554"
+      }
+    ],
+    "nb_voies": "env. 390 voies ou variantes",
+    "cotations": "3c à 8b (majorité dans le 6 et le 7)",
+    "saison": "Avril à septembre ; grimpable toute l'année par soleil grâce à l'orientation sud",
+    "hauteur": "15 à 30 m (hauteur médiane 25 m)",
+    "orientation": "S (SSO) ; toutes orientations à la Tour Carrée",
+    "ambiance": "Calcaire, escalade surtout verticale ou déversante, aussi dalles et fissures ; lignes souvent très proches. Falaise de 400 m de long. Pied des voies assez ombragé, belle vue sur la campagne bourguignonne. Exposée à la pluie selon C2C ; la description dit « sans être idéale pour les enfants ».",
+    "equipement": "equipee",
+    "cote_equipement": "P1",
+    "approche": "En voiture depuis Dijon : sortie Sombernon, puis D905/D119 jusqu'à Saffres. Parking au-dessus du village (2 min en voiture), falaise à 5 min à pied. En bus : env. 45 min depuis Dijon (Mobigo), puis 15-30 min de marche par la petite route depuis le village.",
+    "materiel": "Rien d'indiqué pour la corde (la plupart des voies font au moins 25 m, jusqu'à 30 m). Coinceurs possibles dans de belles fissures ; le Groupe de l'Ouest se grimpe sur coinceurs.",
+    "secteurs": [
+      {
+        "nom": "Tour Carrée",
+        "nb_voies": "42 voies",
+        "cotations": "",
+        "description": "Rocher détaché de la falaise principale (20 m × 20 m, 30 m de haut), en face des voies 200 à 220. Toutes orientations, donc de l'ombre possible ; face O avec de superbes dalles. Partiellement abritée de la pluie selon C2C. Descente en moulinette ; relais 2 points chaînés + scellement."
+      },
+      {
+        "nom": "Groupe de l'Ouest",
+        "nb_voies": "une vingtaine",
+        "cotations": "",
+        "description": "Tout à gauche, à 300 m des voies sportives : voies d'environ 25 m à protéger sur coinceurs."
+      }
+    ],
+    "strategie": [
+      "Secteur 5 (voies 100 à 136) fermé du 15 février au 15 juin chaque année pour la nidification du faucon pèlerin.",
+      "Rééquipement en 2021 (Yannick Dupin) : l'un des équipements les plus rassurants de la région selon C2C, bonne école pour la tête. Relais sur 2 points chaînés + 1 scellement.",
+      "Par temps chaud : la Tour Carrée offre des faces à l'ombre.",
+      "Topo 2021 épuisé mais disponible en PDF sur le site de l'office de tourisme Terres d'Auxois ; un nouveau topo est en préparation selon C2C.",
+      "Camping sauvage possible près du parking ou au-dessus de la falaise, aire de camping (barbecue, tables) près du parking ; point d'eau au village, à gauche de la mairie (selon C2C, à vérifier)."
+    ],
+    "retex": [
+      "01/05/2011 : un retour (avant le rééquipement de 2021) signale un équipement bien espacé, un joli rocher et beaucoup de monde venu de la région parisienne.",
+      "01/05/2011 : un retour à la Tour Carrée signale que, malgré l'ombre, le rocher sèche vite après les averses.",
+      "16/04/2011 : un retour signale un rocher usé (patiné) jusque dans le 6a et un risque de chute de pierres réel dans ce calcaire en strates ; il cite « Dièdre à Leblanc » (5b) comme magnifique et bien équipé."
+    ],
+    "images": [],
+    "notes": "",
+    "sources": [
+      "Camptocamp, site 102171 (Falaises de Saffres), secteur 103554 (Tour Carrée) et point d'accès 237911 (Saffres), consultés le 18/11/2026",
+      "Camptocamp, sorties 316826, 316824, 595263 (et 1679309, 1200185 sans texte), consultées le 18/11/2026",
+      "Livres cités par C2C : Saffres (Y. Dupin / CC Terres d'Auxois, 2021) ; France Roc 1 Bourgogne Auvergne (Jingo Wobbly, 2021) (non consultés)"
+    ],
+    "projet": "Couenne autour d'Orléans",
+    "objectif": "",
+    "cotation_globale": "",
+    "cotation_libre_max": "",
+    "cotation_obligatoire": "",
+    "engagement": "",
+    "nb_longueurs": "",
+    "duree": "",
+    "descente": "",
+    "horaires": "",
+    "longueurs": []
+  },
+  {
     "id": "pointe-fourastier-voie-du-triangle",
     "nom": "Pointe Fourastier – Voie du Triangle (face N)",
     "sous_titre": "Voie de 1966 sur l'éperon du « Triangle », face N de l'Ailefroide au-dessus du Glacier Noir – départ du Pré de Madame Carle",
