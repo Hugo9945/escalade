@@ -1,5 +1,128 @@
 [
   {
+    "id": "aiguillette-du-lauzet-voie-davin",
+    "nom": "Petite Aiguillette du Lauzet – Voie Davin",
+    "sous_titre": "Voie historique de 1942 en cheminées sur la tour « dolomitique » visible depuis la route du Lautaret – départ du Pont de l'Alpe",
+    "massif": "Cerces – Thabor – Mont-Cenis (Hautes-Alpes)",
+    "secteur": "Aiguillette du Lauzet (2611 m), au-dessus du Pont de l'Alpe",
+    "coordonnees": {
+      "lat": 45.01839,
+      "lon": 6.47366,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Parking du Pont de l'Alpe (1710 m) : 45.01804, 6.46612"
+    },
+    "camptocamp": [
+      {
+        "titre": "Petite Aiguillette du Lauzet : Voie Davin",
+        "url": "https://www.camptocamp.org/routes/55831"
+      }
+    ],
+    "objectif": "Les 8 longueurs de la voie Davin d'origine (par l'approche historique ou l'attaque directe en 2 longueurs de V), puis sortie par la via ferrata ou les longueurs de sortie, et descente à pied.",
+    "cotation_globale": "D",
+    "cotation_libre_max": "5a (V-) ; attaque directe et sortie du haut plus dures (V à 6a, souvent en A0)",
+    "cotation_obligatoire": "4c",
+    "engagement": "II ; risque X2, exposition E2",
+    "hauteur": "300 m de difficultés ; 500 m d'approche (C2C)",
+    "nb_longueurs": "8 (+ 2 longueurs d'attaque directe et 3 de sortie en option)",
+    "orientation": "W, SW",
+    "duree": "1 jour",
+    "ambiance": "Voie montagne historique en cheminées et dièdres calcaires, sur une tour d'aspect dolomitique. « Escalade plutôt raide pour le niveau, rocher solide mais un peu patiné » (C2C) ; « ça grimpe à l'ancienne », le IV+ en cheminée surprend les grimpeurs habitués aux dalles modernes. Rocher jugé bon à fragile selon les retours : tester les prises. Beaucoup de pierrailles sur les vires. Face à l'ombre le matin (soleil vers 14 h). Ouverte par les abbés Blanc et Davin en juin 1942 ; entièrement rééquipée les 4-5 août 2025 (ONOS), en longueurs courtes.",
+    "statut": "engagee",
+    "envie": 1,
+    "projet": null,
+    "equipement": "equipee",
+    "cote_equipement": "P1+",
+    "approche": "Environ 1 h 30. Du parking du Pont de l'Alpe (route Briançon – Lautaret), chemin du chalet de l'Alpe du Lauzet, puis 1er chemin à droite (panneaux), qui part à l'horizontale ; le quitter après 5 min pour traverser l'alpage en légère montée vers le rif Lanterne (torrent parfois difficile à franchir au printemps), rejoindre le chemin du Roy, puis des éboulis vers le large couloir à droite du sommet, ou vers le socle plus à gauche pour l'attaque directe. Approche historique : remonter le couloir jusqu'à son rétrécissement, à gauche jusqu'à une épaule (cairn), traverser par une sente la banquette au-dessus du socle (éboulis exposés au-dessus de barres), large couloir vers la droite (un pas de II, goujon), sortir à gauche jusqu'au relais, puis traverser jusqu'au R0. Attaque directe : 2 longueurs en V dans le socle (dièdre avec spits et vieux piton, « Davin » gravé au pied), « très, très belles ». Plusieurs cordées ont perdu 1 h 30 ou plus à chercher le pied des cheminées.",
+    "descente": "Environ 1 h 30 à pied par un bon sentier jusqu'au Pont de l'Alpe, par le col de l'Aiguillette et l'Alpe du Lauzet, ou par le sentier du Pervou. Échappatoire depuis le replat de L8 : longer la paroi à gauche, désescalader une petite cheminée (II, rappel possible), rampe caillouteuse raide et exposée, puis remonter une dizaine de mètres jusqu'au câble de la via ferrata.",
+    "materiel": "10 dégaines dont des rallongeables, 3 sangles ; friends et câblés « si on est un peu juste dans le niveau » (C2C). Notre rack convient.",
+    "longueurs": [
+      {
+        "titre": "Voie Davin d'après C2C (cotations UIAA, g = goujons)",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "IV+",
+            "longueur": 25,
+            "cheminement": "Cheminée raide (4 goujons). Relais 2 goujons reliés."
+          },
+          {
+            "n": "L2",
+            "cotation": "IV+",
+            "longueur": 15,
+            "cheminement": "Cheminée, puis vire à droite jusqu'au relais (3 goujons). Ne pas suivre le piton dans l'axe (variante plus dure et exposée)."
+          },
+          {
+            "n": "L3",
+            "cotation": "IV",
+            "longueur": 35,
+            "cheminement": "Mur à droite, puis couloir herbeux facile vers la gauche (5 goujons)."
+          },
+          {
+            "n": "L4",
+            "cotation": "IV+",
+            "longueur": 20,
+            "cheminement": "Petit mur dalleux jusqu'à une niche à droite (1 piton, 3 goujons)."
+          },
+          {
+            "n": "L5",
+            "cotation": "IV+",
+            "longueur": 25,
+            "cheminement": "Cheminée raide puis plus facile (5 goujons) ; à droite à l'embranchement, relais au fond de la niche."
+          },
+          {
+            "n": "L6",
+            "cotation": "IV+",
+            "longueur": 15,
+            "cheminement": "Traversée à droite puis mur raide (2 goujons). Relais au pied du dièdre suivant."
+          },
+          {
+            "n": "L7",
+            "cotation": "V-",
+            "longueur": 25,
+            "cheminement": "Cheminée très raide, patinée au départ (8 goujons). Relais en rive gauche du dièdre."
+          },
+          {
+            "n": "L8",
+            "cotation": "IV",
+            "longueur": 30,
+            "cheminement": "À gauche vers la vire Davin, puis la cheminée la plus à gauche (6 goujons) ; relais sur un replat (2 goujons non reliés). Fin de la voie Davin d'origine : échappatoire par la via ferrata à gauche, ou sortie plus difficile au-dessus (V à 6a, souvent en A0)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Surtout ne pas s'engager derrière une autre cordée : le grand couloir et les vires canalisent les chutes de pierres.",
+      "Bien étudier la photo du tracé (page 2) : la recherche d'itinéraire, surtout pour trouver le pied des cheminées, est la principale difficulté selon beaucoup de retours.",
+      "Le rééquipement de 2025 en longueurs courtes rend la voie plus rassurante, mais les points restent parfois très espacés.",
+      "Échappatoire par la via ferrata après L8 si la météo menace ou si la fatigue se fait sentir.",
+      "Idée d'un retour de 2025 : venir de Briançon en VTT électrique et redescendre par les canaux."
+    ],
+    "retex": [
+      "19/08/2026 (après le rééquipement) : accès pas trouvé, montée droit dans la pente ; approche historique exposée, le mur de sa 2e longueur « pas si facile et improtégeable ». Belle voie, rocher souvent fragile ; équipement récent rassurant mais parfois bien espacé. Sortie par la via ferrata.",
+      "21/06/2026 : « bien montagne, belle voie » ; attaque directe. 9 h - 19 h parking-parking.",
+      "22/07/2025 : rocher meilleur qu'attendu, itinéraire assez logique ; attaque directe et sortie en 3 longueurs (un pas de 5c/6a en dalle). Beaucoup de pierrailles sur les vires : réfléchir avant de s'engager derrière une cordée. 6 h 15 dans la voie.",
+      "09/07/2025 : « des cotations bien épicées » ; perdus dans une voie à droite, réchappe pour retrouver la bonne entrée.",
+      "18/08/2023 : attaque historique et sortie par la via ferrata ; pas mal de petites pierres qui peuvent descendre. 6 h 30 - 13 h 30.",
+      "30/05/2023 : souvenir « franchement mitigé » : topo qui ne dit pas assez le côté montagne, rif Lanterne très haut, sortie par la via ferrata par usure de l'exposition et de la recherche d'itinéraire. 11 h parking-parking.",
+      "10/08/2021 : plus d'1 h 30 d'errance pour trouver le pied des cheminées ; pluie de petits cailloux derrière une cordée. Parkings pleins à 9 h en août. 9 h - 17 h 10.",
+      "2014-2017 : « ça grimpe à l'ancienne », cheminées et dièdres, rocher pas toujours bon ; le IV+ en cheminée surprend les grimpeurs habitués aux dalles."
+    ],
+    "horaires": "Approche 1 h à 1 h 30 ; voie 3 à 6 h ; descente 1 h à 1 h 30. 7 à 11 h parking-parking selon les retours.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/aiguillette-du-lauzet-voie-davin-trace.jpg",
+        "legende": "Tracé de la voie Davin (rouge) avec l'attaque directe en bas et l'approche par la vire (bleu) ; photo Camptocamp (image 137048, licence collaborative)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 55831 (Petite Aiguillette du Lauzet : Voie Davin) et point 104581 (le Pont de l'Alpe), consultés le 18/11/2026",
+      "Camptocamp, sorties 1942033 (19/08/2026), 1940423 (21/06/2026), 1795614 (22/07/2025), 1790195 (09/07/2025), 1571890 (18/08/2023), 1539683 (30/05/2023), 1338651 (10/08/2021), 1211812 (01/06/2020), 1681662 (07/10/2017), 921105 (14/08/2017), 669590 (21/08/2015), 547991 (01/08/2014), 456046 (16/08/2013), consultées le 18/11/2026",
+      "Image Camptocamp 137048 (licence collaborative)",
+      "Association ONOS, article « Rééquipement de la voie Davin à l'Aiguillette du Lauzet » (cité par C2C, non consulté)",
+      "Livres cités par C2C, non consultés : « Escalades faciles de Grenoble à Briançon », « Escalades du Briançonnais », « Guide des escalades du massif des Cerces », « Oisans Nouveau Oisans sauvage – Livre Est », « Escalades choisies », « Le Massif des Écrins – Les 100 plus belles courses »"
+    ]
+  },
+  {
     "id": "pointe-des-cineastes-traversee",
     "nom": "Pointe des Cinéastes – Traversée des arêtes",
     "sous_titre": "Traversée classique des pointes 1 à 5 (point culminant, 3205 m) sur une crête de 9 pointes, au-dessus du refuge du Glacier Blanc – depuis le Pré de Madame Carle",
