@@ -1,5 +1,157 @@
 [
   {
+    "id": "orage-d-etoiles-riviere-kwai",
+    "nom": "Orage d'étoiles – Rivière Kwaï",
+    "sous_titre": "Une des plus longues voies d'Ailefroide : 14 longueurs sur le granit d'Orage d'étoiles, avec le célèbre « pont » (un arbre au-dessus d'une gorge) – départ d'Ailefroide, route du Sélé",
+    "massif": "Écrins (Hautes-Alpes)",
+    "secteur": "Vallée d'Ailefroide, Orage d'étoiles",
+    "coordonnees": {
+      "lat": 44.88662,
+      "lon": 6.44478,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif)"
+    },
+    "camptocamp": [
+      {
+        "titre": "Vallée d'Ailefroide - Orage d'étoiles : Rivière Kwaï",
+        "url": "https://www.camptocamp.org/routes/57824"
+      }
+    ],
+    "objectif": "Les 14 longueurs jusqu'au sommet, puis 6 rappels hors voie (ou par la ligne de rappels d'Orage d'étoiles).",
+    "cotation_globale": "D+",
+    "cotation_libre_max": "5c+",
+    "cotation_obligatoire": "5c",
+    "engagement": "I ; exposition E1",
+    "hauteur": "500 m de difficultés ; 160 m d'approche (C2C)",
+    "nb_longueurs": "14",
+    "orientation": "E",
+    "duree": "1 jour",
+    "ambiance": "Granit d'Ailefroide, rocher excellent. Première partie en dalle « un peu monotone », deuxième partie (à partir de L8) « vraiment majeure » : éperons à knobs, passages aériens, « ambiance de fou » et la traversée insolite du pont-arbre. Rééquipée sur broches scellées (mairie de Vallouise-Pelvoux, bureau des guides, ONOS) : points rapprochés, un peu plus éloignés dans la dalle. Face E, en plein soleil le matin. Ouverte en 2004 par Jean-Michel Cambon.",
+    "statut": "bientot",
+    "envie": 2,
+    "projet": null,
+    "equipement": "equipee",
+    "cote_equipement": "P1",
+    "approche": "Environ 35 min. Juste avant l'hôtel-restaurant Engilberge à Ailefroide, prendre à gauche la route des parkings du Sélé et du Pelvoux ; se garer 50-100 m plus loin, à l'extérieur d'un léger virage à gauche. Le sentier monte presque tout droit jusqu'au site école des Étoiles (ne pas le quitter) ; au niveau de l'école, prendre à droite le sentier en traversée jusqu'au pied du Pilier du Levant. Attaque 5 m à gauche du Pilier du Levant ; ne pas monter dans la gorge vers un relais de rappel.",
+    "descente": "6 rappels hors voie (C2C) : R1 40 m droit dans la dalle ; R2 48 m (un toit en fil d'araignée, puis viser le relais en bas de la dalle) ; R3 48 m (mur puis couloir en V, rejoindre l'éperon rive gauche) ; R4 40 m peu raide, puis marcher sur une vire vers un éperon (cairn) ; R5 48 m vertical, viser la rive gauche du couloir ; R6 48 m jusqu'à une vire-sentier, fin à pied (2 vieilles cordes fixes, prudence). Autre option : du dernier relais de « Oh ! Désespoir » (10 m sous R14 à gauche), un rappel de 47 m mène à la ligne de rappels d'Orage d'étoiles (6 rappels + 1 facultatif). Rappels « à chercher, c'est vertical » ; bouchons possibles. Environ 1 h 30 à 2 h.",
+    "materiel": "Corde 2 × 50 m (C2C) : prendre notre corde double de 60 m (rappels de 48 m). Dégaines (environ 12-14), sangles.",
+    "longueurs": [
+      {
+        "titre": "D'après C2C",
+        "lignes": [
+          {
+            "n": "L1",
+            "cotation": "5b",
+            "longueur": 30,
+            "cheminement": "Traverser à gauche ; ne pas monter tout droit (on se retrouverait dans le Pilier du Levant). Le relais de L2 est au début de la traversée à gauche : ne pas enchaîner L1 et L2."
+          },
+          {
+            "n": "L2",
+            "cotation": "5c",
+            "longueur": 35,
+            "cheminement": ""
+          },
+          {
+            "n": "L3",
+            "cotation": "5c",
+            "longueur": 30,
+            "cheminement": ""
+          },
+          {
+            "n": "L4",
+            "cotation": "5b",
+            "longueur": 25,
+            "cheminement": "Possible d'enchaîner L3-L4 en gérant le tirage."
+          },
+          {
+            "n": "L5",
+            "cotation": "5c",
+            "longueur": 35,
+            "cheminement": "Relais 5 et 6 à chercher à droite de la ligne, le long du dièdre (points de la couleur du rocher)."
+          },
+          {
+            "n": "L6",
+            "cotation": "5a",
+            "longueur": 40,
+            "cheminement": "Échappatoire possible par les rappels du Pilier du Levant, mais la suite est la plus belle partie."
+          },
+          {
+            "n": "L7",
+            "cotation": "3a",
+            "longueur": 40,
+            "cheminement": "Monter quelques mètres au-dessus du relais (pas jusqu'à la crête) et traverser à l'horizontale à gauche (6 points peu visibles)."
+          },
+          {
+            "n": "L8",
+            "cotation": "5c+",
+            "longueur": 45,
+            "cheminement": "Dülfer, puis superbe petit éperon à knobs. Départ délicat."
+          },
+          {
+            "n": "L9",
+            "cotation": "5c+",
+            "longueur": 32,
+            "cheminement": "Dalle-éperon à knobs."
+          },
+          {
+            "n": "L10",
+            "cotation": "5c+",
+            "longueur": 20,
+            "cheminement": "Dalle-éperon à knobs ; possible d'enchaîner L9-L10."
+          },
+          {
+            "n": "L11",
+            "cotation": "4b",
+            "longueur": 35,
+            "cheminement": ""
+          },
+          {
+            "n": "L12",
+            "cotation": "5b",
+            "longueur": 25,
+            "cheminement": "Le « pont de la rivière Kwaï » : un arbre au-dessus d'une gorge verdoyante, corde fixe en place pour les mains, puis traversée. Possible d'enchaîner L11-L12."
+          },
+          {
+            "n": "L13",
+            "cotation": "5c+",
+            "longueur": 35,
+            "cheminement": "Mur vertical à grosses prises parfois éloignées, puis dalle."
+          },
+          {
+            "n": "L14",
+            "cotation": "4c",
+            "longueur": 40,
+            "cheminement": "Dalle couchée."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Partir tôt : face E en plein soleil le matin (« trop ensoleillée, douleur aux pieds »), et voie fréquentée.",
+      "Échappatoire après L6 par les rappels du Pilier du Levant.",
+      "Bien chercher les points et les relais 5-6 (couleur du rocher) et la traversée de L7.",
+      "Variante appréciée : grimper le Pilier du Levant (voisin, 6a) puis rejoindre la 2e partie de Rivière Kwaï (non étudié).",
+      "Tirage : éviter d'enchaîner L8 et L9 (retour de 2026)."
+    ],
+    "retex": [
+      "26/09/2026 : par le Pilier du Levant puis la 2e partie de Kwaï ; 7 h de voie, rappels jusqu'au pied en 30 min.",
+      "22/09/2026 : rocher excellent, équipement très bon ; 1re partie en dalle peu intéressante, avec des passages « un peu plus durs qu'annoncé (max 6a) » ; 2e partie « vraiment super », passages aériens. 8 h de voie, 2 h de descente.",
+      "05/09/2026 : Pilier du Levant puis 2e partie de Kwaï, « majeure ». Équipement impeccable, rocher solide. Plus de 10 h au total.",
+      "12/08/2026 : 1re partie un peu monotone, surprises dans la 2e. Relais de L2 au début de la traversée à gauche ; traversée de L7 à l'horizontale (6 points peu visibles). 8 h - 15 h descente comprise.",
+      "06/08/2026 : « trop ensoleillée, douleur aux pieds », mais la 2e partie compense. 7 h.",
+      "17/07/2026 : pied de voie 9 h, sommet 13 h 35 ; descentes en rappel à chercher.",
+      "23/08/2025 : très bien équipée, points plus éloignés dans la dalle et très proches dans le raide. Approche 35 min, voie 4 h, rappels 1 h 30 (petit bouchon).",
+      "31/07/2025 : rééquipée sur broches scellées, points rapprochés, relais à 2 points non reliés ; trois longueurs de knobs « magnifiques ». Départ 8 h, sommet 12 h 45."
+    ],
+    "horaires": "Approche 35 min ; voie 4 à 8 h ; rappels 1 h 30 à 2 h.",
+    "notes": "",
+    "images": [],
+    "sources": [
+      "Camptocamp, itinéraire 57824 (Vallée d'Ailefroide - Orage d'étoiles : Rivière Kwaï), consulté le 18/11/2026",
+      "Camptocamp, sorties 1954755 (26/09/2026), 1965771 (22/09/2026), 1950135 et 1949133 (05/09/2026), 1942954 (12/08/2026), 1936523 (06/08/2026), 1957324 (04/07/2026), 1928679 (17/07/2026), 1926127 (07/07/2026), 1809161 (23/08/2025), 1801061 (31/07/2025), consultées le 18/11/2026",
+      "Livres et topos cités par C2C, non consultés : « Oisans Nouveau Oisans sauvage – Livre Est », « Escalade plaisir – Alpes du Sud, Provence », « Escalades depuis Grenoble – Le topo doux » (2025)"
+    ]
+  },
+  {
     "id": "moulette-2e-tour-voie-vaillot",
     "nom": "Vallon de la Moulette, 2e Tour – Voie Vaillot",
     "sous_titre": "Vieille classique de 1956 en terrain d'aventure, à droite des voies équipées de la 2e Tour – départ de la piste du col de Buffère (route du Granon)",
