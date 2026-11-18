@@ -1,5 +1,111 @@
 [
   {
+    "id": "ailefroide-centrale-arete-de-coste-rouge",
+    "nom": "Ailefroide Centrale – Arête de Coste Rouge (arête N)",
+    "sous_titre": "Grande course d'arête de 1913 au-dessus du glacier Noir, du col de Coste Rouge (3192 m) au sommet (3927 m) – départ du Pré de Madame Carle ou du refuge Temple-Écrins",
+    "massif": "Écrins (Hautes-Alpes)",
+    "secteur": "Ailefroide Centrale, cirque du glacier Noir",
+    "coordonnees": {
+      "lat": 44.89415,
+      "lon": 6.35803,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Pré de Madame Carle : 44.91717, 6.41619"
+    },
+    "camptocamp": [
+      {
+        "titre": "Ailefroide Centrale : Arête de Coste Rouge (arête N)",
+        "url": "https://www.camptocamp.org/routes/55257"
+      },
+      {
+        "titre": "Ailefroide Centrale : itinéraire de descente",
+        "url": "https://www.camptocamp.org/routes/183556"
+      }
+    ],
+    "objectif": "L'arête de Coste Rouge du col au sommet de l'Ailefroide Centrale, en 2 jours avec bivouac (au col, sur l'arête ou au sommet), puis descente sur le glacier de l'Ailefroide et par la voie normale de l'Ailefroide Orientale vers le Sélé et Ailefroide.",
+    "cotation_globale": "D",
+    "cotation_libre_max": "4c (IV+)",
+    "cotation_obligatoire": "4c",
+    "engagement": "IV ; risque X4, exposition E5",
+    "hauteur": "800 m de difficultés ; 1320 m d'approche depuis le Pré de Madame Carle (C2C)",
+    "nb_longueurs": "Non détaillé (arête, souvent en corde tendue)",
+    "orientation": "N",
+    "duree": "2 à 3 jours",
+    "ambiance": "« Un bon exemple de la grande course de niveau D en terrain montagne » (C2C) : peu de difficultés techniques, mais itinéraire engagé et sérieux, qui demande le sens de l'itinéraire. Cadre exceptionnel, « l'une des plus belles courses du massif » selon le Labande, « mais le rocher est souvent médiocre » (C2C). Gneiss : alternance de très bons passages (traversée côté W après le col, Tour du Géant) et de rocher « vivant, voire très vivant ». Neige et glace possibles en début de saison. Peu d'équipement en place. Première ascension le 01/07/1913 par Angelo Dibona et Guido Mayer.",
+    "statut": "materiel",
+    "envie": 3,
+    "projet": null,
+    "equipement": "trad",
+    "cote_equipement": "P3+",
+    "approche": "Du Pré de Madame Carle (1874 m), 3 h jusqu'au fond du cirque + 1 h jusqu'au col : sentier du Glacier Blanc, quitté au 3e lacet pour la moraine en rive gauche du glacier Noir ; à son sommet (2445 m, bivouac des Balmes de François-Blanc), descendre sur le glacier (cairn), traverser vers le rognon de l'arête E du Pic Coolidge, monter par une pente de neige et remonter le glacier jusqu'au plateau supérieur de la branche S du glacier Noir, puis vers l'W jusqu'au fond du cirque (très bon bivouac sur sable avec de l'eau sous le col). Depuis le refuge Temple-Écrins (1 h 30 à 2 h 30) : sentier du col de la Temple, quitté au point 2618 m pour continuer à niveau, couloir facile (cairns) à travers la ligne de barres, épaule au pied de l'arête W du Pic de la Temple, puis glacier de Coste Rouge (pierrier instable sur glace vive en 2026). Montée au col de Coste Rouge (3192 m, brèche à gauche de l'Aiguille de Coste Rouge) par le couloir de neige en rive gauche : « très délicat en rocher sableux instable, chutes de pierres spontanées » ; selon les retours, soit dans la cascade (rocher meilleur mais on finit trempé), soit à côté dans du sable vertical improtégeable.",
+    "descente": "Voir l'itinéraire de descente de l'Ailefroide Centrale (C2C 183556). Du sommet, arête vers l'E sur une centaine de mètres jusqu'à une brèche, puis rive gauche du large couloir du sommet ; avant le goulet, soit à gauche vers un épaulement, rochers raides puis larges terrasses (délicat) et 2 rappels (30 et 35 m) jusqu'au glacier ; soit de l'autre côté du fil à la 2e brèche, désescalade d'un mur prisu, vire à gauche et rampe jusqu'au glacier sous la Pointe Fourastier. Ligne de rappels possible (sangles puis pitons, dernier rappel de 50 m au-dessus de la rimaye) mais déconseillée s'il y a plusieurs cordées : le dernier rappel est « extrêmement exposé aux chutes de pierres ». Sur le glacier de l'Ailefroide : très conseillé de descendre 100 m, traverser vers l'E jusqu'à un petit éperon, remonter 50 m et rejoindre la voie normale de l'Ailefroide Orientale (descente vers le Sélé). Les descentes directes par le glacier ne sont praticables qu'en (tout) début de saison. Descente longue et délicate, « à ne pas sous-estimer, surtout en cas d'arrivée tardive au sommet » (C2C) ; 4 h 30 à 10 h selon les retours.",
+    "materiel": "Coinceurs, friends, sangles ; quelques pitons et cordelettes au cas où (C2C). Plus le matériel de glacier et d'alpinisme : crampons, piolet, matériel de sécurité sur glacier, et matériel de bivouac. Absents de notre inventaire : crampons, piolet, matériel de glacier, pitons, matériel de bivouac (sacs de couchage et matelas sont dans la liste « À acheter »).",
+    "longueurs": [
+      {
+        "titre": "D'après C2C (arête décrite par sections, cotations UIAA)",
+        "lignes": [
+          {
+            "n": "Col → Dents de Coste Rouge",
+            "cotation": "facile à IV",
+            "longueur": null,
+            "cheminement": "Du col, sur le fil légèrement à droite jusqu'à une brèche carrée profonde (bivouac possible). Flanc gauche par des vires plus ou moins ascendantes jusqu'à la brèche au S des Dents de Coste Rouge (3373 m). Variante si les vires sont enneigées : traverser l'arête par un trou, 2 longueurs de IV et un rappel de 20 m."
+          },
+          {
+            "n": "Tour Pointue → Tour du Géant",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Contourner la Tour Pointue (3433 m) par la droite : petite vire, gros blocs (III), traverser à droite jusqu'à la brèche au pied de la Tour du Géant (3618 m) (2 h depuis le col)."
+          },
+          {
+            "n": "Tour du Géant",
+            "cotation": "IV (ou IV+)",
+            "longueur": null,
+            "cheminement": "Légèrement à gauche du fil, puis sur le fil du pilier raide en bon rocher (IV, 1 piton) jusqu'à une terrasse (relais 2 pitons). Contourner la flèche sommitale par la gauche (III, compact, peu protégeable), ou par la droite : dalle en III puis une longueur en IV+ (pitons). Puis arête facile mais très instable, rochers instables ou neige, jusqu'au pied d'une dernière tour (4 h)."
+          },
+          {
+            "n": "Dernière tour → sommet",
+            "cotation": "IV+",
+            "longueur": null,
+            "cheminement": "Contourner la tour par une vire à droite au-dessus de la face NW, rejoindre la brèche, 50 m tout droit jusqu'à une cheminée-dièdre de rochers rouges (IV+, 1 piton, bon rocher), puis rochers brisés jusqu'à l'arête faîtière ; sommet quelques mètres à l'W (1 h 30). Fin en rocher particulièrement mauvais selon un retour de 2026."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Plusieurs options (C2C) : à la journée depuis le Pré (très long), bivouac sous le col sur le glacier Noir (eau, gain de 3 h), ou bivouac sur l'arête : au col, derrière la brèche carrée (30 min), à la brèche Dents/Tour Pointue (1 h 30, sans eau), derrière la Tour du Géant (4-5 h), ou au sommet (2 places abritées). Plusieurs retours ont apprécié le bivouac au sommet.",
+      "Chutes de pierres : éviter d'être derrière une autre cordée (« ça tombe, ça roule, ça cogne »). Dans le couloir du col, faire de grandes longueurs avec le second à l'abri, ou monter sans corde dans le terrain facile.",
+      "Sens de l'itinéraire indispensable : « les erreurs se payeront cher en heures perdues ». Récit détaillé avec photos : Matthieu Brignon, « Un petit tour dans les Écrins, arête de Coste Rouge » (montagne-guide-alpes.fr, 2017), et page du guide Robin Revest (mise à jour des accès 2023).",
+      "Pas d'eau sur l'arête quand elle est sèche, seulement sur le glacier Noir.",
+      "Glacier de l'Ailefroide de plus en plus crevassé en saison : repérer la descente avant si possible."
+    ],
+    "retex": [
+      "11-13/09/2026 : « ma plus belle course » ; 7 h sur l'arête, puis 10 h du sommet au refuge du Sélé « suite à une accumulation de galères ». Glacier en glace vive, crevasses bien ouvertes ; glacier de Coste Rouge en pierrier instable.",
+      "20-21/07/2026 : cadre « dingue », description C2C « étonnamment excellente ». Montée au col rive gauche en rocher pourri mais facile. Arête sèche, eau seulement sur le glacier Noir. 3 h d'approche, 30 min pour le col, 3 h sur l'arête, 3 h de descente au Sélé (hors pauses et bivouac).",
+      "12-13/07/2026 : bivouac au sommet, « mythique ». Première longueur sous le col dans le sable et le rocher instable ; arête en corde tendue, recherche d'itinéraire parfois pas évidente. Très peu d'équipement, rocher souvent médiocre. Pré 9 h 30, sommet 19 h.",
+      "23/06/2026 : topo très bien fait ; fin vague, cailloux particulièrement mauvais, 1 h pour sortir le dernier pas. Ligne de rappels dans une cascade, cordes qui coincent.",
+      "05/07/2025 : à la journée (départ 2 h 30, sommet 13 h 30, Ailefroide 21 h). Plusieurs cordées dans l'arête : « ça tombe, ça roule, ça cogne, ça tape la tête et les doigts ».",
+      "27-28/06/2025 : neige au bivouac de la brèche des Dents ; douche dans la montée au col. Dernier rappel de la brèche « véritable coupe-gorge », ligne de rappels dangereuse (coincements, chutes de blocs).",
+      "19-20/08/2024 : montée au col « atroce » ; rocher globalement très mauvais, parfois dangereux ; quasi pas d'équipement ; sommet à 21 h 30.",
+      "03-04/08/2024 : bivouac au sommet « top », névé juste dessous pour l'eau. Arête qui alterne le très bon et l'horrible ; quelques pitons et sangles. Pré 7 h 10, col 11 h 10, sommet 19 h ; le lendemain, pied des rappels à 9 h.",
+      "09/07/2024 : à la journée ; encore neige et glace, grimpe en grosses avec des sections en crampons. Départ 2 h, col 7 h, sommet 14 h 30, refuge du Sélé 19 h 30. « Conditions idéales si on est à l'aise en terrain mixte facile en crampons. »",
+      "31/07/2023 (guide) : demande de l'expérience en terrain montagne ; rocher plutôt correct en suivant le fil.",
+      "27-28/07/2022 : « rocher exécrable tout au long de la course », glacier très crevassé, descente par celui-ci impossible ; ne recommande pas la course.",
+      "08-09/07/2022 : voie en conditions exceptionnelles, mais approche et descente « un vrai chantier » : 20 m dans du sable vertical sous le col, rappels dans une cascade, glacier en soupe ; presque 9 h pour descendre du sommet."
+    ],
+    "horaires": "Approche 3 à 5 h depuis le Pré jusqu'au col ; arête 3 à 9 h ; descente 3 à 10 h jusqu'au Sélé ou Ailefroide. Les retours à la journée font 17 à 19 h d'effort.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/ailefroide-centrale-coste-rouge-reperes.jpg",
+        "legende": "L'arête de Coste Rouge vue du glacier Noir, avec ses repères (col de Coste Rouge, Dents, Tour Pointue, Tour du Géant, Ailefroide Centrale) ; photo Camptocamp (image 137535, licence collaborative)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 55257 (Ailefroide Centrale : Arête de Coste Rouge, arête N), consulté le 18/11/2026",
+      "Camptocamp, sorties 1953519 (11-13/09/2026), 1930748 (20-21/07/2026), 1927588 (12-13/07/2026), 1920345 (23/06/2026), 1788700 (05/07/2025), 1787403 (27-28/06/2025), 1682257 (19-20/08/2024), 1673173 (03-04/08/2024), 1662564 (09/07/2024), 1662067 (08-09/07/2024), 1564794 (31/07/2023), 1450311 (27-28/07/2022), 1496796 (08-09/07/2022), 1400789 (29/09/2021), 1334089 (22/07/2021), consultées le 18/11/2026",
+      "Image Camptocamp 137535 (licence collaborative)",
+      "Livres cités par C2C, non consultés : « Guide du Haut-Dauphiné, tome 2 », « Le Massif des Écrins – Les 100 plus belles courses », « Oisans Nouveau Oisans sauvage – Livre Est », « Montagnes Magazine n° 344 »"
+    ]
+  },
+  {
     "id": "pic-sans-nom-chapoutot-lemoine",
     "nom": "Pic Sans Nom – Voie Chapoutot-Lemoine (face NW)",
     "sous_titre": "Course d'alpinisme de 1971 : glacier Noir, puis 550 m de paroi en granit puis gneiss jusqu'au sommet (3913 m) – départ du Pré de Madame Carle, bivouac aux Balmes de François-Blanc",
