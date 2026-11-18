@@ -86,8 +86,79 @@ function dureeDe(voie) {
   return "";
 }
 
+/* ---------- Filtre météo (prévisions Open-Meteo pour toutes les voies d'un coup) ---------- */
+let meteoJour = ""; // date "AAAA-MM-JJ" choisie, ou "" (pas de filtre)
+let meteoCondition = "beau"; // beau / sec / toutes
+let meteoVeille = false; // exiger aussi une veille sans pluie
+let meteoDonnees = null; // { "lat,lon": { time:[], code:[], pluie:[], tmax:[], tmin:[] } }
+let meteoChargement = null;
+
+const cleCoord = (c) => `${c.lat},${c.lon}`;
+
+async function chargerMeteoToutes() {
+  if (meteoDonnees) return meteoDonnees;
+  if (meteoChargement) return meteoChargement;
+  const coords = [...new Map(points.map((p) => [cleCoord(p.voie.coordonnees), p.voie.coordonnees])).values()];
+  const url =
+    "https://api.open-meteo.com/v1/forecast?" +
+    new URLSearchParams({
+      latitude: coords.map((c) => c.lat).join(","),
+      longitude: coords.map((c) => c.lon).join(","),
+      daily: "weather_code,precipitation_sum,temperature_2m_max,temperature_2m_min",
+      timezone: "auto",
+      forecast_days: 14,
+      past_days: 1,
+    });
+  meteoChargement = fetch(url)
+    .then((r) => {
+      if (!r.ok) throw new Error();
+      return r.json();
+    })
+    .then((rep) => {
+      const liste = Array.isArray(rep) ? rep : [rep];
+      meteoDonnees = {};
+      coords.forEach((c, i) => {
+        const d = liste[i]?.daily;
+        if (d) meteoDonnees[cleCoord(c)] = { time: d.time, code: d.weather_code, pluie: d.precipitation_sum, tmax: d.temperature_2m_max, tmin: d.temperature_2m_min };
+      });
+      return meteoDonnees;
+    })
+    .finally(() => (meteoChargement = null));
+  return meteoChargement;
+}
+
+// Météo d'une voie pour le jour choisi : { code, pluie, pluieVeille, tmax, tmin } ou null.
+function meteoDe(voie) {
+  if (!meteoJour || !meteoDonnees) return null;
+  const d = meteoDonnees[cleCoord(voie.coordonnees)];
+  if (!d) return null;
+  const i = d.time.indexOf(meteoJour);
+  if (i < 0) return null;
+  return { code: d.code[i], pluie: d.pluie[i] ?? 0, pluieVeille: i > 0 ? d.pluie[i - 1] ?? 0 : null, tmax: d.tmax[i], tmin: d.tmin[i] };
+}
+
+// Beau : soleil ou peu nuageux, sans pluie. Sec : pas de pluie ni neige (nuages et brouillard acceptés).
+function meteoConvient(m) {
+  if (!m) return false;
+  if (meteoVeille && m.pluieVeille !== null && m.pluieVeille >= 1) return false;
+  if (meteoCondition === "beau") return m.code <= 2 && m.pluie < 0.5;
+  if (meteoCondition === "sec") return m.code < 51 && m.pluie < 1;
+  return true;
+}
+
+function pictoMeteo(code) {
+  if (code === 0) return "☀️";
+  if (code <= 2) return "🌤";
+  if (code === 3) return "☁️";
+  if (code <= 48) return "🌫";
+  if (code <= 67 || (code >= 80 && code <= 82)) return "🌧";
+  if (code <= 77 || code === 85 || code === 86) return "🌨";
+  return "⛈";
+}
+
 function correspondAuxFiltres(voie) {
   if (!statutsCoches.has(voie.statut)) return false;
+  if (meteoJour && meteoDonnees && !meteoConvient(meteoDe(voie))) return false;
   if (envieMin && !((voie.envie || 0) >= envieMin)) return false;
   if (equipementChoisi && voie.equipement !== equipementChoisi) return false;
   if (projetChoisi === SANS_PROJET && voie.projet) return false;
@@ -114,9 +185,13 @@ function appliquerFiltres() {
       nb++;
     } else marqueur.remove();
   }
-  document.getElementById("nb-visibles").textContent = `${nb} voie${nb > 1 ? "s" : ""} affichée${nb > 1 ? "s" : ""}`;
+  let texte = `${nb} voie${nb > 1 ? "s" : ""} affichée${nb > 1 ? "s" : ""}`;
+  if (meteoJour && meteoDonnees && meteoCondition !== "toutes") {
+    texte = `${nb} voie${nb > 1 ? "s" : ""} ${meteoCondition === "beau" ? "au beau" : "au sec"} ${nomJour(meteoJour)}`;
+  }
+  document.getElementById("nb-visibles").textContent = texte;
   // Nombre de menus réglés dans « Plus de filtres » (pour ne pas oublier un filtre actif quand c'est replié).
-  const actifs = [equipementChoisi, envieMin, projetChoisi, zoneChoisie, cotationMax !== null, orientationChoisie, dureeChoisie].filter(Boolean).length;
+  const actifs = [equipementChoisi, envieMin, projetChoisi, zoneChoisie, cotationMax !== null, orientationChoisie, dureeChoisie, meteoJour].filter(Boolean).length;
   document.getElementById("nb-filtres-actifs").textContent = actifs ? String(actifs) : "";
 }
 
@@ -124,6 +199,27 @@ function appliquerFiltres() {
 function cadrerSurVisibles() {
   const visibles = points.filter((p) => correspondAuxFiltres(p.voie)).map((p) => p.marqueur.getLatLng());
   if (visibles.length) carte.fitBounds(L.latLngBounds(visibles), { padding: [40, 40], maxZoom: 13 });
+}
+
+// « samedi 22 » ; « aujourd'hui » / « demain » pour les deux premiers jours.
+function nomJour(date) {
+  const auj = new Date();
+  const d = new Date(date + "T12:00");
+  const ecart = Math.round((d - new Date(auj.getFullYear(), auj.getMonth(), auj.getDate(), 12)) / 86400000);
+  if (ecart === 0) return "aujourd'hui";
+  if (ecart === 1) return "demain";
+  return d.toLocaleDateString("fr-FR", { weekday: "long", day: "numeric" });
+}
+
+function lignePopupMeteo(voie) {
+  const m = meteoDe(voie);
+  if (!m) return "";
+  return `<p class="meteo-popup">${pictoMeteo(m.code)} ${echapper(nomJour(meteoJour))} : ${Math.round(m.tmax)}° / ${Math.round(m.tmin)}°, pluie ${m.pluie ? m.pluie.toFixed(1) : 0} mm${m.pluieVeille >= 1 ? ` (veille : ${m.pluieVeille.toFixed(1)} mm)` : ""}</p>`;
+}
+
+// Met à jour le contenu des bulles (après chargement ou changement de jour météo).
+function rafraichirBulles() {
+  for (const { voie, marqueur } of points) marqueur.setPopupContent(resume(voie));
 }
 
 function resume(voie) {
@@ -139,6 +235,7 @@ function resume(voie) {
     ${blocSuggestion(voie)}
     <p class="equipement-popup">${formeSVG(voie.equipement, STATUTS[voie.statut]?.couleur || "#777", 14)} Équipement : ${echapper(texteEquipement(voie))}</p>
     ${lignes.map((l) => `<p>${echapper(l)}</p>`).join("")}
+    ${lignePopupMeteo(voie)}
     <a class="lien-fiche" href="${lienVoie(voie)}">Voir la fiche complète →</a>
   </div>`;
 }
@@ -203,6 +300,39 @@ function construireFiltres(voies) {
     dureeChoisie = e.target.value;
     appliquerFiltres();
   });
+
+  // Météo : choix du jour (aujourd'hui + 13 jours), de la condition, et « sec depuis 24 h ».
+  const choixJour = document.getElementById("filtre-meteo-jour");
+  const choixCondition = document.getElementById("filtre-meteo-condition");
+  const caseVeille = document.getElementById("filtre-meteo-veille");
+  const etat = document.getElementById("meteo-etat");
+  const auj = new Date();
+  for (let i = 0; i < 14; i++) {
+    const d = new Date(auj.getFullYear(), auj.getMonth(), auj.getDate() + i, 12);
+    const iso = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+    const libelle = i === 0 ? "Aujourd'hui" : i === 1 ? "Demain" : d.toLocaleDateString("fr-FR", { weekday: "short", day: "numeric", month: "short" });
+    choixJour.add(new Option(i >= 7 ? `${libelle} (indicatif)` : libelle, iso));
+  }
+  async function majMeteo() {
+    meteoJour = choixJour.value;
+    meteoCondition = choixCondition.value;
+    meteoVeille = caseVeille.checked;
+    choixCondition.disabled = caseVeille.disabled = !meteoJour;
+    if (meteoJour && !meteoDonnees) {
+      etat.textContent = "Chargement de la météo…";
+      try {
+        await chargerMeteoToutes();
+        etat.textContent = "";
+      } catch (e) {
+        etat.textContent = "Météo indisponible (pas de connexion ?)";
+      }
+    }
+    rafraichirBulles();
+    appliquerFiltres();
+  }
+  choixJour.addEventListener("change", majMeteo);
+  choixCondition.addEventListener("change", majMeteo);
+  caseVeille.addEventListener("change", majMeteo);
 
   // Recherche : filtre en direct ; Entrée cadre la carte sur les résultats.
   const champ = document.getElementById("filtre-recherche");

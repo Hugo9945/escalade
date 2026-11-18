@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
-  <script src="js/verrou.js?v=28"></script>
+  <script src="js/verrou.js?v=29"></script>
   <title>Carte des voies – Sac à topos</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -16,7 +16,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
-  <link rel="stylesheet" href="css/style.css?v=28">
+  <link rel="stylesheet" href="css/style.css?v=29">
 </head>
 <body class="page-carte">
   <header class="entete">
@@ -91,6 +91,18 @@
           <option value="plusieurs">Plusieurs jours</option>
         </select>
       </label>
+      <div class="filtre-meteo">
+        <label class="projet">Météo
+          <select id="filtre-meteo-jour"><option value="">Sans filtre</option></select>
+        </label>
+        <select id="filtre-meteo-condition" aria-label="Condition météo" disabled>
+          <option value="beau">☀️ Beau</option>
+          <option value="sec">🌤 Sec</option>
+          <option value="toutes">🌧 Toutes</option>
+        </select>
+        <label class="projet sec-veille"><input type="checkbox" id="filtre-meteo-veille" disabled> Sec depuis 24 h</label>
+        <span class="meteo-etat" id="meteo-etat"></span>
+      </div>
         </div>
       </details>
       </div>
@@ -98,8 +110,8 @@
     <div id="carte"></div>
   </main>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="js/commun.js?v=28"></script>
-  <script src="js/carte.js?v=28"></script>
-  <script src="js/hors-ligne.js?v=28"></script>
+  <script src="js/commun.js?v=29"></script>
+  <script src="js/carte.js?v=29"></script>
+  <script src="js/hors-ligne.js?v=29"></script>
 </body>
 </html>
