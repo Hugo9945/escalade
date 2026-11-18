@@ -79,7 +79,13 @@
     "duree": "",
     "descente": "",
     "horaires": "",
-    "longueurs": []
+    "longueurs": [],
+    "topos": [
+      {
+        "titre": "Topo de Hauteroche 2026 (FSGT / Cordée 13, PDF)",
+        "url": "https://wp-api.cordee13.fr/wp-content/uploads/2026/09/Topo-Hauteroche.pdf"
+      }
+    ]
   },
   {
     "type": "couenne",
@@ -184,7 +190,17 @@
     "duree": "",
     "descente": "",
     "horaires": "",
-    "longueurs": []
+    "longueurs": [],
+    "topos": [
+      {
+        "titre": "Topo visuel du Coteau (Club alpin Étoile Balgentienne, PDF)",
+        "url": "https://etoile-balgentienne.ffcam.fr/csx/scripts/downloader2.php?filename=T004/fichier/4f/10/1pz5z4vx5lak&mime=application%2Fpdf&originalname=Topo_visuel_coteau.pdf"
+      },
+      {
+        "titre": "Page du site (Club alpin Étoile Balgentienne)",
+        "url": "https://etoile-balgentienne.ffcam.fr/coteau.html"
+      }
+    ]
   },
   {
     "type": "couenne",
@@ -670,7 +686,13 @@
     "duree": "",
     "descente": "",
     "horaires": "",
-    "longueurs": []
+    "longueurs": [],
+    "topos": [
+      {
+        "titre": "Topo Le Larris (CEB Escalade, juillet 2026, PDF)",
+        "url": "https://www.ceb-escalade.fr/wp-content/uploads/2026/08/TOPO-LE-LARRIS-ST-MAXIMIN-bis.pdf"
+      }
+    ]
   },
   {
     "id": "beauvoir",
@@ -766,7 +788,17 @@
     "duree": "",
     "descente": "",
     "horaires": "",
-    "longueurs": []
+    "longueurs": [],
+    "topos": [
+      {
+        "titre": "Fiche du site avec une partie des voies (Département de la Vienne, 2026, PDF)",
+        "url": "https://sportsnature.lavienne86.fr/fileadmin/Minisites/Sports_nature/activites_1920x600/WEB-Escalade_Beauvoir-Activit%C3%A9s_sports_nature.pdf"
+      },
+      {
+        "titre": "Ancien topo de Beauvoir (2008, hébergé par le CT FFME 17, PDF)",
+        "url": "https://www.ctffme17.org/app/download/4759995161/Topobeauvoir.pdf"
+      }
+    ]
   },
   {
     "id": "saint-vaast-les-mello",
@@ -936,7 +968,17 @@
     "duree": "",
     "descente": "",
     "horaires": "",
-    "longueurs": []
+    "longueurs": [],
+    "topos": [
+      {
+        "titre": "Topo Les Glachoirs (L. Petit, diffusé par la FFME Hauts-de-France, PDF)",
+        "url": "https://hdf.ffme.fr/uploads/2026/04/topo-escalade-161223_compressed-2.pdf"
+      },
+      {
+        "titre": "Site Les Glachoirs (topo en ligne)",
+        "url": "https://lesglachoirs.fr/"
+      }
+    ]
   },
   {
     "id": "vieux-chateau-rocher-sainte-catherine",
@@ -1064,7 +1106,13 @@
     "duree": "",
     "descente": "",
     "horaires": "",
-    "longueurs": []
+    "longueurs": [],
+    "topos": [
+      {
+        "titre": "Topo des Roches Sainte-Catherine (CC Terres d'Auxois, PDF)",
+        "url": "https://ccterres-auxois.fr/wp-content/uploads/2026/06/vieux_chateau.pdf"
+      }
+    ]
   },
   {
     "id": "val-saint-martin-les-andelys",
@@ -1097,6 +1145,7 @@
     "materiel": "Cordes de 60 m et 14 dégaines, casque (recommandations de l'agglomération). Relais chaînés sur toutes les voies. Préférer le rappel à la moulinette pour éviter que la corde frotte sur un silex.",
     "secteurs": [],
     "strategie": [
+      "Le CT FFME 27 a suspendu certaines voies (secteurs 7 et 8 du topo 2018) après expertise : respecter la signalisation.",
       "Site naturel d'escalade promu par Seine Normandie Agglomération (fiche 2026), aucune interdiction trouvée.",
       "Coteaux protégés : rester sur les chemins d'accès, ne pas prendre les raccourcis. Rapaces observables (fiche de l'agglomération).",
       "Plein sud et exposé : peu d'ombre (quelques arbres) ; pique-nique possible sur la pelouse du parking.",
@@ -1117,7 +1166,8 @@
       "Camptocamp, sorties 1539357, 1539365, 1098996, 913524, 765157, 546769, 511249, 295304, 252208, consultées le 18/11/2026",
       "Topo cité par C2C : « Escalade dans l'Eure – Falaises du Bord de Seine », CD 27 FFME, 2009",
       "Seine Normandie Agglomération / Geotrek Eure, fiche « Site Naturel d'Escalade des Andelys » – https://prod-geotrek-cd27-admin.makina-corpus.net/api/fr/sites/34/site-naturel-descalade-des-andelys.pdf – consulté le 18/11/2026",
-      "Oblyk, fiche du topo « Escalade dans l'Eure – Falaises du bord de Seine » (CT FFME de l'Eure, édition 2026, fiche mise à jour le 05/11/2026) – https://oblyk.org/guide-book-papers/356/escalade-dans-l-eure-falaises-du-bord-de-seine – consulté le 18/11/2026"
+      "Oblyk, fiche du topo « Escalade dans l'Eure – Falaises du bord de Seine » (CT FFME de l'Eure, édition 2026, fiche mise à jour le 05/11/2026) – https://oblyk.org/guide-book-papers/356/escalade-dans-l-eure-falaises-du-bord-de-seine – consulté le 18/11/2026",
+      "CT FFME 27, page du topo « Escalade dans l'Eure » (2026, payant), https://ct27.escalade-normandie.com/index.php/topo-escalade-dans-leure/, consulté le 18/11/2026"
     ],
     "projet": "Couenne autour d'Orléans",
     "objectif": "",
@@ -1129,7 +1179,13 @@
     "duree": "",
     "descente": "",
     "horaires": "",
-    "longueurs": []
+    "longueurs": [],
+    "topos": [
+      {
+        "titre": "Fiche du site, sans liste de voies (Département de l'Eure, PDF)",
+        "url": "https://prod-geotrek-cd27-admin.makina-corpus.net/api/fr/sites/34/site-naturel-descalade-des-andelys.pdf"
+      }
+    ]
   },
   {
     "id": "la-roque",
@@ -1306,7 +1362,13 @@
     "duree": "",
     "descente": "",
     "horaires": "",
-    "longueurs": []
+    "longueurs": [],
+    "topos": [
+      {
+        "titre": "Fiche du site de l'M, sans liste de voies (Département de l'Eure, PDF)",
+        "url": "https://prod-geotrek-cd27-admin.makina-corpus.net/api/fr/sites/33/site-naturel-descalade-de-lm.pdf"
+      }
+    ]
   },
   {
     "id": "sille-le-guillaume",
@@ -1435,6 +1497,7 @@
       }
     ],
     "strategie": [
+      "Selon la FFME : la voie « la Postière » et les couloirs voisins sont fermés pendant la nidification (à vérifier sur place).",
       "Accès incertain sur une partie du site : un panneau d'interdiction existe sur une zone. Selon C2C, l'escalade est autorisée même si le panneau dit le contraire ; ClimbingAway relaie aussi un contributeur qui dit de ne pas tenir compte du panneau, mais pose lui-même la question (« Qu'en est-il ? »). Aucune source officielle trouvée (18/11/2026) : respecter le panneau en cas de doute et se renseigner auprès du comité FFME de l'Indre ou de la mairie de Mérigny.",
       "Attention aux fils téléphoniques.",
       "Plein soleil et à l'abri des vents dominants : très chaud l'été. Au printemps et en été, commencer ici le matin puis aller à la Guignoterie toute proche quand le soleil tape.",
@@ -1460,7 +1523,13 @@
     "duree": "",
     "descente": "",
     "horaires": "",
-    "longueurs": []
+    "longueurs": [],
+    "topos": [
+      {
+        "titre": "Topo La Dube et Rives (2010, hébergé par le CT FFME 17, PDF)",
+        "url": "https://www.ctffme17.org/app/download/4759993661/Topo+La+Dube.pdf"
+      }
+    ]
   },
   {
     "id": "rives",
@@ -1535,7 +1604,13 @@
     "duree": "",
     "descente": "",
     "horaires": "",
-    "longueurs": []
+    "longueurs": [],
+    "topos": [
+      {
+        "titre": "Topo La Dube et Rives, pages 8 à 11 (2010, hébergé par le CT FFME 17, PDF)",
+        "url": "https://www.ctffme17.org/app/download/4759993661/Topo+La+Dube.pdf"
+      }
+    ]
   },
   {
     "id": "saint-leonard-des-bois",
@@ -1587,6 +1662,7 @@
       }
     ],
     "strategie": [
+      "Selon le comité départemental CAF de la Sarthe (cd-sarthe.ffcam.fr, consulté le 18/11/2026) : Guéplard et Engouloir fermés par arrêté municipal jusqu'à nouvel ordre ; le Gasseau n'est accessible qu'aux licenciés FFCAM ou FFME.",
       "Interdiction : selon une mise à jour C2C du 12/05/2024, Le Gué Plard et L'Engouloir sont interdits à la pratique par arrêté municipal (fin de la convention FFME) ; une partie des broches a été sciée et une bonne partie des relais du Gué Plard démontée depuis octobre 2023. Le texte de l'arrêté n'a pas été trouvé en ligne, et Oblyk/ClimbingAway ne signalent pas d'interdiction (fiches non mises à jour sur ce point). Le Gasseau n'est cité dans aucune interdiction trouvée, mais aucune source ne confirme non plus qu'il est autorisé : vérifier auprès de la mairie de Saint-Léonard-des-Bois ou du comité FFME de la Sarthe avant d'y aller.",
       "Le Gasseau : très ombragé, bon pour l'été et en famille (site classé « sûr » pour les enfants selon C2C)."
     ],
@@ -1597,7 +1673,8 @@
       "Camptocamp, site 868418 (Saint-Léonard-des-Bois), consulté le 18/11/2026 (seule sortie associée : randonnée 1646743 du 10/05/2024, sans info escalade)",
       "Topo « Escalade en Sarthe », Comité départemental de la Sarthe des clubs alpins et FFME, 2011 (non consulté ; Gué Plard : 35 voies selon Oblyk, https://oblyk.org/guide-book-papers/200/escalade-en-sarthe, consulté le 18/11/2026)",
       "Oblyk, fiche « Le Gué Plard », https://oblyk.org/crags/1952/le-gue-plard, consulté le 18/11/2026",
-      "ClimbingAway, fiche « Saint Léonard » (climbingaway.fr, données communautaires « historiques à vérifier »), https://climbingaway.fr/?p=site&id=5577&lang=fr, consulté le 18/11/2026"
+      "ClimbingAway, fiche « Saint Léonard » (climbingaway.fr, données communautaires « historiques à vérifier »), https://climbingaway.fr/?p=site&id=5577&lang=fr, consulté le 18/11/2026",
+      "Comité départemental CAF Sarthe, page « Sites d'escalade », https://cd-sarthe.ffcam.fr/sites-d-escalade.html, consulté le 18/11/2026"
     ],
     "projet": "Couenne autour d'Orléans",
     "objectif": "",
@@ -2050,7 +2127,13 @@
     "duree": "",
     "descente": "",
     "horaires": "",
-    "longueurs": []
+    "longueurs": [],
+    "topos": [
+      {
+        "titre": "Fiche du site des Gorges de Chouvigny (Communauté de communes, 2024, PDF)",
+        "url": "https://pro.auvergnerhonealpes-tourisme.com/wp-content/uploads/2024/06/CCSPSL-Site-naturel-descalade-des-Gorges-Chouvigny-2024.pdf"
+      }
+    ]
   },
   {
     "id": "falaises-de-saffres",
@@ -2230,7 +2313,13 @@
     "duree": "",
     "descente": "",
     "horaires": "",
-    "longueurs": []
+    "longueurs": [],
+    "topos": [
+      {
+        "titre": "Topo Escalade en Terres d'Auxois : Saffres (2021, PDF)",
+        "url": "https://ccterres-auxois.fr/wp-content/uploads/2026/06/guide.pdf"
+      }
+    ]
   },
   {
     "id": "pointe-fourastier-voie-du-triangle",

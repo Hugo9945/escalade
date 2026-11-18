@@ -39,6 +39,7 @@ Laisser un champ vide (`""`, `null` ou `[]`) plutôt que d'inventer. Tous les ch
 | `sous_titre` | texte | variante, point de départ |
 | `massif`, `secteur` | texte | |
 | `coordonnees` | `{lat, lon, repere}` | pied de voie ou parking ; `repere` dit lequel et la précision |
+| `topos` | `[{titre, url}]` (optionnel) | topos gratuits et légaux en ligne (PDF ou page officielle : club, comité FFME/FSGT, collectivité) ; bouton « 📘 Topo » sur la fiche (menu s'il y en a plusieurs). Jamais de topo payant piraté. Vérifier que le lien répond avant de l'ajouter |
 | `parkings` | `[{nom, lat, lon, altitude}]` | parkings / points d'accès pour le bouton « 🚗 Y aller » (Plans, Google Maps, Waze) : les points `access` associés à l'itinéraire C2C (`associations.waypoints`, coordonnées via `/waypoints/<id>`), celui de l'approche décrite en premier ; `[]` si inconnu (le bouton prend alors `coordonnees` avec un avertissement) |
 | `camptocamp` | `[{titre, url}]` | un ou plusieurs itinéraires C2C |
 | `objectif` | texte | ce qu'on vise (et les options) |

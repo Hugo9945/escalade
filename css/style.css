@@ -444,6 +444,8 @@ table.longueurs tr:nth-child(even) td { background: #fbf6ee; }
 .y-aller-liens a { font-size: 0.85rem; font-weight: 600; text-decoration: none; padding: 3px 10px; border-radius: 999px; background: var(--accent); color: #fff; }
 .y-aller-liens a:hover { background: var(--accent-fonce); color: #fff; }
 .y-aller-note { font-size: 0.8rem; color: var(--doux); margin: 6px 0 2px; }
+.topo-lien { display: block; padding: 8px 2px; border-bottom: 1px solid var(--trait); font-weight: 600; font-size: 0.92rem; text-decoration: none; }
+.topo-lien:last-child { border-bottom: 0; }
 @media (max-width: 600px) {
   .y-aller-menu { position: fixed; left: 12px; right: 12px; top: auto; bottom: 12px; min-width: 0; max-width: none; }
 }

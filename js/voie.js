@@ -143,7 +143,20 @@ function boutonYAller(voie) {
   return `<details class="y-aller"><summary class="bouton">🚗 Y aller</summary><div class="y-aller-menu">${lignes.join("")}</div></details>`;
 }
 
-// Un clic ailleurs referme le menu « Y aller ».
+/* ---------- Bouton « Topo » : liens vers les topos en ligne (champ topos : [{titre, url}]) ---------- */
+function boutonTopo(voie) {
+  const topos = (voie.topos || []).filter((t) => t.url);
+  if (!topos.length) return "";
+  if (topos.length === 1) {
+    return `<a class="bouton" href="${echapper(topos[0].url)}" target="_blank" rel="noopener" title="${echapper(topos[0].titre || "")}">📘 Topo ↗</a>`;
+  }
+  const lignes = topos
+    .map((t) => `<a class="topo-lien" href="${echapper(t.url)}" target="_blank" rel="noopener">${echapper(t.titre || t.url)} ↗</a>`)
+    .join("");
+  return `<details class="y-aller"><summary class="bouton">📘 Topos (${topos.length})</summary><div class="y-aller-menu">${lignes}</div></details>`;
+}
+
+// Un clic ailleurs referme les menus « Y aller » et « Topos ».
 document.addEventListener("click", (e) => {
   document.querySelectorAll("details.y-aller[open]").forEach((d) => {
     if (!d.contains(e.target)) d.open = false;
@@ -173,6 +186,7 @@ function afficherFiche(voie) {
     <div class="actions">
       <button class="bouton principal" type="button" onclick="window.print()">🖨 Fiche A4</button>
       ${boutonYAller(voie)}
+      ${boutonTopo(voie)}
       ${liensC2C}
       ${c.lat != null ? `<a class="bouton" href="index.html?voie=${encodeURIComponent(voie.id)}">Voir sur la carte</a>` : ""}
       ${c.lat != null ? `<a class="bouton" href="${lienMeteo(c)}" target="_blank" rel="noopener">🌤 Météo (Meteoblue) ↗</a>` : ""}
