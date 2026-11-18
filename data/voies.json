@@ -1,5 +1,124 @@
 [
   {
+    "id": "pointe-des-cineastes-traversee",
+    "nom": "Pointe des Cinéastes – Traversée des arêtes",
+    "sous_titre": "Traversée classique des pointes 1 à 5 (point culminant, 3205 m) sur une crête de 9 pointes, au-dessus du refuge du Glacier Blanc – depuis le Pré de Madame Carle",
+    "massif": "Écrins (Hautes-Alpes)",
+    "secteur": "Pointes des Cinéastes, refuge du Glacier Blanc",
+    "coordonnees": {
+      "lat": 44.94373,
+      "lon": 6.42111,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Refuge du Glacier Blanc (2542 m) : 44.93756, 6.41161 ; Pré de Madame Carle : 44.91717, 6.41619"
+    },
+    "camptocamp": [
+      {
+        "titre": "Pointe des Cinéastes : Traversée des arêtes",
+        "url": "https://www.camptocamp.org/routes/54999"
+      }
+    ],
+    "objectif": "Traversée classique de la 1re à la 5e pointe (point culminant), avec la 4e pointe en option, puis descente par 2 rappels dans le couloir. Option : traversée intégrale jusqu'à la 8e-9e pointe (1 à 2 h de plus).",
+    "cotation_globale": "AD+",
+    "cotation_libre_max": "5a (IV+)",
+    "cotation_obligatoire": "4c",
+    "engagement": "II ; risque X1, exposition E4",
+    "hauteur": "200 m d'escalade (C2C)",
+    "nb_longueurs": "Non détaillé (arête en corde tendue, 3 courtes longueurs au crux)",
+    "orientation": "S (arête S → N)",
+    "duree": "1 jour (grosse demi-journée depuis le refuge)",
+    "ambiance": "« Très belle course d'arête, escalade variée sur un beau granit en général bon à très bon » (C2C), vue somptueuse sur le Glacier Blanc et les faces N du glacier Noir. Ça grimpe un peu, avec du gaz ; les longueurs se protègent très bien, « idéal pour prendre de l'expérience en montagne sans avoir les jambes qui tremblent tout du long » (retour de 2026). Rocher qui bouge ou sonne creux par endroits, surtout hors du fil. Course très fréquentée : bouchons fréquents sur la 3e pointe. Vite en conditions. Première ascension les 2-3 juillet 1936 par A. Aulois et Jean Vernet.",
+    "statut": "bientot",
+    "envie": 3,
+    "projet": null,
+    "equipement": "trad",
+    "cote_equipement": "P3",
+    "approche": "1 h 15 à 1 h 30 depuis le refuge du Glacier Blanc (lui-même à environ 1 h 30 du Pré de Madame Carle). Du replat au-dessus du refuge, sentier à droite vers le col du Monêtier (E) jusque vers 2700 m. Partir à gauche (N) sur le fil de la moraine de l'ancien glacier de la Pyramide, sous le versant W des pointes. Rejoindre la grande vire horizontale qui raye la face W vers 3000 m ; elle ramène vers l'extrémité droite de la face (cairns) jusqu'à la base du couloir rocheux de la 1re brèche, à gauche de la 1re pointe. Remonter ce couloir jusqu'à la brèche (III). Approche « paumatoire » et exposée selon plusieurs retours de 2026 : bien monter jusqu'au bout du pierrier avant de tourner à gauche ; certaines sentes finissent en cul-de-sac ; s'encorder dès la fin de la vire.",
+    "descente": "1 à 2 h. De la brèche juste sous la 5e pointe, basculer flanc droit jusqu'à un relais 10 m plus bas (désescalade facile ou rappel). Rappel de 25 m jusqu'à un relais en rive gauche du couloir, puis 2e rappel de 25 m jusqu'à la base du couloir (relais 3 m plus bas en rive droite). Descendre la pente de neige ou d'éboulis (terrain délicat, vieux relais en rive droite) jusqu'au sentier dans le pierrier, puis le sentier d'approche. Chutes de pierres dans cette descente. Névés plus ou moins tardifs : « crampons potentiellement indispensables » (C2C) ; en fin de saison, plus de névé (descente plus délicate dans l'éboulis selon un retour d'août 2026).",
+    "materiel": "Corde à simple de 50 m (rappels de 25 m). Sangles et friends du #0.3 au #2 (C2C) : notre rack convient. Crampons et piolet jusqu'en milieu de saison pour la descente (absents de notre inventaire). Quelques pitons et relais de rappel sur cordelettes en place.",
+    "longueurs": [
+      {
+        "titre": "D'après C2C (traversée classique)",
+        "lignes": [
+          {
+            "n": "1re → 2e pointe",
+            "cotation": "III+/IV",
+            "longueur": null,
+            "cheminement": "Quelques mètres sous le fil, puis sur le fil jusqu'à la 2e pointe ; descendre légèrement à la brèche."
+          },
+          {
+            "n": "Crux 1",
+            "cotation": "IV",
+            "longueur": null,
+            "cheminement": "Basculer versant E par une vire horizontale puis courte désescalade ; fissures en oblique vers la droite. Relais 2 pitons ou bon becquet."
+          },
+          {
+            "n": "Crux 2",
+            "cotation": "IV+",
+            "longueur": null,
+            "cheminement": "Fissure évasée (2 pitons) jusque sous le toit caractéristique. Relais 2 pitons + corde. « Pas si facile à négocier en grosses » (retour de 2026)."
+          },
+          {
+            "n": "Crux 3",
+            "cotation": "IV+, III+",
+            "longueur": null,
+            "cheminement": "Franchir le toit par la gauche (IV+ ; courte échelle ou sangle en pédale possibles), puis dièdre (III+) jusqu'à l'arête. Relais becquet. Bouchons fréquents ici."
+          },
+          {
+            "n": "3e pointe",
+            "cotation": "III",
+            "longueur": null,
+            "cheminement": "Traverser la 3e pointe sur le fil, puis arête effilée ou légèrement en contrebas côté gauche."
+          },
+          {
+            "n": "4e pointe (option)",
+            "cotation": "III+",
+            "longueur": 20,
+            "cheminement": "Facultative : contournée par une vire flanc gauche, ou gravie par le fil (raide) puis rappel de 20 m. « Sûrement la plus impressionnante » (retour de 2026)."
+          },
+          {
+            "n": "5e pointe",
+            "cotation": "III+",
+            "longueur": null,
+            "cheminement": "Plus ou moins sur le fil jusqu'au point culminant (arête « en lame de rasoir »). Rappel de 15-20 m jusqu'à la brèche suivante (relais sur goujon + lunule au sommet, ou sur becquet 4 m plus bas). Fin de la traversée classique."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "À faire en 2e partie de saison (fin juillet à septembre) pour éviter les névés de la descente, sinon crampons et piolet nécessaires.",
+      "Partir tôt (4 h-5 h du refuge) pour éviter les bouchons au crux et sur la 3e pointe ; beaucoup de cordées certains jours.",
+      "Bien repérer l'approche (vire de la face W, couloir de la 1re brèche) : c'est souvent là qu'on perd du temps.",
+      "Tester les prises dès qu'on quitte le fil.",
+      "On peut rejoindre la 1re pointe par une voie plus longue : voie des Gapençais (variante Chaud), voie du Vieux Piton ou variante des Chèvres du Garlaban (C2C, non étudiées)."
+    ],
+    "retex": [
+      "10/10/2026 : 10-20 cm de neige à l'approche, rocher trempé et glacé au début ; 4e pointe abandonnée. Refuge 8 h 30 - 17 h.",
+      "23/08/2026 (par une variante d'attaque) : seuls ; tout sec malgré de fortes pluies les jours d'avant. Plus aucune trace du névé à la descente de la 6e pointe, descente plus compliquée. 1 h perdue dans les bouchons.",
+      "10/08/2026 : « superbe course », topos clairs, longueurs qui se protègent très bien ; une seule longueur tirée pour le crux. 4e pointe faite et recommandée. Rocher globalement bon, qui bouge ou sonne creux par endroits. Un seul rappel tiré, le reste à pied.",
+      "24/07/2026 : une cordée a fait demi-tour à la 1re pointe (« course trop exigeante pour notre cordée ») ; approche et vire exposées mais faciles. Le même jour, un secours en hélicoptère au début de la voie.",
+      "14/07/2026 : intégrale possible en 2 h-2 h 30 pour une cordée efficace sans monde ; bouchon au crux derrière 4 cordées. Refuge 5 h, 6e pointe 11 h, fin des rappels 12 h 30.",
+      "13/07/2026 : approche « super paumatoire et expo ++ » de nuit ; avoir le pied montagnard. Fil bon, bien tester ailleurs. Petit névé à la descente sans crampons. Pré 4 h 40, sommet 13 h, parking 17 h.",
+      "13/07/2026 (autre cordée) : près d'1 h perdue sur l'approche, 1 h 30 d'attente au bouchon de la 3e pointe ; 2 petits névés après les rappels, chaussures d'approche suffisantes.",
+      "05/07/2026 : première course d'arête pour plusieurs personnes ; rocher parfois excellent, parfois « pèteux » ; quelques pitons, relais de rappel sur cordelettes.",
+      "28/06/2026 : départ du refuge 4 h, 1 h 30 d'approche, 3 h 30 sur l'arête, 1 h 30 de descente, retour 11 h.",
+      "20/06/2026 : crampons et piolet légers dans le sac, pas utilisés ; pédale au toit. Refuge 6 h 15 - 16 h.",
+      "05-06/06/2026 : approche ralentie par la neige, retour accéléré en glissades."
+    ],
+    "horaires": "Approche 1 h 15 à 2 h depuis le refuge ; arête 2 h (très rapide) à 5 h ; descente 1 à 2 h. Depuis le Pré : environ 12 h aller-retour, ou nuit au refuge.",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/pointe-des-cineastes-traversee-topo.jpg",
+        "legende": "Les pointes 1 à 6 avec le tracé, les cotations, les désescalades et les rappels ; image Camptocamp 361202, licence collaborative"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 54999 (Pointe des Cinéastes : Traversée des arêtes), consulté le 18/11/2026",
+      "Camptocamp, sorties 1959163 (10/10/2026), 1951404 (12-13/09/2026), 1944273 (23/08/2026), 1938829 (10/08/2026), 1943540 et 1938408 (24/07/2026), 1927148 (14/07/2026), 1957340 et 1926918 (13/07/2026), 1924225 et 1923665 (05/07/2026), 1921795 (28/06/2026), 1920198 (20/06/2026), 1913718 (05-06/06/2026), 1910263 (29/05/2026), consultées le 18/11/2026",
+      "Image Camptocamp 361202 (licence collaborative)",
+      "Livres cités par C2C, non consultés : « Guide du Haut-Dauphiné, tome 2 », « Le Massif des Écrins – Les 100 plus belles courses », « Oisans Nouveau Oisans sauvage – Livre Est », « Chemins du Ciel », « Montagnes Magazine n° 308 et 344 »"
+    ]
+  },
+  {
     "id": "pic-du-glacier-blanc-arete-s",
     "nom": "Pic du Glacier Blanc – Arête S",
     "sous_titre": "Classique course d'arête de 1936 au-dessus du Glacier Blanc, avec 2 petits rappels – depuis le refuge du Glacier Blanc (sentier de moraine aux points blancs) ou le refuge des Écrins",
