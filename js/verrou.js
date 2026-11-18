@@ -21,16 +21,15 @@
   const style = document.createElement("style");
   style.textContent = `
     html.verrouille body > *:not(#verrou) { display: none !important; }
-    #verrou { position: fixed; inset: 0; z-index: 10000; background: #2ec4b6; color: #1b1b1b;
+    #verrou { position: fixed; inset: 0; z-index: 10000; background: #f4f7f9; color: #1f2a33;
       display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px;
-      padding: 16px; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; text-align: center; }
-    #verrou h1 { margin: 0; font-family: "Bungee", "Arial Black", sans-serif; font-weight: 400; font-size: 2.2rem; color: #fff; text-shadow: 3px 3px 0 #1b1b1b; letter-spacing: 1px; }
-    #verrou p { margin: 0; opacity: 0.85; }
+      padding: 16px; font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; text-align: center; }
+    #verrou h1 { margin: 0; font-family: inherit; font-weight: 800; font-size: 2rem; color: #1f2a33; letter-spacing: -0.02em; }
+    #verrou p { margin: 0; color: #5b6873; }
     #verrou input { width: 9ch; font-size: 2rem; letter-spacing: 0.4em; text-align: center; padding: 8px 4px 8px 0.4em;
-      border-radius: 0; border: 3px solid #1b1b1b; background: #fff; color: #1b1b1b; box-shadow: 4px 4px 0 #ff5d8f; }
-    #verrou input:focus { outline: 3px solid #ffd23f; }
-    #verrou .erreur-code { min-height: 1.4em; color: #1b1b1b; background: #ffd23f; padding: 0 6px; font-weight: 600; }
-    #verrou .erreur-code:empty { background: none; }
+      border-radius: 10px; border: 1px solid #dbe3e9; background: #fff; color: #1f2a33; box-shadow: 0 1px 3px rgba(31, 42, 51, 0.08); }
+    #verrou input:focus { outline: 3px solid #e6f0f7; border-color: #2f74a6; }
+    #verrou .erreur-code { min-height: 1.4em; color: #b42318; font-weight: 600; }
     #verrou.secoue input { animation: secoue 0.3s; }
     @keyframes secoue { 25% { transform: translateX(-8px); } 75% { transform: translateX(8px); } }
   `;

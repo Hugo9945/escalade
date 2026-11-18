@@ -35,14 +35,16 @@ function pageConnexion(erreur) {
 <html lang="fr"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow"><title>Sac à topos</title>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bungee&family=Rubik:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap">
 <style>
-  body { margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center; background: #2ec4b6; font-family: Rubik, system-ui, sans-serif; color: #1b1b1b; padding: 16px; box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center; background: #f4f7f9; font-family: Inter, system-ui, sans-serif; color: #1f2a33; padding: 16px; box-sizing: border-box; }
   form { display: flex; flex-direction: column; align-items: center; gap: 16px; text-align: center; }
-  h1 { margin: 0; font-family: Bungee, "Arial Black", sans-serif; font-weight: 400; font-size: 2.2rem; color: #fff; text-shadow: 3px 3px 0 #1b1b1b; }
-  input { font-size: 1.4rem; padding: 10px 12px; width: 14ch; text-align: center; border: 3px solid #1b1b1b; box-shadow: 4px 4px 0 #ff5d8f; }
-  button { font: 600 1rem Rubik, sans-serif; padding: 10px 18px; background: #ffd23f; border: 3px solid #1b1b1b; box-shadow: 4px 4px 0 #7b5cff; cursor: pointer; }
-  .erreur { background: #ffd23f; padding: 2px 8px; font-weight: 600; }
+  h1 { margin: 0; font-weight: 800; font-size: 2rem; letter-spacing: -0.02em; }
+  p { margin: 0; color: #5b6873; }
+  input { font-size: 1.4rem; padding: 10px 12px; width: 14ch; text-align: center; border: 1px solid #dbe3e9; border-radius: 10px; }
+  input:focus { outline: 3px solid #e6f0f7; border-color: #2f74a6; }
+  button { font: 600 1rem Inter, sans-serif; padding: 10px 18px; background: #2f74a6; color: #fff; border: 0; border-radius: 8px; cursor: pointer; }
+  .erreur { color: #b42318; font-weight: 600; }
 </style></head><body>
 <form method="post" action="/__connexion">
   <h1>Sac à topos</h1>
