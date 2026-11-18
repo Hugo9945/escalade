@@ -39,6 +39,7 @@ Laisser un champ vide (`""`, `null` ou `[]`) plutôt que d'inventer. Tous les ch
 | `sous_titre` | texte | variante, point de départ |
 | `massif`, `secteur` | texte | |
 | `coordonnees` | `{lat, lon, repere}` | pied de voie ou parking ; `repere` dit lequel et la précision |
+| `parkings` | `[{nom, lat, lon, altitude}]` | parkings / points d'accès pour le bouton « 🚗 Y aller » (Plans, Google Maps, Waze) : les points `access` associés à l'itinéraire C2C (`associations.waypoints`, coordonnées via `/waypoints/<id>`), celui de l'approche décrite en premier ; `[]` si inconnu (le bouton prend alors `coordonnees` avec un avertissement) |
 | `camptocamp` | `[{titre, url}]` | un ou plusieurs itinéraires C2C |
 | `objectif` | texte | ce qu'on vise (et les options) |
 | `cotation_globale`, `cotation_libre_max`, `cotation_obligatoire`, `engagement` | texte | |
@@ -75,7 +76,7 @@ Règles :
 3. Récupérer l'itinéraire + jusqu'à 15 sorties récentes (RETEX daté, formulé comme des retours).
 4. Demander au propriétaire, **avec le questionnaire à cliquer**, le statut (suggestion en premier, avec la raison ; proposer toujours **Faisable**, **Engagée** et **Bientôt**, plus « Matériel manquant » si du matériel manque, sinon « Fait ») et les étoiles d'envie ; demander le projet seulement s'il n'est pas évident (Europe → « Autres voies » par défaut s'il l'a dit).
 5. Image : seulement une photo/croquis C2C **avec le tracé** et en licence collaborative/personal (sinon pas d'image). Jamais de scan de livre en ligne.
-6. Remplir aussi `equipement`/`cote_equipement`, vérifier la fiche A4 (1 page de texte idéalement), publier (commit + push) et confirmer en ligne.
+6. Remplir aussi `equipement`/`cote_equipement` et `parkings`, vérifier la fiche A4 (1 page de texte idéalement), publier (commit + push) et confirmer en ligne.
 7. Signaler les points de vigilance (fermetures saisonnières, accès, matériel absent du rack, névés) et proposer les enchaînements sans les ajouter d'office.
 8. Pour plusieurs voies (≥ 5), répartir la rédaction entre des sous-agents puis tout vérifier (cotations vs C2C, images présentes) avant d'assembler.
 

@@ -108,6 +108,39 @@ async function afficherMeteo(c) {
   }
 }
 
+/* ---------- Bouton « Y aller » : itinéraire en voiture jusqu'au parking ---------- */
+function liensItineraire(lat, lon) {
+  const p = `${lat},${lon}`;
+  return `<a href="https://maps.apple.com/?daddr=${p}&dirflg=d" target="_blank" rel="noopener">Plans</a>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=${p}&travelmode=driving" target="_blank" rel="noopener">Google Maps</a>
+    <a href="https://waze.com/ul?ll=${p}&navigate=yes" target="_blank" rel="noopener">Waze</a>`;
+}
+
+function boutonYAller(voie) {
+  const parkings = (voie.parkings || []).filter((p) => p.lat != null && p.lon != null);
+  const c = voie.coordonnees || {};
+  let lignes;
+  if (parkings.length) {
+    lignes = parkings.map(
+      (p) => `<div class="y-aller-ligne"><span class="y-aller-nom">🅿️ ${echapper(p.nom)}${p.altitude ? ` (${p.altitude} m)` : ""}</span><span class="y-aller-liens">${liensItineraire(p.lat, p.lon)}</span></div>`
+    );
+    if (parkings.length > 1) lignes.push(`<p class="y-aller-note">Plusieurs accès possibles : le premier est celui de l'approche décrite dans la fiche.</p>`);
+  } else if (c.lat != null) {
+    lignes = [
+      `<div class="y-aller-ligne"><span class="y-aller-nom">📍 Point de la fiche</span><span class="y-aller-liens">${liensItineraire(c.lat, c.lon)}</span></div>`,
+      `<p class="y-aller-note">Pas de parking connu : ce point est souvent la voie ou le sommet, pas le parking. Regarde l'approche avant de partir.</p>`,
+    ];
+  } else return "";
+  return `<details class="y-aller"><summary class="bouton">🚗 Y aller</summary><div class="y-aller-menu">${lignes.join("")}</div></details>`;
+}
+
+// Un clic ailleurs referme le menu « Y aller ».
+document.addEventListener("click", (e) => {
+  document.querySelectorAll("details.y-aller[open]").forEach((d) => {
+    if (!d.contains(e.target)) d.open = false;
+  });
+});
+
 /* ---------- Affichage écran ---------- */
 function afficherFiche(voie) {
   document.title = `${voie.nom} – Sac à topos`;
@@ -130,6 +163,7 @@ function afficherFiche(voie) {
 
     <div class="actions">
       <button class="bouton principal" type="button" onclick="window.print()">🖨 Fiche A4</button>
+      ${boutonYAller(voie)}
       ${liensC2C}
       ${c.lat != null ? `<a class="bouton" href="index.html?voie=${encodeURIComponent(voie.id)}">Voir sur la carte</a>` : ""}
       ${c.lat != null ? `<a class="bouton" href="${lienMeteo(c)}" target="_blank" rel="noopener">🌤 Météo (Meteoblue) ↗</a>` : ""}
