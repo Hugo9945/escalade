@@ -1,5 +1,114 @@
 [
   {
+    "id": "pic-sans-nom-chapoutot-lemoine",
+    "nom": "Pic Sans Nom – Voie Chapoutot-Lemoine (face NW)",
+    "sous_titre": "Course d'alpinisme de 1971 : glacier Noir, puis 550 m de paroi en granit puis gneiss jusqu'au sommet (3913 m) – départ du Pré de Madame Carle, bivouac aux Balmes de François-Blanc",
+    "massif": "Écrins (Hautes-Alpes)",
+    "secteur": "Pic Sans Nom, versant du glacier Noir",
+    "coordonnees": {
+      "lat": 44.89402,
+      "lon": 6.38015,
+      "repere": "Point de l'itinéraire sur Camptocamp (approximatif). Pré de Madame Carle : 44.91717, 6.41619 ; bivouac des Balmes de François-Blanc (2445 m) : 44.91923, 6.37868"
+    },
+    "camptocamp": [
+      {
+        "titre": "Pic Sans Nom : Voie Chapoutot - Lemoine (face NW)",
+        "url": "https://www.camptocamp.org/routes/57630"
+      }
+    ],
+    "objectif": "Face NW jusqu'au sommet du Pic Sans Nom, avec bivouac (aux Balmes de François-Blanc avant, ou au sommet), puis descente par l'arête S vers le refuge du Pelvoux.",
+    "cotation_globale": "TD-",
+    "cotation_libre_max": "5c (V+)",
+    "cotation_obligatoire": "5b",
+    "engagement": "IV",
+    "hauteur": "550 m de difficultés ; 1490 m de dénivelé d'approche depuis le Pré de Madame Carle (C2C)",
+    "nb_longueurs": "Non détaillé (voie décrite par sections)",
+    "orientation": "NW en bas, W en haut",
+    "duree": "2 jours",
+    "ambiance": "Itinéraire « splendide et varié » (C2C) : course glaciaire, puis dalles de granit entrecoupées de gradins, puis escalade technique en gneiss fracturé délicat, enfin très bon rocher sur l'arête NW. Ambiance superbe sur la fin ; un couloir offre une échappatoire facile mais pas forcément sûre sur la première moitié. Rocher jugé bon et très protégeable par un retour de 2007, contrairement au topo Cambon. Verglas fréquent dans le bas (moins ensoleillé). Première ascension le 29/07/1971 par Pierre Chapoutot et Jean-François Lemoine.",
+    "statut": "materiel",
+    "envie": 2,
+    "projet": null,
+    "equipement": "trad",
+    "cote_equipement": "P4",
+    "approche": "3 h 30 à 5 h. Du Pré de Madame Carle, remonter la moraine du glacier Noir, redescendre après un piquet géodésique sur des moraines jusqu'au ressaut, franchi en rive gauche, puis aller vers le pied du couloir du Coup de Sabre (2900 m). Bivouac possible aux Balmes de François-Blanc (2445 m, abris sous de gros blocs, eau pas toujours le matin) ou plus haut sur le glacier Noir. Remonter une pente crevassée en rive gauche ou au centre (zigzags entre séracs, difficile en fin de saison), laisser le couloir N du Coup de Sabre à droite et viser le couloir issu de la Fenêtre de Sialouze. Une rimaye barre la pente : on peut la passer dans du rocher facile à gauche. Attaque une dizaine de mètres à gauche du couloir NW (Lagarde).",
+    "descente": "Conseillée par l'arête S, environ 4 h jusqu'au refuge du Pelvoux : arête S jusqu'à la Fenêtre de Sialouze, gradins sur le flanc W (contourner le 2e gendarme à gauche) ; couloir SE vers le glacier de Sialouze, brèche à gauche d'un gendarme rouge (cairn), gradins raides sur 40 m (rappel possible), puis un rappel de 30 m (beaucoup de sangles) jusqu'à une vire très large, sablonneuse et très exposée, suivie à droite ; arête en gradins jusqu'à la Brèche Supérieure de Sialouze, puis 4 ou 5 rappels (anneaux à vérifier) jusqu'au glacier de Sialouze. Traverser vers le col de la Bosse de Sialouze, descendre le couloir (dalles lisses délicates), traverser le ravin du Clot de l'Homme (danger de chutes de séracs) et rejoindre le refuge du Pelvoux par une moraine. La voie normale (2 h 30-3 h) est « peu conseillée » : rocher pourri, purges fréquentes, rappels dangereux.",
+    "materiel": "Corde 2 × 45 m (notre double 60 m convient). Jeu complet de friends jusqu'au Camalot #3, petites tailles doublées ; jeu complet de câblés, petites tailles doublées ; 2-3 ballnuts de petite taille ; quelques pitons (lames fines, 2 cornières) et un marteau ; sangles. Chaussons très utiles sur l'éperon jaune. Plus le matériel de glacier et d'alpinisme : crampons, piolet, matériel de sécurité sur glacier (C2C). Absents de notre inventaire : crampons, piolet, matériel de glacier, ballnuts, pitons et marteau.",
+    "longueurs": [
+      {
+        "titre": "D'après C2C (voie décrite par sections, cotations UIAA)",
+        "lignes": [
+          {
+            "n": "1",
+            "cotation": "facile",
+            "longueur": null,
+            "cheminement": "Blocs enchâssés, puis beau dièdre fissuré à droite ; flanc droit d'un gros névé par des gradins et dalles fissurées faciles, jusqu'au pied d'un éperon jaune arrondi (1 h)."
+          },
+          {
+            "n": "2",
+            "cotation": "V/V+",
+            "longueur": null,
+            "cheminement": "Éperon jaune, légèrement sur son flanc droit, par un dièdre fissuré technique (1 piton ; seule longueur « peu protégeable », chaussons conseillés). Sortir à droite après 30 m, puis couloir humide sous le névé triangulaire (protection difficile) (1 h à 1 h 30)."
+          },
+          {
+            "n": "3",
+            "cotation": "V/V+ (ou IV)",
+            "longueur": null,
+            "cheminement": "Court névé par une arête de neige, puis fissures raides et dièdres à droite (verglas possible) ; ou contourner le névé à droite par des blocs (IV). Vire centrale : passage du granit au gneiss."
+          },
+          {
+            "n": "4",
+            "cotation": "III, IV/V",
+            "longueur": null,
+            "cheminement": "Traverser la vire à droite (neige ou éboulis instables) sur une centaine de mètres jusqu'à un couloir à 45°, juste à gauche d'un gros rognon. Remonter le couloir et prendre l'éperon à gauche (45 m, IV/V), ou faire relais sous la paroi surplombante puis rampe à gauche en III+ (verglas possible) (2 h à 2 h 30)."
+          },
+          {
+            "n": "5",
+            "cotation": "IV+",
+            "longueur": null,
+            "cheminement": "Oblique à gauche : 25 m d'éboulis, rampe en rocher brisé (traversée de 5 m au-dessus d'un surplomb), vire à gauche, courte arête aiguisée et première fissure-dièdre (IV+, joli passage). Un piton au relais (1 h 30 à 2 h)."
+          },
+          {
+            "n": "6",
+            "cotation": "IV+ (ou V+)",
+            "longueur": null,
+            "cheminement": "Cheminée oblique de 45 m vers l'arête NW (mauvais rocher, IV+) ; ou écaille de 3 m (V+, très protégeable), mur raide sous un surplomb (piton noir), vire, rampe facile jusqu'à l'arête NW."
+          },
+          {
+            "n": "7",
+            "cotation": "V-, V",
+            "longueur": 70,
+            "cheminement": "Deux longueurs (25 m V-, 45 m V) en superbe rocher sur l'arête NW, puis courte arête de neige facile jusqu'au sommet (1 h 30 à 2 h)."
+          }
+        ]
+      }
+    ],
+    "strategie": [
+      "Course d'alpinisme sur 2 jours, avec bivouac : elle demande de l'expérience du glacier (crevasses, séracs, rimaye) en plus du niveau rocher.",
+      "Chutes de pierres (risque faible selon C2C) près du couloir en bas et à la fin de la vire, dès que le soleil arrive vers 13 h.",
+      "Verglas fréquent dans le bas de la voie ; gants utiles dans les gradins.",
+      "Topo Cambon : schéma juste, mais commentaires jugés pessimistes sur le rocher. Topo du Guide du Haut-Dauphiné : schéma peu précis."
+    ],
+    "retex": [
+      "14/07/2007 : première course avec bivouac de la cordée ; intérêt de l'escalade hétérogène mais ambiance et variété superbes. Bon regel. Rampe en III+ verglacée, rocher très pourri et peu de protections. Approche 3 h 15 depuis le bivouac des Balmes, 8 h de voie, 2 h 50 de descente.",
+      "30/06/2007 : « la course parfaite » ; rocher bon et très protégeable selon ce retour. Rimayes bouchées, quelques plaques de verglas, un dièdre bouché par la glace avant la vire, passé en chaussons. Nuit au sommet. Approche 4 h 30, voie 9 h, descente 6 h."
+    ],
+    "horaires": "Approche 3 h 30 à 5 h ; voie 7 à 9 h ; descente environ 4 h jusqu'au refuge du Pelvoux, puis retour au Pré de Madame Carle. Seulement 2 sorties publiées sur C2C (2007).",
+    "notes": "",
+    "images": [
+      {
+        "fichier": "images/pic-sans-nom-chapoutot-lemoine-trace.jpg",
+        "legende": "Face W du Pic Sans Nom avec le tracé de la voie Chapoutot-Lemoine et ses variantes ; photo Camptocamp (image 34340, licence collaborative)"
+      }
+    ],
+    "sources": [
+      "Camptocamp, itinéraire 57630 (Pic Sans Nom : Voie Chapoutot - Lemoine, face NW) et points 106737 (Pré de Madame Carle) / 128077 (bivouac des Balmes de François-Blanc), consultés le 18/11/2026",
+      "Camptocamp, sorties 99954 (14/07/2007) et 99682 (30/06/2007), consultées le 18/11/2026",
+      "Image Camptocamp 34340 (licence collaborative)",
+      "Livres cités par C2C, non consultés : « Guide du Haut-Dauphiné, tome 2 », « Oisans Nouveau Oisans sauvage – Livre Est » (Cambon), « Le Massif des Écrins – Les 100 plus belles courses »"
+    ]
+  },
+  {
     "id": "grand-laus-le-bonheur-est-dans-le-pre",
     "nom": "Aiguille du Grand Laus – Le bonheur est dans le pré",
     "sous_titre": "Grande course de 18 longueurs face au glacier des Violettes et au Pelvoux – départ du Pont du Ban, au-dessus d'Ailefroide",
