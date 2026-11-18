@@ -1,7 +1,7 @@
 /* ===== Couleurs et base ===== */
 :root {
   /* Thème « Montagne sobre » : blanc, gris ardoise, une seule couleur d'accent (bleu glacier). */
-  --fond: #f4f7f9;
+  --fond: #eef3f6;
   --carte: #ffffff;
   --texte: #1f2a33;
   --doux: #5b6873;
@@ -9,6 +9,10 @@
   --accent: #2f74a6;        /* bleu glacier */
   --accent-fonce: #1f5880;
   --accent-clair: #e6f0f7;
+  --balise: #e8762d;        /* orange balise, 2e couleur */
+  --balise-fonce: #b85516;
+  --nuit: #1f2a33;          /* en-tête */
+  --sous-entete: #eef3f6;   /* couleur juste sous l'en-tête (pour les crêtes) */
   --vert: var(--texte);     /* nom historique : couleur des titres */
   /* Anciens noms du thème Memphis, gardés pour ne rien casser : tous ramenés à l'accent. */
   --turquoise: var(--accent-clair);
@@ -286,19 +290,32 @@ h1, h2, h3 { font-family: var(--titre); letter-spacing: -0.01em; }
 a { color: var(--accent); }
 a:hover { color: var(--accent-fonce); }
 
-/* En-tête blanc, logo avec un petit sommet bleu, onglets en texte. */
+/* Fond de page : fines courbes de niveau, façon carte IGN. */
+body { background-color: var(--fond); background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='640' height='360' viewBox='0 0 640 360'%3E%3Cg fill='none' stroke='%23c9d8e2' stroke-width='1'%3E%3Cpath d='M0 30 C110 30 200 -2 320 28 C440 58 530 30 640 30'/%3E%3Cpath d='M0 70 C110 70 200 22 320 52 C440 82 530 70 640 70'/%3E%3Cpath d='M0 110 C110 110 200 78 320 108 C440 138 530 110 640 110'/%3E%3Cpath d='M0 150 C110 150 200 102 320 132 C440 162 530 150 640 150'/%3E%3Cpath d='M0 190 C110 190 200 158 320 188 C440 218 530 190 640 190'/%3E%3Cpath d='M0 230 C110 230 200 182 320 212 C440 242 530 230 640 230'/%3E%3Cpath d='M0 270 C110 270 200 238 320 268 C440 298 530 270 640 270'/%3E%3Cpath d='M0 310 C110 310 200 262 320 292 C440 322 530 310 640 310'/%3E%3Cpath d='M0 350 C110 350 200 318 320 348 C440 378 530 350 640 350'/%3E%3Cellipse cx='470' cy='118' rx='46' ry='12'/%3E%3Cellipse cx='470' cy='118' rx='22' ry='5'/%3E%3C/g%3E%3C/svg%3E"); background-size: 640px 360px; background-attachment: fixed; }
+
+/* En-tête gris nuit avec une ligne de crêtes en bas (crête bleue + crête de la couleur de la page). */
 .entete {
-  background: var(--carte);
-  color: var(--texte);
-  border-bottom: 1px solid var(--trait);
-  padding: 10px 20px;
-  min-height: 60px;
+  position: relative;
+  background: var(--nuit);
+  color: #fff;
+  border-bottom: 0;
+  padding: 12px 20px 34px;
+  min-height: 0;
 }
+.entete::before, .entete::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 30px; pointer-events: none; }
+.entete::before { background: no-repeat bottom / 100% 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 28 L45 12 L72 22 L118 3 L156 20 L196 10 L240 28 L285 7 L320 20 L360 12 L405 25 L450 9 L490 22 L530 13 L570 24 L600 15 L600 40Z' fill='%232f74a6' fill-opacity='0.55'/%3E%3C/svg%3E"); }
+.entete::after {
+  background: var(--sous-entete);
+  -webkit-mask: no-repeat bottom / 100% 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 31 L60 21 L105 29 L165 17 L225 33 L278 21 L345 31 L398 23 L450 30 L505 19 L560 28 L600 22 L600 40Z' fill='%23000'/%3E%3C/svg%3E");
+  mask: no-repeat bottom / 100% 100% url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 L0 31 L60 21 L105 29 L165 17 L225 33 L278 21 L345 31 L398 23 L450 30 L505 19 L560 28 L600 22 L600 40Z' fill='%23000'/%3E%3C/svg%3E");
+}
+.page-carte { --sous-entete: #ffffff; }
+.entete .logo, .entete nav { position: relative; z-index: 1; }
 .entete .logo {
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  color: var(--texte);
+  color: #fff;
   font-size: 1.25rem;
   font-weight: 800;
   letter-spacing: -0.02em;
@@ -308,18 +325,18 @@ a:hover { color: var(--accent-fonce); }
   width: 30px;
   height: 22px;
   flex: none;
-  background: no-repeat center / contain url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 22'%3E%3Cpath d='M1 21 L11 5 L16 12 L20 7 L29 21 Z' fill='%232f74a6'/%3E%3Cpath d='M11 5 L14 9.8 L12 9 L10 10.5 L8.6 8.8 Z M20 7 L22.4 10.8 L20.6 10.2 L19 11.2 L18 9.8 Z' fill='%23fff'/%3E%3C/svg%3E");
+  background: no-repeat center / contain url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 22'%3E%3Cpath d='M1 21 L11 5 L16 12 L20 7 L29 21 Z' fill='%23e8762d'/%3E%3Cpath d='M11 5 L14 9.8 L12 9 L10 10.5 L8.6 8.8 Z M20 7 L22.4 10.8 L20.6 10.2 L19 11.2 L18 9.8 Z' fill='%23fff'/%3E%3C/svg%3E");
 }
 .entete nav { gap: 2px; }
-.entete nav a { color: var(--doux); font-weight: 600; font-size: 0.95rem; padding: 6px 12px; border-radius: 8px; }
-.entete nav a:hover { background: var(--fond); color: var(--texte); }
-.entete nav a.actif { background: var(--accent-clair); color: var(--accent-fonce); }
+.entete nav a { color: #c9d6df; font-weight: 600; font-size: 0.95rem; padding: 6px 12px; border-radius: 8px; }
+.entete nav a:hover { background: rgba(255, 255, 255, 0.1); color: #fff; }
+.entete nav a.actif { background: var(--balise); color: #fff; }
 
 /* Titres */
 h1 { color: var(--texte); }
 .fiche-titre h1 { font-size: 1.7rem; font-weight: 800; line-height: 1.2; }
 .section h2, .projet h2 { color: var(--texte); font-size: 1.05rem; font-weight: 700; }
-.section h2 { padding-bottom: 6px; border-bottom: 2px solid var(--accent-clair); }
+.section h2 { border-left: 3px solid var(--balise); border-radius: 0; padding: 0 0 0 10px; }
 
 /* Boutons */
 .bouton { border: 1px solid var(--trait); border-radius: 8px; background: var(--carte); color: var(--texte); box-shadow: var(--ombre); }
@@ -348,7 +365,7 @@ table.longueurs tr:nth-child(even) td { background: #fafcfd; }
 .legende { background: var(--carte); border: 1px solid var(--trait); border-radius: var(--rayon); box-shadow: 0 2px 8px rgba(31, 42, 51, 0.15); }
 .leaflet-popup-content-wrapper { border-radius: var(--rayon); box-shadow: 0 3px 14px rgba(31, 42, 51, 0.2); }
 .popup h3 { color: var(--texte); font-size: 0.95rem; line-height: 1.25; }
-.etoiles { color: #e3a008; }
+.etoiles { color: var(--balise); }
 .etoiles .vides { color: #d5dde3; }
 
 /* Page matériel */
@@ -358,7 +375,7 @@ table.longueurs tr:nth-child(even) td { background: #fafcfd; }
 .section.achats { background: var(--carte); }
 .onglets { border-bottom: 1px solid var(--trait); gap: 4px; }
 .onglets a { border: 0; border-bottom: 3px solid transparent; margin: 0 0 -1px; background: none; color: var(--doux); }
-.onglets a.actif { background: none; color: var(--accent-fonce); border-bottom-color: var(--accent); }
+.onglets a.actif { background: none; color: var(--texte); border-bottom-color: var(--balise); }
 .onglets a:hover { background: none; color: var(--texte); }
 
 /* Onglet Météo : barre de choix + carte Windy en plein écran. */
@@ -376,7 +393,8 @@ table.longueurs tr:nth-child(even) td { background: #fafcfd; }
 }
 
 @media (max-width: 600px) {
-  .entete { padding: 8px 12px; min-height: 0; }
+  .entete { padding: 8px 12px 26px; }
+  .entete::before, .entete::after { height: 22px; }
   .entete .logo { font-size: 1.1rem; }
   .entete .logo::before { width: 24px; height: 18px; }
   .entete nav a { padding: 4px 8px; font-size: 0.85rem; }
@@ -452,7 +470,7 @@ table.longueurs tr:nth-child(even) td { background: #fafcfd; }
 
 @media print {
   @page { size: A4; margin: 8mm 9mm; }
-  html, body { background: #fff; color: #000; }
+  html, body { background: #fff; background-image: none; color: #000; }
   .ecran { display: none !important; }
   .a4 { position: static; width: auto; visibility: visible; }
 }

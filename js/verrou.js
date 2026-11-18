@@ -21,15 +21,15 @@
   const style = document.createElement("style");
   style.textContent = `
     html.verrouille body > *:not(#verrou) { display: none !important; }
-    #verrou { position: fixed; inset: 0; z-index: 10000; background: #f4f7f9; color: #1f2a33;
+    #verrou { position: fixed; inset: 0; z-index: 10000; background: #1f2a33; color: #fff;
       display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px;
       padding: 16px; font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; text-align: center; }
-    #verrou h1 { margin: 0; font-family: inherit; font-weight: 800; font-size: 2rem; color: #1f2a33; letter-spacing: -0.02em; }
-    #verrou p { margin: 0; color: #5b6873; }
+    #verrou h1 { margin: 0; font-family: inherit; font-weight: 800; font-size: 2rem; color: #fff; letter-spacing: -0.02em; }
+    #verrou p { margin: 0; color: #c9d6df; }
     #verrou input { width: 9ch; font-size: 2rem; letter-spacing: 0.4em; text-align: center; padding: 8px 4px 8px 0.4em;
       border-radius: 10px; border: 1px solid #dbe3e9; background: #fff; color: #1f2a33; box-shadow: 0 1px 3px rgba(31, 42, 51, 0.08); }
-    #verrou input:focus { outline: 3px solid #e6f0f7; border-color: #2f74a6; }
-    #verrou .erreur-code { min-height: 1.4em; color: #b42318; font-weight: 600; }
+    #verrou input:focus { outline: 3px solid #e8762d; border-color: #e8762d; }
+    #verrou .erreur-code { min-height: 1.4em; color: #ffb38a; font-weight: 600; }
     #verrou.secoue input { animation: secoue 0.3s; }
     @keyframes secoue { 25% { transform: translateX(-8px); } 75% { transform: translateX(8px); } }
   `;

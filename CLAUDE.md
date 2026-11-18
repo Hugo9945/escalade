@@ -1,6 +1,6 @@
 # Sac à topos — site perso d'escalade
 
-Nom du site : « Sac à topos ». Style « Montagne sobre » (depuis le 18/11/2026, remplace le style Memphis) : fond blanc / gris clair, texte gris ardoise, une seule couleur d'accent bleu glacier (#2f74a6), police Inter, coins arrondis, ombres légères, logo avec un petit sommet bleu. Les couleurs de statut de la carte ne changent pas ; la fiche A4 reste en noir et blanc, police système.
+Nom du site : « Sac à topos ». Style « Montagne » (depuis le 18/11/2026, remplace le style Memphis) : en-tête gris nuit (#1f2a33) avec une ligne de crêtes bleues en bas, fond de page gris-bleu clair avec de fines courbes de niveau, blocs blancs à coins arrondis, accent bleu glacier (#2f74a6) pour les boutons et liens, 2e couleur orange balise (#e8762d) pour l'onglet actif, les titres de section, les étoiles et le logo ; police Inter. Les couleurs de statut de la carte ne changent pas ; la fiche A4 reste en noir et blanc, police système.
 
 Site statique (HTML/CSS/JS, sans build) hébergé sur GitHub Pages. Tout est en français.
 Usage perso : un couple qui grimpe surtout en grandes voies et terrain d'aventure.
