@@ -546,6 +546,9 @@ table.longueurs tr:nth-child(even) td { background: #fbf6ee; }
 .a4 .page-image img { max-width: 100%; max-height: 262mm; object-fit: contain; }
 .a4 .page-image figcaption { font-size: 7.5pt; margin-top: 1mm; }
 
+/* L'iPhone grossit tout seul certains textes (cases de tableau, longs paragraphes) : on l'en empêche, sinon l'aperçu A4 se chevauche. */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+
 /* Aperçu A4 à l'écran (?a4=1) : la fiche est montrée comme des feuilles blanches, réduites à la largeur de l'écran. */
 .barre-a4 { display: none; }
 body.apercu-a4 .ecran:not(.barre-a4) { display: none !important; }
