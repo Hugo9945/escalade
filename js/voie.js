@@ -184,7 +184,7 @@ function afficherFiche(voie) {
     </div>
 
     <div class="actions">
-      <button class="bouton principal" type="button" onclick="window.print()">🖨 Fiche A4</button>
+      <button class="bouton principal" type="button" onclick="boutonA4()">🖨 Fiche A4</button>
       ${boutonYAller(voie)}
       ${boutonTopo(voie)}
       ${liensC2C}
@@ -311,14 +311,68 @@ function ajusterA4() {
   const page = a4.querySelector(".page1");
   if (!page) return;
   const limite = (281 * 96) / 25.4 - 6; // hauteur utile d'une page A4 (297 mm - 2 × 8 mm de marge), en pixels
+  const apercu = document.body.classList.contains("apercu-a4");
+  if (apercu) document.body.classList.remove("apercu-a4"); // on mesure sans les marges ni le zoom de l'aperçu
   let k = 1;
   a4.style.setProperty("--k", k);
   while (page.offsetHeight > limite && k > 0.82) {
     k = Math.round((k - 0.02) * 100) / 100;
     a4.style.setProperty("--k", k);
   }
+  if (apercu) document.body.classList.add("apercu-a4");
 }
 window.addEventListener("beforeprint", ajusterA4);
+
+/* ---------- Aperçu A4 à l'écran (téléphone) ----------
+   Depuis l'icône de l'écran d'accueil (mode « application »), l'iPhone/iPad ne sait pas imprimer :
+   le bouton « Fiche A4 » ouvre alors un aperçu de la fiche à l'écran, avec un lien pour l'ouvrir dans Safari. */
+const modeAppli = navigator.standalone === true || matchMedia("(display-mode: standalone)").matches;
+
+function boutonA4() {
+  if (!modeAppli) return window.print();
+  const u = new URL(location.href);
+  u.searchParams.set("a4", "1");
+  history.pushState(null, "", u);
+  ouvrirApercuA4();
+}
+
+function zoomApercu() {
+  const a4 = document.getElementById("a4");
+  a4.style.setProperty("--zoom", 1);
+  const z = Math.min(1, (document.documentElement.clientWidth - 24) / (a4.offsetWidth + 68)); // + les 2 × 9 mm de marge blanche
+  a4.style.setProperty("--zoom", z.toFixed(3));
+}
+
+function ouvrirApercuA4() {
+  let barre = document.getElementById("barre-a4");
+  if (!barre) {
+    const lienSafari = "x-safari-" + location.href;
+    barre = document.createElement("div");
+    barre.id = "barre-a4";
+    barre.className = "barre-a4 ecran";
+    barre.innerHTML = `
+      <button class="bouton" type="button" onclick="history.back()">← Retour à la fiche</button>
+      ${modeAppli
+        ? `<a class="bouton principal" href="${echapper(lienSafari)}">Ouvrir dans Safari pour imprimer ↗</a>
+           <p class="aide-a4">Dans Safari : bouton Partager → Imprimer (ou « Enregistrer en PDF »). Écarte deux doigts pour zoomer.</p>`
+        : `<button class="bouton principal" type="button" onclick="window.print()">🖨 Imprimer</button>`}`;
+    document.body.insertBefore(barre, document.getElementById("a4"));
+  }
+  document.body.classList.add("apercu-a4");
+  window.scrollTo(0, 0);
+  ajusterA4();
+  zoomApercu();
+}
+
+function fermerApercuA4() {
+  document.body.classList.remove("apercu-a4");
+  document.getElementById("a4").style.removeProperty("--zoom");
+}
+
+window.addEventListener("popstate", () =>
+  new URLSearchParams(location.search).get("a4") ? ouvrirApercuA4() : fermerApercuA4()
+);
+window.addEventListener("resize", () => document.body.classList.contains("apercu-a4") && zoomApercu());
 
 /* ---------- Chargement ---------- */
 const id = new URLSearchParams(location.search).get("id");
@@ -331,5 +385,6 @@ chargerVoies()
     afficherA4(voie);
     ajusterA4();
     document.fonts?.ready.then(ajusterA4);
+    if (new URLSearchParams(location.search).get("a4")) ouvrirApercuA4();
   })
   .catch((e) => afficherErreur(document.getElementById("fiche"), e.message));
